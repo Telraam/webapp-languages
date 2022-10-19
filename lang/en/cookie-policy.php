@@ -15,7 +15,7 @@ return [
 
 	'title-3' => '3. Which cookies does the Website use?',
 	'content-3' => 'The Website uses the following cookies:<br><br>
-<strong>Needful cookies</strong> <br>
+<strong>Required cookies</strong> <br>
 These are essential cookies because they are simply needed to navigate through the Website and use the functionalities offered. These cookies cannot be refused.
 <br>
 <table class="ui celled table">
