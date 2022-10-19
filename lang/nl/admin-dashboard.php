@@ -28,7 +28,7 @@ return [
      'was-counting'             => 'Telraam telt niet meer',
       'was-counting-link'        => '<a href="https://telraam.zendesk.com/hc/nl/articles/360028290252-Er-komen-ineens-geen-data-meer-door-van-mijn-Telraam" target="_blank">Troubleshooting</a>',
 
-     'is-not-counting'          => 'Telraam heeft nog niet geteld',
+     'is-not-counting'          => 'Telraam heeft nog niet geteld.',
      'is-not-counting-link'        => '<a href="https://telraam.zendesk.com/hc/nl/articles/360026050091-Er-komen-nog-geen-data-door-van-mijn-Telraam" target="_blank">Troubleshooting</a>',
 
 
