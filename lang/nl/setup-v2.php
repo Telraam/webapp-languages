@@ -42,8 +42,7 @@ meter lang.<br><br> Als dit niet voldoende is kan je een verlengkabel gebruiken'
 
     // Step 4: which window
     'step-4-long-title' => 'How to hang it up?',
-    'step-4-description'  => "Telraam is eenvoudig op te hangen. Je dient eerst de beugel aan het ramen te plakken. Nadien volgt het toestel.
-    Vergeet na deze stappen niet je positie te bevestigen.",
+    'step-4-description'  => "Telraam is eenvoudig op te hangen. Je dient eerst de beugel aan het ramen te plakken. Nadien volgt het toestel.",
 
     'step-4-instructions-title-1' => '1. Haal de tape van de kleefstrips',
     'step-4-instructions-title-1-more' => 'Aan de achterkant van de beugel hangen 2 kleeftstrips. Haal de beschermende tape eraf om de beugel vast te plakken.',
@@ -60,9 +59,6 @@ meter lang.<br><br> Als dit niet voldoende is kan je een verlengkabel gebruiken'
 
     'step-4-instructions-title-5' => '5. Voorzie je Telraam van stroom',
     'step-4-instructions-title-5-more' => 'Steek de stroomkabel in een stopcontact en onderaan in je Telraam.',
-
-    'step-4-instructions-title-6' => '6. Dat was het!',
-    'step-4-instructions-title-6-more' => 'Je telraam zal over enkele ogenblikken beginnen tellen.',
 
 
     // Step 5: gps

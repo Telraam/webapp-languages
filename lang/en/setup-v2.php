@@ -41,7 +41,7 @@ No fly screens or curtains should be hung in front of the window. Avoid roller s
 
     // Step 4: which window
     'step-4-long-title' => 'How to hang it up?',
-    'step-4-description'  => "Telraam is attach to the window. You first need to glue the bracket to the window. Afterwards, click in the device in the bracket. After these steps, do not forget to confirm your position.",
+    'step-4-description'  => "Telraam is attach to the window. You first need to glue the bracket to the window. Afterwards, click in the device in the bracket.",
 
     'step-4-instructions-title-1' => '1. Remove the tape from the adhesive strips',
     'step-4-instructions-title-1-more' => 'There are 2 adhesive strips on the back of the bracket. Remove the protective tape to adhere the bracket.',
@@ -57,9 +57,6 @@ No fly screens or curtains should be hung in front of the window. Avoid roller s
 
     'step-4-instructions-title-5' => '5. Provide your Telraam with power',
     'step-4-instructions-title-5-more' => 'Plug the power cord into an electrical outlet and at the bottom into your Telraam.',
-
-    'step-4-instructions-title-6' => '6. Ready, set, count!',
-    'step-4-instructions-title-6-more' => 'Your Telraam will start counting in a few moments.',
 
 
     // Step 5: gps
