@@ -4,20 +4,19 @@ return [
 
     'title'           => 'Telraam S2',
 
-    'subtitle'          => 'Introducing our new sensor - the Telraam S2<br>Small, smart, and powerful<br>Effortless traffic counting on every street',
+    'subtitle'          => 'Introducing our new sensor<br>the Telraam S2<br>Small, smart, and powerful<br>Effortless traffic counting on every street',
 
-    'section1-block1-text'        => 'This is the ideal solution, whether it is for individuals and campaigners, or local authorities and mobility professionals in SMART cities, for gathering
-    detailed information on traffic on all streets. Track multiple modes simultaneously with the S2 to see the impact of any interventions or changes in local habits.',
-    'section1-block2-text'        => ' Learn more about the features of the Telraam S2 below, check out the packages available, and get in touch to discuss the ideal solution for your needs.',
+    'section1-block1-text'        => '<strong>The ideal solution for gathering detailed information on traffic</strong> on all streets, whether for individuals and campaigners, or local authorities and mobility professionals in SMART cities. <strong>Track multiple modes simultaneously</strong> with the S2 to see the impact of any interventions or changes in local habits.',
+    'section1-block2-text'        => '<strong>Learn more about the features of the Telraam S2 below</strong>, check out the packages available, and get in touch to discuss the ideal solution for your needs.',
 
     'section-features-title'       => 'Features',
 
    'section-features-block1-title'  => 'Multimodal',
     'section-features-block1-subtitle'     => 'Streets are not just for cars',
-    'section-features-block1-body'     => '<p>The Telraam S2 device counts, categorises and reports all activity on your street: cars, bikes, pedestrians, buses, trucks and more. Get an accurate picture of who uses the street, when and how and start to have meaningful conversations about local traffic and mobility plans.',
+    'section-features-block1-body'     => '<p>The Telraam S2 device counts, categorises and reports all activity on your street: cars, bikes, pedestrians, buses, trucks and more. </p><p>Get an accurate picture of who uses the street, when and how and start to have meaningful conversations about local traffic and mobility plans.',
 
     'section-features-block2-title'  => 'Purpose-built',
-    'section-features-block2-subtitle'     => 'A brand new device for complete autonomy',
+    'section-features-block2-subtitle'     => 'A device for complete autonomy',
     'section-features-block2-body'     => '<p>Telraam S2 has been built from scratch for the specific purpose of counting traffic. A robust and reliable tool that will keep counting as long as you need it to.</p>
         <p><ul>
         <li>Custom-built PCB</li>
@@ -29,8 +28,9 @@ return [
         </ul></p>',
 
     'section-features-block3-title' => 'Simple',
-    'section-features-block3-subtitle'     => 'Five minute installation - no rocket science degree required.',
-    'section-features-block3-body' => '<p>TThe Telraam S2 is a plug-and-play device. After a simple set-up, it runs continuously, sending data without the need for wifi, and can be updated independently.</p>
+    'section-features-block3-subtitle'     => 'Five minute installation - no rocket science degree required',
+    'section-features-block3-body' => '<p>The Telraam S2 is a plug-and-play device. </p>
+        <p>After a simple set-up, it runs continuously, sending data without the need for wifi, and can be updated independently.</p>
         <p>Place your Telraam S2 on the inside of your window using the mount provided, connect the USB-C cable, scan a code with your smartphone*, and complete the registration on your screen. No fiddling with wifi passwords, or adjusting and controlling the camera angle. Within 15 minutes of registration, your Telraam S2 will be live on the map!</p>
         <p>The LCD screen not only helps during installation but also provides ongoing traffic updates for the day and the past quarter of an hour.</p>
         <p class=“tiny”>* Use the QR code provided or enter a code in any browser</p>',
@@ -42,7 +42,7 @@ return [
         <p>Telraam S2 is sold in 100% recyclable paper packaging, with no plastic waste.</p>',
 
     'section-features-block5-title' => 'Precision',
-    'section-features-block5-subtitle'     => 'AI for accuracy and precision, night counts, and anonymous data',
+    'section-features-block5-subtitle'     => 'AI - accuracy, precision, night counts, and anonymous data',
     'section-features-block5-body' => '<p>Telraam S2 uses a completely new counting methodology, based on Artificial Intelligence (AI) and Neural Networks. This enables it to be consistent, precise and accurate, and even provide vehicle counts in dark conditions.</p>',
  
     'section-features-block6-title' => 'Privacy',
