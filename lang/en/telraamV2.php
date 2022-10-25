@@ -11,7 +11,7 @@ return [
 
     'section-features-title'       => 'Features',
 
-   'section-features-block1-title'  => 'Multimodal',
+    'section-features-block1-title'  => 'Multimodal',
     'section-features-block1-subtitle'     => 'Streets are not just for cars',
     'section-features-block1-body'     => '<p>The Telraam S2 device counts, categorises and reports all activity on your street: cars, bikes, pedestrians, buses, trucks and more. </p><p>Get an accurate picture of who uses the street, when and how and start to have meaningful conversations about local traffic and mobility plans.',
 
@@ -33,7 +33,7 @@ return [
         <p>After a simple set-up, it runs continuously, sending data without the need for wifi, and can be updated independently.</p>
         <p>Place your Telraam S2 on the inside of your window using the mount provided, connect the USB-C cable, scan a code with your smartphone*, and complete the registration on your screen. No fiddling with wifi passwords, or adjusting and controlling the camera angle. Within 15 minutes of registration, your Telraam S2 will be live on the map!</p>
         <p>The LCD screen not only helps during installation but also provides ongoing traffic updates for the day and the past quarter of an hour.</p>
-        <p class=“tiny”>* Use the QR code provided or enter a code in any browser</p>',
+        <p class=tiny>* Use the QR code provided or enter a code in any browser</p>',
 
     'section-features-block4-title' => 'Elegant',
     'section-features-block4-subtitle'     => 'Modern design with functionality and user experience in mind',
@@ -44,7 +44,7 @@ return [
     'section-features-block5-title' => 'Precision',
     'section-features-block5-subtitle'     => 'AI - accuracy, precision, night counts, and anonymous data',
     'section-features-block5-body' => '<p>Telraam S2 uses a completely new counting methodology, based on Artificial Intelligence (AI) and Neural Networks. This enables it to be consistent, precise and accurate, and even provide vehicle counts in dark conditions.</p>',
- 
+
     'section-features-block6-title' => 'Privacy',
     'section-features-block6-subtitle'     => 'Object detection not identification',
     'section-features-block6-body' => '<p>Privacy is very important for us at Telraam. No identifiable images or videos are saved or transferred from our devices. With Telraam S2, the classification of any object detected happens in situ on the edge-devices. As a result, only the anonymised 15-minute aggregate count data is transferred to the Telraam database.</p>',
@@ -54,10 +54,30 @@ return [
     'section-features-block7-subtitle'     => 'A solution for every street.',
     'section-features-block7-body' => '<p>Whether you’re a private citizen in need of a single device for your street, or a professional looking to setup a whole network in your City, Telraam is there to help. Each device is ready to start counting. Packages include tools for building and managing local networks, whether for a neighbourhood or a city. Check out the options that best suit you below to get started.</p>',
 
-    'section4-title'   => 'Get in Touch!',
-    'section4-body'    => 'Sign up to receive the latest updates on Telraam S2'
+    // tech table
+    'spec-table-title' => 'Technical specifications',
+
+    'spec-table-row-1-subject'     => 'Computing chip',
+    'spec-table-row-1-details' => 'Kenddryte K210 Processor：RISC-V Dual Core 64bit, with FPU<br>
+    Image Recognition ：QVGA@60fps/VGA@30fps',
+
+    'spec-table-row-2-subject'     => 'Connection',
+    'spec-table-row-2-details' => 'MQTT w/ thingstream IoT service delivery platform<br>(No wifi connection needed)',
+
+    'spec-table-row-3-subject'     => 'Power consumption',
+    'spec-table-row-3-details' => 'Scenario power consumption < 1w<br>
+    Power consumption of Chip < 300mW<br>',
+
+    'spec-table-row-4-subject'     => 'Safety & Privacy',
+    'spec-table-row-4-details' => 'Counting happens on the device. No video\'s are sent to the Telraam server <br> Read - only memory（OTP）SHA256<br>',
+
+
+    // pricing --> content in sep. lang file
 
     'section-features-block8-title'  => 'Pricing',
+
+    'section4-title'   => 'Get in Touch!',
+    'section4-body'    => 'Sign up to receive the latest updates on Telraam S2'
 
 
 
