@@ -30,7 +30,7 @@ return [
 
     'section-features-block3-title' => 'Simple',
     'section-features-block3-subtitle'     => 'Five minute installation - no rocket science degree required.',
-    'section-features-block3-body' => '<p>TThe Telraam S2 is a plug-and-play device. After a simple set-up, it runs continuously, sending data without the need for wifi, and can be updated independently.</p>
+    'section-features-block3-body' => '<p>The Telraam S2 is a plug-and-play device. After a simple set-up, it runs continuously, sending data without the need for wifi, and can be updated independently.</p>
         <p>Place your Telraam S2 on the inside of your window using the mount provided, connect the USB-C cable, scan a code with your smartphone*, and complete the registration on your screen. No fiddling with wifi passwords, or adjusting and controlling the camera angle. Within 15 minutes of registration, your Telraam S2 will be live on the map!</p>
         <p>The LCD screen not only helps during installation but also provides ongoing traffic updates for the day and the past quarter of an hour.</p>
         <p class=tiny>* Use the QR code provided or enter a code in any browser</p>',
