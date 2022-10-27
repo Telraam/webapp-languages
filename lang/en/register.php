@@ -57,8 +57,8 @@ return [
     'bio' => 'Bio',
 
     'how-are-you-involved'  => 'Joining an existing Traffic Network?',
-    'network-own'           => ' I do not have a Telraam / I am setting up independently',
-    'network-professionals' => 'I am setting up a Telraam as part of an existing Network. ',
+    'network-own'           => ' No ',
+    'network-professionals' => 'Yes, I am setting up a Telraam as part of an existing Network. ',
 
 
 
