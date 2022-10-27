@@ -43,7 +43,7 @@ return [
 
     'section-features-block5-title' => 'Precision',
     'section-features-block5-subtitle'     => 'AI for accuracy, precision, night counts, and anonymous data',
-    'section-features-block5-body' => '<p>Telraam S2 uses a completely new counting methodology compared to our first Raspberry Pi-based, using Artificial Intelligence (AI) and Neural Networks. This results in an improved consisteny, precision, and accuracy, even providing vehicle counts under dark conditions.</p>',
+    'section-features-block5-body' => '<p>Telraam S2 uses a completely new counting methodology compared to our first Raspberry Pi-based, using Artificial Intelligence (AI) and Neural Networks. This results in an improved consistency, precision, and accuracy, even providing vehicle counts under dark conditions.</p>',
 
     'section-features-block6-title' => 'Privacy',
     'section-features-block6-subtitle'     => 'Object detection not identification',
@@ -63,13 +63,13 @@ return [
     'spec-table-row-2-details' => 'MQTT w/ thingstream IoT<br>No wifi connection needed',
 
     'spec-table-row-3-subject'     => 'Camera',
-    'spec-table-row-3-details' => 'Wide anngle fixed lens<br>Automatic region of interest selection',
+    'spec-table-row-3-details' => 'Wide angle fixed lens<br>Automatic region of interest selection',
 
     'spec-table-row-4-subject'     => 'Size',
-    'spec-table-row-4-details' => '65 mm x 99 mm x 30 mm (W x H x D)',
+    'spec-table-row-4-details' => '65 mm x 99 mm x 30 mm<br>(W x H x D)',
 
     'spec-table-row-5-subject'     => 'Power',
-    'spec-table-row-5-details' => '< 300mW<br>',
+    'spec-table-row-5-details' => '< 300 mW<br>',
 
     'spec-table-row-6-subject'     => 'Privacy',
     'spec-table-row-6-details' => 'Counting AI on the device<br>No videos or images are saved<br>',
