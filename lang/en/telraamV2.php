@@ -75,7 +75,7 @@ return [
     'spec-table-row-6-details' => 'Counting AI on the device<br>No videos or images are saved<br>',
 
     'spec-table-row-7-subject'     => 'Security',
-    'spec-table-row-7-details' => 'Read-only memory（OTP)<br>FW can only be changed using a secore-key',
+    'spec-table-row-7-details' => 'Read-only memory（OTP)<br>FW can only be changed using a secure-key',
 
     'spec-table-row-8-subject'     => 'Includes',
     'spec-table-row-8-details' => 'USB-C Cable<br> Adapter',
