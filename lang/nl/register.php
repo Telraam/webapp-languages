@@ -52,7 +52,7 @@ return [
     'my-own-telraam' => 'Mijn eigen Telraam',
 
     'how-are-you-involved' => 'Aansluiten bij een bestaand verkeersnetwerk?',
-    'network-own' => ' Ik heb geen Telraam / ik richt zelfstandig op',
-    'network-professionals' => 'Ik installeer een Telraam bij van een netwerk.',
+    'network-own' => ' Nee',
+    'network-professionals' => 'ja, ik installeer een Telraam bij een netwerk.',
 
 ];
