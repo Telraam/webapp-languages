@@ -19,7 +19,7 @@ return [
     'section-features-block2-title'  => 'Purpose-built',
     'section-features-block2-subtitle'     => 'A brand new device for complete autonomy',
     'section-features-block2-body'     => '<p>Telraam S2 has been designed and built from scratch for the specific purpose of counting traffic. It is robust, reliable, and it will operate completely autonomously as long as you need it to thanks to the built in mobile data connection, and the remote device management tools.</p>
-        <p><ul>
+        <p><ul class="jump-in">
         <li>Custom-built PCB with designated AI chip</li>
         <li>Integrated mobile data connection</li>
         <li>Internet-of-Things (IoT) framework</li>
@@ -81,12 +81,13 @@ return [
     'spec-table-row-8-details' => 'USB-C Cable<br> Adapter',
 
 
-    // pricing --> content in sep. lang file
-
+    // pricing
+    // pricing content in sep. lang file
     'section-features-block-pricing'  => 'Pricing',
 
-    'section4-title'   => 'Get in Touch!',
-    'section4-body'    => 'Sign up to receive the latest updates on Telraam S2'
+    // modal
+    'modal-title'    => 'Sign up to receive the latest updates on Telraam S2',
+    'modal-body'    => 'Lorem ipsum. Small text with how it works and maybe an email address (or personal email) when people prefer to email...'
 
 
 
