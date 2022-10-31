@@ -6,19 +6,18 @@ return [
 
     'subtitle'          => 'Introducing our new sensor<br>Small, smart, and powerful<br>Effortless traffic counting on every street',
 
-    'section1-block1-text'        => 'This is the ideal solution, whether it is for individuals and campaigners, or local authorities and mobility professionals in SMART cities, for gathering
-    detailed information on traffic on all streets. Track multiple modes simultaneously with the S2 to see the impact of any interventions or changes in local habits.',
+    'section1-block1-text'        => '<strong>The ideal solution for gathering detailed information on traffic</strong> on any street, whether for individuals and campaigners, or local authorities and mobility professionals in SMART cities. <strong>Track multiple modes simultaneously</strong> with the S2 to see the impact of any interventions or changes in local habits.',
     'section1-block2-text'        => ' Learn more about the features of the Telraam S2 below, check out the packages available, and get in touch to discuss the ideal solution for your needs.',
 
     'section-features-title'       => 'Features',
 
     'section-features-block1-title'  => 'Multimodal',
     'section-features-block1-subtitle'     => 'Streets are not just for cars',
-    'section-features-block1-body'     => '<p>The Telraam S2 device counts, categorises, and reports all activity on your street: cars, bikes, pedestrians, buses, trucks, and more. Get an accurate picture of who uses the street, discover patterns and anomalies, and start to have meaningful data-driven conversations about local traffic and mobility plans.',
+    'section-features-block1-body'     => '<p>The Telraam S2 device counts, categorises, and reports all activity on the street: cars, bikes, pedestrians, buses, trucks, and more. </p><p> Get an accurate picture of who uses the street, discover patterns and anomalies, and start to have meaningful data-driven conversations about local traffic and mobility plans.',
 
     'section-features-block2-title'  => 'Purpose-built',
-    'section-features-block2-subtitle'     => 'A brand new device for complete autonomy',
-    'section-features-block2-body'     => '<p>Telraam S2 has been designed and built from scratch for the specific purpose of counting traffic. It is robust, reliable, and it will operate completely autonomously as long as you need it to thanks to the built in mobile data connection, and the remote device management tools.</p>
+    'section-features-block2-subtitle'     => 'A device for complete autonomy',
+    'section-features-block2-body'     => '<p>Telraam S2 has been designed and built from scratch for the specific purpose of counting traffic. Robust and reliable, it will operate completely autonomously as long as you need it to thanks to the built-in mobile data connection, and the remote device management tools.</p>
         <p><ul class="jump-in">
         <li>Custom-built PCB with designated AI chip</li>
         <li>Integrated mobile data connection</li>
@@ -30,7 +29,8 @@ return [
 
     'section-features-block3-title' => 'Simple',
     'section-features-block3-subtitle'     => 'Five minute installation - no rocket science degree required',
-    'section-features-block3-body' => '<p>The Telraam S2 is a plug-and-play device. After a simple set-up, it runs continuously, sending data without the need for wifi, and can be updated remotely.</p>
+    'section-features-block3-body' => '<p>The Telraam S2 is a plug-and-play device. </p>
+        <p>After a simple set-up, it runs continuously, sending data without the need for wifi, and can be updated remotely.</p>
         <p>Place your Telraam S2 on the inside of your window using the self-adhesive mount provided, connect the USB-C cable, scan a code with your smartphone*, and complete the registration on your screen. No fiddling with wifi passwords, or adjusting and controlling the camera angle. Within 15 minutes of registration, your Telraam S2 will be live on the map!</p>
         <p>The LCD screen not only helps during installation but also provides an overview of the actual traffic for the day and the past quarter of an hour.</p>
         <p class=tiny>* Use the QR code provided or enter a code in any browser</p>',
@@ -43,11 +43,11 @@ return [
 
     'section-features-block5-title' => 'Precision',
     'section-features-block5-subtitle'     => 'AI for accuracy, precision, night counts, and anonymous data',
-    'section-features-block5-body' => '<p>Telraam S2 uses a completely new counting methodology compared to our first Raspberry Pi-based, using Artificial Intelligence (AI) and Neural Networks. This results in an improved consistency, precision, and accuracy, even providing vehicle counts under dark conditions.</p>',
+    'section-features-block5-body' => '<p>Telraam S2 uses a completely new counting methodology compared to our first Raspberry Pi-based, using Artificial Intelligence (AI) and Neural Networks. This results in an improved consistency, precision, and accuracy, even providing vehicle counts in dark conditions.</p>',
 
     'section-features-block6-title' => 'Privacy',
     'section-features-block6-subtitle'     => 'Object detection not identification',
-    'section-features-block6-body' => '<p>Privacy is very important for us at Telraam. No identifiable images or videos are saved or transferred from our devices. With Telraam S2, the classification of any detected object happens in situ on the edge-devices. As a result, only the anonymised 15-minute aggregate counts are transferred to the Telraam database.</p>',
+    'section-features-block6-body' => '<p>Privacy is very important for us at Telraam. No identifiable images or videos are saved or transferred from our devices. With Telraam S2, the classification of any object that is detected happens in situ on the edge-devices. As a result, only the anonymised 15-minute aggregate counts are transferred to the Telraam database.</p>',
 
     'section-features-block7-title' => 'Make it count!',
     'section-features-block7-subtitle'     => 'A solution for every street',
@@ -72,7 +72,7 @@ return [
     'spec-table-row-5-details' => '< 300 mW<br>',
 
     'spec-table-row-6-subject'     => 'Privacy',
-    'spec-table-row-6-details' => 'Counting AI on the device<br>No videos or images are saved<br>',
+    'spec-table-row-6-details' => 'AI counts on the device<br>No videos or images are saved<br>',
 
     'spec-table-row-7-subject'     => 'Security',
     'spec-table-row-7-details' => 'Read-only memory（OTP)<br>FW can only be changed using a secure-key',
@@ -86,8 +86,8 @@ return [
     'section-features-block-pricing'  => 'Pricing',
 
     // modal
-    'modal-title'    => 'Sign up to receive the latest updates on Telraam S2',
-    'modal-body'    => 'Lorem ipsum. Small text with how it works and maybe an email address (or personal email) when people prefer to email...'
+    'modal-title'    => 'Sign up to receive the latest Telraam S2 updates',
+    'modal-body'    => 'Please complete this short form and a Telraam team member will be in touch'
 
 
 
