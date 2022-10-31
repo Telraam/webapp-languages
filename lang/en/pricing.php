@@ -28,7 +28,7 @@ return [
 
     'per-device' => 'Per device',
     'incl-vat' => '(incl VAT)',
-    'excl-vat' => '(incl VAT)',
+    'excl-vat' => '(ex VAT)',
     'one-time-hardware' => 'One time hardware cost',
     'month' => 'month',
     'subscription' => 'Subscription',
@@ -63,7 +63,7 @@ return [
     // ------------------------------------------------------
     // ------------------- block #2
     // ------------------------------------------------------
-    'title-block-2' => 'What features do you get in which package?',
+    'title-block-2' => 'What features do you get in each package?',
 
     'pricing-per-device' => 'Pricing per device',
     'subscription-software' => 'Subscription for software',
@@ -86,7 +86,7 @@ return [
     'network-dashboard-feature-6' => 'Branding options',
     'network-dashboard-feature-7' => 'Multiple tracks',
 
-    'api-access' => 'Api Access',
+    'api-access' => 'API Access',
     'api-for-one-hour' => 'Basic API access for 1h hour data',
     'api-15min' => 'Advanced API access: 15min data, typical traffic data, street report',
     'api-custom'  => 'Custom: on-demand API options, customized rate - limits',
