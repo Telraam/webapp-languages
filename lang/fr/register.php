@@ -56,6 +56,6 @@ que vous configuriez votre dispositif Telraam, que vous rejoigniez un réseau ou
     'my-own-telraam' => 'Ma propre Telraam',
 
     'how-are-you-involved' => 'Rejoindre un réseau de trafic existant ?',
-    'network-own' => "Non",
+    'network-own' => "Non, j'ai juste besoin d'un compte.",
     'network-professionals' => "Oui, j'installe une Telraam dans le cadre d'un réseau existant."
 ];
