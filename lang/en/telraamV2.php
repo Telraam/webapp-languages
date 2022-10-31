@@ -6,8 +6,9 @@ return [
 
     'subtitle'          => 'Introducing our new sensor<br>Small, smart, and powerful<br>Effortless traffic counting on every street',
 
-    'section1-block1-text'        => '<strong>The ideal solution for gathering detailed information on traffic</strong> on any street, whether for individuals and campaigners, or local authorities and mobility professionals in SMART cities. <strong>Track multiple modes simultaneously</strong> with the S2 to see the impact of any interventions or changes in local habits.',
-    'section1-block2-text'        => ' Learn more about the features of the Telraam S2 below, check out the packages available, and get in touch to discuss the ideal solution for your needs.',
+    'section1-block1-text'        => '<p><strong>The ideal solution for gathering detailed information on traffic</strong> on any street, whether for individuals and campaigners, or local authorities and mobility professionals in SMART cities. </p>
+    <p><strong>Track multiple modes simultaneously</strong> with the S2 to see the impact of any interventions or changes in local habits.</p>',
+    'section1-block2-text'        => '<p>Learn more about the features of the Telraam S2 below, check out the packages available, and get in touch to discuss the ideal solution for your needs.</p>',
 
     'section-features-title'       => 'Features',
 
