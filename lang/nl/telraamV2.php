@@ -13,7 +13,7 @@ return [
     'section-features-title'       => 'Kenmerken',
 
     'section-features-block1-title'  => 'Multimodaal',
-    'section-features-block1-subtitle'     => 'De straat, niet enkel voor auto's,
+    'section-features-block1-subtitle'     => 'De straat, niet enkel voor auto\'s',
     'section-features-block1-body'     => '<p>THet Telraam S2-apparaat telt, categoriseert en geeft de drukte op straat weer: het aantal auto\'s, fietsen, voetgangers, bussen, vrachtwagens en meer.</p><p> Krijg een nauwkeurig beeld van wie de straat gebruikt, ontdek patronen en anomalieën, en start zinvolle datagestuurde gesprekken over lokale verkeers- en mobiliteitsplannen.',
 
     'section-features-block2-title'  => 'Speciaal voor ons gebouwd',
