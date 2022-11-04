@@ -68,6 +68,7 @@ return [
     'pricing-per-device' => 'Pricing per device',
     'subscription-software' => 'Subscription for software',
     'one-time-hardware-S2' => 'One time hardware cost (Telraam S2)',
+    'on-request' => 'On request',
 
     'usage' => 'Usage',
     'who-is-this-for' =>  'Who is this for?',

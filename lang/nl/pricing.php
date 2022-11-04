@@ -68,6 +68,7 @@ return [
     'pricing-per-device' => 'Prijs per toestel',
     'subscription-software' => 'Abonnement op software',
     'one-time-hardware-S2' => 'Eenmalige hardwarekost (Telraam S2)',
+    'on-request' => 'Op aanvraag',
 
     'usage' => 'Gebruik',
     'who-is-this-for' =>  'Voor wie is dit?',
