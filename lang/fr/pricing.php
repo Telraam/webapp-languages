@@ -11,15 +11,15 @@ return [
     'title-block-1' => 'Aperçu général',
 
     'pack-individual-title' => 'Individuel',
-    'pack-individual-subtitle' => 'Pour observer un endroit',
+    'pack-individual-subtitle' => 'Pour surveiller un seul endroit',
     'pack-individual-number' => '1 appareil',
 
     'pack-standard-title' => 'Standard',
-    'pack-standard-subtitle' => 'Des outils puissants pour gérer un réseau local',
+    'pack-standard-subtitle' => 'Des outils pour gérer un réseau local',
     'pack-standard-number' => 'Jusqu\'à 50 appareils',
 
-    'pack-enhanced-title' => 'Enhanced',
-    'pack-enhanced-subtitle' => 'Gagnez du temps grâce à des outils d\'analyse, de rapport et de gestion de premier ordre pour des projets plus complets',
+    'pack-enhanced-title' => 'Optimisé',
+    'pack-enhanced-subtitle' => 'Gagnez du temps grâce à des outils d\'analyse et de gestion de premier ordre pour des projets plus complexes',
     'pack-enhanced-number' => 'Jusqu\'à 50 appareils',
 
     'pack-custom-title' => 'Personnalisé',
@@ -27,9 +27,9 @@ return [
     'pack-custom-number' => '50+ appareils',
 
     'per-device' => 'Par appareil',
-    'incl-vat' => '(incl BTW)',
-    'excl-vat' => '(ex BTW)',
-    'one-time-hardware' => 'Coût unique du hardware',
+    'incl-vat' => '(TVA incluse)',
+    'excl-vat' => '(TVA exclue)',
+    'one-time-hardware' => 'Coût matériel unique',
     'month' => 'mois',
     'subscription' => 'Abonnement',
     'network-subscription' => 'Abonnement au réseau, facturé annuellement',
@@ -47,16 +47,16 @@ return [
     'individual-include-2' => 'Accès basique à l\'API',
     'individual-include-3' => 'Support par e-mail',
 
-    'standard-include-1' => 'Toutes les caractéristiques de l\'option Individuelle',
+    'standard-include-1' => 'Toutes les caractéristiques de l\'Individuel',
     'standard-include-2' => 'Tableau de bord du réseau',
     'standard-include-3' => 'Support prioritaire',
 
-    'enhanced-include-1' => 'Toutes les caractéristiques de Standard',
+    'enhanced-include-1' => 'Toutes les caractéristiques du Standard',
     'enhanced-include-2' => 'Outils d\'analyse de niveau supérieur',
-    'enhanced-include-3' => 'Rapporteurs de niveau supérieur',
+    'enhanced-include-3' => 'Rapports de niveau supérieur',
     'enhanced-include-4' => 'Gérer plusieurs trajets',
 
-    'custom-include-1' => 'Toutes les fonctionnalités de Enhanced',
+    'custom-include-1' => 'Toutes les fonctionnalités de l\'Optimisé',
     'custom-include-2' => 'Une image de marque sur mesure',
     'custom-include-3' => 'Soutien du projet',
 
@@ -110,6 +110,6 @@ return [
 
 
     // table buttons
-    'contact-schedule-talk' => 'Organisez une réunion',
+    'contact-schedule-talk' => 'Contactez-nous',
 
 ];
