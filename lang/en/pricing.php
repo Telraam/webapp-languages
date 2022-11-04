@@ -89,7 +89,7 @@ return [
 
     'api-access' => 'API Access',
     'api-for-one-hour' => 'Basic API access for 1h hour data',
-    'api-15min' => 'Advanced API access: 15min data, typical traffic data, street report',
+    'api-15min' => 'Advanced API access: 15min data, typical traffic data',
     'api-custom'  => 'Custom: on-demand API options, customized rate - limits',
 
     'support' => 'Support',

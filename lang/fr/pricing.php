@@ -89,7 +89,7 @@ return [
 
     'api-access' => 'Accès à l\'API',
     'api-for-one-hour' => 'Accès de base à l\'API pour les données d\'une heure',
-    'api-15min' => 'Accès avancé à l\'API: données de 15 minutes, données sur le trafic typique, rapport sur les rues.',
+    'api-15min' => 'Accès avancé à l\'API: données de 15 minutes, données sur le trafic typique',
     'api-custom'  => 'Personnalisé: options API sur demande, limites tarifaires personnalisées',
 
     'support' => 'Support',

@@ -89,7 +89,7 @@ return [
 
     'api-access' => 'API toegang',
     'api-for-one-hour' => 'Basic API toegang voor 1u data',
-    'api-15min' => 'Geavanceerd API toegang: 15min data, typische verkeersdata, straatrapport',
+    'api-15min' => 'Geavanceerd API toegang: 15min data, typische verkeersdata',
     'api-custom'  => 'Custom: API-opties op aanvraag, aangepaste tariefgrenzen',
 
     'support' => 'Support',
