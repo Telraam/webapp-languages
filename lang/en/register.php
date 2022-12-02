@@ -60,6 +60,7 @@ return [
     'network-own'           => ' No, I just need an account. ',
     'network-professionals' => 'Yes, I am setting up a Telraam as part of an existing Network. ',
 
-
+    // register page used as invite link
+    'invite-token-success' => 'Welcome, you are invited to join a network admin',
 
 ];

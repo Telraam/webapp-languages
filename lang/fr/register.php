@@ -58,4 +58,7 @@ que vous configuriez votre dispositif Telraam, que vous rejoigniez un réseau ou
     'how-are-you-involved' => 'Rejoindre un réseau de trafic existant ?',
     'network-own' => "Non, j'ai juste besoin d'un compte.",
     'network-professionals' => "Oui, j'installe une Telraam dans le cadre d'un réseau existant."
+    
+    // register page used as invite link
+    'invite-token-success' => 'Bienvenue, vous êtes invité à rejoindre un réseau d\'administrateurs.',
 ];
