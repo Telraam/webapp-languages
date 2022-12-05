@@ -3,7 +3,7 @@
 return [
 
     'title' => 'S\'inscrire à un compte Telraam',
-     'intro'        => 'Créez un compte Telraam pour pouvoir accéder à tous les outils et services Telraam. Vous aurez besoin
+    'intro'        => 'Créez un compte Telraam pour pouvoir accéder à tous les outils et services Telraam. Vous aurez besoin
      d\'un compte que vous participiez au forum Telraam Talks,
 que vous configuriez votre dispositif Telraam, que vous rejoigniez un réseau ou que vous accédiez à l\'API.',
 
@@ -11,7 +11,7 @@ que vous configuriez votre dispositif Telraam, que vous rejoigniez un réseau ou
 <a href="https://telraam.zendesk.com/hc/fr/articles/360019257837-Conditions-%C3%A0-respecter-pour-l-emplacement-de-ma-fen%C3%AAtre-Photo-%C3%A0-uploader-lors-de-l-enregistrement" target="_blank">les conditions de placement idéal ici</a> ',
 
 
-     'register-list' => '<li>Vous habitez un logement doté d’une fenêtre côté rue </li>
+    'register-list' => '<li>Vous habitez un logement doté d’une fenêtre côté rue </li>
 <li>Cette fenêtre doit offrir une vue complète et libre sur la rue (ou bande de circulation) : pas de lampadaires, arbres, constructions qui bloquent la vue dans un sens </li>
 <li>Cette fenêtre se trouve au premier étage, ou plus haut (de préférence pas de rez-de-chaussée)</li>
 <li>Cette fenêtre ne comporte pas de moustiquaire, qui entrave la rue de l’appareil Telraam </li>
@@ -57,8 +57,8 @@ que vous configuriez votre dispositif Telraam, que vous rejoigniez un réseau ou
 
     'how-are-you-involved' => 'Rejoindre un réseau de trafic existant ?',
     'network-own' => "Non, j'ai juste besoin d'un compte.",
-    'network-professionals' => "Oui, j'installe une Telraam dans le cadre d'un réseau existant."
-    
+    'network-professionals' => "Oui, j'installe une Telraam dans le cadre d'un réseau existant.",
+
     // register page used as invite link
     'invite-token-success' => 'Bienvenue, vous êtes invité à rejoindre un réseau d\'administrateurs.',
 ];
