@@ -8,8 +8,8 @@ return [
     'header-apply' => 'Postuler comme candidat',
 
     // timeline
-    'closing-trajectory' => 'Fermer la trajectoire',
-    'opening-trajectory' => 'Coup d\'envoi!',
+    'closing-track' => 'Fermer la trajectoire',
+    'opening-track' => 'Coup d\'envoi!',
     'candidate-form-closed' => 'Le formulaire de candidature est fermé',
     'candidate-form-opened' => 'Accepter des candidats!',
 
