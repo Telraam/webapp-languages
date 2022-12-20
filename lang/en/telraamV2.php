@@ -44,7 +44,7 @@ return [
 
     'section-features-block5-title' => 'Precision',
     'section-features-block5-subtitle'     => 'AI for accuracy, precision, night counts, and anonymous data',
-    'section-features-block5-body' => '<p>Telraam S2 uses a completely new counting methodology compared to our first Raspberry Pi-based, using Artificial Intelligence (AI) and Neural Networks. This results in an improved consistency, precision, and accuracy, even providing vehicle counts in dark conditions.</p>',
+    'section-features-block5-body' => '<p>Telraam S2 uses a completely new counting methodology compared to our first Raspberry Pi-based, using Artificial Intelligence (AI) and Neural Networks. This results in an improved consistency, precision, and accuracy, even providing vehicle counts in dark conditions. Have a look at the FAQ article <a href="https://telraam.zendesk.com/hc/en-us/articles/8355715545501-Data-performance-and-validation">Data performance and validation (of Telraam S2)</a> for more info and (regular) updates on this topic.</p>',
 
     'section-features-block6-title' => 'Privacy',
     'section-features-block6-subtitle'     => 'Object detection not identification',
