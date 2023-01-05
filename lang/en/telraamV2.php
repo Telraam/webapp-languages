@@ -44,15 +44,19 @@ return [
 
     'section-features-block5-title' => 'Precision',
     'section-features-block5-subtitle'     => 'AI for accuracy, precision, night counts, and anonymous data',
-    'section-features-block5-body' => '<p>Telraam S2 uses a completely new counting methodology compared to our first Raspberry Pi-based, using Artificial Intelligence (AI) and Neural Networks. This results in an improved consistency, precision, and accuracy, even providing vehicle counts in dark conditions. Have a look at the FAQ article <a href="https://telraam.zendesk.com/hc/en-us/articles/8355715545501-Data-performance-and-validation">Data performance and validation (of Telraam S2)</a> for more info and (regular) updates on this topic.</p>',
+    'section-features-block5-body' => '<p>Telraam S2 uses a completely new counting method compared to our first Raspberry Pi-based sensor, using Artificial Intelligence (AI) and Neural Networks. This results in improved consistency, precision, and accuracy. Have a look at the FAQ article <a href="https://telraam.zendesk.com/hc/en-us/articles/8355715545501-Data-performance-and-validation">Data performance and validation (of Telraam S2)</a> for more info and (regular) updates on this topic.</p>',
 
     'section-features-block6-title' => 'Privacy',
     'section-features-block6-subtitle'     => 'Object detection not identification',
     'section-features-block6-body' => '<p>Privacy is very important for us at Telraam. No identifiable images or videos are saved or transferred from our devices. With Telraam S2, the classification of any object that is detected happens in situ on the edge-devices. As a result, only the anonymised 15-minute aggregate counts are transferred to the Telraam database.</p>',
 
-    'section-features-block7-title' => 'Make it count!',
-    'section-features-block7-subtitle'     => 'A solution for every street',
-    'section-features-block7-body' => '<p>Whether you are a private citizen in need of a single device for your street, or a professional looking to setup a whole network in your city, Telraam is there to help. Each device is ready to start counting. Packages include tools for building and managing local networks, whether for a small neighbourhood or a metropolis. Check out the options that best suit you below to get started.</p>',
+    'section-features-block7-title' => 'S2 firmware evolution!',
+    'section-features-block7-subtitle'     => 'Over the air updates',
+    'section-features-block7-body' => '<p>The firmware of Telraam S2 is constantly evolving to provide the best possible experience for users. Updates are done autonomously over the air (OTA) to ensure the device is always running the latest version. Currently our focus is on implementing night counts, a feature that is highly requested by our users, and on further improving our precision and accuracy.</p>'
+    
+    'section-features-block8-title' => 'Make it count!',
+    'section-features-block8-subtitle'     => 'A solution for every street',
+    'section-features-block8-body' => '<p>Whether you are a private citizen in need of a single device for your street, or a professional looking to setup a whole network in your city, Telraam is there to help. Each device is ready to start counting. Packages include tools for building and managing local networks, whether for a small neighbourhood or a metropolis. Check out the options that best suit you below to get started.</p>',
 
     // tech table
     'spec-table-title' => 'Technical specifications',
