@@ -32,7 +32,7 @@ return [
     'one-time-hardware' => 'Coût matériel unique',
     'month' => 'mois',
     'subscription' => 'Abonnement',
-    'network-subscription' => 'Abonnement au réseau, facturé annuellement',
+    'network-subscription' => 'Abonnement annuel au réseau',
     'tailer-made' => 'Solutions personnalisées',
     'free' => 'Gratuit',
 
