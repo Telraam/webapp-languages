@@ -32,7 +32,7 @@ return [
     'one-time-hardware' => 'Een malige hardwarekost',
     'month' => 'maand',
     'subscription' => 'abonnement',
-    'network-subscription' => 'Network abonnement, facturatie is jaarlijks',
+    'network-subscription' => 'Jaarlijks networkabonnement',
     'tailer-made' => 'Oplossingen op maat',
     'free' => 'Gratis',
 
