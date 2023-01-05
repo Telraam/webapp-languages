@@ -52,7 +52,7 @@ return [
 
     'section-features-block7-title' => 'S2 firmware evolution!',
     'section-features-block7-subtitle'     => 'Over the air updates',
-    'section-features-block7-body' => '<p>The firmware of Telraam S2 is constantly evolving to provide the best possible experience for users. Updates are done autonomously over the air (OTA) to ensure the device is always running the latest version. Currently our focus is on implementing night counts, a feature that is highly requested by our users, and on further improving our precision and accuracy.</p>'
+    'section-features-block7-body' => '<p>The firmware of Telraam S2 is constantly evolving to provide the best possible experience for users. Updates are done autonomously over the air (OTA) to ensure the device is always running the latest version. Currently our focus is on implementing night counts for motorized vehicles, a feature that is highly requested by our users, and on further improving our precision and accuracy.</p>'
     
     'section-features-block8-title' => 'Make it count!',
     'section-features-block8-subtitle'     => 'A solution for every street',
