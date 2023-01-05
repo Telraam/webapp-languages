@@ -43,15 +43,19 @@ return [
 
     'section-features-block5-title' => 'Précision',
     'section-features-block5-subtitle'     => 'L\'IA pour l\'exactitude, la précision, les comptages nocturnes et les données anonymes',
-    'section-features-block5-body' => '<p>Le Telraam S2 utilise une méthode de comptage totalement nouvelle par rapport à notre premier appareil basé sur Raspberry Pi, celle-ci faisant appel à l\'intelligence artificielle (IA) et aux réseaux neuronaux. Cela permet d\'améliorer la précision et l\'exactitude, ainsi que fournir des comptages de véhicules dans des conditions sombres. Consultez l\'article de la FAQ <a href="https://telraam.zendesk.com/hc/fr/articles/8355715545501--Performances-et-validation-des-donn%C3%A9es-Telraam-S2-et-V1-">Performance et validation des données (de Telraam S2)</a> pour plus d\'informations et des mises à jour (régulières) sur ce sujet.</p>',
+    'section-features-block5-body' => '<p>Le Telraam S2 utilise une méthode de comptage totalement nouvelle par rapport à notre premier appareil basé sur Raspberry Pi, celle-ci faisant appel à l\'intelligence artificielle (IA) et aux réseaux neuronaux. Cela permet d\'améliorer la précision et l\'exactitude. Consultez l\'article de la FAQ <a href="https://telraam.zendesk.com/hc/fr/articles/8355715545501--Performances-et-validation-des-donn%C3%A9es-Telraam-S2-et-V1-">Performance et validation des données (de Telraam S2)</a> pour plus d\'informations et des mises à jour (régulières) sur ce sujet.</p>',
 
     'section-features-block6-title' => 'Confidentialité',
     'section-features-block6-subtitle'     => 'Détection des objets, pas d\'identification',
     'section-features-block6-body' => '<p>La confidentialité est très importante pour nous à Telraam. Aucune image ou vidéo identifiable n\'est stockée ou transférée depuis nos appareils. Avec Telraam S2, la classification de chaque objet détecté est effectuée sur place sur les appareils. Par conséquent, seuls les comptages anonymes sur 15 minutes sont transférés dans la base de données Telraam.</p>',
 
-    'section-features-block7-title' => 'Comptez avec nous!',
-    'section-features-block7-subtitle'     => 'Une solution pour chaque rue',
-    'section-features-block7-body' => '<p>Que vous soyez un particulier qui a besoin d\'un seul appareil pour sa rue ou un professionnel qui souhaite mettre en place un réseau complet dans sa ville, Telraam est là pour vous aider. Vous pouvez également choisir des outils pour construire et gérer des réseaux locaux, que ce soit pour un petit quartier ou une métropole. Consultez l\'option ci-dessous qui vous convient le mieux pour commencer.</p>',
+    'section-features-block7-title' => 'Évolution du firmware du S2',
+    'section-features-block7-subtitle'     => '"Over the air" updates',
+    'section-features-block7-body' => '<p>Le micrologiciel du Telraam S2 est en constante évolution pour offrir la meilleure expérience possible aux utilisateurs. Les mises à jour sont effectuées de manière autonome "over the air" (OTA) afin de garantir que l\'appareil fonctionne toujours avec la dernière version. Actuellement, nous nous concentrons sur l\'implémentation des comptages de nuit pour les véhicules motorisés, une fonctionnalité très demandée par nos utilisateurs, et sur l\'amélioration de notre précision et de notre exactitude.</p>'
+    
+    'section-features-block8-title' => 'Comptez avec nous!',
+    'section-features-block8-subtitle'     => 'Une solution pour chaque rue',
+    'section-features-block8-body' => '<p>Que vous soyez un particulier qui a besoin d\'un seul appareil pour sa rue ou un professionnel qui souhaite mettre en place un réseau complet dans sa ville, Telraam est là pour vous aider. Vous pouvez également choisir des outils pour construire et gérer des réseaux locaux, que ce soit pour un petit quartier ou une métropole. Consultez l\'option ci-dessous qui vous convient le mieux pour commencer.</p>',
 
     // tech table
     'spec-table-title' => 'Spécifications techniques',
