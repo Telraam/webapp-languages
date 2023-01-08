@@ -8,7 +8,7 @@ return [
     'nav-step-4'        => 'Attach',
     'nav-step-5'        => 'View',
     'nav-step-6'        => 'Location',
-    'nav-step-7'        => 'Done',
+    'nav-step-7'        => 'Ready',
 
     // Step 1: device code
     'step-1-long-title' => 'Link the device to your account',

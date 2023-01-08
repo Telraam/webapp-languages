@@ -54,5 +54,9 @@ return [
     'how-are-you-involved' => 'Aansluiten bij een bestaand verkeersnetwerk?',
     'network-own' => ' Nee, ik heb enkel een account nodig.',
     'network-professionals' => 'ja, ik installeer een Telraam bij een netwerk.',
+    
+    // register page used as invite link
+    'invite-token-success' => 'Welkom, u bent uitgenodigd om lid te worden als een Telraam beheerder',
+
 
 ];

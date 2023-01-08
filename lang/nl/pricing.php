@@ -3,7 +3,7 @@
 return [
 
     'title' => 'Prijzen',
-    'subtitle' => 'Maak het mogelijk om als burger of als professional mobiliteitsprojecten aan te sturen.',
+    'subtitle' => 'Bied burgers en professionals de mogelijkheid om mobiliteitsprojecten aan te sturen.',
 
     // ------------------------------------------------------
     // ------------------- block #1
@@ -11,16 +11,16 @@ return [
     'title-block-1' => 'Overzicht',
 
     'pack-individual-title' => 'Individueel',
-    'pack-individual-subtitle' => 'Voor het observeren van één locatie',
+    'pack-individual-subtitle' => 'Tel als burger een locatie',
     'pack-individual-number' => '1 toestel',
 
     'pack-standard-title' => 'Standaard',
-    'pack-standard-subtitle' => 'Krachtige tools voor het beheren van een lokaal netwerk',
+    'pack-standard-subtitle' => 'Krachtige tools voor lokale netwerken',
     'pack-standard-number' => 'Tot 50 toestellen',
 
     'pack-enhanced-title' => 'Enhanced',
-    'pack-enhanced-subtitle' => 'Bespaar tijd met premium analytische, rapportering en management tools voor uitgebreidere projecten',
-    'pack-enhanced-number' => 'Tot 50 toestellen',
+    'pack-enhanced-subtitle' => 'Bespaar tijd met premium analyse-, rapportage- en beheertools voor uitgebreide projecten',
+    'pack-enhanced-number' => 'Tot  50 toestellen',
 
     'pack-custom-title' => 'Custom',
     'pack-custom-subtitle' => 'Oplossingen voor de specifieke eisen van grotere projecten',
@@ -29,17 +29,17 @@ return [
     'per-device' => 'Per toestel',
     'incl-vat' => '(incl BTW)',
     'excl-vat' => '(ex BTW)',
-    'one-time-hardware' => 'Eenmalige hardware kost',
+    'one-time-hardware' => 'Een malige hardwarekost',
     'month' => 'maand',
-    'subscription' => 'Abonnement',
-    'network-subscription' => 'Netwerkabonnement, jaarlijks gefactureerd',
+    'subscription' => 'abonnement',
+    'network-subscription' => 'Jaarlijks networkabonnement',
     'tailer-made' => 'Oplossingen op maat',
     'free' => 'Gratis',
 
     // buttons
     'buy-a-telraam' => 'Koop een Telraam',
-    'get-started' => 'Start',
-    'get-in-touch' => 'Contact opnemen',
+    'get-started' => 'Aan de slag',
+    'get-in-touch' => 'Neem contact op',
 
     // includes
     'include-title' => 'Inclusief:',
@@ -68,6 +68,7 @@ return [
     'pricing-per-device' => 'Prijs per toestel',
     'subscription-software' => 'Abonnement op software',
     'one-time-hardware-S2' => 'Eenmalige hardwarekost (Telraam S2)',
+    'on-request' => 'Op aanvraag',
 
     'usage' => 'Gebruik',
     'who-is-this-for' =>  'Voor wie is dit?',
@@ -88,7 +89,7 @@ return [
 
     'api-access' => 'API toegang',
     'api-for-one-hour' => 'Basic API toegang voor 1u data',
-    'api-15min' => 'Geavanceerd API toegang: 15min data, typische verkeersdata, straatrapport',
+    'api-15min' => 'Geavanceerd API toegang: 15min data, typische verkeersdata',
     'api-custom'  => 'Custom: API-opties op aanvraag, aangepaste tariefgrenzen',
 
     'support' => 'Support',

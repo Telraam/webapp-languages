@@ -32,7 +32,7 @@ return [
     'one-time-hardware' => 'One time hardware cost',
     'month' => 'month',
     'subscription' => 'Subscription',
-    'network-subscription' => 'Network subscription, billed annually',
+    'network-subscription' => 'Annual network subscription',
     'tailer-made' => 'Tailor made solutions',
     'free' => 'Free',
 
@@ -68,6 +68,7 @@ return [
     'pricing-per-device' => 'Pricing per device',
     'subscription-software' => 'Subscription for software',
     'one-time-hardware-S2' => 'One time hardware cost (Telraam S2)',
+    'on-request' => 'On request',
 
     'usage' => 'Usage',
     'who-is-this-for' =>  'Who is this for?',
@@ -88,7 +89,7 @@ return [
 
     'api-access' => 'API Access',
     'api-for-one-hour' => 'Basic API access for 1h hour data',
-    'api-15min' => 'Advanced API access: 15min data, typical traffic data, street report',
+    'api-15min' => 'Advanced API access: 15min data, typical traffic data',
     'api-custom'  => 'Custom: on-demand API options, customized rate - limits',
 
     'support' => 'Support',

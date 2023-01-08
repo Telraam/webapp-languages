@@ -8,8 +8,8 @@ return [
     'header-apply' => 'Apply as candidate',
 
     // timeline
-    'closing-trajectory' => 'Closing the Trajectory',
-    'opening-trajectory' => 'Kickoff!',
+    'closing-track' => 'Closing the Track',
+    'opening-track' => 'Kickoff!',
     'candidate-form-closed' => 'Candidate form will be closed',
     'candidate-form-opened' => 'Accepting candidates!',
 

@@ -39,19 +39,23 @@ return [
     'section-features-block4-subtitle'     => 'Functionaliteit en gebruiksvriendelijkheid als leidraad',
     'section-features-block4-body' => '<p>Een ontwerp dat in je dagelijks leven, omgeving en meer specifiek op het uitzicht op je raam goed staat.</p>
         <p>Het apparaat wordt gevoed via een USB-C-poort, heeft één knop voor gebruikersinteractie en wordt geleverd met een LCD-kleurenscherm. Het scherm kan volledig worden uitgeschakeld, wat energie bespaart en voorkomt dat er mogelijk ongewenst licht van je Telraam S2 komt, of het nu in een woonkamer of slaapkamer is.</p>
-        <p>Telraam S2 wordt verkocht in 100% recyclebare papieren verpakkingen, zonder plastic afval.</p>',
+        <p>Telraam S2 wordt verkocht in 100% recycleerbare papieren verpakkingen, zonder plastic afval.</p>',
 
     'section-features-block5-title' => 'Nauwkeurigheid',
     'section-features-block5-subtitle'     => 'AI voor nauwkeurigheid, precisie, nachttellingen en anonieme data',
-    'section-features-block5-body' => '<p>Telraam S2 gebruikt een volledig nieuwe telmethode in vergelijking met onze eerste Raspberry Pi-gebaseerd toestel, dit met behulp van kunstmatige intelligentie (AI) en neurale netwerken. Dit resulteert in een verbeterde precisie en nauwkeurigheid, en ook bij donkere omstandigheden voor gemotoriseerde voertuigen.</p>',
+    'section-features-block5-body' => '<p>Telraam S2 gebruikt een volledig nieuwe telmethode in vergelijking met onze eerste Raspberry Pi-gebaseerd toestel, dit met behulp van kunstmatige intelligentie (AI) en neurale netwerken. Dit resulteert in een verbeterde precisie en nauwkeurigheid. Bekijk het FAQ-artikel <a href="https://telraam.zendesk.com/hc/nl/articles/8355715545501-Data-performance-en-validatie-Telraam-S2-en-V1-">Dataprestaties en validatie (van Telraam S2)</a> voor meer informatie en (regelmatige) updates over dit onderwerp.</p>',
 
     'section-features-block6-title' => 'Privacy',
     'section-features-block6-subtitle'     => 'Objectdetectie, geen identificatie',
     'section-features-block6-body' => '<p>Privacy is erg belangrijk voor ons bij Telraam. Er worden geen identificeerbare beelden of video\'s opgeslagen of overgedragen vanaf onze apparaten. Met Telraam S2 gebeurt de classificatie van elk gedetecteerd object ter plaatse op de toestellen. Als gevolg daarvan worden alleen de geanonimiseerde 15-minuten tellingen overgebracht naar de Telraam database.</p>',
-
-    'section-features-block7-title' => 'Tel mee!',
-    'section-features-block7-subtitle'     => 'Een oplossing voor elke straat',
-    'section-features-block7-body' => '<p>Of je nu een particulier bent die een enkel toestel nodig heeft voor in je straat, of een professional die een heel netwerk in je stad wil opzetten, Telraam is er om je te helpen. Je kan ook kiezen voor hulpmiddelen voor het bouwen en beheren van lokale netwerken, of het nu gaat om een kleine wijk of een metropool. Bekijk hieronder de optie die het beste bij jou past om aan de slag te gaan.</p>',
+    
+    'section-features-block-title' => 'S2 firmware evolutie!',
+    'section-features-block7-subtitle'     => 'Over the air updates',
+    'section-features-block7-body' => '<p>De firmware van Telraam S2 evolueert voortdurend om de gebruikers de best mogelijke ervaring te bieden. Updates worden autonoom over the air (OTA) uitgevoerd om ervoor te zorgen dat het apparaat altijd de laatste versie heeft. Momenteel ligt onze focus op het implementeren van nachttellingen voor gemotoriseerd verkeer, een functie waar onze gebruikers veel om vragen, en op het verder verbeteren van onze precisie en nauwkeurigheid.</p>'
+    
+    'section-features-block8-title' => 'Tel mee!',
+    'section-features-block8-subtitle'     => 'Een oplossing voor elke straat',
+    'section-features-block8-body' => '<p>Of je nu een particulier bent die een enkel toestel nodig heeft voor in je straat, of een professional die een heel netwerk in je stad wil opzetten, Telraam is er om je te helpen. Je kan ook kiezen voor hulpmiddelen voor het bouwen en beheren van lokale netwerken, of het nu gaat om een kleine wijk of een metropool. Bekijk hieronder de optie die het beste bij jou past om aan de slag te gaan.</p>',
 
     // tech table
     'spec-table-title' => 'Technische specificaties',

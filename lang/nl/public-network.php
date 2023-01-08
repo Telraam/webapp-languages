@@ -8,8 +8,8 @@ return [
     'header-apply' => 'Stel je kandidaat',
 
     // timeline
-    'closing-trajectory' => 'Traject wordt gesloten',
-    'opening-trajectory' => 'Kickoff!',
+    'closing-track' => 'Traject wordt gesloten',
+    'opening-track' => 'Kickoff!',
     'candidate-form-closed' => 'Formulier voor deelname wordt gesloten',
     'candidate-form-opened' => 'Burgers kunnen zich kandidaat stellen',
 
