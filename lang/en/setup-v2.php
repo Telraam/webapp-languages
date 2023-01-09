@@ -65,7 +65,7 @@ No fly screens, curtains or roller shutters that will block the camera.',
     We automatically select a position based on the gps coordinates we received. This could be wrong however.
     In that case select a street segment and the side of the street.",
 
-    'step-5-description-manual'  => "ITell us your location. Zoom in to find your street. Select the right segment, and what side of the street you are on.",
+    'step-5-description-manual'  => "Tell us your location. Zoom in to find your street. Select the right segment, and what side of the street you are on.",
 
 
     // Step 6: Done
