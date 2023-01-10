@@ -16,7 +16,7 @@ return [
     
     
     'ready-to-install' => 'You are ready to install the Telraam device on your location?',
-    'ready-to-install-new-owner' => 'You want to install the Telraam device on a new location or it has a new owner?'
+    'ready-to-install-new-owner' => 'You want to install the Telraam device on a new location or it has a new owner?',
     
     'log-in' => 'Log in',
     'or' => 'or',
