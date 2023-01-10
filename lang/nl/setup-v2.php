@@ -61,19 +61,16 @@ belemmeren.<br><br>Er mogen geen vliegenramen, gordijnen of rolluiken voor het r
 
     // Step 5: gps
     'step-5-long-title' => 'Laatste stap! Bevestig je locatie',
-    'step-5-description'  => "Het is belangrijk om je camerapositie te bevestigen.
-    We kiezen automatisch een positie op basis van de gps-coördinaten die we ontvangen. Dit kan echter fout zijn.
-    Selecteer in dat geval een straatsegment en de zijkant van de straat.",
-
     'step-5-description-manual'  => "Laat ons weten wat je locatie is. Zoom in om je straat te vinden, selecteer het juiste straatsegment en aan welke kant van de straat je je bevindt.",
 
 
     // Step 6: done
     'step-6-long-title' => 'Klaar!',
-    'step-6-description'  => "Veel telplezier gewenst! Je kan ons steeds contacteren op <a href='mailto:support@telraam.net'>support@telraam.net</a> met feedback of vragen. <br><br> Neem een kijkje op <a href='talks.telraam.net'>Telraam Talks</a> en deel je ervaringen met andere tellers.”",
+    'step-6-description'  => "Veel telplezier gewenst! Je kan ons steeds contacteren op <a href='mailto:support@telraam.net'>support@telraam.net</a> met feedback of vragen. <br><br> Neem een kijkje op <a href='talks.telraam.net'>Telraam Talks</a> en deel je ervaringen met andere tellers.",
 
     // General
     'save'  => 'Opslaan',
+    'previous'  => 'Vorige',
     'next'  => 'Volgende',
     'save-button-step-1'  => 'Ok, ga verder',
     'save-button-step-2'  => 'Volgende stap',

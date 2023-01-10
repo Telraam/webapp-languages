@@ -60,10 +60,6 @@ return [
 
     // Step 5: gps
     'step-5-long-title' => 'Dernière étape ! Veuillez confirmer votre emplacement',
-    'step-5-description'  => "Il est important de confirmer la position de votre caméra.
-    Nous sélectionnons automatiquement une position sur la base des coordonnées GPS que nous avons reçues. Cela peut cependant être faux.
-    Dans ce cas, sélectionnez un segment de rue et le côté de la rue.",
-
     'step-5-description-manual'  => "Dites-nous votre emplacement. Zoomez pour trouver votre rue. Sélectionnez le bon segment et de quel côté de la rue vous vous trouvez.",
 
 
@@ -73,6 +69,7 @@ return [
 
     // General
     'save'  => 'S\'enregistrer',
+    'previous'  => 'Précédent',
     'next'  => 'Suivant',
     'save-button-step-1'  => 'Ok, continuer',
     'save-button-step-2'  => 'L\'étape suivante',

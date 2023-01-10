@@ -60,23 +60,20 @@ No fly screens, curtains or roller shutters that will block the camera.',
 
     // Step 5: gps
     'step-5-long-title' => 'Last step! Please confirm your location',
-    'step-5-description'  => "It's important to confirm your camera position.
-    We automatically select a position based on the gps coordinates we received. This could be wrong however.
-    In that case select a street segment and the side of the street.",
-
     'step-5-description-manual'  => "Tell us your location. Zoom in to find your street. Select the right segment, and what side of the street you are on.",
 
 
     // Step 6: Done
     'step-6-long-title' => 'Ready',
-    'step-6-description'  => "Happy counting! Feel free to get in touch with us at <a href='mailto:support@telraam.net'>support@telraam.net</a> with any feedback or questions. <br><br> Join other counters on <a href='talks.telraam.net'>Telraam Talks</a> to make the most of your device.”",
+    'step-6-description'  => "Happy counting! Feel free to get in touch with us at <a href='mailto:support@telraam.net'>support@telraam.net</a> with any feedback or questions. <br><br> Join other counters on <a href='talks.telraam.net'>Telraam Talks</a> to make the most of your device.",
 
     // General
     'save'  => 'Save',
+    'previous'  => 'Previous',
     'next'  => 'Next',
     'save-button-step-1'  => 'Ok, proceed',
     'save-button-step-2'  => 'Next step',
-    'save-button-step-3'  => 'I\'m ready,'
+    'save-button-step-3'  => 'I\'m ready,',
     'save-button-step-4'  => 'OK, go!',
     'save-button-step-5'  => 'Confirm!',
     'save-button-step-6'  => 'To my dashboard',
