@@ -6,9 +6,8 @@ return [
     'nav-step-2'        => 'Adresse',
     'nav-step-3'        => 'Fenêtre',
     'nav-step-4'        => 'Accrocher',
-    'nav-step-5'        => 'Vue',
-    'nav-step-6'        => 'Localisation',
-    'nav-step-7'        => 'C\'est prêt',
+    'nav-step-5'        => 'Localisation',
+    'nav-step-6'        => 'C\'est prêt',
 
     // Step 1: device code
     'step-1-long-title' => 'Relier l\'appareil à votre compte de Telraam',

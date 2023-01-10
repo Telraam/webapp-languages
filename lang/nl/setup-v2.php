@@ -6,9 +6,8 @@ return [
     'nav-step-2'        => 'Adres',
     'nav-step-3'        => 'Raam',
     'nav-step-4'        => 'Ophangen',
-    'nav-step-5'        => 'Zicht',
-    'nav-step-6'        => 'Locatie',
-    'nav-step-7'        => 'Klaar',
+    'nav-step-5'        => 'Locatie',
+    'nav-step-6'        => 'Klaar',
 
     // Step 1: device code
     'step-1-long-title' => 'Koppel het apparaat aan uw Telraam account',
