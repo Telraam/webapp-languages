@@ -42,7 +42,7 @@ return [
         <p>The device is powered via a USB-C port, has a single button for user interaction, and comes with a colour LCD display. The screen can be turned off completely, which saves energy, and stops any potentially unwanted light or movement coming from your Telraam S2 - whether in a living room or bedroom window.</p>
         <p>Telraam S2 is sold in 100% recyclable paper packaging, with no plastic waste.</p>',
 
-    'section-features-block5-title' => 'Intelligent',
+    'section-features-block5-title' => 'Precise',
     'section-features-block5-subtitle'     => 'AI for accuracy, precision and anonymous data',
     'section-features-block5-body' => '<p>Telraam S2 uses a completely new counting method compared to our first Raspberry Pi-based sensor, using Artificial Intelligence (AI) and Neural Networks. This results in improved consistency, precision, and accuracy and the potential for improvements over time. Read the FAQ article on <a href="https://telraam.zendesk.com/hc/en-us/articles/8355715545501-Data-performance-and-validation">Data performance and validation (of Telraam S2)</a> for further updates on this topic.</p>',
 
