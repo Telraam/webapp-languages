@@ -42,9 +42,9 @@ return [
         <p>The device is powered via a USB-C port, has a single button for user interaction, and comes with a colour LCD display. The screen can be turned off completely, which saves energy, and stops any potentially unwanted light or movement coming from your Telraam S2 - whether in a living room or bedroom window.</p>
         <p>Telraam S2 is sold in 100% recyclable paper packaging, with no plastic waste.</p>',
 
-    'section-features-block5-title' => 'Precision',
-    'section-features-block5-subtitle'     => 'AI for accuracy, precision, night counts, and anonymous data',
-    'section-features-block5-body' => '<p>Telraam S2 uses a completely new counting method compared to our first Raspberry Pi-based sensor, using Artificial Intelligence (AI) and Neural Networks. This results in improved consistency, precision, and accuracy. Have a look at the FAQ article <a href="https://telraam.zendesk.com/hc/en-us/articles/8355715545501-Data-performance-and-validation">Data performance and validation (of Telraam S2)</a> for more info and (regular) updates on this topic.</p>',
+    'section-features-block5-title' => 'Intelligent',
+    'section-features-block5-subtitle'     => 'AI for accuracy, precision and anonymous data',
+    'section-features-block5-body' => '<p>Telraam S2 uses a completely new counting method compared to our first Raspberry Pi-based sensor, using Artificial Intelligence (AI) and Neural Networks. This results in improved consistency, precision, and accuracy and the potential for improvements over time. Read the FAQ article on <a href="https://telraam.zendesk.com/hc/en-us/articles/8355715545501-Data-performance-and-validation">Data performance and validation (of Telraam S2)</a> for further updates on this topic.</p>',
 
     'section-features-block6-title' => 'Privacy',
     'section-features-block6-subtitle'     => 'Object detection not identification',
@@ -52,7 +52,7 @@ return [
 
     'section-features-block7-title' => 'S2 firmware evolution!',
     'section-features-block7-subtitle'     => 'Over the air updates',
-    'section-features-block7-body' => '<p>The firmware of Telraam S2 is constantly evolving to provide the best possible experience for users. Updates are done autonomously over the air (OTA) to ensure the device is always running the latest version. Currently our focus is on implementing night counts for motorized vehicles, a feature that is highly requested by our users, and on further improving our precision and accuracy.</p>',
+    'section-features-block7-body' => '<p>The firmware of Telraam S2 is constantly evolving to provide the best possible experience for users. Updates are done remotely over the air (OTA) to ensure the device is always running the latest version. Our current focus is on implementing night counts for motorized vehicles, a highly requested feature, and on further improving count precision and accuracy.</p>',
     
     'section-features-block8-title' => 'Make it count!',
     'section-features-block8-subtitle'     => 'A solution for every street',
