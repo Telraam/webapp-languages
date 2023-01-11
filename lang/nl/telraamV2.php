@@ -51,7 +51,7 @@ return [
     
     'section-features-block-title' => 'S2 firmware evolutie!',
     'section-features-block7-subtitle'     => 'Over the air updates',
-    'section-features-block7-body' => '<p>De firmware van Telraam S2 evolueert voortdurend om de gebruikers de best mogelijke ervaring te bieden. Updates worden autonoom over the air (OTA) uitgevoerd om ervoor te zorgen dat het apparaat altijd de laatste versie heeft. Momenteel ligt onze focus op het implementeren van nachttellingen voor gemotoriseerd verkeer, een functie waar onze gebruikers veel om vragen, en op het verder verbeteren van onze precisie en nauwkeurigheid.</p>'
+    'section-features-block7-body' => '<p>De firmware van Telraam S2 evolueert voortdurend om de gebruikers de best mogelijke ervaring te bieden. Updates worden autonoom over the air (OTA) uitgevoerd om ervoor te zorgen dat het apparaat altijd de laatste versie heeft. Momenteel ligt onze focus op het implementeren van nachttellingen voor gemotoriseerd verkeer, een functie waar onze gebruikers veel om vragen, en op het verder verbeteren van onze precisie en nauwkeurigheid.</p>',
     
     'section-features-block8-title' => 'Tel mee!',
     'section-features-block8-subtitle'     => 'Een oplossing voor elke straat',

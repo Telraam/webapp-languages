@@ -51,7 +51,7 @@ return [
 
     'section-features-block7-title' => 'Évolution du firmware du S2',
     'section-features-block7-subtitle'     => '"Over the air" updates',
-    'section-features-block7-body' => '<p>Le micrologiciel du Telraam S2 est en constante évolution pour offrir la meilleure expérience possible aux utilisateurs. Les mises à jour sont effectuées de manière autonome "over the air" (OTA) afin de garantir que l\'appareil fonctionne toujours avec la dernière version. Actuellement, nous nous concentrons sur l\'implémentation des comptages de nuit pour les véhicules motorisés, une fonctionnalité très demandée par nos utilisateurs, et sur l\'amélioration de notre précision et de notre exactitude.</p>'
+    'section-features-block7-body' => '<p>Le micrologiciel du Telraam S2 est en constante évolution pour offrir la meilleure expérience possible aux utilisateurs. Les mises à jour sont effectuées de manière autonome "over the air" (OTA) afin de garantir que l\'appareil fonctionne toujours avec la dernière version. Actuellement, nous nous concentrons sur l\'implémentation des comptages de nuit pour les véhicules motorisés, une fonctionnalité très demandée par nos utilisateurs, et sur l\'amélioration de notre précision et de notre exactitude.</p>',
     
     'section-features-block8-title' => 'Comptez avec nous!',
     'section-features-block8-subtitle'     => 'Une solution pour chaque rue',

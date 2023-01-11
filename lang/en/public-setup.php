@@ -22,8 +22,8 @@ return [
     'or' => 'or',
     'create-an-account' => 'Create an account',
     
-    'want-to-install-with' => 'Great! I want to install this device with'
-    'start-setup' => 'Start the setup'
+    'want-to-install-with' => 'Great! I want to install this device with',
+    'start-setup' => 'Start the setup',
     'want-to-install-with-another-user' => 'I want to install it with another user',
     
     'i-could-use' => 'Oh no, I could use',
