@@ -36,7 +36,7 @@ belemmeren.<br><br>Er mogen geen vliegenramen, gordijnen of rolluiken voor het r
     'step-3-instructions-title-3-more' => 'Zorg dat er een stopcontact in de buurt van het raam is. <br><br> Een stroomkabel van 3m is voorzien. Als dit niet voldoende is kan je een verlengkabel gebruiken',
 
     'step-3-instructions-title-4' => '4. Zorg dat het venster proper is',
-    'step-3-instructions-title-4-more' => 'Zorg voor een goede hecthing. Maak het raam proper met een natte doek zonder zeep. Zeepresten zouden ervoor kunnen zorgen dat de kleefbanden los komen.',
+    'step-3-instructions-title-4-more' => 'Zorg voor een goede hechting. Maak het raam proper met een natte doek zonder zeep. Zeepresten zouden ervoor kunnen zorgen dat de kleefbanden los komen.',
 
     // Step 4: attach
     'step-4-long-title' => 'Hoe je toestel omhooghangen',
