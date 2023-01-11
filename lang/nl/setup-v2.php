@@ -61,7 +61,7 @@ belemmeren.<br><br>Er mogen geen vliegenramen, gordijnen of rolluiken voor het r
 
     // Step 5: gps
     'step-5-long-title' => 'Laatste stap! Bevestig je locatie',
-    'step-5-description-manual'  => "Laat ons weten wat je locatie is. Zoom in om je straat te vinden, selecteer het juiste straatsegment en aan welke kant van de straat je je bevindt.",
+    'step-5-description-manual'  => "Laat ons weten wat je locatie is. Zoom in om je straat te vinden, selecteer het juiste straatsegment en aan welke kant van de straat je huis zich bevindt.",
 
 
     // Step 6: done
