@@ -14,7 +14,9 @@ return [
     
     'view-the-measurements' => 'View the measurements',
     
-    
+    'start-installation-title' => 'Start the installation', //  install with device never used
+    'start-installation-not-new-title' => 'More...',
+
     'ready-to-install' => 'You are ready to install the Telraam device on your location?',
     'ready-to-install-new-owner' => 'You want to install the Telraam device on a new location or it has a new owner?',
     
