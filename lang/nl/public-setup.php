@@ -4,7 +4,7 @@ return [
     
     'title' => 'Telraam S2',
 
-    'subtitle' => 'Verzamel gedetailleerde informatie over verkeer op elke straat'
+    'subtitle' => 'Verzamel gedetailleerde informatie over verkeer op elke straat',
     'description' => 'Profociat, je bent een Telraam S2 host. In de volgende stappen leggen we uit hoe je het apparaat installeert',
     
    'current-installation-title' => 'Huidige installatie van dit apparaat',
