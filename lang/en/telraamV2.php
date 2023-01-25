@@ -53,7 +53,7 @@ return [
     'section-features-block7-title' => 'S2 firmware evolution!',
     'section-features-block7-subtitle'     => 'Over the air updates',
     'section-features-block7-body' => '<p>The firmware of Telraam S2 is constantly evolving to provide the best possible experience for users. Updates are done remotely over the air (OTA) to ensure the device is always running the latest version. Our current focus is on implementing night counts for motorized vehicles, a highly requested feature, and on further improving count precision and accuracy.</p>',
-    
+
     'section-features-block8-title' => 'Make it count!',
     'section-features-block8-subtitle'     => 'A solution for every street',
     'section-features-block8-body' => '<p>Whether you are a private citizen in need of a single device for your street, or a professional looking to setup a whole network in your city, Telraam is there to help. Each device is ready to start counting. Packages include tools for building and managing local networks, whether for a small neighbourhood or a metropolis. Check out the options that best suit you below to get started.</p>',
@@ -92,8 +92,13 @@ return [
 
     // modal
     'modal-title'    => 'Sign up to receive the latest Telraam S2 updates',
-    'modal-body'    => 'Please complete this short form and a Telraam team member will be in touch'
+    'modal-body'    => 'Please complete this short form and a Telraam team member will be in touch',
 
-
+    // extra promo
+    'section-package-title' => 'Pre-order ten devices to kick start your network',
+    'section-package-subtitle' => 'Ten S2 devices with 12 month network access included',
+    'section-package-body' => 'Want a taste of the power of Telraam and citizen science through an initial small network?
+    Be one of the first to order the new S2 sensor here.',
+    'section-package-button' => 'Pre-order',
 
 ];
