@@ -94,11 +94,13 @@ return [
     'modal-title'    => 'Sign up to receive the latest Telraam S2 updates',
     'modal-body'    => 'Please complete this short form and a Telraam team member will be in touch',
 
-    // extra promo
-    'section-package-title' => 'Pre-order ten devices to kick start your network',
-    'section-package-subtitle' => 'Ten S2 devices with 12 month network access included',
-    'section-package-body' => 'Want a taste of the power of Telraam and citizen science through an initial small network?
-    Be one of the first to order the new S2 sensor here.',
+    // 10 package promo
+    'section-package-title' => 'Get a simple network up and running today',
+    'section-package-subtitle' => 'Package includes 10 Telraam S2 devices with network dashboard access for 1 year ',
+    'section-package-body' => 'Need to get your traffic monitoring project started? Not yet sure all that you will need?
+      Kick start your project with a complete package that gets you
+    10 connected devices and all the reporting you will need to decide how to grow your network. <br>
+    After the order we will get in touch with you, so we guide you through our advised flow. ',
     'section-package-button' => 'Pre-order',
 
 ];

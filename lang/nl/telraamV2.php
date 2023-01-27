@@ -48,11 +48,11 @@ return [
     'section-features-block6-title' => 'Privacy',
     'section-features-block6-subtitle'     => 'Objectdetectie, geen identificatie',
     'section-features-block6-body' => '<p>Privacy is erg belangrijk voor ons bij Telraam. Er worden geen identificeerbare beelden of video\'s opgeslagen of overgedragen vanaf onze apparaten. Met Telraam S2 gebeurt de classificatie van elk gedetecteerd object ter plaatse op de toestellen. Als gevolg daarvan worden alleen de geanonimiseerde 15-minuten tellingen overgebracht naar de Telraam database.</p>',
-    
+
     'section-features-block-title' => 'S2 firmware evolutie!',
     'section-features-block7-subtitle'     => 'Over the air updates',
     'section-features-block7-body' => '<p>De firmware van Telraam S2 evolueert voortdurend om de gebruikers de best mogelijke ervaring te bieden. Updates worden autonoom over the air (OTA) uitgevoerd om ervoor te zorgen dat het apparaat altijd de laatste versie heeft. Momenteel ligt onze focus op het implementeren van nachttellingen voor gemotoriseerd verkeer, een functie waar onze gebruikers veel om vragen, en op het verder verbeteren van onze precisie en nauwkeurigheid.</p>',
-    
+
     'section-features-block8-title' => 'Tel mee!',
     'section-features-block8-subtitle'     => 'Een oplossing voor elke straat',
     'section-features-block8-body' => '<p>Of je nu een particulier bent die een enkel toestel nodig heeft voor in je straat, of een professional die een heel netwerk in je stad wil opzetten, Telraam is er om je te helpen. Je kan ook kiezen voor hulpmiddelen voor het bouwen en beheren van lokale netwerken, of het nu gaat om een kleine wijk of een metropool. Bekijk hieronder de optie die het beste bij jou past om aan de slag te gaan.</p>',
@@ -91,8 +91,15 @@ return [
 
     // modal
     'modal-title'    => 'Meld je aan om de nieuwste Telraam S2 updates te ontvangen',
-    'modal-body'    => 'Vul dit korte formulier in en iemand van Telraam zal contact met je opnemen'
+    'modal-body'    => 'Vul dit korte formulier in en iemand van Telraam zal contact met je opnemen',
 
-
+    // 10 package promo
+    'section-package-title' => 'Zet vandaag nog een eenvoudig netwerk op',
+    'section-package-subtitle' => 'Pakket bevat 10 Telraam S2 devices met toegang tot het netwerkdashboard gedurende 1 jaar',
+    'section-package-body' => 'Wilt je starten met verkeersmonitoringproject ? Weet je nog niet zeker wat je allemaal nodig hebt?
+       Start een klein project met een compleet 10 devices en alle rapportage die u nodig heeft om te beslissen hoe
+       u uw netwerk wilt laten groeien. <br>
+     Na de bestelling nemen we contact met je op, zodat we je door onze geadviseerde flow leiden.',
+    'section-package-button' => 'Pre-order',
 
 ];
