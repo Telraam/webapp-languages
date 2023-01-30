@@ -17,6 +17,7 @@ return [
 
     // valid mac
     'valid-mac-info'    => 'Prima, het serienummer dat je hebt opgegeven is correct!',
-    'invalid-mac-info'  => 'Het serienummer dat je hebt opgegeven lijkt een typfout te bevatten. Kijk goed na wat onderaan vermeld stond bij het browsen naar je Telraam-toestel.'
+    'invalid-mac-info'  => 'Het serienummer dat je hebt opgegeven lijkt een typfout te bevatten.',
+    'incomplete-mac-info'  => 'We verwachten 15 nummers en 2 validatietekens (bv 1234-5678-9012-123AB)',
 
 ];

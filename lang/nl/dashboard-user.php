@@ -34,5 +34,15 @@ return [
      U kunt nog steeds uw eigen apparaat kopen en aan de slag gaan.',
     'selection-not-reviewed' => 'Welkom bij de Telraam-registratie! U heeft zich aangemeld voor deelname, maar de selectie is nog niet afgerond, nog even geduld a.u.b.',
 
+    /* select v1 or S2 */
+    'please-select-device' => 'Gelieve je toestel te selecteren',
+
+    'title-v1' => 'V1',
+    'description-v1' => 'Raspberry Pi met camera. Je hebt wifi nodig en goed zicht op de straat.',
+    'start-btn-v1' => 'I heb een v1',
+
+    'title-S2' => 'S2',
+    'description-S2' => 'Aangepaste en nieuw gebouwde hardware voor verkeerstelling. Geen wifi nodig, maar wel goed zicht op de straat. ',
+    'start-btn-S2' => 'I heb de S2',
 ];
 

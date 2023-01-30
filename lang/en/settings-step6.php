@@ -18,6 +18,7 @@ return [
 
     // valid mac
     "valid-mac-info"    => "The serial number you entered seems to be correct",
-    "invalid-mac-info"  => 'The serial number you have entered appears to contain a typo. Please check what has been mentioned at the bottom of this page when browsing your Telraam'
+    "invalid-mac-info"  => 'The serial number you have entered appears to contain a typo.',
+    "incomplete-mac-info"  => 'We expect 15 numbers and 2 validation characters (1234-5678-9012-123AB)',
 
 ];
