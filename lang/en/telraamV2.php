@@ -95,12 +95,11 @@ return [
     'modal-body'    => 'Please complete this short form and a Telraam team member will be in touch',
 
     // 10 package promo
-    'section-package-title' => 'Get a simple network up and running today',
-    'section-package-subtitle' => 'Package includes 10 Telraam S2 devices with network dashboard access for 1 year ',
-    'section-package-body' => 'Need to get your traffic monitoring project started? Not yet sure all that you will need?
-      Kick start your project with a complete package that gets you
-    10 connected devices and all the reporting you will need to decide how to grow your network. <br>
-    After the order we will get in touch with you, so we guide you through our advised flow. ',
-    'section-package-button' => 'Pre-order',
+
+    'section-package-title' => 'You want to contribute to citizen science with your own device?',
+    'section-package-subtitle' => 'Subscription is on us.',
+    'section-package-body' => 'Our mission is to increase and broaden knowledge around mobility. Telraam is a perfect tool to conduct and share traffic counts in an accessible way.  Open data is our moto.
+To make our mission as democratic as possible, individuals can buy a device without being responsible for data or support costs.',
+    'section-package-button' => 'Pre-order - Early Bird 199€',
 
 ];

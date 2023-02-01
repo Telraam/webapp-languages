@@ -40,6 +40,8 @@ return [
     'buy-a-telraam' => 'Buy a Telraam',
     'get-started' => ' Get started',
     'get-in-touch' => 'Get in touch',
+    'pre-order' => 'Pre-order',
+    'order' => 'Oorder',
 
     // includes
     'include-title' => 'Includes:',
@@ -113,4 +115,6 @@ return [
     // table buttons
     'contact-schedule-talk' => 'Schedule a talk with us',
 
+    'individual' => 'Individual',
+    'professional' => 'Professional',
 ];
