@@ -21,11 +21,9 @@ return [
     'edit-what-you-see' => 'Wijzig wat je camera kan registreren',
 
     // page serial number /edit-serial-number
-    'info-serial-extensive' => 'Elke Telraam heeft een uniek serienummer. Bij het opstarten van uw Telraam kunt u uw serienummer vinden op <a href="http://my.telraam.net">my.telraam.net</a>. Het bevat 15 nummers. De twee extra karakters functioneren als controlekarakters.',
-    'info-how-to-access' => 'Hoe krijgt u toegang tot uw Telraam apparaat?
-     <ol><li>Je Telraam stekker uittrekken en weer insteken</li>
-<li>Op je mobiele toestel via de wifi verbinden met Telraam-wifi (wachtwoord: TelraamTelraam)</li>
-<li>Met datzelfde toestel op de Telraam wifi surfen naar <a href="http://my.Telraam.net">my.Telraam.net</a> (als dat niet werkt voor jou, ga naar http://192.168.254.1)</li></ol>',
+    'info-serial-extensive-v1' => 'Maak verbinding met uw Telraam toestel via de hotspot en vind het serienummer onderaan op <a href=http://my.telraam.net>http://my.telraam.net</a>.
+Dit bevat 15 cijfers en 2 validatietekens.<br> <a href="https://telraam.zendesk.com/hc/nl/articles/5627684662673-Serienummer-nakijken" class="tiny">Controleer het serienummer</a></ol>',
+    'info-serial-extensive-S2' => 'Het serienummer bestaat uit 15 cijfers en 2 validatietekens die onder de QR-code op uw toestel staan.',
 
     // page serial number /new-serial-number
     'title-new-mac' => 'Je hebt een nieuw Telraam-toestel ontvangen?',

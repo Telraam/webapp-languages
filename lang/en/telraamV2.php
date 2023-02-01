@@ -53,7 +53,7 @@ return [
     'section-features-block7-title' => 'S2 firmware evolution!',
     'section-features-block7-subtitle'     => 'Over the air updates',
     'section-features-block7-body' => '<p>The firmware of Telraam S2 is constantly evolving to provide the best possible experience for users. Updates are done remotely over the air (OTA) to ensure the device is always running the latest version. Our current focus is on implementing night counts for motorized vehicles, a highly requested feature, and on further improving count precision and accuracy.</p>',
-    
+
     'section-features-block8-title' => 'Make it count!',
     'section-features-block8-subtitle'     => 'A solution for every street',
     'section-features-block8-body' => '<p>Whether you are a private citizen in need of a single device for your street, or a professional looking to setup a whole network in your city, Telraam is there to help. Each device is ready to start counting. Packages include tools for building and managing local networks, whether for a small neighbourhood or a metropolis. Check out the options that best suit you below to get started.</p>',
@@ -92,8 +92,14 @@ return [
 
     // modal
     'modal-title'    => 'Sign up to receive the latest Telraam S2 updates',
-    'modal-body'    => 'Please complete this short form and a Telraam team member will be in touch'
+    'modal-body'    => 'Please complete this short form and a Telraam team member will be in touch',
 
+    // 10 package promo
 
+    'section-package-title' => 'You want to contribute to citizen science with your own device?',
+    'section-package-subtitle' => 'Subscription is on us.',
+    'section-package-body' => 'Our mission is to increase and broaden knowledge around mobility. Telraam is a perfect tool to conduct and share traffic counts in an accessible way.  Open data is our moto.
+To make our mission as democratic as possible, individuals can buy a device without being responsible for data or support costs.',
+    'section-package-button' => 'Pre-order - Early Bird 199€',
 
 ];

@@ -16,6 +16,8 @@ return [
     'btn-next'              => 'Confirmez',
 
      // valid mac
-    "valid-mac-info"    => "Bien, le numéro de série que vous avez entré est correct !",
-    "invalid-mac-info"  => 'Le numéro de série que vous avez entré semble contenir une faute de frappe. Veuillez vérifier ce qui a été mentionné au bas de cette page lorsque vous naviguez sur votre Telraam'
+    "valid-mac-info"    => "Bien, le numéro de série que vous avez entré est correct!",
+    "invalid-mac-info"  => 'Le numéro de série que vous avez entré semble contenir une faute de frappe.',
+    "incomplete-mac-info"  => 'Nous attendons 15 chiffres et 2 caractères de validation (1234-5678-9012-123AB)',
+
 ];

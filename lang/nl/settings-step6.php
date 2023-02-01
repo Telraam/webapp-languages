@@ -3,9 +3,9 @@
 return [
     'nav-title'        => 'Registreer',
     'title'            => 'Registreer je Telraam',
-    'subtitle-1'       => 'Serienumer',
+    'subtitle-1'       => 'Serienummer',
     'intro'            => 'Vul het serienummer van je Telraam in',
-    'serienummer-field'  => 'Serienumer',
+    'serienummer-field'  => 'Serienummer',
     'serienummer-field-more' => 'Geef hier het serienummer in  (1234-1234-1234-123AB)',
     'subtitle-2'        => 'Vul hier ook in wat je Telraam kan tellen ',
     'other-side'        => 'Overkant (rechts naar links) ',
@@ -17,6 +17,7 @@ return [
 
     // valid mac
     'valid-mac-info'    => 'Prima, het serienummer dat je hebt opgegeven is correct!',
-    'invalid-mac-info'  => 'Het serienummer dat je hebt opgegeven lijkt een typfout te bevatten. Kijk goed na wat onderaan vermeld stond bij het browsen naar je Telraam-toestel.'
+    'invalid-mac-info'  => 'Het serienummer dat je hebt opgegeven lijkt een typfout te bevatten.',
+    'incomplete-mac-info'  => 'We verwachten 15 nummers en 2 validatietekens (bv 1234-5678-9012-123AB)',
 
 ];

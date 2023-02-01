@@ -32,4 +32,17 @@ return [
     'selection-not-reviewed' => 'Welcome to the Telraam registration! You have registered for participation, but the selection is not yet completed, please be patient.',
 
 
+    /* select v1 or S2 */
+    'please-select-device' => 'Please select which device you have',
+
+    'title-v1' => 'V1',
+    'description-v1' => 'Raspberry Pi with camera. Needs a wifi connection and good view on the street.',
+    'start-btn-v1' => 'I have a v1',
+
+    'title-S2' => 'S2',
+    'description-S2' => 'Custom and newly build hardware for traffic counting.  No wifi needed but does need a proper view on the street.',
+    'start-btn-S2' => 'I have the S2',
+
+
 ];
+

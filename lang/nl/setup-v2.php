@@ -61,12 +61,15 @@ belemmeren.<br><br>Er mogen geen vliegenramen, gordijnen of rolluiken voor het r
 
     // Step 5: gps
     'step-5-long-title' => 'Laatste stap! Bevestig je locatie',
-    'step-5-description-manual'  => "Laat ons weten wat je locatie is. Zoom in om je straat te vinden, selecteer het juiste straatsegment en aan welke kant van de straat je huis zich bevindt.",
+    'step-5-description-manual'  => "Laat ons je locatie weten. Zoom in om je straat te vinden, selecteer het juiste straatsegment en aan welke kant van de straat je huis zich bevindt.",
 
 
     // Step 6: done
     'step-6-long-title' => 'Klaar!',
-    'step-6-description'  => "Veel telplezier gewenst! Je kan ons steeds contacteren op <a href='mailto:support@telraam.net'>support@telraam.net</a> met feedback of vragen. <br><br> Neem een kijkje op <a href='talks.telraam.net'>Telraam Talks</a> en deel je ervaringen met andere tellers.",
+    'step-6-description'  => 'Veel telplezier gewenst! Binnen een uur zou je Telraam actief moeten zijn en kan je de eerste data zien in de grafieken. 
+ <ul class=jump-in><li>Je kan jouw straat vergelijken met andere gelijkaardige straten, vul daarvoor eerst je <a href=https://telraam.net/nl/admin/mijn-eigen-telraam/street-profile>Straatprofiel</a> in. 
+ </li><li>Tenslotte kan je een kijkje nemen op <a href=https://talks.telraam.net target=_blank>Telraam Talks</a> en je ervaringen delen met andere tellers.</li></ul>
+<br> Je kan ons steeds contacteren op <a href="mailto:support@telraam.net">support@telraam.net</a> met feedback of vragen.',
 
     // General
     'save'  => 'Opslaan',

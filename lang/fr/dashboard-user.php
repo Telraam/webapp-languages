@@ -30,6 +30,16 @@ petite échelle. <a href=https://telraam.net/fr/governments target=_blank>Plus d
     'selection-not-selected' => "Bienvenue à l'enregistrement Telraam! Vous vous étiez inscrit pour participer, mais malheureusement vous n'avez pas été sélectionné. Vous pouvez toujours acheter votre propre appareil et commencer à travailler",
     'selection-not-reviewed' => "Bienvenue à l'enregistrement Telraam! Vous vous êtes inscrit pour participer, mais la sélection n'est pas encore terminée, soyez patient",
 
+    /* select v1 or S2 */
+    'please-select-device' => 'Veuillez sélectionner l\'appareil que vous possédez',
+
+    'title-v1' => 'V1',
+    'description-v1' => 'Raspberry Pi avec caméra. Il faut une connexion wifi et une bonne vue sur la rue.',
+    'start-btn-v1' => 'J\'ai une v1',
+
+    'title-S2' => 'S2',
+    'description-S2' => 'Matériel personnalisé et nouvellement construit pour le comptage du trafic.  Pas besoin de wifi mais il faut une bonne vue.',
+    'start-btn-S2' => 'J\'ai une S2',
 
 ];
 

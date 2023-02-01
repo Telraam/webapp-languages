@@ -52,7 +52,7 @@ return [
     'section-features-block7-title' => 'Évolution du firmware du S2',
     'section-features-block7-subtitle'     => '"Over the air" updates',
     'section-features-block7-body' => '<p>Le micrologiciel du Telraam S2 est en constante évolution pour offrir la meilleure expérience possible aux utilisateurs. Les mises à jour sont effectuées de manière autonome "over the air" (OTA) afin de garantir que l\'appareil fonctionne toujours avec la dernière version. Actuellement, nous nous concentrons sur l\'implémentation des comptages de nuit pour les véhicules motorisés, une fonctionnalité très demandée par nos utilisateurs, et sur l\'amélioration de notre précision et de notre exactitude.</p>',
-    
+
     'section-features-block8-title' => 'Comptez avec nous!',
     'section-features-block8-subtitle'     => 'Une solution pour chaque rue',
     'section-features-block8-body' => '<p>Que vous soyez un particulier qui a besoin d\'un seul appareil pour sa rue ou un professionnel qui souhaite mettre en place un réseau complet dans sa ville, Telraam est là pour vous aider. Vous pouvez également choisir des outils pour construire et gérer des réseaux locaux, que ce soit pour un petit quartier ou une métropole. Consultez l\'option ci-dessous qui vous convient le mieux pour commencer.</p>',
@@ -91,8 +91,16 @@ return [
 
     // modal
     'modal-title'    => 'Inscrivez-vous pour recevoir les dernières mises à jour de Telraam S2',
-    'modal-body'    => 'Remplissez ce formulaire et quelqu\'un de Telraam vous contactera.'
+    'modal-body'    => 'Remplissez ce formulaire et quelqu\'un de Telraam vous contactera.',
 
-
+    // 10 package promo
+    // 10 package promo
+    'section-package-title' => 'Mettez en place un réseau simple et opérationnel dès aujourd\'hui',
+    'section-package-subtitle' => 'L\'offre comprend 10 appareils Telraam S2 avec accès au tableau de bord du réseau pendant 1 an. ',
+    'section-package-body' => 'Besoin de lancer votre projet de surveillance du trafic? Pas encore sûr de tout ce dont vous aurez besoin ?
+       Lancez votre projet avec un package complet qui vous permet
+     10 appareils connectés et tous les rapports dont vous aurez besoin pour décider comment développer votre réseau. <br>
+     Après la commande, nous vous contacterons afin de vous guider à travers notre flux conseillé. ',
+    'section-package-button' => 'Pré-commander',
 
 ];
