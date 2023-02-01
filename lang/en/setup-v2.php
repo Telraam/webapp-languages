@@ -70,7 +70,7 @@ No fly screens, curtains or roller shutters that will block the camera.',
 <li>You can now compare your street with similar streets, just complete your <a href='https://telraam.net/en/admin/mijn-eigen-telraam/street-profile'>Street profile</a>  first.</li>
 <li>Join other counters on <a href='http://talks.telraam.net'>Telraam Talks</a> to make the most of your device.</li>
 </ul>  
-<br> Feel free to get in touch with us at <a href='mailto:support@telraam.net'>support@telraam.net</a> with any feedback or questions.",
+<br><br> Feel free to get in touch with us at <a href='mailto:support@telraam.net'>support@telraam.net</a> with any feedback or questions.",
 
     // General
     'save'  => 'Save',
