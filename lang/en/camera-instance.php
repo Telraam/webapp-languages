@@ -20,12 +20,9 @@ return [
     'edit-what-you-see' => 'Edit what you see',
 
     // page serial number /edit-serial-number
-    'info-serial-extensive' => 'Every Telraam has unique serial number. When starting up your Telraam, you can find your serial on <a href="http://my.telraam.net">my.telraam.net</a>. It contains 15 numbers.
- The two extra characters function as control characters.',
-     'info-how-to-access' => 'How can you access your Telraam device?
-     <ol><li>Unplug your Telraam and plug it back in again</li>
-<li>Connect on your mobile device with Telraam Wi-Fi (password: TelraamTelraam)</li>
-<li>Using the same mobile device on the Telraam Wi-Fi, go to <a href="http://my.Telraam.net">my.Telraam.net</a> (if this doesn\'t work for you, go to http://192.168.254.1 )</li></ol>',
+    'info-serial-extensive-v1' => 'Connect with your Telraam device through the hotspot and find the serial on <a href=http://my.telraam.net>http://my.telraam.net</a>
+The serial number contains 15 numbers and 2 validation characters.<br> <a href="https://telraam.zendesk.com/hc/en-us/articles/5627684662673-Verify-serial-number" class="tiny">Verify serial number</a></ol>',
+    'info-serial-extensive-S2' => 'The serial number contains 15 numbers and 2 validation characters found below the QR code on your device.',
 
     // page serial number /new-serial-number
     'title-new-mac' => 'You received a new Telraam device?',

@@ -3,9 +3,9 @@
 return [
     'nav-title'        => 'Registreer',
     'title'            => 'Registreer je Telraam',
-    'subtitle-1'       => 'Serienumer',
+    'subtitle-1'       => 'Serienummer',
     'intro'            => 'Vul het serienummer van je Telraam in',
-    'serienummer-field'  => 'Serienumer',
+    'serienummer-field'  => 'Serienummer',
     'serienummer-field-more' => 'Geef hier het serienummer in  (1234-1234-1234-123AB)',
     'subtitle-2'        => 'Vul hier ook in wat je Telraam kan tellen ',
     'other-side'        => 'Overkant (rechts naar links) ',
