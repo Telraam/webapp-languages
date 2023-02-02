@@ -98,13 +98,13 @@ return [
 
     'section-package-title' => 'Need traffic data for your street?',
     'section-package-subtitle' => 'Get counting today',
-    'section-package-body' => 'Our mission is to connect local residents, like you, with the professionals who design & manage our streets through the power of Open Data. Buy a device and start collecting data so you too can join the local conversation and make your view count!
+    'section-package-body' => '<p>Our mission is to connect local residents, like you, with the professionals who design & manage our streets through the power of Open Data. Buy a device and start collecting data so you too can join the local conversation and make your view count!</p>
 
-While Telraam sets up networks, both large and small, to gather useful data for areas like a neighbourhood or even a city, there is an important role for individual explorers and citizen scientists who can raise local issues.
+<p>While Telraam sets up networks, both large and small, to gather useful data for areas like a neighbourhood or even a city, there is an important role for individual explorers and citizen scientists who can raise local issues.</p>
 
-For this reason, Telraam uses revenue from our contracts to cover the costs of managing your device - for life! As a private citizen, you can buy a single device and gather the data for as long as you like to use for your own projects.
+<p>For this reason, Telraam uses revenue from our contracts to cover the costs of managing your device - for life! As a private citizen, you can buy a single device and gather the data for as long as you like to use for your own projects.</p>
 
-Because of this subsidy and support, this is strictly for individual, private citizens. If you are an organisation involved in campaigning on, consulting for, or managing local transport and mobility projects, then please check out our ‘Professionals’ packages.',
+<p>Because of this subsidy and support, this is strictly for individual, private citizens. If you are an organisation involved in campaigning on, consulting for, or managing local transport and mobility projects, then please check out our ‘Professionals’ packages.</p>',
     'section-package-button' => 'Pre-order - Early Bird 199€',
 
 ];
