@@ -10,16 +10,16 @@ return [
     // ------------------------------------------------------
     'title-block-1' => 'Overview',
 
-    'pack-individual-title' => 'Individual',
+    'pack-individual-title' => 'Personal',
     'pack-individual-subtitle' => 'For monitoring a single location',
     'pack-individual-number' => '1 device',
 
     'pack-standard-title' => 'Starter',
-    'pack-standard-subtitle' => 'Powerful management tools for local networks',
+    'pack-standard-subtitle' => 'Management tools to launch small local networks',
     'pack-standard-number' => 'Up to 5 devices',
 
-    'pack-enhanced-title' => 'Enhanced',
-    'pack-enhanced-subtitle' => 'Save time with premium analytics, reporting and management tools for extensive projects',
+    'pack-enhanced-title' => 'Network',
+    'pack-enhanced-subtitle' => 'Premium analytics, reporting and management tools for a range of projects',
     'pack-enhanced-number' => 'Up to 50 devices',
 
     'pack-custom-title' => 'Custom',
@@ -41,7 +41,7 @@ return [
     'get-started' => ' Get started',
     'get-in-touch' => 'Get in touch',
     'pre-order' => 'Pre-order',
-    'order' => 'Oorder',
+    'order' => 'Order',
 
     // includes
     'include-title' => 'Includes:',
@@ -49,15 +49,16 @@ return [
     'individual-include-2' => 'Basic API access',
     'individual-include-3' => 'Email support',
 
-    'standard-include-1' => 'All features of Individual',
+    'standard-include-1' => 'Personal dashboard',
+    'standard-include-2' => 'Basic API access',
+    'standard-include-3' => 'Email support',
 
-
-    'enhanced-include-1' => 'All features from Standard',
+    'enhanced-include-1' => 'All features from Starter',
     'enhanced-include-2' => 'Premium analytics tools',
     'enhanced-include-3' => 'Premium reports',
     'enhanced-include-4' => 'Manage multiple tracks',
 
-    'custom-include-1' => 'All features from Enhanced',
+    'custom-include-1' => 'All features from Network',
     'custom-include-2' => 'Bespoke branding options',
     'custom-include-3' => 'Project support',
 
@@ -114,6 +115,6 @@ return [
     // table buttons
     'contact-schedule-talk' => 'Schedule a talk with us',
 
-    'individual' => 'Individual',
+    'individual' => 'Personal',
     'professional' => 'Professional',
 ];
