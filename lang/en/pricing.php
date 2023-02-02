@@ -14,9 +14,9 @@ return [
     'pack-individual-subtitle' => 'For monitoring a single location',
     'pack-individual-number' => '1 device',
 
-    'pack-standard-title' => 'Standard',
+    'pack-standard-title' => 'Starter',
     'pack-standard-subtitle' => 'Powerful management tools for local networks',
-    'pack-standard-number' => 'Up to 50 devices',
+    'pack-standard-number' => 'Up to 5 devices',
 
     'pack-enhanced-title' => 'Enhanced',
     'pack-enhanced-subtitle' => 'Save time with premium analytics, reporting and management tools for extensive projects',
@@ -50,8 +50,7 @@ return [
     'individual-include-3' => 'Email support',
 
     'standard-include-1' => 'All features of Individual',
-    'standard-include-2' => 'Network dashboard',
-    'standard-include-3' => 'Priority support',
+
 
     'enhanced-include-1' => 'All features from Standard',
     'enhanced-include-2' => 'Premium analytics tools',
