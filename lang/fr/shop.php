@@ -4,7 +4,7 @@ return [
     'title' => 'Boutique',
 
      'intro-professional' => 'Obtenez un réseau simple opérationnel dès aujourd\'hui<br>
- <p><a href="https://telraam.net/en/contact-us">Contactez-nous</a> pour parler à l\'un des membres de l\'équipe afin que nous puissions vous aider à construire le réseau qui vous convient.</p>>
+ <p><a href="https://telraam.net/en/contact-us">Contactez-nous</a> pour parler à l\'un des membres de l\'équipe afin que nous puissions vous aider à construire le réseau qui vous convient.</p>
 <p>Pour vous permettre de compter RAPIDEMENT, nous proposons actuellement des formules toutes prêtes dans la boutique. </p>',
 
     'more-professional' => '

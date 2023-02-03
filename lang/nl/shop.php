@@ -6,7 +6,7 @@ return [
     'title'           => 'Shop',
 
     'intro-professional' => 'Start vandaag nog met je netwerk.<br>
-     <p><a href="https://telraam.net/nl/contact-us">Neem contact op</a> zodat we je kunnen helpen om het juiste netwerk voor jou op te zetten.</p>>
+     <p><a href="https://telraam.net/nl/contact-us">Neem contact op</a> zodat we je kunnen helpen om het juiste netwerk voor jou op te zetten.</p>
 <p>Om je zo SNEL mogelijk aan het tellen te krijgen, hebben we een aantal kant-en-klare netwerkpaketten.</p>',
 
     'more-professional' => '<ul>
