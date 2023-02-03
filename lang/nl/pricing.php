@@ -41,6 +41,7 @@ return [
     'get-started' => 'Aan de slag',
     'get-in-touch' => 'Neem contact op',
     'pre-order' => 'Pre-order',
+    'pre-order-note' => 'Geschatte leveringsdatum: 15 maart 2023',
     'order' => 'Bestel',
 
     // includes
