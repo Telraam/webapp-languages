@@ -93,14 +93,17 @@ return [
     'modal-title'    => 'Inscrivez-vous pour recevoir les dernières mises à jour de Telraam S2',
     'modal-body'    => 'Remplissez ce formulaire et quelqu\'un de Telraam vous contactera.',
 
-    // 10 package promo
-    // 10 package promo
-    'section-package-title' => 'Mettez en place un réseau simple et opérationnel dès aujourd\'hui',
-    'section-package-subtitle' => 'L\'offre comprend 10 appareils Telraam S2 avec accès au tableau de bord du réseau pendant 1 an. ',
-    'section-package-body' => 'Besoin de lancer votre projet de surveillance du trafic? Pas encore sûr de tout ce dont vous aurez besoin ?
-       Lancez votre projet avec un package complet qui vous permet
-     10 appareils connectés et tous les rapports dont vous aurez besoin pour décider comment développer votre réseau. <br>
-     Après la commande, nous vous contacterons afin de vous guider à travers notre flux conseillé. ',
-    'section-package-button' => 'Pré-commander',
+    // individual package promo
+    'section-package-title' => 'Vous avez besoin de données de trafic pour votre rue?',
+    'section-package-subtitle' => 'Comptez aujourd\'hui',
+    'section-package-body' => '<p>Notre mission est de connecter les résidents locaux, comme vous, avec les professionnels qui conçoivent et gèrent nos rues grâce à la puissance des données ouvertes. Achetez un appareil et commencez à collecter des données pour pouvoir vous aussi participer à la conversation locale et faire en sorte que votre vue compte !</p>
+
+<p>Alors que Telraam met en place des réseaux, petits et grands, pour recueillir des données utiles pour des zones comme un quartier ou même une ville, les explorateurs individuels et les scientifiques citoyens ont un rôle important à jouer pour soulever des problèmes locaux.</p>
+
+<p>Pour cette raison, Telraam utilise les revenus de nos contrats pour couvrir les coûts de gestion de votre appareil - à vie! En tant que particulier, vous pouvez acheter un seul appareil et collecter les données aussi longtemps que vous souhaitez les utiliser pour vos propres projets.</p>
+
+<p>En raison de cette subvention et de ce soutien, ceci est strictement réservé aux citoyens privés. Si vous êtes une organisation impliquée dans la campagne, la consultation ou la gestion de projets de transport et de mobilité locaux, veuillez consulter nos packages "Professionnels".</p>',
+    'section-package-button' => 'Précommande - Early Bird 199€',
+    'section-package-warning' => 'Date de livraison estimée 15 mars 2023 - lot limité',
 
 ];

@@ -1,9 +1,12 @@
 <?php
-
 return [
 
-    'title'           => 'Shop',
+    'title' => 'Boutique',
 
-    'intro'          => 'Nous proposons un forfait de démarrage simple d\'un appareil ou de 10 appareils via notre boutique.<br>
-     N\'hésitez pas à entrer en <a href="https://telraam.net/fr/contact-us">nous contacter</a> pour plus d\'informations ou des questions.'
+     'intro-professional' => 'Obtenez un réseau simple opérationnel dès aujourd\'hui<br>
+Nous vous proposons deux forfaits tout de suite en boutique. <br>
+Un forfait comprend 10 appareils Telraam S2 avec accès au tableau de bord réseau pendant 1 an, un autre est un forfait de démarrage pour 6 mois avec 4 appareils.<br><br>
+     N\'hésitez pas à entrer en <a href=https://telraam.net/fr/contact-us>nous contacter</a> pour des devis, des informations ou des questions. Nous aimons avoir de vos nouvelles',
+
+     'intro-individual' => 'En tant que particulier, vous pouvez acheter un appareil pour votre propre rue à un tarif réduit. La date d\'expédition estimée est le 15 mars 2023'
 ];

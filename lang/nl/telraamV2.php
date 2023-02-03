@@ -93,13 +93,24 @@ return [
     'modal-title'    => 'Meld je aan om de nieuwste Telraam S2 updates te ontvangen',
     'modal-body'    => 'Vul dit korte formulier in en iemand van Telraam zal contact met je opnemen',
 
-    // 10 package promo
-    'section-package-title' => 'Zet vandaag nog een eenvoudig netwerk op',
-    'section-package-subtitle' => 'Pakket bevat 10 Telraam S2 devices met toegang tot het netwerkdashboard gedurende 1 jaar',
-    'section-package-body' => 'Wilt je starten met verkeersmonitoringproject ? Weet je nog niet zeker wat je allemaal nodig hebt?
-       Start een klein project met een compleet 10 devices en alle rapportage die u nodig heeft om te beslissen hoe
-       u uw netwerk wilt laten groeien. <br>
-     Na de bestelling nemen we contact met je op, zodat we je door onze geadviseerde flow leiden.',
-    'section-package-button' => 'Pre-order',
+    // individual package promo
+    'section-package-title' => 'Verkeersgegevens nodig voor jouw straat ?',
+    'section-package-subtitle' => 'Begin vandaag met tellen',
+    'section-package-body' => '<p>Onze missie is om lokale bewoners, zoals jij, te verbinden met de professionals die onze straten
+ontwerpen en beheren door de kracht van Open Data. Koop een toestel en begin zelf met het verzamelen van gegevens, zodat ook u kunt
+deelnemen aan het lokale gesprek en uw tellingen direct kunt laten tellen!</p>
+
+<p>Terwijl Telraam netwerken opzet, zowel grote als kleine, om nuttige gegevens te verzamelen voor gebieden zoals een wijk of zelfs een
+stad, is er een belangrijke rol weggelegd voor individuele pioniers en burgerwetenschappers die lokale kwesties aan de orde kunnen stellen.</p>
+
+<p>Om deze reden gebruikt Telraam inkomsten uit onze contracten om de kosten van het beheer van uw toestel te dekken - voor het leven!
+Als particulier kunt u een enkel apparaat kopen en de gegevens verzamelen zolang u wilt voor uw eigen projecten.</p>
+
+<p>Vanwege deze subsidie en ondersteuning is dit strikt voor individuele, particuliere burgers. Als u een organisatie
+bent die zich bezighoudt met het voeren van campagnes voor, het adviseren over of het beheren van lokale transport- en
+mobiliteitsprojecten, bekijk dan onze Professionals-pakketten.</p>',
+
+     'section-package-button' => 'Pre-order - Early Bird 199€',
+    'section-package-warning' => 'Geschatte verzenddatum 15 maart 2023 - beperkte stock',
 
 ];

@@ -14,25 +14,25 @@ return [
     'pack-individual-subtitle' => 'Tel als burger een locatie',
     'pack-individual-number' => '1 toestel',
 
-    'pack-standard-title' => 'Standaard',
+    'pack-standard-title' => 'Starter',
     'pack-standard-subtitle' => 'Krachtige tools voor lokale netwerken',
-    'pack-standard-number' => 'Tot 50 toestellen',
+    'pack-standard-number' => 'Tot 5 toestellen',
 
-    'pack-enhanced-title' => 'Enhanced',
-    'pack-enhanced-subtitle' => 'Bespaar tijd met premium analyse-, rapportage- en beheertools voor uitgebreide projecten',
+    'pack-enhanced-title' => 'Netwerk',
+    'pack-enhanced-subtitle' => 'Premium analyse-, rapportage- en beheertools voor uitgebreide projecten',
     'pack-enhanced-number' => 'Tot  50 toestellen',
 
-    'pack-custom-title' => 'Custom',
+    'pack-custom-title' => 'Op maat',
     'pack-custom-subtitle' => 'Oplossingen voor de specifieke eisen van grotere projecten',
     'pack-custom-number' => '50+ toestellen',
 
     'per-device' => 'Per toestel',
     'incl-vat' => '(incl BTW)',
     'excl-vat' => '(ex BTW)',
-    'one-time-hardware' => 'Een malige hardwarekost',
+    'one-time-hardware' => 'Eenmalige hardwarekost',
     'month' => 'maand',
     'subscription' => 'abonnement',
-    'network-subscription' => 'Jaarlijks networkabonnement',
+    'network-subscription' => 'Jaarlijks abonnement',
     'tailer-made' => 'Oplossingen op maat',
     'free' => 'Gratis',
 
@@ -40,6 +40,8 @@ return [
     'buy-a-telraam' => 'Koop een Telraam',
     'get-started' => 'Aan de slag',
     'get-in-touch' => 'Neem contact op',
+    'pre-order' => 'Pre-order',
+    'order' => 'Bestel',
 
     // includes
     'include-title' => 'Inclusief:',
@@ -47,16 +49,16 @@ return [
     'individual-include-2' => 'Basis API toegang',
     'individual-include-3' => 'Email support',
 
-    'standard-include-1' => 'Alle kenmerken van Individueel',
-    'standard-include-2' => 'Netwerk dashboard',
-    'standard-include-3' => 'Prioriteit support',
+    'standard-include-1' => 'Persoonlijk dashboard',
+    'standard-include-2' => 'Basis API toegang',
+    'standard-include-3' => 'Email supportt',
 
-    'enhanced-include-1' => 'Alle kenmerken van Standaard',
+    'enhanced-include-1' => 'Alle kenmerken van Starter',
     'enhanced-include-2' => 'Premium analytische tools',
     'enhanced-include-3' => 'Premium rapportering',
     'enhanced-include-4' => 'Beheer meerdere trajecten',
 
-    'custom-include-1' => 'Alle kenmerken van Enhanced',
+    'custom-include-1' => 'Alle kenmerken van Netwerk',
     'custom-include-2' => 'Branding op maat',
     'custom-include-3' => 'Project ondersteuning',
 
@@ -112,5 +114,6 @@ return [
 
     // table buttons
     'contact-schedule-talk' => 'Plan een gesprek in',
-
+    'individual' => 'Persoonlijk',
+    'professional' => 'Professioneel',
 ];
