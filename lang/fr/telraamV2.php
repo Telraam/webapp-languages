@@ -104,5 +104,6 @@ return [
 
 <p>En raison de cette subvention et de ce soutien, ceci est strictement réservé aux citoyens privés. Si vous êtes une organisation impliquée dans la campagne, la consultation ou la gestion de projets de transport et de mobilité locaux, veuillez consulter nos packages "Professionnels".</p>',
     'section-package-button' => 'Précommande - Early Bird 199€',
+    'section-package-warning' => 'Date de livraison estimée 15 mars 2023 - lot limité',
 
 ];

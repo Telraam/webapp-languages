@@ -105,5 +105,6 @@ return [
 
 <p>Because of this subsidy and support, this is strictly for individual, private citizens. If you are an organisation involved in campaigning on, consulting for, or managing local transport and mobility projects, then please check out our ‘Professionals’ packages.</p>',
     'section-package-button' => 'Pre-order - Early Bird 199€',
+    'section-package-warning' => 'Estimated ship date 15 march 2023 - limited batch',
 
 ];

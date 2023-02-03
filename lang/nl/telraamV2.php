@@ -111,5 +111,6 @@ bent die zich bezighoudt met het voeren van campagnes voor, het adviseren over o
 mobiliteitsprojecten, bekijk dan onze Professionals-pakketten.</p>',
 
      'section-package-button' => 'Pre-order - Early Bird 199€',
+    'section-package-warning' => 'Geschatte verzenddatum 15 maart 2023 - beperkte stock',
 
 ];
