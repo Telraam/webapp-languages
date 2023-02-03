@@ -32,7 +32,7 @@ return [
     'one-time-hardware' => 'Coût matériel unique',
     'month' => 'mois',
     'subscription' => 'Abonnement',
-    'network-subscription' => 'Abonnement annuel au réseau',
+    'network-subscription' => 'Abonnement annuel',
     'tailer-made' => 'Solutions personnalisées',
     'free' => 'Gratuit',
 
@@ -69,7 +69,7 @@ return [
     'subscription-software' => 'Abonnement aux logiciels',
     'one-time-hardware-S2' => 'Coût unique du matériel (Telraam S2)',
     'on-request' => 'Sur demande',
-    
+
     'usage' => 'Utilisation',
     'who-is-this-for' =>  'Pour qui',
     'individual-citizens' => 'Citoyens individuels',

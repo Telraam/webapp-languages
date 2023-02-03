@@ -94,14 +94,12 @@ return [
     'modal-title'    => 'Sign up to receive the latest Telraam S2 updates',
     'modal-body'    => 'Please complete this short form and a Telraam team member will be in touch',
 
-    // 10 package promo
-
+    // individual package promo
     'section-package-title' => 'Need traffic data for your street?',
     'section-package-subtitle' => 'Get counting today',
-    'section-package-body' => '<p>Our mission is to connect local residents, like you, with the professionals who design & manage our streets through the power of Open Data. </p>
-    <p><strong>Buy a device and start collecting data so you too can join the local conversation and make your view count!</strong></p>
+    'section-package-body' => '<p>Our mission is to connect local residents, like you, with the professionals who design & manage our streets through the power of Open Data. Buy a device and start collecting data so you too can join the local conversation and make your view count!</p>
 
-<p>While Telraam sets up networks, large and small, to gather useful data for areas like a neighbourhood or even a city, there is always an important role for individual explorers and citizen scientists who can raise local issues.</p>
+<p>While Telraam sets up networks, both large and small, to gather useful data for areas like a neighbourhood or even a city, there is an important role for individual explorers and citizen scientists who can raise local issues.</p>
 
 <p>For this reason, Telraam uses revenue from our contracts to cover the costs of managing your device - for life! As a private citizen, you can buy a single device and gather the data for as long as you like to use for your own projects.</p>
 

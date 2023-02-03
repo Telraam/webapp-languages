@@ -32,7 +32,7 @@ return [
     'one-time-hardware' => 'One time hardware cost',
     'month' => 'month',
     'subscription' => 'Subscription',
-    'network-subscription' => 'Annual network subscription',
+    'network-subscription' => 'Annual subscription',
     'tailer-made' => 'Tailor made solutions',
     'free' => 'Free',
 

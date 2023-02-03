@@ -93,7 +93,7 @@ return [
     'modal-title'    => 'Meld je aan om de nieuwste Telraam S2 updates te ontvangen',
     'modal-body'    => 'Vul dit korte formulier in en iemand van Telraam zal contact met je opnemen',
 
-    // 10 package promo
+    // individual package promo
     'section-package-title' => 'Zet vandaag nog een eenvoudig netwerk op',
     'section-package-subtitle' => 'Pakket bevat 10 Telraam S2 devices met toegang tot het netwerkdashboard gedurende 1 jaar',
     'section-package-body' => 'Wilt je starten met verkeersmonitoringproject ? Weet je nog niet zeker wat je allemaal nodig hebt?

@@ -93,8 +93,7 @@ return [
     'modal-title'    => 'Inscrivez-vous pour recevoir les dernières mises à jour de Telraam S2',
     'modal-body'    => 'Remplissez ce formulaire et quelqu\'un de Telraam vous contactera.',
 
-    // 10 package promo
-    // 10 package promo
+    // individual package promo
     'section-package-title' => 'Mettez en place un réseau simple et opérationnel dès aujourd\'hui',
     'section-package-subtitle' => 'L\'offre comprend 10 appareils Telraam S2 avec accès au tableau de bord du réseau pendant 1 an. ',
     'section-package-body' => 'Besoin de lancer votre projet de surveillance du trafic? Pas encore sûr de tout ce dont vous aurez besoin ?
