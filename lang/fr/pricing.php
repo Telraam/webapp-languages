@@ -14,12 +14,12 @@ return [
     'pack-individual-subtitle' => 'Pour surveiller un seul endroit',
     'pack-individual-number' => '1 appareil',
 
-    'pack-standard-title' => 'Standard',
+    'pack-standard-title' => 'Starter',
     'pack-standard-subtitle' => 'Des outils pour gérer un réseau local',
-    'pack-standard-number' => 'Jusqu\'à 50 appareils',
+    'pack-standard-number' => 'Jusqu\'à 5 appareils',
 
-    'pack-enhanced-title' => 'Optimisé',
-    'pack-enhanced-subtitle' => 'Gagnez du temps grâce à des outils d\'analyse et de gestion de premier ordre pour des projets plus complexes',
+    'pack-enhanced-title' => 'Réseau',
+    'pack-enhanced-subtitle' => 'Des outils d\'analyse et de gestion de premier ordre pour des projets plus complexes',
     'pack-enhanced-number' => 'Jusqu\'à 50 appareils',
 
     'pack-custom-title' => 'Personnalisé',
@@ -40,6 +40,8 @@ return [
     'buy-a-telraam' => 'Acheter un Telraam',
     'get-started' => 'Commencer',
     'get-in-touch' => 'Contactez-nous',
+   'pre-order' => 'Pre-order',
+    'order' => 'Commande',
 
     // includes
     'include-title' => 'Y compris:',
@@ -47,16 +49,16 @@ return [
     'individual-include-2' => 'Accès basique à l\'API',
     'individual-include-3' => 'Support par e-mail',
 
-    'standard-include-1' => 'Toutes les caractéristiques de l\'Individuel',
-    'standard-include-2' => 'Tableau de bord du réseau',
-    'standard-include-3' => 'Support prioritaire',
+    'standard-include-1' => 'Tableau de bord personnel',
+    'standard-include-2' => 'Accès basique à l\'API',
+    'standard-include-3' => 'Support par e-mail',
 
-    'enhanced-include-1' => 'Toutes les caractéristiques du Standard',
+    'enhanced-include-1' => 'Toutes les caractéristiques du Starter',
     'enhanced-include-2' => 'Outils d\'analyse de niveau supérieur',
     'enhanced-include-3' => 'Rapports de niveau supérieur',
     'enhanced-include-4' => 'Gérer plusieurs trajets',
 
-    'custom-include-1' => 'Toutes les fonctionnalités de l\'Optimisé',
+    'custom-include-1' => 'Toutes les fonctionnalités du réseau',
     'custom-include-2' => 'Une image de marque sur mesure',
     'custom-include-3' => 'Soutien du projet',
 
@@ -112,5 +114,6 @@ return [
 
     // table buttons
     'contact-schedule-talk' => 'Contactez-nous',
-
+    'individual' => 'Personnel',
+    'professional' => 'Professionnel',
 ];

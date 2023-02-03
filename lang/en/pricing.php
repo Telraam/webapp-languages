@@ -15,7 +15,7 @@ return [
     'pack-individual-number' => '1 device',
 
     'pack-standard-title' => 'Starter',
-    'pack-standard-subtitle' => 'Management tools to launch small local networks',
+    'pack-standard-subtitle' => 'Tools to launch small local networks',
     'pack-standard-number' => 'Up to 5 devices',
 
     'pack-enhanced-title' => 'Network',
