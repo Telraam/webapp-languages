@@ -38,7 +38,7 @@ return [
     'product-3-link' => 'Pay',
 
     // personal
-    'product-4-title' => 'Telraam S2 - Personnel',
+    'product-4-title' => 'Telraam S2 - Personal',
     'product-4-description' => 'Small, smart, and powerful. Effortless traffic counting on every street.',
     'product-4-price' => '€199',
     'product-4-note' => 'Incl vat',
