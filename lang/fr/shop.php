@@ -3,15 +3,10 @@ return [
 
     'title' => 'Boutique',
 
-     'intro-professional' => 'Obtenez un réseau simple, opérationnel dès aujourd\'hui<br>
- <p><a href="https://telraam.net/en/contact-us">Contactez-nous</a> pour parler à l\'un des membres de l\'équipe afin que nous puissions vous aider à construire le réseau qui vous convient.</p>
-<p>Pour vous permettre de compter RAPIDEMENT, nous proposons actuellement des formules toutes prêtes dans la boutique. </p>',
+     'intro-professional' => 'Obtenez un réseau simple, opérationnel dès aujourd\'hui. 
+Pour vous permettre de compter RAPIDEMENT, nous proposons actuellement des formules toutes prêtes dans la boutique.',
 
-    'more-professional' => '
-<ul>
-<li>un seul appareil avec 12 mois de connexion et de mises à jour </li>
-<li>un pack de démarrage pour 1 an avec 4 appareils</li>
-<li>un pack complet avec 10 appareils Telraam S2 avec accès au tableau de bord du réseau pendant 1 an</li></ul>',
+    'more-professional' => '',
 
     'outro-professional'  => 'N\'hésitez pas à <a href=https://telraam.net/fr/contact-us>nous contacter</a> pour des devis, des informations ou des questions. Nous aimons avoir de vos nouvelles',
      '<p>La date d\'expédition estimée: 15 mars 2023</p>',
