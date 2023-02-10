@@ -74,7 +74,7 @@ return [
     'spec-table-row-4-details' => '65 mm x 99 mm x 30 mm<br>(W x H x D)',
 
     'spec-table-row-5-subject'     => 'Power',
-    'spec-table-row-5-details' => '< 300 mW<br>',
+    'spec-table-row-5-details' => '1-1.5W<br>',
 
     'spec-table-row-6-subject'     => 'Privacy',
     'spec-table-row-6-details' => 'AI counts on the device<br>No videos or images are saved<br>',
@@ -96,7 +96,7 @@ return [
 
     // individual package promo
     'section-package-title' => 'Need traffic data for your street?',
-    'section-package-subtitle' => 'Get counting today',
+    'section-package-subtitle' => 'Start counting today',
     'section-package-body' => '<p>Our mission is to connect local residents, like you, with the professionals who design & manage our streets through the power of Open Data. Buy a device and start collecting data so you too can join the local conversation and make your view count!</p>
 
 <p>While Telraam sets up networks, both large and small, to gather useful data for areas like a neighbourhood or even a city, there is an important role for individual explorers and citizen scientists who can raise local issues.</p>

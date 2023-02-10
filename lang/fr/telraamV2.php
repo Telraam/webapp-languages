@@ -73,7 +73,7 @@ return [
     'spec-table-row-4-details' => '65 mm x 99 mm x 30 mm<br>(L x H x P)',
 
     'spec-table-row-5-subject'     => 'Puissance',
-    'spec-table-row-5-details' => '< 300 mW<br>',
+    'spec-table-row-5-details' => '1-1.5W<br>',
 
     'spec-table-row-6-subject'     => 'Confidentialité',
     'spec-table-row-6-details' => 'IA compte sur l\'appareil<br>Aucune vidéo ou image n\'est enregistrée<br>',
