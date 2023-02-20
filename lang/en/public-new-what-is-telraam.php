@@ -11,11 +11,7 @@ Get high quality, real-time and coninuous data, in collaboration with local citi
 Our Telraam sensor continuously monitors a street from a citizen’s window, providing crucial data on various modes of transport, including motorised vehicles, cyclists, pedestrians, and more. Telraam networks also create the opportunity for dialogue between traffic planners, local authorities and their most affected communities: the citizens who live on, and use, these streets, by turning traffic counting into an open and accessible citizen science project.<br><br>
 Whether you are a resident, a campaigner, or work for a public / private organisation or political authority, a Telraam citizen science project delivers reliable data to help you achieve your goals.
 ',
-    'section1-block1-text-col2' => 'Telraam is your citizen-powered solution for collecting multi-modal traffic data with a purpose-built, affordable, and user-friendly device.<br>
-<br>
-Our Telraam sensor continuously monitors a street from a citizen’s window, providing crucial data on various modes of transport, including motorised vehicles, cyclists, pedestrians, and more. Telraam networks also create the opportunity for dialogue between traffic planners, local authorities and their most affected communities: the citizens who live on, and use, these streets, by turning traffic counting into an open and accessible citizen science project.<br><br>
-Whether you are a resident, a campaigner, or work for a public / private organisation or political authority, a Telraam citizen science project delivers reliable data to help you achieve your goals.
-',
+
 
 
     'section2-block1-title' => 'Inform the debate',
