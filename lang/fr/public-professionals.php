@@ -10,19 +10,23 @@ return [
     'quote1' => 'Le conseil municipal de Courtrai souhaite prendre davantage de décisions basées sur des données. Nous le faisons déjà avec nos propres
     Nous le faisons déjà avec notre propre équipement de mesure, mais avec des techniques innovantes, comme Telraam, nous pouvons mesurer pendant longtemps à
     plusieurs endroits en même temps.',
-    'quote1-author' => 'Lotte Demeestere, expert en mobilité de la ville de Courtrai',
+    'quote1-author' => 'Lotte Demeestere',
+    'quote1-function' => 'Expert en mobilité de la ville de Courtrai',
 
     'quote2' => 'En analysant la norme V85, nous obtenons une indication du meilleur moment pour utiliser l\'appareil pour les contrôles de vitesse.
 Les contrôles de vitesse sont utilisés au mieux pour obtenir un effet maximal en vue de modifier le comportement des usagers de la route.',
-    'quote2-author' => 'David Tailleur, teamcoach quartier Police Lubbeek',
+    'quote2-author' => 'David Tailleur',
+    'quote2-function' => 'Teamcoach quartier Police Lubbeek',
 
     'quote3' => 'Telraam fournit non seulement des informations grâce aux données, mais aussi une compréhension grâce à l\'interaction avec les résidents, le gouvernement local et provincial.',
-    'quote3-author' => 'Eric van Dijk, Responsable de la politique de mobilité intelligente, Province d\'Utrecht',
+    'quote3-author' => 'Eric van Dijk',
+    'quote3-function' => 'Responsable de la politique de mobilité intelligente, Province d\'Utrecht',
 
     'quote4' => 'Telraam donne aux citoyens les données sur le trafic dont ils ont besoin pour amplifier leur voix, afin que
     les décideurs écoutent leurs préoccupations et que les conversations puissent aller au-delà des simples éléments
     subjectifs et anecdotiques.',
-    'quote4-author' => 'Professor Enda Hayes, Université de West of England',
+    'quote4-author' => 'Professor Enda Hayes',
+    'quote4-function' => 'Université de West of England',
 
     // contenu principal
     'section1-block1-title' => 'Des mesures fiables avec les citoyens',

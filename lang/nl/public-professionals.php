@@ -9,18 +9,22 @@ return [
 
     'quote1' => 'Het stadsbestuur van Kortrijk wil graag nog meer datagestuurde beslissingen nemen. We doen dit al met onze eigen
     meetapparatuur, maar met innovatieve technieken, zoals Telraam, kunnen we langdurig op meerdere locaties tegelijk meten.',
-    'quote1-author' => 'Lotte Demeestere, mobiliteitsexpert Stad Kortrijk',
+    'quote1-author' => 'Lotte Demeestere',
+    'quote1-function' => 'Mobiliteitsexpert Stad Kortrijk',
 
     'quote2' => 'Door analyse van de V85 norm krijgen we een indicatie, op welk tijdstip, het dispositief voor
     snelheidscontroles het best wordt ingezet om maximaal effect te ressorteren met het oog op gedragswijziging
     van de weggebruikers.',
-    'quote2-author' => 'David Tailleur, teamcoach wijkwerking Politiezone Lubbeek ',
+    'quote2-author' => 'David Tailleur',
+    'quote2-function' => 'Teamcoach wijkwerking Politiezone Lubbeek ',
 
     'quote3' => 'Telraam levert niet alleen inzichten door data maar ook begrip door de interactie met bewoners, de lokale en de provinciale overheid.',
-    'quote3-author' => 'Eric van Dijk, Beleidsmedewerker slimme mobiliteit, provincie Utrecht',
+    'quote3-author' => 'Eric van Dijk',
+    'quote3-function' => 'Beleidsmedewerker slimme mobiliteit, provincie Utrecht',
 
     'quote4' => 'Telraam geeft burgers de verkeersdata die ze nodig hebben om hun stem te versterken, zodat besluitvormers naar hun zorgen luisteren en de gesprekken verder kunnen gaan dan louter subjectief en anekdotisch bewijsmateriaal.',
-    'quote4-author' => 'Professor Enda Hayes, University of the West of England',
+    'quote4-author' => 'Professor Enda Hayes',
+    'quote4-function' => 'University of the West of England',
 
 
     // main content

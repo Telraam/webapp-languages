@@ -8,21 +8,25 @@ Get high quality, coninuous and real-time data, in collaboration with local citi
   'section1-block1-title' => 'What is Telraam?',
     'section1-block1-text' => 'Telraam is your citizen-powered solution for collecting multi-modal traffic data with a purpose-built, affordable, and user-friendly device.<br>
 <br>
-Our Telraam sensor continuously monitors a street from a citizen’s window, providing crucial data on various modes of transport, including motorised vehicles, cyclists, pedestrians, and more. Telraam networks also create the opportunity for dialogue between traffic planners, local authorities and their most affected communities: the citizens who live on - and use - these streets, by turning traffic counting into an open and accessible citizen science project.<br><br>
-Whether you are a local resident, a campaigner, an employee of a public or private organisation, or work for a government agency, a Telraam project delivers reliable data to help you achieve your goals.
-',
+Our Telraam sensor continuously monitors a street from a citizen’s window, providing crucial data on various modes of transport, including motorised vehicles, cyclists, pedestrians, and more. Telraam networks also create the opportunity for dialogue between traffic planners, local authorities and their most affected communities: the citizens who live on - and use - these streets, by turning traffic counting into an open and accessible citizen science project.<br><br>',
 
+    'section1-block1-extra' => 'Whether you are a local resident, a campaigner, an employee of a public or private
+     organisation, or work for a government agency, a Telraam project delivers reliable data to help you achieve your goals.',
 
+    // questions
+    'section2-intro-question'  => 'Rat running. School runs. Road safety. Air pollution. Active Travel. Complex issues require quantitative traffic data. How to get that?',
+    'section2-intro-answer'  => 'Telraam is your citizen science solution. We provide a user friendly web based tool, best practices for recruiting and an award winning api.',
 
+    // grey background
     'section2-block1-title' => 'Inform the debate',
-    'section2-block1-text' => 'Rat running. School runs. Road safety. Air pollution. Active Travel. Complex issues require quantitative traffic data to enhance our understanding and to find better solutions.<br>
+    'section2-block1-text' => 'Complex issues require quantitative traffic data to enhance our understanding and to find better solutions.<br>
     <br>
     Gathering data to get a full picture of transport, leisure, and social activity for a newtowrk of streets is often impossible or very expensive with traditional tools like pneumatic tubes or manual counts. <br>
 <br>
 Telraam sensors and networks provide a solution for citizens and their local representatives.',
 
 
-    'section2-block2-title' => 'Telraam is your citizen science solution',
+    'section2-block2-title' => 'Traffic data for better streets',
     'section2-block2-text' => 'Telraam creates custom networks of sensors that leverage the knowledge
     and access of local residents, using artificial intelligence (AI) technology to deliver consistent, timely, quality data for more efficient and effective infrastructure, traffic flow and traffic management plans.<br>
     <br>
@@ -32,11 +36,12 @@ Involving citizens and publishing open data brings researchers and policy makers
 
 // testimonials
     'quote1' => 'By analysing the V85 standard, we get an indication of the best times for performing speed checks. These checks are used to achieve a change in the behaviour of the road users.',
-    'quote1-author' => 'David Tailleur, teamcoach neighbourhood Police Lubbeek ',
+    'quote1-author' => 'David Tailleur',
+    'quote2-function' => 'Teamcoach wijkwerking Politiezone Lubbeek ',
 
     'quote2' => 'Telraam provides not only insights through data but also understanding through interaction with residents, and the local and provincial governments.',
-    'quote2-author' => 'Eric van Dijk, Beleidsmedewerker smart mobility, Province of Utrecht',
-
+    'quote2-author' => 'Eric van Dijk',
+    'quote2-function' => 'Beleidsmedewerker smart mobility, Province of Utrecht',
 
 
     'section3-block1-title' => 'How does the Telraam S2 device work?',
@@ -62,6 +67,27 @@ In no time you will have a detailed insight report on all the activity on your s
 <br>
 It’s your view. Make it count!',
 
-    'section3-cta' => 'Get in touch'
+
+
+    // use cases
+    'use-cases-title' => 'Use Cases',
+
+    'use-cases-case-1-title' => 'Circulation plan',
+    'use-cases-case-1-text' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+
+    'use-cases-case-2-title' => 'Speed objectification',
+    'use-cases-case-2-text' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+
+    'use-cases-case-3-title' => 'Air quality vs Traffic',
+    'use-cases-case-3-text' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.',
+
+    'use-cases-case-4-title' => 'Traffic models',
+    'use-cases-case-4-text' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+
+
+    //
+    'section4-cta-text' => 'Do not hesitate to drop us a message. We love to hear from you.',
+    'section4-cta-btn' => 'Get in touch',
+
 
 ];

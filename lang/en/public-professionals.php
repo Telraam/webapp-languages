@@ -8,20 +8,24 @@ return [
     'testimonials' => 'Testimonials',
 
     'quote1' => 'The city council of Kortrijk wants to take more data-driven decisions. We already do this with our own measuring equipment, but with innovative techniques, such as Telraam, we can measure for a long time in several locations at the same time.',
-    'quote1-author' => 'Lotte Demeestere, mobility expert for the city Kortrijk',
+    'quote1-author' => 'Lotte Demeestere',
+    'quote1-function' => 'Mobility expert for the city Kortrijk',
 
     'quote2' => 'By analysing the V85 standard, we get an indication of the best time to use the device for speed checks. Speed checks is best used to achieve maximum effect with a view to changing the behaviour of road users.',
-    'quote2-author' => 'David Tailleur, teamcoach neighbourhood Police Lubbeek ',
+    'quote2-author' => 'David Tailleur',
+    'quote2-function' => 'Teamcoach neighbourhood Police Lubbeek',
 
     'quote3' => 'Telraam provides not only insights through data but also understanding through interaction with residents, local and provincial government.',
-    'quote3-author' => 'Eric van Dijk, Beleidsmedewerker smart mobility, Province of Utrecht',
+    'quote3-author' => 'Eric van Dijk',
+    'quote3-function' => 'Beleidsmedewerker smart mobility, Province of Utrecht',
 
     'quote4' => 'Telraam gives citizens the traffic data they need to amplify their voice, ensuring that decision-makers listen to their concerns and the conversations can move beyond subjective and anecdotal evidence.',
-    'quote4-author' => 'Professor Enda Hayes, University of the West of England',
+    'quote4-author' => 'Professor Enda Hayes',
+    'quote4-function' => 'University of the West of England',
 
     // main content
     'section1-block1-title' => 'Reliable measurement with citizens',
-    'section1-block1-text' => 'Traffic counts are essential for a sound mobility policy. Counts that are multimodal, and register cars and heavy vehicles as well as cyclists and pedestrians, are the base of any traffic engineering study. Classic traffic counts are limited today: both in time and in counting modes. In addition, they are often expensive and not very transparent.<br><br> 
+    'section1-block1-text' => 'Traffic counts are essential for a sound mobility policy. Counts that are multimodal, and register cars and heavy vehicles as well as cyclists and pedestrians, are the base of any traffic engineering study. Classic traffic counts are limited today: both in time and in counting modes. In addition, they are often expensive and not very transparent.<br><br>
     New technology can provide innovative measurement methods without costing a fortune. Telraam has developed high-tech and reliable measuring equipment that quantifies and categorises traffic in a finely-meshed, continuous, multimodal way and in conjunction with citizens.
  Telraam provides the research effort and the appropriate technology and data services, and the citizens count and provide local insight to support it. <br>
  <br>
