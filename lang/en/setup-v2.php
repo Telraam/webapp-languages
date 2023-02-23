@@ -65,11 +65,11 @@ No fly screens, curtains or roller shutters that will block the camera.',
 
     // Step 6: Done
     'step-6-long-title' => 'Ready',
-    'step-6-description'  => "Happy counting! Your Telraam should be active and you’ll begin to see data on your dashboard within an hour. <br><br> 
+    'step-6-description'  => "Happy counting! Your Telraam should be active and you’ll begin to see data on your dashboard within an hour. <br><br>
 <ul class=jump-in>
 <li>You can now compare your street with similar streets, just complete your <a href='https://telraam.net/en/admin/mijn-eigen-telraam/street-profile'>Street profile</a>  first.</li>
 <li>Join other counters on <a href='http://talks.telraam.net'>Telraam Talks</a> to make the most of your device.</li>
-</ul>  
+</ul>
 <br><br> Feel free to get in touch with us at <a href='mailto:support@telraam.net'>support@telraam.net</a> with any feedback or questions.",
 
     // General
@@ -85,5 +85,8 @@ No fly screens, curtains or roller shutters that will block the camera.',
 
     'set-position' => 'When you are sure you selected the correct street and the side of the road, please confirm.',
     'save-position' => 'Confirm!'
+
+
+
 
 ];
