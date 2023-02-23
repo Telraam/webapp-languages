@@ -53,7 +53,7 @@ return [
     'section-features-block7-subtitle'     => 'Over the air updates',
     'section-features-block7-body' => '<p>De firmware van Telraam S2 evolueert voortdurend om de gebruikers de best mogelijke ervaring te bieden. Updates worden autonoom over the air (OTA) uitgevoerd om ervoor te zorgen dat het apparaat altijd de laatste versie heeft. Momenteel ligt onze focus op het implementeren van nachttellingen voor gemotoriseerd verkeer, een functie waar onze gebruikers veel om vragen, en op het verder verbeteren van onze precisie en nauwkeurigheid.</p>',
     'section-features-block7-body-extra' => 'Voor een volledige geschiedenis van firmware-updates zie de <a href="https://github.com/Telraam/Telraam-S2/blob/main/changelog_NRF.md" target="_blank">NRF changelog</a> en de
-<a href="https://github.com/Telraam/Telraam-S2/blob/main/changelog_K210.md"  target="_blank">K210 changelog.</a>',
+<a href="https://github.com/Telraam/Telraam-S2/blob/main/changelog_K210.md"  target="_blank">K210 changelog</a>.',
 
     'section-features-block8-title' => 'Tel mee!',
     'section-features-block8-subtitle'     => 'Een oplossing voor elke straat',
