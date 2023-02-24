@@ -3,7 +3,7 @@
 return [
     'title' => 'Your window on local traffic',
     'sub-title' => 'Traffic data for better streets.<br>
-Get high quality, coninuous and real-time data, in collaboration with local citizens.',
+Get high quality, continuous and real-time data, in collaboration with local citizens.',
 
   'section1-block1-title' => 'What is Telraam?',
     'section1-block1-text' => 'Telraam is your citizen-powered solution for collecting multi-modal traffic data with a purpose-built, affordable, and user-friendly device.<br>
@@ -21,7 +21,7 @@ Our Telraam sensor continuously monitors a street from a citizen’s window, pro
     'section2-block1-title' => 'Inform the debate',
     'section2-block1-text' => 'Complex issues require quantitative traffic data to enhance our understanding and to find better solutions.<br>
     <br>
-    Gathering data to get a full picture of transport, leisure, and social activity for a newtowrk of streets is often impossible or very expensive with traditional tools like pneumatic tubes or manual counts. <br>
+    Gathering data to get a full picture of transport, leisure, and social activity for a network of streets is often impossible or very expensive with traditional tools like pneumatic tubes or manual counts.<br>
 <br>
 Telraam sensors and networks provide a solution for citizens and their local representatives.',
 
@@ -47,9 +47,9 @@ Involving citizens and publishing open data brings researchers and policy makers
     'section3-block1-title' => 'How does the Telraam S2 device work?',
     'section3-block1-text' => 'Telraam S2 is our newest device. It counts and classifies road users, providing anonymous, aggregate data per traffic mode and per direction with a 15 minute resolution. In addition, it derives an estimated speed distribution (and the V85 speed) for cars.<br>
 <br>
-Telraam S2 uses specially-trained AI and a proprietary tracking algorithm to detect, classify, and count road users with high precision in a wide range of typical street environments. Citizens place a Telraam sensor in their window, and the open data that is colleected can be shared with local authorities and policy makers.<br>
+Telraam S2 uses specially-trained AI and a proprietary tracking algorithm to detect, classify, and count road users with high precision in a wide range of typical street environments. Citizens place a Telraam sensor in their window, and the data that is collected can be shared with local authorities and policy makers as Open Data.<br>
 <br>
-Telraam devices can be set up by citizens on their individual streets, or by local campaign groups and government authorities who fund citizen networks in order to gather local traffic data.<br>
+Telraam devices can be set up by citizens on their individual streets, or by local campaign groups and government authorities who fund citizen networks to gather local traffic data.<br>
  <br>
 <a href="/en/S2">Read more about the S2 device</a>',
 
@@ -75,14 +75,14 @@ It’s your view. Make it count!',
     'use-cases-case-1-title' => 'Circulation plan',
     'use-cases-case-1-text' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
 
-    'use-cases-case-2-title' => 'Speed objectification',
-    'use-cases-case-2-text' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    'use-cases-case-2-title' => 'Safer Streets',
+    'use-cases-case-2-text' => 'The main causes of danger are motor vehicles, so it stands to reason that we need to measure how these use the street, in terms of modal share, volume and speed.',
 
-    'use-cases-case-3-title' => 'Air quality vs Traffic',
-    'use-cases-case-3-text' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.',
+    'use-cases-case-3-title' => 'Clean Air',
+    'use-cases-case-3-text' => 'Maps of air quality can highlight a link between poor air quality and high traffic levels, but to reduce car journeys you need to know how many cars are actually using the road, and when.',
 
-    'use-cases-case-4-title' => 'Traffic models',
-    'use-cases-case-4-text' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    'use-cases-case-4-title' => 'School Streets',
+    'use-cases-case-4-text' => 'Arriving and leaving a school should be a safe, healthy and enjoyable experience for children, parents and local residents. Measure the implementation and success',
 
 
     //
