@@ -72,8 +72,9 @@ It’s your view. Make it count!',
     // use cases
     'use-cases-title' => 'Use Cases',
 
-    'use-cases-case-1-title' => 'Circulation plan',
-    'use-cases-case-1-text' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    'use-cases-case-1-title' => 'Traffic models',
+    'use-cases-case-1-text' => 'Use Telraam to calibrate traffic models and provide insights into traffic volumes at a local level.<br><br>
+<div class="tiny">Check out <a href="https://traffic-scout.net/">Traffic scout</a> for a ready-made application built on top our api.</div>',
 
     'use-cases-case-2-title' => 'Safer Streets',
     'use-cases-case-2-text' => 'The main causes of danger are motor vehicles, so it stands to reason that we need to measure how these use the street, in terms of modal share, volume and speed.',
