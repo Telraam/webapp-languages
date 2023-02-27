@@ -1,24 +1,99 @@
 <?php
 
 return [
-  'title' => 'Votre fenêtre compte',
-  'sub-title' => 'Telraam met les citoyens à la barre de la gestion locale de la mobilité.',
-    'what-is-telraam' => 'Telraam, qu\'est-ce que c\'est?',
-    'start-with-it' => 'Commençons!',
-  'section1-block1-title' => 'Les comptages de la circulation : la base de tout',
-    'section1-block1-text' => 'Trafic de transit, pollution de l’air et sécurité routière sont sur toutes les lèvres. Face à ces enjeux, les comptages de la circulation sont essentiels et constituent la base des solutions : des mesures des voitures, des véhicules grands, des transports publics, des cyclistes et des piétons sont indispensables. Pourtant, les méthodes de comptage actuelles sont onéreuses,
-limitées dans le temps et enregistrent rarement tous les modes de transport. <br>
-Les nouvelles technologies offrent la possibilité de mettre en place des méthodes de comptage innovantes, pour des mesures réalisées de manière continue, multimodale, précise et efficace. La science citoyenne utilisée pour les mesures de qualité de l’air, comme l’ont fait Luftdaten et les Curieuzeneuzen, a ouvert la voie à ces nouvelles méthodes.',
-    'section1-block2-title' => 'La science citoyenne comble un manque',
-    'section1-block2-text' => 'Les comptages de la circulation étaient jusqu’à présent une zone d’ombre. Telraam s’y attaque, en se mettant au travail activement avec les citoyens, et en fournissant des comptages de qualité. Telraam se charge des questions de recherche et de la technologie, pendant que les citoyens rassemblent les données. Les participants en apprennent ainsi beaucoup sur la circulation dans leur rue, et apportent simultanément leur aide aux autorités grâce à des comptages de la circulation de qualité. Grâce aux données, les infrastructures, les feux de circulation et les plans de mobilité peuvent être conçus de manière plus efficace et plus qualitative.',
-    'section1-block3-title' => 'Comment fonctionne Telraam ?',
-    'section1-block3-text' => 'Telraam développe du matériel de comptage fiable et à la pointe de la technologie, et le met à disposition des citoyens intéressés. Ces derniers sont accompagnés dans l’installation de leur propre compteur de circulation, qui est totalement automatique. Ce matériel est ensuite accroché à une fenêtre, et le comptage de la circulation peut commencer. Telraam, c’est aussi simple que cela!  Toutes les données de comptage qui sont collectées seront mises à disposition des autorités, des chercheurs, mais aussi de tous les citoyens ou acteurs intéressés. ',
+    'title' => 'Votre fenêtre sur le trafic local',
+    'sub-title' => 'Des données de trafic pour de meilleures rues.<br>
+Obtenez des données de haute qualité, continues et en temps réel, en collaboration avec les citoyens locaux',
 
-    'section2-small-title' => 'Commençons par le commencement',
-    'section2-block1-title' => 'Comment fonctionne l’appareil Telraam ?',
-    'section2-block1-text' => 'L’appareil Telraam est une combinaison d’un micro-ordinateur Raspberry Pi, de capteurs, et d’une caméra à faible résolution. L’appareil est fixé sur la face intérieure d’une fenêtre située à un étage d’un bâtiment avec vue sur la rue. Afin de pouvoir envoyer les données des comptages à la banque de données centrale, l’appareil doit être continuellement lié à Internet via un réseau Wi-Fi. Et parce qu’il fonctionne à l’électricité, une prise de courant proche doit être disponible.',
-    'section2-block2-title' => 'Comptez-vous aussi ?',
-    'section2-block2-text' => 'Vous souhaitez aussi un Telraam ? Cliquez sur <a href="../nl/self-measure">‘Compter soi-même’</a> et découvrez où Telraam compte déjà, comment vous pouvez nous rejoindre, et comment vous pouvez créer un réseau de comptage',
-    'section2-block2-btn' => 'Compter soi-même',
+    'section1-block1-title' => 'Qu\'est-ce que Telraam?',
+     'section1-block1-text' => 'Telraam est votre solution citoyenne pour la collecte de données de trafic multimodal avec un appareil spécialement conçu, abordable et convivial.<br>
+<br>
+Notre capteur Telraam surveille en permanence une rue depuis la fenêtre d\'un citoyen, fournissant des données cruciales sur divers modes de transport, y compris les véhicules motorisés,
+ les cyclistes, les piétons, etc. Les réseaux Telraam créent également l\'opportunité d\'un dialogue entre les planificateurs de trafic, les autorités locales et leurs communautés les plus concernées:
+les citoyens qui vivent - et utilisent - ces rues, en transformant le comptage du trafic en un projet de science citoyenne ouvert et accessible.<br><br >',
+
+     'section1-block1-extra' => 'Que vous soyez un riverain, un militant, un employé d\'une administration publique ou privée
+      ou travailler pour une agence gouvernementale, un projet Telraam fournit des données fiables pour vous aider à atteindre vos objectifs.',
+
+     // des questions
+     'section2-intro-question' => 'Rat qui court. L\'école tourne. Sécurité routière. La pollution de l\'air. Voyage actif. Les problèmes complexes nécessitent des données quantitatives sur le trafic.
+     Comment l\'obtenir?',
+     'section2-intro-answer' => 'Telraam est votre solution de science citoyenne. Nous fournissons un outil Web convivial, les meilleures pratiques de recrutement et une API primée.',
+
+     // fond gris
+     'section2-block1-title' => 'Instruire le débat',
+     'section2-block1-text' => 'Les problèmes complexes nécessitent des données de trafic quantitatives pour améliorer notre compréhension et trouver de meilleures solutions.<br>
+     <br>
+     La collecte de données pour obtenir une image complète des transports, des loisirs et de l\'activité sociale pour un réseau de rues est souvent impossible ou très coûteuse avec des outils
+      traditionnels comme les tubes pneumatiques ou les comptages manuels.<br>
+<br>
+Les capteurs et réseaux Telraam apportent une solution aux citoyens et à leurs élus locaux.',
+
+
+     'section2-block2-title' => 'Des données de trafic pour de meilleures rues',
+     'section2-block2-text' => 'Telraam crée des réseaux personnalisés de capteurs qui exploitent les connaissances
+     et l\'accès des résidents locaux, en utilisant la technologie de l\'intelligence artificielle (IA) pour fournir des données cohérentes, opportunes et de qualité pour des plans d\'infrastructure,
+de flux de trafic et de gestion du trafic plus efficients et efficaces.<br>
+     <br>
+Impliquer les citoyens et publier des données ouvertes met les chercheurs et les décideurs politiques en contact avec les résidents locaux, créant ainsi un potentiel
+d\'interaction, de dialogue, de co-création et d\'autres formes de participation.',
+
+     'section2-cta' => 'Parlez-nous aujourd\'hui d\'un compte Telraam dans votre rue',
+
+// témoignages
+     'quote1' => 'En analysant la norme V85, nous obtenons une indication des meilleurs moments pour effectuer des contrôles de vitesse. Ces contrôles permettent d\'obtenir un changement de comportement des usagers de la route.',
+     'quote1-author' => 'David Tailleur',
+     'quote2-function' => 'Teamcoach wijkwerking Politiezone Lubbeek ',
+
+     'quote2' => 'Telraam fournit non seulement des informations grâce aux données, mais également une compréhension grâce à l\'interaction avec les résidents et les gouvernements locaux et provinciaux.',
+     'quote2-author' => 'Eric van Dijk',
+     'quote2-function' => 'Beleidsmedewerker mobilité intelligente, Province d\'Utrecht',
+
+
+     'section3-block1-title' => 'Comment fonctionne l\'appareil Telraam S2 ?',
+     'section3-block1-text' => 'Telraam S2 est notre tout dernier appareil. Il compte et classe les usagers de la route, fournissant des données anonymes et agrégées par mode de circulation et par sens avec une résolution de 15 minutes. En outre, il dérive une distribution de vitesse estimée (et la vitesse V85) pour les voitures.<br>
+<br>
+Telraam S2 utilise une IA spécialement formée et un algorithme de suivi propriétaire pour détecter, classer et compter les usagers de la route avec une grande précision dans un large éventail d\'environnements de rue typiques. Les citoyens placent un capteur Telraam dans leur fenêtre, et les données collectées peuvent être partagées avec les autorités locales et les décideurs politiques sous forme de données ouvertes.<br>
+<br>
+Les appareils Telraam peuvent être installés par des citoyens dans leurs rues individuelles, ou par des groupes de campagne locaux et des autorités gouvernementales qui financent des réseaux de citoyens pour recueillir des données sur le trafic local.<br>
+  <br>
+<a href="/fr/S2">En savoir plus sur l\'appareil S2</a>',
+
+     'section3-block2-title' => 'Que fait un appareil Telraam S2?',
+     'section3-block2-text' => 'Le Telraam S2 est un appareil personnalisé qui se trouve dans votre fenêtre.
+Une fois connecté, vous n\'avez rien à faire, il vous suffit de regarder les décomptes au fur et à mesure qu\'ils se produisent.<br>
+<br>
+Le Telraam S2 dispose d\'une caméra basse résolution (pour la confidentialité), d\'une puce AI pour détecter et catégoriser les usagers de la rue, et d\'une connexion de données mobile intégrée qui
+relaie les données agrégées et anonymes vers les serveurs Telraam. L\'appareil doit simplement être alimenté et monté à l\'intérieur d\'une fenêtre de l\'étage supérieur avec une vue dégagée sur la rue.',
+    'section3-block3-title' => 'Faites en sorte que votre vue compte',
+    'section3-block3-text' => 'Prêt à commencer à collecter vos propres données? Lisez notre guide <a href="/fr/self-measure">Commencer à compter</a> pour voir
+     à quel point il est facile de démarrer et comment créer votre propre réseau de comptage.<br>
+<br>
+En un rien de temps, vous aurez un rapport détaillé sur toutes les activités de votre rue, quartier ou ville.<br>
+<br>
+C\'est votre point de vue. Faites que ça compte!',
+
+
+
+    // use cases
+    'use-cases-title' => 'Cas d\'utilisation',
+
+     'use-cases-case-1-title' => 'Modèles de trafic',
+     'use-cases-case-1-text' => 'Utilisez Telraam pour calibrer les modèles de trafic et fournir des informations sur les volumes de trafic au niveau local.<br><br>
+<div class="tiny">Découvrez <a href="https://traffic-scout.net/" target="_blank">Traffic scout</a> pour une application prête à l\'emploi construite sur notre API.</div>' ,
+
+     'use-cases-case-2-title' => 'Des rues plus sûres',
+     'use-cases-case-2-text' => 'Les principales causes de danger sont les véhicules à moteur, il va donc de soi que nous devons mesurer comment ceux-ci utilisent la rue, en termes de part modale, de volume et de vitesse.' ,
+
+     'use-cases-case-3-title' => 'Air pur',
+     'use-cases-case-3-text' => 'Les cartes de la qualité de l\'air peuvent mettre en évidence un lien entre la mauvaise qualité de l\'air et les niveaux de trafic élevés, mais pour réduire les trajets en voiture, vous devez savoir combien de voitures utilisent réellement la route, et quand.',
+
+     'use-cases-case-4-title' => 'Rues de l\'école',
+     'use-cases-case-4-text' => 'Arriver et quitter une école doit être une expérience sûre, saine et agréable pour les enfants, les parents et les résidents locaux. Mesurer la mise en œuvre et le succès',
+
+
+     //
+     'section4-cta-text' => 'N\'hésitez pas à nous laisser un message. Nous aimons avoir de vos nouvelles.',
+     'section4-cta-btn' => 'Prendre contact',
 
 ];
