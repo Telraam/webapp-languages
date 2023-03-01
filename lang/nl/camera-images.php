@@ -12,7 +12,7 @@ return [
     'last-days'         => 'Laatste dagen',
     'camera-images'     => 'Camera beeld(en)',
 
-    'roi-still-to-be-set' => 'ROI nog vast te leggen',
+    'roi-still-to-be-set' => 'ROI vast te leggen',
 
     'what-are-the-camera-images' => 'De camerabeelden zijn achtergrondbeelden die naar onze server worden gestuurd om te controleren of uw camerapositie nog in orde is.
     Een beeld wordt verstuurd na het opstarten van uw Telraam en eenmaal per dag als uw Telraam in werking is. <br>

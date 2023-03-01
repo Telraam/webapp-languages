@@ -8,7 +8,7 @@ return [
     'date-image'            => 'Date de l\'image',
     'camera-images'         => 'Image(s) de la caméra',
 
-    'roi-still-to-be-set' => 'ROI encore à définir',
+    'roi-still-to-be-set' => 'ROI à définir',
 
     'what-are-the-camera-images' => 'Les images de la caméra que vous retrouvez ici sont des images prises quotidiennement qui
 sont envoyées à notre serveur afin de vérifier si le positionnement de votre caméra est toujours adéquat. Une première image de la caméra est envoyée lorsque vous lancez votre Telraam,

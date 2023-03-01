@@ -11,7 +11,7 @@ return [
     'date-image'        => 'Date image',
     'camera-images'     => 'Camera image(s)',
 
-    'roi-still-to-be-set' => 'ROI still to be set',
+    'roi-still-to-be-set' => 'ROI to be set',
 
     'what-are-the-camera-images' => 'The camera images are background images sent to our server to verify whether your camera position is still fine.
     An image is send after booting your Telraam and once a day when your Telraam is up and running. <br>
