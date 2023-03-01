@@ -39,4 +39,8 @@ après que la région d\'intérêt (ROI) initiale ait été définie soit automa
 ou l\'administrateur réseau. Seule la dernière image de la région d\'intérêt est enregistrée et conservée pendant un an au maximum.<br>
     <a href="https://telraam.helpspace-docs.io/article/30/background-image-">Pour en savoir plus, consultez notre FAQ</a>',
 
+    'roi-set-to' => 'Roi prêt à',
+    'on' => 'sur',
+
+
 ];

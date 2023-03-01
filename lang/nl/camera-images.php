@@ -40,4 +40,7 @@ Elk vierkant vertegenwoordigt een mogelijke zoom voor de S2.<br>
 nadat het initiële interessegebied (ROI) automatisch door de camera of handmatig door de gebruiker of netwerkbeheerder is ingesteld. Alleen het laatste ROI-beeld wordt opgeslagen en maximaal 1 jaar bewaard.<br>
     <a href="https://telraam.helpspace-docs.io/article/30/background-image-">Lees meer info op onze faq</a>',
 
+    'roi-set-to' => 'Roi vastgezet n',
+    'on' => 'op',
+
 ];

@@ -39,4 +39,6 @@ Each square represents a possible zoom for the S2.<br>
 after the initial region of interest (ROI) was set either automatically by the camera, or manually by the user or network administrator. Only the last ROI image is saved and kept for a maximum of 1 year.<br>
     <a href="https://telraam.helpspace-docs.io/article/30/background-image-">Read more info on our faq</a>',
 
+    'roi-set-to' => 'Roi set to',
+    'on' => 'on',
 ];
