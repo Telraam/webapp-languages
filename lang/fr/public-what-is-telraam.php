@@ -16,8 +16,8 @@ les citoyens qui vivent - et utilisent - ces rues, en transformant le comptage d
       ou travailler pour une agence gouvernementale, un projet Telraam fournit des données fiables pour vous aider à atteindre vos objectifs.',
 
      // des questions
-     'section2-intro-question' => 'Rat qui court. L\'école tourne. Sécurité routière. La pollution de l\'air. Voyage actif. Les problèmes complexes nécessitent des données quantitatives sur le trafic.
-     Comment l\'obtenir?',
+     'section2-intro-question' => 'Circulation de fuite. Conduire les enfants à l’école. Sécurité routière. La pollution de l\'air. Modes actif.
+     Des questions complexes demandent des données de la circulation quantitatives. Comment les recueillir?',
      'section2-intro-answer' => 'Telraam est votre solution de science citoyenne. Nous fournissons un outil Web convivial, les meilleures pratiques de recrutement et une API primée.',
 
      // fond gris
