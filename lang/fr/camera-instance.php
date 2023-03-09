@@ -63,6 +63,9 @@ En choisissant un nouveau poste, vos données seront déplacées vers le nouveau
     'info-new-camera-info' => 'Vous avez reçu un nouvel Telraam et souhaitez l\'installer à votre emplacement actuel ?',
     'info-new-camera-btn-cancel' => 'Annuler',
     'info-new-camera-btn-ok' => 'Confirmer',
+    'info-new-camera-btn-new-v1' => 'J\'ai un nouveau v1',
+    'info-new-camera-btn-new-S2' => 'J\'ai un nouveau S2',
+
 
     'info-new-setup-title' => 'Nouvelle configuration',
     'info-new-setup-info' => '<strong>Vous êtes sûr de vouloir commencer une nouvelle installation?</strong><br>

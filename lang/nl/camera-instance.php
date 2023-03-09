@@ -61,6 +61,9 @@ Met het kiezen van een nieuwe positie zullen je gegevens verplaatst worden naar 
     'info-new-camera-info' => 'Je hebt een nieuwe toestel ontvangen en wil deze installeren op je huidige locatie?',
     'info-new-camera-btn-cancel' => 'Annuleer',
     'info-new-camera-btn-ok' => 'Bevestig',
+    'info-new-camera-btn-new-v1' => 'Ik heb een nieuwe v1',
+    'info-new-camera-btn-new-S2' => 'Ik heb een nieuwe S2',
+
 
     'info-new-setup-title' => 'Nieuwe setup',
     'info-new-setup-info' => '<strong>Weet je zeker dat je een nieuwe setup wil starten?</strong> <br>

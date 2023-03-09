@@ -55,6 +55,8 @@ The serial number contains 15 numbers and 2 validation characters.<br> <a href="
 By choosing a new position, your data will be moved to the new location. If you have given the camera a new location yourself, you need to choose a new setup.',
     'info-edit-segment-btn-cancel' => 'Cancel',
     'info-edit-segment-btn-ok' => 'Confirm',
+    'info-new-camera-btn-new-v1' => 'I have a new v1',
+    'info-new-camera-btn-new-S2' => 'I have a new S2',
 
     'info-new-camera-title' => 'New Telraam',
     'info-new-camera-info' => 'You have received a new device and want to install it at your current location?',
