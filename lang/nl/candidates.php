@@ -51,7 +51,8 @@ return [
     'nav-title-1'     => 'Adres',
     'step1-btn'         => 'Bevestig en volgende ',
     'confirm'         => 'Bevestig',
-    'image_street'  => 'Beeld van de straat vanuit het raam op de 1ste of 2de verdieping waar je je Telraam zal plaatsen. Neem de foto loodrecht, vanuit vogelperspectief, gericht naar de straat. <a href="https://telraam.zendesk.com/hc/nl/articles/360019257837" target="_blank">Bekijk ook de voorbeelden</a>.<br> Beperk ook bestandsgrootte en upload in jpg of png.',
+    'image_street'  => 'Beeld van de straat vanuit het raam op de 1ste of 2de verdieping waar je je Telraam zal plaatsen. Neem de foto loodrecht, vanuit vogelperspectief, gericht naar de straat.
+<a href="https://faq-nl.helpspace-docs.io/article/75/vereisten-voor-de-plaatsing-van-mijn-telraam-foto-op-het-deelnameformulier" target="_blank">Bekijk ook de voorbeelden</a>.<br> Beperk ook bestandsgrootte en upload in jpg of png.',
 
 
     'admin_form1' => 'Formulier #1 intro',

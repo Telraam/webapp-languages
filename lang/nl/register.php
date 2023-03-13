@@ -6,7 +6,7 @@ return [
      'intro'        => 'Maak een Telraam-account aan zodat u toegang hebt tot het Telraam-platform. Je hebt een account nodig om zowel deel te
      nemen aan het Telraam Talks-forum, je Telraam-toestel te installeren, lid te worden van een netwerk of toegang te krijgen tot de API.',
     'note'        => 'Als je een toestel wil installeren, bekijk dan
- <a href="https://telraam.zendesk.com/hc/nl/articles/360019257837-Vereisten-voor-de-plaatsing-van-mijn-Telraam-Foto-op-het-deelnameformulier" target="_blank">de ideale plaatsingsvereisten</a>',
+ <a href="https://faq-nl.helpspace-docs.io/article/75/vereisten-voor-de-plaatsing-van-mijn-telraam-foto-op-het-deelnameformulier" target="_blank">de ideale plaatsingsvereisten</a>',
 
      'register-list' => '<li>Je hebt een woning/gebouw met een raam aan de straatkant.</li>
 <li>Dit raam moet een volledig vrij zicht op de straat hebben: geen verlichtingspalen, bomen of constructies die het zicht enigszins blokkeren.</li>
@@ -54,7 +54,7 @@ return [
     'how-are-you-involved' => 'Aansluiten bij een bestaand verkeersnetwerk?',
     'network-own' => ' Nee, ik heb enkel een account nodig.',
     'network-professionals' => 'ja, ik installeer een Telraam bij een netwerk.',
-    
+
     // register page used as invite link
     'invite-token-success' => 'Welkom, u bent uitgenodigd om lid te worden als een Telraam beheerder',
 

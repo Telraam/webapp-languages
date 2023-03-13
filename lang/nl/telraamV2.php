@@ -43,7 +43,7 @@ return [
 
     'section-features-block5-title' => 'Nauwkeurigheid',
     'section-features-block5-subtitle'     => 'AI voor nauwkeurigheid, precisie, nachttellingen en anonieme data',
-    'section-features-block5-body' => '<p>Telraam S2 gebruikt een volledig nieuwe telmethode in vergelijking met onze eerste Raspberry Pi-gebaseerd toestel, dit met behulp van kunstmatige intelligentie (AI) en neurale netwerken. Dit resulteert in een verbeterde precisie en nauwkeurigheid. Bekijk het FAQ-artikel <a href="https://telraam.zendesk.com/hc/nl/articles/8355715545501-Data-performance-en-validatie-Telraam-S2-en-V1-">Dataprestaties en validatie (van Telraam S2)</a> voor meer informatie en (regelmatige) updates over dit onderwerp.</p>',
+    'section-features-block5-body' => '<p>Telraam S2 gebruikt een volledig nieuwe telmethode in vergelijking met onze eerste Raspberry Pi-gebaseerd toestel, dit met behulp van kunstmatige intelligentie (AI) en neurale netwerken. Dit resulteert in een verbeterde precisie en nauwkeurigheid. Bekijk het FAQ-artikel <a href="https://faq-nl.helpspace-docs.io/article/100/data-performance-en-validatie">Dataprestaties en validatie (van Telraam S2)</a> voor meer informatie en (regelmatige) updates over dit onderwerp.</p>',
 
     'section-features-block6-title' => 'Privacy',
     'section-features-block6-subtitle'     => 'Objectdetectie, geen identificatie',

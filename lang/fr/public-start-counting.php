@@ -53,7 +53,7 @@ La technologie de Telraam fonctionne mieux via les réseaux Telraam. Cela nous p
                     <br>
                     Plus d’informations sur la manière dont se passent les comptages avec Telraam: Les différentes parties d’un kit Telraam peuvent être commandés en ligne via <a href="https://www.gotron.be/telraampakket-pre-installed-version-voorafgemonteerd-en-flashed-sd-kaart.html" target="_blank">Gotron </a>. Vous trouverez dans <a href="https://www.telraam.net/fr/register">S’enregistrer</a> tous les critères à remplir pour mettre sur pied une Telraam.
                     Vérifiez bien que vous remplissez tous ces critères. <br>
-                    En cas de question, n’hésitez pas à consulter la page <a href="https://telraam.zendesk.com/hc/en-us/restricted?return_to=https%3A%2F%2Ftelraam.zendesk.com%2Fhc%2Fen-us&amp;locale=en-us">FAQ &amp; Support</a>.
+                    En cas de question, n’hésitez pas à consulter la page <a href="https://faq-fr.helpspace-docs.io/">FAQ &amp; Support</a>.
                    Vous avez d\'autres remarques ou des questions spécifiques, contactez nous: <a href="mailto:info@telraam.net">info@telraam.net</a>.<br>
                     <br>',
 

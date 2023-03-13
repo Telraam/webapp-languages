@@ -25,10 +25,10 @@ return [
 
      'is-counting'              => 'Telraam compte',
      'was-counting'             => "La caméra ne compte plus",
-    'was-counting-link'        => '<a href="https://telraam.zendesk.com/hc/fr/articles/360028290252-Il-n-y-a-plus-de-donn%C3%A9es-qui-transitent-par-ma-Telraam" target="_blank">Dépannage</a>',
+    'was-counting-link'        => '<a href="https://faq-fr.helpspace-docs.io/article/191/ma-telraam-ne-compte-plus" target="_blank">Dépannage</a>',
 
     'is-not-counting'          => 'La caméra ne compte pas encore',
-    'is-not-counting-link'        => '<a href="https://telraam.zendesk.com/hc/fr/articles/360026050091-Il-n-y-a-pas-encore-de-donn%C3%A9es-qui-transitent-par-ma-Telraam" target="_blank">Dépannage</a>',
+    'is-not-counting-link'        => '<a href="https://faq-fr.helpspace-docs.io/article/189/mon-telraam-ne-compte-pas-encore" target="_blank">Dépannage</a>',
 
      'software-version'          => 'Version du logiciel Telraam',
      'software-up-to-date'        => 'Votre logiciel Telraam est à jour. Votre Telraam a la version 10.' ,
@@ -36,7 +36,7 @@ return [
     'software-might-not-up-to-date'    => 'Nous n\'avons pas encore pu vérifier si votre Telraam dispose de la dernière version du logiciel (V10).',
 
 
-    'software-update-read-more'   => '<a href="https://telraam.zendesk.com/hc/fr/articles/360028846211-Mettre-%C3%A0-jour-Telraam-soi-m%C3%AAme">Mettez vous-même à jour votre Telraam</a>',
+    'software-update-read-more'   => '<a href="https://faq-fr.helpspace-docs.io/article/183/mettre-a-jour-le-software-telraam-soi-meme">Mettez vous-même à jour votre Telraam</a>',
 
     'checking-for-data' => 'Vérification des données...',
     'camera-is-set-inactive-on' => 'La caméra a été réglée pour être inactive sur',

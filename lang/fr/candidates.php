@@ -69,7 +69,7 @@ return [
     'thanks'         => 'Merci. Nous reviendrons bientôt vers vous.',
 
     'image_street'  => 'Prenez une photo depuis la fenêtre du 1er ou du 2e étage où vous placerez votre Telraam. Prenez la photo perpendiculairement,
-à vol d\'oiseau, face à la rue. <a href="https://telraam.zendesk.com/hc/fr/articles/360019257837-Quelle-photo-dois-je-t%C3%A9l%C3%A9charger-avec-le-formulaire-d-inscription-" target="_blank">Voir aussi les exemples</a>.<br> Limit file size and upload as jpg or png.',
+à vol d\'oiseau, face à la rue. <a href="https://faq-fr.helpspace-docs.io/article/147/conditions-a-respecter-pour-lemplacement-de-ma-fenetre-photo-a-uploader-lors-de-lenregistrement" target="_blank">Voir aussi les exemples</a>.<br> Limit file size and upload as jpg or png.',
 
 
 

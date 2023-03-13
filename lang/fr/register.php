@@ -8,7 +8,7 @@ return [
 que vous configuriez votre dispositif Telraam, que vous rejoigniez un réseau ou que vous accédiez à l\'API.',
 
     'note'        => 'Si vous envisagez de configurer un dispositif Telraam, veuillez consulter
-<a href="https://telraam.zendesk.com/hc/fr/articles/360019257837-Conditions-%C3%A0-respecter-pour-l-emplacement-de-ma-fen%C3%AAtre-Photo-%C3%A0-uploader-lors-de-l-enregistrement" target="_blank">les conditions de placement idéal ici</a> ',
+<a href="https://faq-fr.helpspace-docs.io/article/147/conditions-a-respecter-pour-lemplacement-de-ma-fenetre-photo-a-uploader-lors-de-lenregistrement" target="_blank">les conditions de placement idéal ici</a> ',
 
 
     'register-list' => '<li>Vous habitez un logement doté d’une fenêtre côté rue </li>

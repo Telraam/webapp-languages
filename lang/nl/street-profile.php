@@ -156,7 +156,7 @@ return [
     'least-bikes' => 'minste tweewielers',
     'least-cars' => 'minste auto\'s',
     'least-heavy' => 'minste zware voertuigen',
-    'read-more-v85' => '<a href="https://telraam.zendesk.com/hc/nl/articles/360019460777-Wat-betekent-V85" target="_blank">Lees meer over de V85</a>',
+    'read-more-v85' => '<a href="https://faq-nl.helpspace-docs.io/article/90/snelheidsmeting-v85-uitgelegd" target="_blank">Lees meer over de V85</a>',
 
     'very-low-sentence' => 'Dit is <strong>zeer laag</strong> in vergelijk met de andere straten',
     'low-sentence' => 'Dit is <strong>laag</strong> in vergelijk met de andere straten',
@@ -172,7 +172,7 @@ return [
 
     // message profile
     'message-location-profile' => 'Er is nog geen straatprofiel aangemaakt.<br>Is dit uw Telraam? Log in en vul uw straatprofiel in',
-    'message-location-link' => '<a href="https://telraam.zendesk.com/hc/nl/articles/4408057646225-Straatprofiel">Wat is een straatprofiel?</a>',
+    'message-location-link' => '<a href="https://faq-nl.helpspace-docs.io/article/91/straatprofiel">Wat is een straatprofiel?</a>',
 
     'modal-split'   => 'Modal Split',
 

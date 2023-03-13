@@ -38,16 +38,16 @@ Indien de verbinding niet succesvol was, dan is er waarschijnlijk een typfout of
 
 
     // new 21 feb
-    'faq-no-wifi-link' => 'https://telraam.zendesk.com/hc/nl/articles/360017890498-Er-is-geen-Telraam-Wifi-zichtbaar',
+    'faq-no-wifi-link' => 'https://faq-nl.helpspace-docs.io/article/126/er-is-geen-telraam-hotspot-zichtbaar',
     'faq-no-wifi-text' => 'Er is geen Telraam Wifi zichtbaar',
 
-    'faq-hotspot-link' => 'https://telraam.zendesk.com/hc/nl/articles/360017745177-Verbinden-met-de-Telraam-hotspot-lukt-niet-',
+    'faq-hotspot-link' => 'https://faq-nl.helpspace-docs.io/article/127/verbinden-met-de-telraam-hotspot-lukt-niet',
     'faq-hotspot-text' => 'Verbinden met de Telraam hotspot lukt niet.',
 
-    'faq-no-images-link' => 'https://telraam.zendesk.com/hc/nl/articles/360017892478-Op-my-telraam-net-zie-ik-geen-camerabeelden',
+    'faq-no-images-link' => 'https://faq-nl.helpspace-docs.io/article/128/op-mytelraamnet-zie-ik-geen-camerabeelden',
     'faq-no-images-text' => 'Op my.telraam.net zie ik geen camerabeelden',
 
-    'faq-no-data-link' => 'https://telraam.zendesk.com/hc/nl/articles/360026050091-Er-komen-nog-geen-data-door-van-mijn-Telraam',
+    'faq-no-data-link' => 'https://faq-nl.helpspace-docs.io/article/138/mijn-telraam-heeft-nog-niet-geteld',
     'faq-no-data-text' => 'Er komen nog geen data door van mijn Telraam'
 
 ];

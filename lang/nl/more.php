@@ -42,12 +42,12 @@ return [
 
     'camera-not-found' => 'Camera werd nog niet gevonden',
     'camera-is-set-up' => 'Camera is opgezet',
-    'camera-is-set-up-but-no-data' => '<strong>Camera is opgezet, maar kreeg nog geen data binnen.</strong> <br>Indien succesvol, zal je hier na maximaal 20 minuten de boodschap krijgen dat jouw toestel inderdaad data verzendt. Als het langer duurt, dan is er iets fout gelopen. <a href=https://telraam.zendesk.com/hc/nl/articles/360026050091-Er-komen-nog-geen-data-door-van-mijn-Telraam target=_blank>Probeer deze stappen</a>',
+    'camera-is-set-up-but-no-data' => '<strong>Camera is opgezet, maar kreeg nog geen data binnen.</strong> <br>Indien succesvol, zal je hier na maximaal 20 minuten de boodschap krijgen dat jouw toestel inderdaad data verzendt. Als het langer duurt, dan is er iets fout gelopen. <a href=https://faq-nl.helpspace-docs.io/article/138/mijn-telraam-heeft-nog-niet-geteld target=_blank>Probeer deze stappen</a>',
 
 
     'camera-received-data' =>'Camera is opgezet en de server ontving data op',
     'fully-ready' => 'Volledig klaar',
-    'did-not-pass-test' => 'Twintig minuten zijn voorbij en we kregen nog geen data package binnen. <a href=https://telraam.zendesk.com/hc/nl/articles/360026050091-Er-komen-nog-geen-data-door-van-mijn-Telraam target=_blank>Probeer deze stappen</a>',
+    'did-not-pass-test' => 'Twintig minuten zijn voorbij en we kregen nog geen data package binnen. <a href=https://faq-nl.helpspace-docs.io/article/138/mijn-telraam-heeft-nog-niet-geteld target=_blank>Probeer deze stappen</a>',
     'we-re-checking-still' => 'We controleren nog',
     'minutes' => 'minut(en)',
 
@@ -58,12 +58,12 @@ return [
     'speed' => "Snelheid",
     'speed-distribution-car' => "Snelheid auto's",
     'speed-remark' => 'Snelheden zijn indicatief. De metingen kunnen 10% afwijken van effectieve snelheden. <br>Hier vind
- je <a href="https://telraam.zendesk.com/hc/nl/articles/360034536711-Hoe-lees-ik-de-snelheidsgrafiek-">meer informatie hoe je deze data kan interpreteren</a>',
+ je <a href="https://faq-nl.helpspace-docs.io/article/88/snelheidsmeting-hoe-de-snelheidsgrafiek-interpreteren">meer informatie hoe je deze data kan interpreteren</a>',
     'speed-remark-v85' => 'De V85 is een veelgebruikte indicator in de wereld van de mobiliteit en de verkeersveiligheid, omdat hij geacht wordt representatief te
-    zijn voor de snelheid die men op een weg redelijkerwijs kan aanhouden. <a href="https://telraam.zendesk.com/hc/nl/articles/360019460777-Wat-betekent-V85" target="_blank">Lees meer over de V85</a>',
+    zijn voor de snelheid die men op een weg redelijkerwijs kan aanhouden. <a href="https://faq-nl.helpspace-docs.io/article/90/snelheidsmeting-v85-uitgelegd" target="_blank">Lees meer over de V85</a>',
 
     // 22 feb
-    'faq-interpret-data-link' => 'https://telraam.zendesk.com/hc/nl/articles/360026050311-Hoe-moet-ik-de-Telraam-data-interpreteren-',
+    'faq-interpret-data-link' => 'https://faq-nl.helpspace-docs.io/article/86/raadplegen-en-interpreteren-van-telraam-gegevens-een-algemeen-overzicht',
     'faq-interpret-data-text' => 'Hoe moet ik de Telraam-data interpreteren?',
 
     // 23 feb
@@ -73,7 +73,7 @@ return [
     'timerangetoolong' => 'Het verschil tussen de twee data is te lang. Het maximum is zes maanden.',
 
     // 17 mei
-    'no-callibration' => 'Verhouding auto/grote voertuigen is niet correct? Nog even geduld, Telraam heeft tijd nodig om zichzelf te kalibreren. <a href="https://telraam.zendesk.com/hc/nl/articles/360035237672-Telraam-kalibratie-en-de-verhouding-auto-grote-voertuigen">Faq artikel</a>',
+    'no-callibration' => 'Verhouding auto/grote voertuigen is niet correct? Nog even geduld, Telraam heeft tijd nodig om zichzelf te kalibreren. <a href="https://faq-nl.helpspace-docs.io/article/78/telraam-kalibratie-en-de-verhouding-auto-grote-voertuigen">Faq artikel</a>',
 
 
     // 7 juni location detail

@@ -21,7 +21,7 @@ return [
 
     // page serial number /edit-serial-number
     'info-serial-extensive-v1' => 'Connect with your Telraam device through the hotspot and find the serial on <a href=http://my.telraam.net>http://my.telraam.net</a>
-The serial number contains 15 numbers and 2 validation characters.<br> <a href="https://telraam.zendesk.com/hc/en-us/articles/5627684662673-Verify-serial-number" class="tiny">Verify serial number</a></ol>',
+The serial number contains 15 numbers and 2 validation characters.<br> <a href="https://telraam.helpspace-docs.io/article/57/verify-serial-number" class="tiny">Verify serial number</a></ol>',
     'info-serial-extensive-S2' => 'The serial number contains 15 numbers and 2 validation characters found below the QR code on your device.',
 
     // page serial number /new-serial-number

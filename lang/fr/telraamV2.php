@@ -43,7 +43,7 @@ return [
 
     'section-features-block5-title' => 'Précision',
     'section-features-block5-subtitle'     => 'L\'IA pour l\'exactitude, la précision, les comptages nocturnes et les données anonymes',
-    'section-features-block5-body' => '<p>Le Telraam S2 utilise une méthode de comptage totalement nouvelle par rapport à notre premier appareil basé sur Raspberry Pi, celle-ci faisant appel à l\'intelligence artificielle (IA) et aux réseaux neuronaux. Cela permet d\'améliorer la précision et l\'exactitude. Consultez l\'article de la FAQ <a href="https://telraam.zendesk.com/hc/fr/articles/8355715545501--Performances-et-validation-des-donn%C3%A9es-Telraam-S2-et-V1-">Performance et validation des données (de Telraam S2)</a> pour plus d\'informations et des mises à jour (régulières) sur ce sujet.</p>',
+    'section-features-block5-body' => '<p>Le Telraam S2 utilise une méthode de comptage totalement nouvelle par rapport à notre premier appareil basé sur Raspberry Pi, celle-ci faisant appel à l\'intelligence artificielle (IA) et aux réseaux neuronaux. Cela permet d\'améliorer la précision et l\'exactitude. Consultez l\'article de la FAQ <a href="https://faq-fr.helpspace-docs.io/article/143/performance-et-validation-des-donnees">Performance et validation des données (de Telraam S2)</a> pour plus d\'informations et des mises à jour (régulières) sur ce sujet.</p>',
 
     'section-features-block6-title' => 'Confidentialité',
     'section-features-block6-subtitle'     => 'Détection des objets, pas d\'identification',

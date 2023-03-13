@@ -6,7 +6,8 @@ return [
     'no-image-available' => 'No image available',
     'no-images-available' => 'No images available',
     'no-images-available-advice' => 'Make sure the latest version of the Telraam software is installed on the Telraam and the image setting is enabled when you install the software. How to get the latest software installed:',
-    'no-images-available-info' => '<ol><li>Download <a href="https://telraam-api.net/telraam-sd-image.zip">the latest software</a></li><li><a href="https://telraam.zendesk.com/hc/en-us/articles/360028846211-Updating-your-own-Telraam: <a href="https://telraam.zendesk.com/hc/nl/articles/360028846211-Telraam-zelf-updaten">Updating your own Telraam</a></li></ol>',
+    'no-images-available-info' => '<ol><li>Download <a href="https://telraam-api.net/telraam-sd-image.zip">the latest software</a></li><li><a href="https://telraam.helpspace-docs.io/article/37/updating-the-telraam-software-by-yourself:
+<a href="https://faq-nl.helpspace-docs.io/article/136/de-telraam-software-zelf-updaten">Updating your own Telraam</a></li></ol>',
 
     'date-image'        => 'Date image',
     'camera-images'     => 'Camera image(s)',

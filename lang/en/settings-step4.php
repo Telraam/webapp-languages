@@ -18,7 +18,7 @@ return [
  simply change it with the pieces provided. <a href="https://youtu.be/ChA4f2j8XoM" target="_blank">Watch the video to adjust the plug.</a></li>
  <li><img src="/images/settings/adapter.jpg" style="float: right; width: 42px; margin-left: 10px;">Optional: You have received a Micro SD Card Adapter with your Telraam.
   The adapter can be used if the
- <a href="https://telraam.zendesk.com/hc/en-us/articles/360028846211-Updating-your-own-Telraam" target="_blank">you need to update or install the software</a>. This is usually not necessary.<br></li>
+ <a href="https://telraam.helpspace-docs.io/article/37/updating-the-telraam-software-by-yourself" target="_blank">you need to update or install the software</a>. This is usually not necessary.<br></li>
 ',
 
     'btn-next' =>          'Okay, continue',

@@ -41,8 +41,9 @@ De Telraam technologie werkt het best via telnetwerken. Zo kunnen we zorgen voor
     'extra1-title' => 'Zelf een netwerk opzetten?',
     'extra1-text' => 'Wil je als burger graag een experiment opzetten met enkele Telraam toestellen in jouw stad of gemeente, dat is zeker mogelijk. Je kan als geïnteresseerde burger, vriendengroep, buurtcomité, school of actiegroep zelf van je raam een Telraam maken en het bijhorende telnetwerk lanceren en verspreiden.<br>
     <br>
-    Hoe dat je dat? De verschillende onderdelen van een Telraamkit kunnen <a href="https://www.gotron.be/projecten/leerpakketten/tmleuven/je-wil-graag-weten-hoeveel-en-welk-verkeer-er-door-je-straat-komt.html">online </a> besteld worden. <a href="https://telraam.zendesk.com/hc/nl/articles/360022562852-Wat-heb-ik-nodig-om-van-mijn-raam-een-Telraam-te-maken-">Hier </a> vind je alle criteria om een
-    Telraam te installeren. Controleer dus aandachtig of je alle criteria kan afvinken. Neem bij vragen zeker een kijkje op de <a href="https://telraam.zendesk.com/hc/en-us/restricted?return_to=https%3A%2F%2Ftelraam.zendesk.com%2Fhc%2Fen-us&amp;locale=en-us">FAQ &amp; Support pagina.</a> waar al veel ervaringen vanuit voorgaande Telraam netwerken verzameld is.<br>
+    Hoe dat je dat? De verschillende onderdelen van een Telraamkit kunnen <a href="https://www.gotron.be/projecten/leerpakketten/tmleuven/je-wil-graag-weten-hoeveel-en-welk-verkeer-er-door-je-straat-komt.html">online </a> besteld worden.
+<a href="https://faq-nl.helpspace-docs.io/article/135/do-it-yourself-je-telraam-v1-zelf-assembleren">Hier </a> vind je alle criteria om een
+    Telraam te installeren. Controleer dus aandachtig of je alle criteria kan afvinken. Neem bij vragen zeker een kijkje op de <a href="https://faq-nl.helpspace-docs.io/">FAQ &amp; Support pagina.</a> waar al veel ervaringen vanuit voorgaande Telraam netwerken verzameld is.<br>
     <br>',
 
     'extra2-title' => 'Sensibiliseer je lokale overheid',

@@ -157,7 +157,7 @@ return [
     'least-bikes' => 'position with least two-wheelers',
     'least-cars' => 'position with least cars',
     'least-heavy' => 'position with least heavy vehicles',
-    'read-more-v85' => '<a href="https://telraam.zendesk.com/hc/en-us/articles/360019460777">What is V85?</a>',
+    'read-more-v85' => '<a href="https://telraam.helpspace-docs.io/article/14/speed-measurement-v85-explained">What is V85?</a>',
 
     'very-low-sentence' => 'This is <strong>very low</strong> compared to the other streets',
     'low-sentence' => 'This is <strong>low</strong> compared to the other streets',
@@ -172,7 +172,7 @@ return [
 
     // message profile
     'message-location-profile' => 'No street profile is created yet.<br>Is this your Telraam? Login and complete your street profile',
-    'message-location-link' => '<a href="https://telraam.zendesk.com/hc/en-us/articles/4408057646225-Street-profile">What is a street profile?</a>',
+    'message-location-link' => '<a href="https://telraam.helpspace-docs.io/article/22/street-profile">What is a street profile?</a>',
 
     'modal-split' => 'Modal split',
 

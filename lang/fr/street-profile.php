@@ -159,7 +159,7 @@ utiliser l\'entièreté de la largeur de la voirie.</span>',
     'least-bikes' => 'position des rues avec le moins de deux-roues',
     'least-cars' => 'position des rues avec le moins de voitures',
     'least-heavy' => 'position des rues avec le moins de grands véhicules',
-    'read-more-v85' => '<a href="https://telraam.zendesk.com/hc/fr/articles/360019460777-Qu-est-ce-que-le-V85-" target="_blank">Lisez en plus au sujet du V85</a>',
+    'read-more-v85' => '<a href="https://faq-fr.helpspace-docs.io/article/164/la-mesure-des-vitesses-v85-explique" target="_blank">Lisez en plus au sujet du V85</a>',
 
     'very-low-sentence' => 'C\'est un résultat <strong>très bas</strong> par rapport aux autres rues',
     'low-sentence' => 'C\'est <strong>bas</strong> par rapport aux autres rues',
@@ -174,7 +174,7 @@ utiliser l\'entièreté de la largeur de la voirie.</span>',
 
     // message profile
     'message-location-profile' => 'Aucun profil de rue n\'a encore été créé.<br>C\'est votre Telraam ? Veuillez vous connecter et remplir votre profil de rue.',
-    'message-location-link' => '<a href="https://telraam.zendesk.com/hc/fr/articles/4408057646225-Profil-de-ma-rue">Quel est l\'objectif du profil de la rue ?</a>',
+    'message-location-link' => '<a href="https://faq-fr.helpspace-docs.io/article/170/profil-de-ma-rue">Quel est l\'objectif du profil de la rue ?</a>',
 
     'modal-split'   => 'Répartition modale',
 

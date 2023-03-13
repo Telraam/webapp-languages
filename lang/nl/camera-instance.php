@@ -22,7 +22,7 @@ return [
 
     // page serial number /edit-serial-number
     'info-serial-extensive-v1' => 'Maak verbinding met uw Telraam toestel via de hotspot en vind het serienummer onderaan op <a href=http://my.telraam.net>http://my.telraam.net</a>.
-Dit bevat 15 cijfers en 2 validatietekens.<br> <a href="https://telraam.zendesk.com/hc/nl/articles/5627684662673-Serienummer-nakijken" class="tiny">Controleer het serienummer</a></ol>',
+Dit bevat 15 cijfers en 2 validatietekens.<br> <a href="https://faq-nl.helpspace-docs.io/article/117/serienummer-nakijken" class="tiny">Controleer het serienummer</a></ol>',
     'info-serial-extensive-S2' => 'Het serienummer bestaat uit 15 cijfers en 2 validatietekens die onder de QR-code op uw toestel staan.',
 
     // page serial number /new-serial-number

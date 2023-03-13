@@ -6,7 +6,7 @@ return [
     'no-images-available'       => 'Geen beelden beschikbaar',
     'no-images-available-advice' => 'Zorg ervoor dat de laatste versie van de Telraam software is geïnstalleerd op je Telraam en dat de "images" instelling vervolgens is aangevinkt tijdens de nieuwe installatie. Hoe doe je dat?',
 
-    'no-images-available-info' => '<ol><li>Download <a href="https://telraam-api.net/telraam-sd-image.zip">de laatste software</a></li><li>Installeer deze software op je Telraam: <a href="https://telraam.zendesk.com/hc/nl/articles/360028846211-Telraam-zelf-updaten">Telraam zelf updaten</a></li></ol>',
+    'no-images-available-info' => '<ol><li>Download <a href="https://telraam-api.net/telraam-sd-image.zip">de laatste software</a></li><li>Installeer deze software op je Telraam: <a href="https://faq-nl.helpspace-docs.io/article/136/de-telraam-software-zelf-updaten">Telraam zelf updaten</a></li></ol>',
     'date-image'        => 'Datum beeld',
     'last-camera-image' => 'Laatste camera beeld',
     'last-days'         => 'Laatste dagen',

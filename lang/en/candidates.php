@@ -54,7 +54,7 @@ return [
     'step1-btn'         => 'Confirm and next ',
     'confirm'         => 'Confirm',
     'image_street'  => 'Picture of your street taken from the 1st or 2nd floor window where you will place your Telraam. Take the picture perpendicular,
-from a bird\'s eye view, facing the street <a href="https://telraam.zendesk.com/hc/en-us/articles/360019257837-What-photo-should-I-upload-with-the-participation-form-" target="_blank">See also the examples</a>.<br> Limit file size and upload as jpg or png.',
+from a bird\'s eye view, facing the street <a href="https://telraam.helpspace-docs.io/article/3/requirements-for-the-installation-of-a-telraam-in-my-window" target="_blank">See also the examples</a>.<br> Limit file size and upload as jpg or png.',
 
 
     'admin_form1' => 'Form #1 intro',

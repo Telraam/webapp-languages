@@ -47,7 +47,7 @@ Het betrekken van burgers en het publiceren van open data brengt onderzoekers en
     'quote2-author' => 'Eric van Dijk',
     'quote2-function' => 'Beleidsmedewerker smart mobility, Province of Utrecht',
 
-    'section3-block1-title' => 'Hoe werkt het Telraam S2 toestek?',
+    'section3-block1-title' => 'Hoe werkt het Telraam S2 toestel?',
     'section3-block1-text' => 'Telraam S2 is ons nieuwste toestel. Het telt en classificeert weggebruikers en levert anonieme, geaggregeerde gegevens per verkeersmodus en per richting met een resolutie van
      15 minuten. Daarnaast leidt het een geschatte snelheidsverdeling af (en de V85-snelheid) voor auto\'s.<br>
 <br>

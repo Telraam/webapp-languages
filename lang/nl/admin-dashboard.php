@@ -26,17 +26,17 @@ return [
 
      'is-counting'               => 'Telraam is aan het tellen',
      'was-counting'             => 'Telraam telt niet meer',
-      'was-counting-link'        => '<a href="https://telraam.zendesk.com/hc/nl/articles/360028290252-Er-komen-ineens-geen-data-meer-door-van-mijn-Telraam" target="_blank">Troubleshooting</a>',
+      'was-counting-link'        => '<a href="https://faq-nl.helpspace-docs.io/article/111/mijn-telraam-telt-niet-meer" target="_blank">Troubleshooting</a>',
 
      'is-not-counting'          => 'Telraam heeft nog niet geteld.',
-     'is-not-counting-link'        => '<a href="https://telraam.zendesk.com/hc/nl/articles/360026050091-Er-komen-nog-geen-data-door-van-mijn-Telraam" target="_blank">Troubleshooting</a>',
+     'is-not-counting-link'        => '<a href="https://faq-nl.helpspace-docs.io/article/138/mijn-telraam-heeft-nog-niet-geteld" target="_blank">Troubleshooting</a>',
 
 
     'software-version'              => 'Telraam versie',
     'software-up-to-date'           => 'Je telraam software is up to date. Je telraam beschikt over versie 10.' ,
     'software-not-up-to-date'        => 'Er is een update (V10) beschikbaar voor uw telraam',
     'software-might-not-up-to-date'  => 'We konden nog niet verifiëren of je Telraam over de laatste software versie (V10) beschikt.',
-    'software-update-read-more'     => '<a href="https://telraam.zendesk.com/hc/nl/articles/360028846211-Telraam-zelf-updaten">Telraam zelf updaten</a>',
+    'software-update-read-more'     => '<a href="https://faq-nl.helpspace-docs.io/article/136/de-telraam-software-zelf-updaten">Telraam zelf updaten</a>',
 
 
     'checking-for-data'             => 'Controleren op data...',
