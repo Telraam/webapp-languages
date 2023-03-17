@@ -20,7 +20,7 @@ return [
     'camera-registered-last-hour' => 'Mesures en direct de la dernière heure',
     'camera-night-or-down' => 'La caméra est connectée mais ne détecte pas de mouvement au niveau du moment',
     'objects-per-hour' => 'objets par heure',
-    'camera-shown-after-full-day' => ' La caméra ne semble pas (encore) active. Les données de la caméra apparaissent après une journée complète.',
+    'camera-shown-after-full-day' => "Nous n'avons pas encore reçu de données de comptage, veuillez patienter.",
 
     'hour' => 'h',
     'loc-det-overview-per-day' => 'Aperçu par jour',

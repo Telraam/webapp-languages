@@ -20,7 +20,7 @@ return [
     'camera-night-or-down' => 'Camera is connected but does not detect movement at the moment',
 
     'objects-per-hour' => 'objects an hour',
-    'camera-shown-after-full-day' => "The camera doesn't (yet) appear to be active. The camera data will appear when a full day has passed.",
+    'camera-shown-after-full-day' => "We haven't received any counting data yet, please be patient.",
 
     'hour' => 'h',
     'loc-det-overview-per-day' => 'Overview per day',

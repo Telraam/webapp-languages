@@ -18,7 +18,7 @@ return [
     'last-name'         => 'Surname',
     'email'             => 'Email',
     'street'            => 'Street',
-    'nr'                => 'House Number',
+    'nr'                => 'House Nr',
     'street_extra'      => 'Extra Street',
     'password'          => 'Create password',
     'password-confirmation' => 'Confirm password',

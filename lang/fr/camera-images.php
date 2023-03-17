@@ -3,7 +3,7 @@
 return [
     'nav-title'             => 'Images de la caméra',
     'no-image-available'    => 'Aucune image disponible',
-    'no-images-available'   => 'Aucune image disponible',
+    'no-images-available'   => "Aucune image n'est encore disponible",
     'no-images-available-advice' => 'Assurez-vous que la dernière version du Telraam est installée et que le paramètre est activé',
     'date-image'            => 'Date de l\'image',
     'camera-images'         => 'Image(s) de la caméra',

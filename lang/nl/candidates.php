@@ -8,7 +8,7 @@ return [
     'last-name'         => 'Achternaam',
     'email'             => 'E-mailadres',
     'street'            => 'Straat',
-    'nr'                => 'Huisnummer',
+    'nr'                => 'Huisnr',
     'street_extra'      => 'Extra Straat',
     'send'              => 'Verzend',
     'zip'               => 'Postcode',
