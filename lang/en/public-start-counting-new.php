@@ -36,13 +36,10 @@ communities cleaner, safer and healthier, but to do this they need data. </p>
 
     'methodology-part-2' => '<p>The Telraam approach is:</p>',
 
-    'methodology-item-A' => 'Citizens who live on streets collect the data from their homes using Telraam devices. These counts continue over a long period of time, usually 12 months,
-     and update every 15 minutes (during daylight hours)',
+    'methodology-item-A' => 'Citizens who live on streets collect the data from their homes using Telraam devices. These counts continue over a long period of time, usually 12 months.',
     'methodology-item-B' => 'Mobility professionals and local authorities analyse the data to propose solutions',
     'methodology-item-C' => 'Citizens and Professionals work together to review the data and co-design ways to implement better traffic management plans',
-
-    'methodology-part-3' => '<p>If you have your own device, you can analyse your own data, but the data you gather is also made available, via the Telraam API, for others
-     to use for their models and analysis.</p>',
+    'methodology-item-D' => 'Telraam is then used to continuously monitor the impact of the intervention on the traffic patterns',
 
 
     // What does Telraam Count?
