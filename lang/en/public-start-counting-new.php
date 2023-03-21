@@ -29,7 +29,7 @@ impact, or simly directly cause many health and social issues, which urgently ne
 
     // The Telraam Methodology
     'methodology-title' => 'The Telraam Methodology',
-    'methodology-part-1' => '<p>Telraam offers purposly built, affordable, artificial-intelligence-driven traffin counting sensors, a network-management framework, and a complete architecture for storing, analysing, visualising, and distributing traffic data. In this setup the Telraam sensors are hosted by citizen scientists, establishing a valuable bridge between their neighbourhoods, the local authorities, and mobility professionals. This connection and the open access to the collected traffic data democratises local traffic planning, and opens up new opportunities for all involved parties.</p>',
+    'methodology-part-1' => '<p>Telraam offers purpose-built, affordable, artificial intelligence driven traffic counting sensors, a network-management framework, and a complete architecture for storing, analysing, visualising, and distributing traffic data. In this setup the Telraam sensors are hosted by citizen scientists, establishing a valuable bridge between their neighbourhoods, local authorities, and mobility professionals. This connection, and the open access to the collected traffic data, democratises local traffic planning, and opens up new opportunities for all involved parties.</p>',
 
     'methodology-part-2' => '<p>The Telraam approach is:</p>',
 
