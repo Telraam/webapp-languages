@@ -1,27 +1,26 @@
 <?php
 
 return [
-    'title' => 'Want to make your "view" count?',
-    'sub-title' => 'With Telraam you can count the traffic on your street using a fully automatic counter simply by taking advantage of the view out your window. ',
+    'title' => 'Want to make your view count?',
+    'sub-title' => 'With Telraam you can count the traffic on your street using a small, autonomous device simply by taking advantage of the view out your window.',
 
     // intro on top
-    'section1-text-part-1' => '<p>Is your street too busy and full of cars and vans travelling too fast? Do people want to walk,
-    cycle and play more in the street, but consider it unsafe?</p>
+    'section1-text-part-1' => '<p>Is your street too busy, marred by cars and vans driving too fast? Do people want to walk,
+    cycle, and play more in the street, but consider it unsafe?</p>
 
-<p>Today’s dominance of motorised vehicles as the primary means of transport in our cities and towns means that their traffic levels
-impact, or are a root-cause of, many health and social issues that urgently need to be addressed. </p>
+<p>Today’s dominance of motorised vehicles as the primary means of transport in our cities and towns means that their traffic levels negatively
+impact, or simly directly cause many health and social issues, which urgently need to be addressed. </p>
 
-<p>Traffic counting is not an end in itself. It is a means to achieve a specific goal. </p>',
+<p>Traffic counting in itself is not a solution, but it can be a powerful, quantitative tool in capable hands, forming a solid basis for meaningful reforms.</p>',
 
-    'section1-text-part-2' => '<p>Increasingly, some forward-thinking local authorities are finding ways to address these social issues, to make our
-communities cleaner, safer and healthier, but to do this they need data. </p>
+    'section1-text-part-2' => '<p>Increasingly, some forward-thinking local authorities are finding ways to address these social issues, to make our communities cleaner, safer, and healthier, but to do this they need supporting data. </p>
 
 <ul class="jump-in">
-<li>Data on what is actually happening today. </li>
-<li>Data on what they need to change. </li>
-<li>Data on the effects and outcomes of their plans.</li>
+<li>Data on what is actually happening today.</li>
+<li>Data on what needs to change. </li>
+<li>Data on how the changes are going.</li>
 </ul>
-<p>That is why Telraam works with citizens and mobility professionals to gather the data needed to make better streets.</p>',
+<p>That is why Telraam works with citizens and mobility professionals together: to gather the data needed to make the streets a better place.</p>',
 
     // Featured
     'featured-title' => 'Featured',
@@ -30,59 +29,50 @@ communities cleaner, safer and healthier, but to do this they need data. </p>
 
     // The Telraam Methodology
     'methodology-title' => 'The Telraam Methodology',
-    'methodology-part-1' => '<p>Telraam conducts quantitative longitudinal studies, by gathering data using custom camera-based devices,
-    deployed by citizen scientists, to create an Open Data resource for analysis and interpretation by mobility professionals,
-    citizen campaigners and local authorities, in order to improve the participation and planning of local traffic plans.</p>',
+    'methodology-part-1' => '<p>Telraam offers purposly built, affordable, artificial-intelligence-driven traffin counting sensors, a network-management framework, and a complete architecture for storing, analysing, visualising, and distributing traffic data. In this setup the Telraam sensors are hosted by citizen scientists, establishing a valuable bridge between their neighbourhoods, the local authorities, and mobility professionals. This connection and the open access to the collected traffic data democratises local traffic planning, and opens up new opportunities for all involved parties.</p>',
 
     'methodology-part-2' => '<p>The Telraam approach is:</p>',
 
-    'methodology-item-A' => 'Citizens who live on streets collect the data from their homes using Telraam devices. These counts continue over a long period of time, usually 12 months.',
-    'methodology-item-B' => 'Mobility professionals and local authorities analyse the data to propose solutions',
-    'methodology-item-C' => 'Citizens and Professionals work together to review the data and co-design ways to implement better traffic management plans',
-    'methodology-item-D' => 'Telraam is then used to continuously monitor the impact of the intervention on the traffic patterns',
+    'methodology-item-A' => 'Citizens collect traffic data from their windows using Telraam sensors. These typically keep counting continuously over a longer period of time (usually 12 months), sending data every 15 minutes (during daylight hours)',
+    'methodology-item-B' => 'Mobility professionals and local authorities analyse the data to understand the local traffic and propose solutions to specific issues',
+    'methodology-item-C' => 'Citizens and professionals work together to review the data and co-design ways to implement better traffic management plans',
+    'methodology-item-D' => 'Telraam sensors can be used further to monitor, evaluate, and adjust the implemented changes',
 
-
-    // What does Telraam Count?
-    'section2-text-title' => 'What does Telraam Count?',
-    'section2-text-part-1' => '<p>A Telraam sensor counts road users classified into various categories. </p>
-
-    <p>Currently (Q1 2023) the data that is displayed on the Telraam website (and made available via the Telraam API) includes four categories.
-    The new Telraam S2 device is capable of differentiating between a broader set of road user types and these will soon also be available via the API and then on the website reports.</p>
-    </p>',
+    'methodology-part-3' => '<p>As an interested individual you can have your own personal Telraam sensor and analyse your own data, but the data that your sensor collects is also made available to everyone else as Open Data via the Telraam API.</p>',
 
 
     // Why Citizen Science?
     'cit-science-title' => 'Why Citizen Science?',
     'cit-science-item-1' => '<strong class="green">Cost-effective</strong><br>
     <p>Citizen science projects can be a cost-effective way for local authorities to gather data and gain insights
-    into transportation issues in their community. No need for expensive street installations to protect the security or street users and the devices.</p>',
+    into traffic issues in their community. No need for expensive street installations to protect the security of street users and the counting devices.</p>',
 
     'cit-science-item-2' => '<strong  class="green">Local knowledge</strong><br>
-    <p>Citizen scientists are usually residents of the community in which they are collecting data, which means they have
-     local knowledge and perspectives that can be valuable in understanding transportation issues and developing solutions.</p>',
+    <p>Citizen scientists are residents of the community in which they are collecting data, which means they have the 
+     local knowledge and perspectives that can be valuable in understanding local issues and developing locally applicable solutions.</p>',
 
     'cit-science-item-3' => '<strong  class="green">Engaging the community</strong><br>
     <p>Citizen science projects can be a way to engage members of the community in the decision-making process and
-     to get them more invested in finding solutions to local transportation challenges.</p>',
+     to get them more invested in finding solutions to the local challenges.</p>',
 
     'cit-science-item-4' => '<strong  class="green">Broader impact</strong><br>
-    <p>By involving citizens in the data-gathering process, local authorities can also create a greater sense of ownership and buy-in for any solutions
-     that are developed as a result of these collaborations, which may lead to more widespread adoption and a greater impact on transportation challenges in the community.</p>',
+    <p>By involving citizens in the data-gathering process, local authorities can also create a greater sense of ownership and buy-in for solutions
+     that are developed as a result of these collaborations, which will lead to more widespread adoption and a greater positive impact and reception in the community.</p>',
 
 
-    /*  fifth makes it difficult for the layout
+    /*  fifth makes it difficult for the layout # But it is a valid point (Peter) - maybe make a 3-2 in two rows if you want this?
       <strong>Access to new technologies</strong><br>
     <p>Citizen science projects can also provide an opportunity for local authorities to tap into new technologies
     and techniques that can be used to gather and analyse data, such as smartphone apps or crowdsourced mapping platforms.</p> */
 
     // What does Telraam Count?
     'what-title' => 'What does Telraam Count?',
-    'what-text' => '<p>A Telraam sensor counts road users classified into various categories. </p>
+    'what-text' => '<p>Telraam sensors count road users classified into various categories. </p>
 <p>Currently (Q1 2023) the data that is displayed on the Telraam website (and made available via the
 Telraam API) includes four categories.</p>
-<p>The new Telraam S2 device is capable of differentiating between a broader set of road user types and
- these will also be available to the public (after an initial testing and fine-tuning period)
-  via the API and then on the website reports.</p>',
+<p>The new Telraam S2 device is capable of differentiating between an even broader set of road user. These new classes
+  will also be available to the public (after an initial testing and fine-tuning period)
+  first via the API, and then on the website reports.</p>',
 
     'what-table' => '<table class="categories">
 <thead>
@@ -114,13 +104,12 @@ Telraam API) includes four categories.</p>
     'how-to-start-option-A-button' => '<a href="shop" class="button">Visit our shop</a></p>',
 
     'how-to-start-option-B-title' => 'Join a network',
-    'how-to-start-option-B-text' => '<p>Alternatively, join one of the many networks already counting or recruiting.
- for further options.</p>',
+    'how-to-start-option-B-text' => '<p>Alternatively, join one of the many networks already counting or recruiting.</p>',
     'how-to-start-option-B-button' => '<a href="#joinlocalnetwork" class="button">Browse the network list</a></p>',
 
     'how-to-start-option-C-title' => 'Start a network',
     'how-to-start-option-C-text' => '<p>No existing networks in your area, or need to decide where to collect traffic data?</p>',
-    'how-to-start-option-C-button' => '<a href="contact-us" class="button">Start and manage your own network</a>.</p>',
+    'how-to-start-option-C-button' => '<a href="contact-us" class="button">Start and manage your own network</a></p>',
 
     // networks
     'all-networks-title' => 'All networks',
