@@ -9,7 +9,7 @@ return [
     cycle, and play more in the street, but consider it unsafe?</p>
 
 <p>Today’s dominance of motorised vehicles as the primary means of transport in our cities and towns means that their traffic levels negatively
-impact, or simly directly cause many health and social issues, which urgently need to be addressed. </p>
+impact, or simply directly cause many health and social issues, which urgently need to be addressed. </p>
 
 <p>Traffic counting in itself is not a solution, but it can be a powerful, quantitative tool in capable hands, forming a solid basis for meaningful reforms.</p>',
 
@@ -31,9 +31,9 @@ impact, or simly directly cause many health and social issues, which urgently ne
     'methodology-title' => 'The Telraam Methodology',
     'methodology-part-1' => '<p>Telraam offers purpose-built, affordable, artificial intelligence driven traffic counting sensors, a network-management framework, and a complete architecture for storing, analysing, visualising, and distributing traffic data. In this setup the Telraam sensors are hosted by citizen scientists, establishing a valuable bridge between their neighbourhoods, local authorities, and mobility professionals. This connection, and the open access to the collected traffic data, democratises local traffic planning, and opens up new opportunities for all involved parties.</p>',
 
-    'methodology-part-2' => '<p>The Telraam approach is:</p>',
+    'methodology-part-2' => '<p>The Telraam approach:</p>',
 
-    'methodology-item-A' => 'Citizens collect traffic data from their windows using Telraam sensors. These typically keep counting continuously over a longer period of time (usually 12 months), sending data every 15 minutes (during daylight hours)',
+    'methodology-item-A' => 'Citizens collect traffic data from their windows using Telraam sensors. These typically keep counting continuously over a longer period of time (usually 12 months), sending data every 15 minutes (during daylight hours).',
     'methodology-item-B' => 'Mobility professionals and local authorities analyse the data to understand the local traffic and propose solutions to specific issues',
     'methodology-item-C' => 'Citizens and professionals work together to review the data and co-design ways to implement better traffic management plans',
     'methodology-item-D' => 'Telraam sensors can be used further to monitor, evaluate, and adjust the implemented changes',
@@ -48,7 +48,7 @@ impact, or simly directly cause many health and social issues, which urgently ne
     into traffic issues in their community. No need for expensive street installations to protect the security of street users and the counting devices.</p>',
 
     'cit-science-item-2' => '<strong  class="green">Local knowledge</strong><br>
-    <p>Citizen scientists are residents of the community in which they are collecting data, which means they have the 
+    <p>Citizen scientists are residents of the community in which they are collecting data, which means they have the
      local knowledge and perspectives that can be valuable in understanding local issues and developing locally applicable solutions.</p>',
 
     'cit-science-item-3' => '<strong  class="green">Engaging the community</strong><br>
@@ -114,7 +114,8 @@ Telraam API) includes four categories.</p>
     // networks
     'all-networks-title' => 'All networks',
     'all-networks-text' => 'Feel free to browse a complete overview of past and current networks',
-    'all-networks-more' => 'More'
+    'all-networks-more' => 'More',
 
+    'show-all' => 'Show all'
 ];
 
