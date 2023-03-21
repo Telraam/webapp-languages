@@ -99,9 +99,9 @@ We briefly explain the applicable legal grounds below.
             <td>Storage in Belgium</td>
         </tr>
         <tr>
-            <td>Zendesk</td>
+            <td>HelpSpace</td>
             <td>Offering support services</td>
-            <td>Storage on Amazon Web Services servers in Ireland</td>
+            <td>Storage on Amazon Web Services servers in Germany</td>
         </tr>
          <tr>
             <td>Telraam network admin (e.g. universities and participating municipalities)</td>

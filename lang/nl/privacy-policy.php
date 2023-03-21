@@ -106,9 +106,9 @@ Telraam mag uw persoonsgegevens enkel verwerken indien zij zich hiervoor baseert
             <td>Opslag in België</td>
         </tr>
         <tr>
-            <td>Zendesk</td>
+            <td>HelpSpace</td>
             <td>Aanbieden van support-diensten</td>
-            <td>Opslag op servers van Amazon Web Services in Ierland</td>
+            <td>Opslag op servers van Amazon Web Services in Duitsland</td>
         </tr>
          <tr>
             <td>Telraamnetwerkbeheerders (bv. universiteiten en deelnemende gemeentes)</td>

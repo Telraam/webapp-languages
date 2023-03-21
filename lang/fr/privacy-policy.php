@@ -96,9 +96,9 @@ Telraam ne peut traiter vos données personnelles que si cela est fondé sur un 
             <td>Stockage en Belgique  </td>
         </tr>
         <tr>
-            <td>Zendesk</td>
+            <td>HelpSpace</td>
             <td>Offrir des services de soutien </td>
-            <td>Stockage sur des serveurs Amazon Web Services en Irlande</td>
+            <td>Stockage sur des serveurs Amazon Web Services en Allemagne</td>
         </tr>
          <tr>
             <td>Opérateurs Telraam (par exemple, universités et municipalités participantes)  </td>
