@@ -42,5 +42,7 @@ ou l\'administrateur réseau. Seule la dernière image de la région d\'intérê
     'roi-set-to' => 'Roi prêt à',
     'on' => 'sur',
 
+    'device-not-available-for-roi' => 'L\'appareil n\'est pas en ligne pour le moment. Réessayez plus tard.',
+
 
 ];

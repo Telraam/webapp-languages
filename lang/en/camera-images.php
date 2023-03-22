@@ -42,4 +42,7 @@ after the initial region of interest (ROI) was set either automatically by the c
 
     'roi-set-to' => 'Roi set to',
     'on' => 'on',
+
+    'device-not-available-for-roi' => 'Device is not online at the moment. Try again later.',
+
 ];

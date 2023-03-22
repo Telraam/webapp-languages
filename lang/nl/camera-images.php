@@ -43,4 +43,5 @@ nadat het initiële interessegebied (ROI) automatisch door de camera of handmati
     'roi-set-to' => 'Roi vastgezet n',
     'on' => 'op',
 
+    'device-not-available-for-roi' => 'Het toestel is op dit moment niet online. Probeer later opnieuw',
 ];
