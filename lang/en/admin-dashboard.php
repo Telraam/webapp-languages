@@ -25,10 +25,12 @@ return [
 
     'is-counting'               => 'Telraam is counting',
     'was-counting'             => "Telraam isn't counting anymore",
-    'was-counting-link'        => '<a href="https://telraam.helpspace-docs.io/article/51/my-telraam-isnt-counting-anymore" target="_blank">Troubleshooting</a>',
+    'was-counting-link-v1'        => '<a href="https://telraam.helpspace-docs.io/article/51/my-telraam-isnt-counting-anymore" target="_blank">Troubleshooting</a>',
+    'was-counting-link-S2'   => '<a href="https://telraam.helpspace-docs.io/article/206/troubleshooting-with-the-s2" target="_blank">Troubleshooting</a>',
 
     'is-not-counting'          => 'Telraam is not counting yet',
-    'is-not-counting-link'        => '<a href="https://telraam.helpspace-docs.io/article/49/no-data-is-coming-from-my-telraam-yet" target="_blank">Troubleshooting</a>',
+    'is-not-counting-link-v1'   => '<a href="https://telraam.helpspace-docs.io/article/49/no-data-is-coming-from-my-telraam-yet" target="_blank">Troubleshooting</a>',
+    'is-not-counting-link-S2'   => '<a href="https://telraam.helpspace-docs.io/article/206/troubleshooting-with-the-s2" target="_blank">Troubleshooting</a>',
 
     'software-version'              => 'Telraam Software version',
     'software-up-to-date'           => 'The Telraam software is up-to-date. Your telraam contains version 10.' ,

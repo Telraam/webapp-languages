@@ -25,10 +25,13 @@ return [
 
      'is-counting'              => 'Telraam compte',
      'was-counting'             => "La caméra ne compte plus",
-    'was-counting-link'        => '<a href="https://faq-fr.helpspace-docs.io/article/191/ma-telraam-ne-compte-plus" target="_blank">Dépannage</a>',
+    'was-counting-link-v1'        => '<a href="https://faq-fr.helpspace-docs.io/article/191/ma-telraam-ne-compte-plus" target="_blank">Dépannage</a>',
+    'was-counting-link-S2'        => '<a href="https://faq-fr.helpspace-docs.io/article/208/resolution-des-problemes-avec-le-s2" target="_blank">Dépannage</a>',
 
     'is-not-counting'          => 'La caméra ne compte pas encore',
-    'is-not-counting-link'        => '<a href="https://faq-fr.helpspace-docs.io/article/189/mon-telraam-ne-compte-pas-encore" target="_blank">Dépannage</a>',
+    'is-not-counting-link-v1'        => '<a href="https://faq-fr.helpspace-docs.io/article/189/mon-telraam-ne-compte-pas-encore" target="_blank">Dépannage</a>',
+    'is-not-counting-link-S2'        => '<a href="https://faq-fr.helpspace-docs.io/article/208/resolution-des-problemes-avec-le-s2" target="_blank">Dépannage</a>',
+
 
      'software-version'          => 'Version du logiciel Telraam',
      'software-up-to-date'        => 'Votre logiciel Telraam est à jour. Votre Telraam a la version 10.' ,

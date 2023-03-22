@@ -26,10 +26,12 @@ return [
 
      'is-counting'               => 'Telraam is aan het tellen',
      'was-counting'             => 'Telraam telt niet meer',
-      'was-counting-link'        => '<a href="https://faq-nl.helpspace-docs.io/article/111/mijn-telraam-telt-niet-meer" target="_blank">Troubleshooting</a>',
+     'was-counting-link-v1'        => '<a href="https://faq-nl.helpspace-docs.io/article/111/mijn-telraam-telt-niet-meer" target="_blank">Troubleshooting</a>',
+     'was-counting-link-s2'        => '<a href="https://faq-nl.helpspace-docs.io/article/207/probleemoplossing-met-de-s2" target="_blank">Troubleshooting</a>',
 
      'is-not-counting'          => 'Telraam heeft nog niet geteld.',
-     'is-not-counting-link'        => '<a href="https://faq-nl.helpspace-docs.io/article/138/mijn-telraam-heeft-nog-niet-geteld" target="_blank">Troubleshooting</a>',
+     'is-not-counting-link-v1'      => '<a href="https://faq-nl.helpspace-docs.io/article/138/mijn-telraam-heeft-nog-niet-geteld" target="_blank">Troubleshooting</a>',
+     'is-not-counting-link-s2'        => '<a href="https://faq-nl.helpspace-docs.io/article/207/probleemoplossing-met-de-s2" target="_blank">Troubleshooting</a>',
 
 
     'software-version'              => 'Telraam versie',
