@@ -40,9 +40,8 @@ return [
     'buy-a-telraam' => 'Buy a Telraam',
     'get-started' => ' Get started',
     'get-in-touch' => 'Get in touch',
-    'pre-order' => 'Pre-order',
-    'pre-order-note' => 'Estimated shipping date: 15 March 2023',
     'order' => 'Order',
+    'order-note' => 'ATM Europe & US only',
 
     // includes
     'include-title' => 'Includes:',

@@ -9,9 +9,8 @@ return [
 
     'more-professional' => '',
 
-    'outro-professional'  => '<p>Aarzel niet om <a href="https://telraam.net/en/contact-us">contact op te nemen</a> voor offertes, informatie of vragen.
-Geschatte leveringsdatum: 15 maart 2023</p>',
+    'outro-professional'  => '<p>Aarzel niet om <a href="https://telraam.net/en/contact-us">contact op te nemen</a> voor offertes, informatie of vragen.</p>',
 
-    'intro-individu' => 'Als particulier koop je tegen een gereduceerd tarief één toestel voor je eigen straat. Geschatte levering is 15 maart 2023.'
+    'intro-individual' => 'Als particulier koop je tegen een gereduceerd tarief één toestel voor je eigen straat.'
 
 ];

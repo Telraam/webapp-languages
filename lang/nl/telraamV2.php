@@ -4,7 +4,7 @@ return [
 
     'title'           => 'Telraam S2',
 
-    'subtitle'          => 'Onze nieuwe sensor - Verwacht in maart 2023<br>Subtiel, slim, and doeltreffend<br>Moeiteloos verkeer tellen in elke straat',
+    'subtitle'          => 'Onze nieuwe sensor<br>Subtiel, slim, and doeltreffend<br>Moeiteloos verkeer tellen in elke straat',
 
     'section1-block1-text'        => '<p><strong>De ideale oplossing om gedetailleerde informatie over het verkeer te verzamelen</strong> op iedere straat, zowel voor particulieren en campagnevoerders als voor lokale overheden en mobiliteitsprofessionals in SMART-steden. </p>
     <p><strong>Volg meerdere modaliteiten tegelijk</strong> met de S2 om het effect te zien van eventuele ingrepen of veranderingen in lokale gewoonten.</p>',

@@ -4,7 +4,7 @@ return [
 
     'title'           => 'Telraam S2',
 
-    'subtitle'          => 'Our new sensor - arriving March 2023<br>Small, smart, and powerful<br>Effortless traffic counting on every street',
+    'subtitle'          => 'Our new sensor<br>Small, smart, and powerful<br>Effortless traffic counting on every street',
 
     'section1-block1-text'        => '<p><strong>The ideal solution for gathering detailed information on traffic</strong> on any street, whether for individuals and campaigners, or local authorities and mobility professionals in SMART cities. </p>
     <p><strong>Track multiple modes simultaneously</strong> with the S2 to see the impact of any interventions or changes in local habits.</p>',
@@ -107,7 +107,7 @@ return [
 <p>For this reason, Telraam uses revenue from our contracts to cover the costs of managing your device - for life! As a private citizen, you can buy a single device and gather the data for as long as you like to use for your own projects.</p>
 
 <p>Because of this subsidy and support, this is strictly for individual, private citizens. If you are an organisation involved in campaigning on, consulting for, or managing local transport and mobility projects, then please check out our ‘Professionals’ packages.</p>',
-    'section-package-button' => 'Pre-order - Early Bird 199€',
-    'section-package-warning' => 'Estimated ship date 15 march 2023 - limited batch',
+    'section-package-button' => 'Order - Early Bird 199€',
+    'section-package-warning' => 'Limited availability',
 
 ];

@@ -40,10 +40,8 @@ return [
     'buy-a-telraam' => 'Acheter un Telraam',
     'get-started' => 'Commencer',
     'get-in-touch' => 'Contactez-nous',
-     'pre-order' => 'Pre-order',
-    'pre-order-note' => 'Date de expédition estimée 15 mars 2023',
-
     'order' => 'Commande',
+    'order-note' => 'Seulement l\'Europe et USA pour l\'instant',
 
     // includes
     'include-title' => 'Y compris:',

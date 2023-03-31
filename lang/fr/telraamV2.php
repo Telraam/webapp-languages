@@ -4,7 +4,7 @@ return [
 
     'title'           => 'Telraam S2',
 
-    'subtitle'          => 'Nouveau capteur - prévu mars 2023<br>Modeste, intelligent et efficace<br>Comptes de trafic sans effort dans chaque rue.',
+    'subtitle'          => 'Nouveau capteur<br>Modeste, intelligent et efficace<br>Comptes de trafic sans effort dans chaque rue.',
 
     'section1-block1-text'        => '<p><strong>La solution idéale pour la collection d\'informations détaillées sur le trafic</strong> dans chaque rue, pour les particuliers et pour les autorités locales et les professionnels de la mobilité. </p>
     <p><strong>Suivez plusieurs modalités simultanément</strong> avec le S2 pour voir l\'effet de toute intervention ou de tout changement dans les habitudes locales.</p>',

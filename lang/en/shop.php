@@ -9,10 +9,9 @@ return [
     'more-professional'  => '',
 
     'outro-professional'  => '<p>Do not hesitate to <a href="https://telraam.net/en/contact-us">get in touch with us</a> for quotes, information or questions.
- We love to hear from you. Estimated shipping date: 15 March 2023</p>',
+ We love to hear from you.</p>',
 
-    'intro-individual' => 'As an individual you can buy a single device at a discounted rate for personal use to track your own street. 
-Estimated shipping date is March 15, 2023',
+    'intro-individual' => 'As an individual you can buy a single device at a discounted rate for personal use to track your own street.',
 
     'product-1-title' => 'Telraam S2 - Professional',
     'product-1-description' => 'One S2 sensor with 12 months data subscription',

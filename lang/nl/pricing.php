@@ -40,9 +40,8 @@ return [
     'buy-a-telraam' => 'Koop een Telraam',
     'get-started' => 'Aan de slag',
     'get-in-touch' => 'Neem contact op',
-    'pre-order' => 'Pre-order',
-    'pre-order-note' => 'Geschatte leveringsdatum: 15 maart 2023',
     'order' => 'Bestel',
+    'order-note' => 'Enkel levering binnen Europa en US op dit moment',
 
     // includes
     'include-title' => 'Inclusief:',
