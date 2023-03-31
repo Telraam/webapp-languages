@@ -1,67 +1,114 @@
 <?php
 
 return [
-    'title' => 'Vous voulez avoir un Telraam ?',
-    'sub-title' => '',
+    'title' => 'Voulez-vous que votre vue compte?',
+    'sub-title' => 'Avec Telraam, vous pouvez compter le trafic dans votre rue à l\'aide d\'un appareil autonome, simplement en profitant de la vue par votre fenêtre.',
 
     // intro on top
-    'section1-title' => 'Une Telraam sur votre façade, ça vous tente?',
-    'section1-text' => 'Avec Telraam c’est possible de compter la circulation dans votre rue grâce à un compteur entièrement automatique. Vous découvrirez ci-dessous où les réseaux Telraam sont actifs. Il y a deux façons de se connecter au comptages Telraam : en tant que compteur individuel ou au sein d\'un réseau. <br>
-En tant que citoyen individuel, vous pouvez acheter votre propre appareil Telraam et compter sur votre compte dans votre rue via la plateforme Telraam. Plus d\'informations ci-dessous sur "My own Telraam".
-',
+    'section1-text-part-1' => '<p>Votre rue est-elle trop fréquentée, encombrée de voitures et de camionnettes roulant trop vite? Les gens veulent-ils marcher, faire du vélo ou jouer davantage dans la rue, mais la considèrent trop dangereuse?</p>
+
+<p>La prédominance actuelle des véhicules motorisés en tant que principal moyen de transport dans nos villes et agglomérations signifie que le niveaux de trafic a un impact négatif, ou est tout simplement la cause directe de nombreux problèmes sanitaires et sociaux, auxquels il est urgent de s\'attaquer.  </p>
+
+<p>Le comptage du trafic n\'est pas une solution en soi, mais il peut constituer un outil quantitatif puissant,formant une base solide pour des réformes significatives.</p>',
+
+    'section1-text-part-2' => '<p>De plus en plus, certaines municipalités innovantes trouvent des solutions à ces problèmes sociaux, afin de rendre nos communautés plus propres, plus sûres et plus saines, mais pour ce faire, elles ont besoin de données d\'appui.</p>
+
+<ul class="jump-in">
+<li>Des données sur ce qui se passe réellement aujourd\'hui.</li>
+<li>Données sur ce qui doit changer. </li>
+<li>Données sur l\'évolution des changements.</li>
+</ul>
+<p>C\'est pourquoi Telraam travaille avec les citoyens et les professionnels de la mobilité pour recueillir les données nécessaires à l\'amélioration des rues.</p>',
+
+    // Featured
+    'featured-title' => 'Réseaux vedettes',
+    'featured-title-sm' => 'Plus...',
 
 
-    // new 15 juli
-    'section1-block-self-measure-title' => 'Mon propre Telraam',
-    'section1-text-self-measure-title'  => 'Vous ne faites pas partie d\'un groupe de compteurs existant, mais vous souhaitez simplement compter vous-même le trafic dans votre rue ?<br><br>
-Vous pourrez ensuite acheter et installer votre propre Telraam. Une fois que votre Telraam est installé et connecté à la plateforme Telraam, vous pouvez visualiser vos données sous forme de graphiques.
- Vous disposez également de votre propre tableau de bord et pouvez télécharger les chiffres. <br><br>
-Vous pouvez acheter un kit Telraam via notre partenaire
-<a href="https://www.gotron.be/telraampakket-pre-installed-version-voorafgemonteerd-en-flashed-sd-kaart.html" target="_blank">Gotron</a>.
- Un Telraam assemblé coûte 127€.',
-    'section1-block-self-measure-inbetween' => 'ou',
+    // The Telraam Methodology
+    'methodology-title' => 'La méthodologie Telraam',
+    'methodology-part-1' => '<p>Telraam propose des capteurs de comptage du trafic, basés sur l\'intelligence artificielle, conçus à cet effet et abordables, un cadre de gestion de réseau et une architecture complète pour le classement, l\'analyse, la visualisation et la distribution des données relatives au trafic. Dans cette configuration, les capteurs Telraam sont hébergés par des scientifiques citoyens, établissant ainsi un pont précieux entre leur communauté, les autorités locales et les professionnels de la mobilité. Cette connexion et l\'accès libre aux données collectées sur le trafic démocratisent la planification du trafic local et ouvrent de nouvelles perspectives à toutes les parties concernées.</p>',
 
-    'section1-block-waiting-list-title' => 'Inscrivez-vous sur une liste d\'attente dans votre municipalité',
-    'section1-text-waiting-list-title' => 'En tant que citoyen, souhaiteriez-vous disposer d\'un réseau de bouliers dans votre municipalité ?<br><br>
-La technologie de Telraam fonctionne mieux via les réseaux Telraam. Cela nous permet d\'avoir une vision plus fine de la situation du trafic.<br><br>
- Si l\'intérêt d\'une municipalité particulière est suffisant, nous contacterons directement l\'autorité locale. Inscrivez-vous via le lien ci-dessous et laissez les autres parties intéressées de votre municipalité remplir le formulaire',
+    'methodology-part-2' => "<p>L\'approche Telraam:</p>",
 
-    'section1-text-waiting-list-btn' => 'Inscrivez vous sur notre liste d\'attente',
+    'methodology-item-A' => 'Les citoyens collectent des données sur le trafic depuis leurs fenêtres à l\'aide de capteurs Telraam. Ceux-ci comptent généralement en continu sur une longue période (généralement 12 mois), envoyant des données toutes les 15 minutes (pendant les heures de clarté).',
+    'methodology-item-B' => 'Les professionnels de la mobilité et les autorités locales analysent les données pour comprendre le trafic local et proposer des solutions à des problèmes spécifiques.',
+    'methodology-item-C' => 'Les citoyens et les professionnels travaillent ensemble pour examiner les données et concevoir ensemble des moyens de mettre en œuvre de meilleurs plans de gestion du trafic.',
+    'methodology-item-D' => 'Les capteurs Telraam peuvent être utilisés pour surveiller, évaluer et ajuster les changements mis en œuvre.',
+
+    'methodology-part-3' => '<p>En tant que personne intéressée, vous pouvez avoir votre propre capteur Telraam et analyser vos propres données, mais les données collectées par votre capteur sont également mises à la disposition de tous les autres en tant que données ouvertes via l\'API Telraam.</p>',
 
 
+    // Why Citizen Science?
+    'cit-science-title' => 'Pourquoi la science citoyenne?',
+    'cit-science-item-1' => '<strong class="green">Rentabilité</strong><br>
+    <p>Les projets de science citoyenne peuvent être un moyen rentable pour les autorités locales de recueillir des données et d\'obtenir des informations sur les problèmes de circulation dans leur communauté. Il n\'est pas nécessaire de procéder à des installations coûteuses dans les rues pour assurer la sécurité des usagers et des dispositifs de comptage.</p>',
 
-    // recruiting now
-    'section2-title' => 'Où les réseaux Telraam sont-ils lancés?',
-    'section2-text' => 'Vous pouvez également vous connecter à un réseau Telraam proche. Vous trouverez ci-dessous les différents réseaux en démarrage. Un réseau Telraam est généralement commandé par un gouvernement (local). Au sein d\'un réseau de dispositifs Telraam dans une certaine zone, des conseils locaux et des ateliers pour les compteurs sont généralement déployés. En outre, toutes les données de comptage au sein d\'un réseau sont collectées et analysées de manière centralisée.',
+    'cit-science-item-2' => '<strong  class="green">Connaissances locales</strong><br>
+    <p>Les citoyens scientifiques sont des résidents de la communauté dans laquelle ils collectent des données, ce qui signifie qu\'ils ont des connaissances et des perspectives locales qui peuvent être précieuses pour comprendre les problèmes locaux et développer des solutions applicables localement.</p>',
 
-    // upcoming
-    'section3-title' => 'Quels seront les réseaux suivants ?',
-    'section3-text' => 'Bientôt, des réseaux Telraam seront également lancés dans les villes, municipalités ou quartiers suivants. Dès que l\'appel aux candidat-compteurs est ouvert, vous le verrez apparaître sur cette page.',
+    'cit-science-item-3' => '<strong  class="green">Engager la communauté</strong><br>
+    <p>Les projets de science citoyenne peuvent être un moyen d\'impliquer les membres de la communauté dans le processus de prise de décision et de les amener à s\'investir davantage dans la recherche de solutions aux défis locaux.</p>',
 
-    // done
-    'section4-title' => 'Des réseaux qui comptent déjà',
-    'section4-text'  => 'De nombreuses autres municipalités et autres initiatives ont déjà commencé à travailler avec Telraam. Vous trouverez ci-dessous une liste de municipalités et d\'autres clients qui ont travaillé avec nous pour mettre en place un réseau Telraam.',
-
-
-    'no-active-networks' => 'Pas de réseaux à montrer',
+    'cit-science-item-4' => '<strong  class="green">Un impact plus large</strong><br>
+    <p>En impliquant les citoyens dans le processus de collecte des données, les autorités locales peuvent également créer un plus grand sentiment d\'appropriation et d\'adhésion pour les solutions qui sont développées à la suite de ces collaborations, ce qui conduira à une adoption plus répandue et à un impact et une réception plus positifs dans la communauté.</p>',
 
 
+    /*  fifth makes it difficult for the layout # But it is a valid point (Peter) - maybe make a 3-2 in two rows if you want this?
+      <strong>Access to new technologies</strong><br>
+    <p>Citizen science projects can also provide an opportunity for local authorities to tap into new technologies
+    and techniques that can be used to gather and analyse data, such as smartphone apps or crowdsourced mapping platforms.</p> */
 
-    // section below
-    'extra1-title' => 'Créer un réseau soi-même ?',
-    'extra1-text' => 'Si vous souhaitez, en tant que citoyen, créer un réseau de comptage dans votre ville ou commune, c’est certainement possible. Vous pouvez démarrer en tant que citoyen intéressé, groupe d’amis, comité de quartier, école, groupe d’action,… en plaçant une Telraam à votre fenêtre, lancer et élargir le réseau de comptage.<br>
-                    <br>
-                    Plus d’informations sur la manière dont se passent les comptages avec Telraam: Les différentes parties d’un kit Telraam peuvent être commandés en ligne via <a href="https://www.gotron.be/telraampakket-pre-installed-version-voorafgemonteerd-en-flashed-sd-kaart.html" target="_blank">Gotron </a>. Vous trouverez dans <a href="https://www.telraam.net/fr/register">S’enregistrer</a> tous les critères à remplir pour mettre sur pied une Telraam.
-                    Vérifiez bien que vous remplissez tous ces critères. <br>
-                    En cas de question, n’hésitez pas à consulter la page <a href="https://faq-fr.helpspace-docs.io/">FAQ &amp; Support</a>.
-                   Vous avez d\'autres remarques ou des questions spécifiques, contactez nous: <a href="mailto:info@telraam.net">info@telraam.net</a>.<br>
-                    <br>',
+    // What does Telraam Count?
+    'what-title' => 'Que compte Telraam ?',
+    'what-text' => '<p>Les capteurs Telraam comptent les usagers de la route classés en différentes catégories. </p>
+<p>Actuellement (T1 2023), les données affichées sur le site web de Telraam (et mises à disposition via l\'API Telraam) comprennent quatre catégories.</p>
+<p>Le nouveau dispositif Telraam S2 est capable de différencier un ensemble encore plus large d\'usagers de la route. Ces nouvelles classes seront également mises à
+ la disposition du public (après une période initiale de test et de mise au point), d\'abord via l\'API, puis sur les rapports du site web.</p>',
 
-    'extra2-title' => 'Sensibilisez votre autorité locale',
-    'extra2-text' => ' Demandez à votre autorité locale de soutenir la création d’un réseau de comptage dans votre commune.<br><br>
-                Ainsi, Telraam peut collaborer avec des citoyens et des autorités locales pour cartographier la circulation de la commune. Les villes et communes intéressées trouveront des informations à ce sujet sur la page <a href="../fr/governments">Autorités</a>.',
-    'no-active-networks' => 'Pas de réseaux a montrer pour l’instant',
+    'what-table' => '<table class="categories">
+<thead>
+    <tr>
+        <td>Catégories V1</td><td>Catégories S2</td>
+    </tr>
+    </thead>
+<tbody>
+<tr>
+        <td>Piétons</td><td>Piétons<br>Poussettes</td>
+</tr>
+<tr>
+        <td>Deux-roues</td>
+        <td>Vélos<br>Motos</td>
+</tr>
+<tr>
+        <td>Voitures</td><td>Voitures</td>
+</tr>
+<tr>
+            <td>Véhicules lourds</td><td>Camionnettes<br>Camions<br>Buses<br>Bandes-annonces<br>Tracteurs</td>
+</tr>
+</tbody></table>',
 
-    'register' => 'S\'enregistrer'
+
+    // How to start counting
+    'how-to-start-title' => 'Commencer à compter',
+    'how-to-start-option-A-title' => 'Acheter un appareil',
+    'how-to-start-option-A-text' => '<p>En tant que citoyen, vous pouvez acheter votre propre appareil Telraam et compter vous-même le trafic dans votre rue via la plateforme Telraam.</p>',
+    'how-to-start-option-A-button' => '<a href="shop" class="button">Visitez notre boutique</a></p>',
+
+    'how-to-start-option-B-title' => 'Join a network',
+    'how-to-start-option-B-text' => '<p>Vous pouvez également rejoindre l\'un des nombreux réseaux qui comptent ou recrutent déjà.</p>',
+    'how-to-start-option-B-button' => '<a href="#joinlocalnetwork" class="button">Parcourir la liste des réseaux</a></p>',
+
+    'how-to-start-option-C-title' => 'Démarrer un réseau',
+    'how-to-start-option-C-text' => '<p>S\'il n\'y a pas pas de réseaux dans votre région ou souhaitez-vous exploiter vos propres données de trafic ?</p>',
+    'how-to-start-option-C-button' => '<a href="contact-us" class="button">Créez et gérez votre propre réseau</a></p>',
+
+    // networks
+    'all-networks-title' => 'Liste complète des réseaux',
+    'all-networks-text' => 'N\'hésitez pas à consulter un aperçu complet des réseaux passés et actuels.',
+    'all-networks-more' => 'Plus',
+
+    'show-all' => 'Afficher tout'
 
 ];
+
