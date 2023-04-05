@@ -10,6 +10,7 @@ Pour vous permettre de compter RAPIDEMENT, nous proposons actuellement des formu
 
     'outro-professional'  => 'N\'hésitez pas à <a href=https://telraam.net/fr/contact-us>nous contacter</a> pour des devis, des informations ou des questions.
  Nous aimons avoir de vos nouvelles',
+    'warning-professional'  => 'Le premier lot de production est complètement épuisé.<br> Date d\'expédition estimée pour les commandes en cours : mai 2023.',
 
      'intro-individual' => 'En tant que particulier, vous pouvez acheter un appareil pour votre propre rue à une tarife réduite.'
 ];

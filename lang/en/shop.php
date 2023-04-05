@@ -10,6 +10,7 @@ return [
 
     'outro-professional'  => '<p>Do not hesitate to <a href="https://telraam.net/en/contact-us">get in touch with us</a> for quotes, information or questions.
  We love to hear from you.</p>',
+    'warning-professional'  => 'First production batch is completely sold out.<br> Estimated ship date for current orders: may 2023.',
 
     'intro-individual' => 'As an individual you can buy a single device at a discounted rate for personal use to track your own street.',
 
