@@ -10,6 +10,7 @@ return [
     'more-professional' => '',
 
     'outro-professional'  => '<p>Aarzel niet om <a href="https://telraam.net/en/contact-us">contact op te nemen</a> voor offertes, informatie of vragen.</p>',
+    'warning-professional'  => 'De eerste productie is volledig uitverkocht.<br> Geschatte leverdatum voor huidige bestellingen: mei 2023.',
 
     'intro-individual' => 'Als particulier koop je tegen een gereduceerd tarief één toestel voor je eigen straat.'
 
