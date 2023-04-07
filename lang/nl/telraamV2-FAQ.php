@@ -16,9 +16,9 @@ Voetgangers, kinderwagens, fietsen, motorfietsen, auto’s, lichte vrachtwagens,
  	 	'question-6'           => 'Wat zijn de vereisten van Telraam S2 met betrekking op het zicht? Wat is een goede locatie? Wat is een slechte locatie?',
  	'answer-6' 			=> 'Om een Telraam S2 te kunnen is vereist: 
 <ul>
-</li>Een vrij en ongehinderd zicht op de rijbaan</li>
-</li>De mogelijkheid om het installeren aan de binnenkant van een raam op de 1ste of 2de verdieping.</li> 
-</li>Een wegsegment met een eenvoudig links-rechts verkeerspatroon (geen kruispunten)</li>
+<li>Een vrij en ongehinderd zicht op de rijbaan</li>
+<li>De mogelijkheid om het installeren aan de binnenkant van een raam op de 1ste of 2de verdieping.</li> 
+<li>Een wegsegment met een eenvoudig links-rechts verkeerspatroon (geen kruispunten)</li>
 </ul> 
 <BR><BR>
 Je vindt gedetailleerde voorbeelden in dit FAQ artikel: <a href="https://faq-nl.helpspace-docs.io/article/75/vereisten-voor-de-plaatsing-van-mijn-telraam-foto-op-het-deelnameformulier"  target="_blank">Vereisten voor de plaatsing van mijn Telraam</a>',
