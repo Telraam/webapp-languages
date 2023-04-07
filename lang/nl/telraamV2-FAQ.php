@@ -2,29 +2,30 @@
 
 return [
 
-    'question-1'           => 'Do you offer an upgrade from V1 to S2 or trade-in?',
-	'answer-1'           => 'No, we are not offering hardware swaps for already bought Telraam v1’s to Telraam S2’s . If you want to have the new Telraam S2 sensor, you’ll have to buy the new hardware via the <a href="https://telraam.net/en/shop"  target="_blank">webshop</a>. Or convince your local authority to set up a funded project and possibly get your device for free. 
-The Telraam v1 device is still supported, but we won’t be making any improvements to the software. However, the Telraam v1 sensor is a Raspberry Pi based system (3A+) and you can definitely repurpose it for other uses.',
- 	'question-2'           => 'How is the data sent by the Telraam S2 device? What connection is needed?',
- 	'answer-2' 			=> 'The Telraam S2 does not send images to the Telraam servers. For privacy reasons, we think it is very important that the counting itself only happens on the device. The S2 transmits counting totals every 15 minutes to the Telraam database using the LTE-M or NB-IoT network. Therefore every S2 includes a SIM card and a Thingstream subscription. This allows Telraam S2 (almost) <a href="https://www.u-blox.com/en/iot-network-coverage"  target="_blank">worldwide connectivity</a> (). Wherever the LTE-M or NB-IoT network is available, you can count with an S2 device. For the Telraam S2 there is no possibility to connect via wifi. ',
- 	 	'question-3'           => 'What is the accuracy for the night counts carried out by Telraam S2?',
- 	'answer-3' 			=> 'With the arrival of the Telraam S2 hardware there is now the possibility to carry out counts for cars during nighttime (dark) hours. This functionality is currently not yet activated, as this requires some additional work to double check and validate the counting performance of the S2 sensor during the nighttime hours. There is a strong ambition to be able to activate this functionality by fall 2023 when the relevance of nighttime counting is resurfacing to compensate for shorter daytime counts.',
- 	 	'question-4'           => 'Which modes will we see?',
- 	'answer-4' 			=> 'The Telraam S2 hardware can distinguish between the following 10 modes of traffic: pedestrians, strollers, bicycles, motorcycles, cars, light trucks, trailers, trucks and buses. For now, the counting data of S2 devices data is still visualised the same way as for V1 devices: the data is grouped in the same 4, previously-existing, categories (pedestrians, two-wheelers, cars, large vehicles). Soon, the interface will be updated, enabling for S2 devices the visualisation of all modes separately. ',
- 	 	'question-5'           => 'What is the accuracy in the detection of the different modes?',
- 	'answer-5' 			=> 'We did extensive testing and validation before launching the Telraam S2 sensor. From our tests on various locations, we expect accuracy for cars/buses/trucks to be 90-95% and for pedestrians/bikes around 80-85%. The performance also depends on the location of your Telraam. You can find more info in our <a href="https://telraam.helpspace-docs.io/article/43/potential-inaccuracies-with-telraam-s2"  target="_blank">FAQ/a>. You find further detailed results of tests in the field in this <a href="https://github.com/Telraam/Telraam-S2/blob/main/count-consistency-validation.md"  target="_blank">article</a>  ',
- 	 	'question-6'           => 'What are the requirements of the Telraam S2 regarding view? What is a good location? What is a bad location? ',
- 	'answer-6' 			=> 'To be able to install a Telraam S2 device you need: 
-A clear and unimpeded view on the road
-Possibility to install inside a window on the first or second floor. 
-A road section with simple left-right moving traffic (no crossroads) 
+    'question-1'           => 'Is het mogelijk om een Telraam v1 om te wisselen voor een S2 toestel?',
+	'answer-1'           => 'Het omruilen van de hardware van een reeds gekocht Telraam V1-toestel naar een Telraam S2 wordt niet aangeboden. Moest je toch over Telraam S2 willen beschikken, kan je de hardware aankopen via onze <a href="https://telraam.net/nl/shop"  target="_blank">webshop</a>. Of je kan je lokaal bestuur trachten te overtuigen om een gefinancierd Telraam project op poten te zetten, en zo mogelijkerwijs een gratis toestel bekomen. Het Telraam v1 toestel wordt nog steeds ondersteund, maar we zullen geen verbeteringen meer toevoegen aan de bestaande software. Daarnaast is het Telraam v1 gebaseerd op de Raspberry Pi (3A+) en kan je dit desgewenst steeds hergebruiken voor andere toepassingen.'
+ 	'question-2'           => 'Hoe wordt de data doorgestuurd vanop het Telraam S2 toestel? Welke verbinding is hiervoor nodig?',
+ 	'answer-2' 			=> 'Het Telraam S2 stuurt geen beelden door naar de Telraam servers. Omwille van privacy redenen, vinden we het uiterst belangrijk dat het effectieve tellen enkel gebeurt op het toestel zelf. Het S2 toestel stuurt de teltotalen door elke 15 minuten naar de Telraam database, gebruikmakend van het LTE-M of NB-IoT netwerk. Daarom beschikt elk S2 toestel over een simkaart en een Thingstream abonnement. Dit geeft het Telraam S2 toestel een (bijna) <ahref="https://www.u-blox.com/en/iot-network-coverage"  target="_blank">wereldwijde connectiviteit</a>. Eender waar het LTE-M of NB-IoT netwerk beschikbaar is, is het mogelijk om te tellen met een S2 toestel. Het is niet mogelijk om het Telraam S2 te verbinden via wifi.',
+ 	 	'question-3'           => 'Wat is de nauwkeurigheid van de nachtellingen van het Telraam S2?',
+ 	'answer-3' 			=> 'Met het lanceren van de Telraam S2 hardware is het nu mogelijk geworden om ‘s nachts nachttellingen, tijdens duisternis, uit te voeren voor auto’s. Deze functionaliteit is momenteel nog niet geactiveerd, omdat er nog bijkomend werk vereist is in het dubbelchecken en valideren van telprestaties van de S2 sensors tijdens deze nachtelijke uren. We hebben een duidelijke ambitie om deze functionaliteit te activeren tegen de herfst van 2023, op het moment dat de relevantie van nachtelijke tellingen zich opnieuw aandient omwille van de kortere dagtellingen.',
+ 	 	'question-4'           => 'Welke vervoersmodi worden gevisualiseerd?',
+ 	'answer-4' 			=> 'Het Telraam S2 toestel kan een onderscheid maken tussen de volgende 10 vervoersmodi: 
+Voetgangers, kinderwagens, fietsen, motorfietsen, auto’s, lichte vrachtwagens, aanhangwagens, vrachtwagens en bussen. Op dit moment, wordt de teldata van de S2 toestellen nog steeds gevisualiseerd op dezelfde manier als voor de V1 toestellen: de data is gegroepeerd in de 4, reeds bestaande, categorieën (voetgangers, tweewielers, auto’s, zwaar verkeer). Binnenkort wordt de interface bijgewerkt, hetgeen voor de S2 toestellen zal toelaten dat alle modi afzonderlijk worden gevisualiseerd.',
+ 	 	'question-5'           => 'Wat is de nauwkeurigheid in het detecteren van de verschillende modi',
+ 	'answer-5' 			=> 'We voerden reeds een uitgebreid test en validatie uit alvorens de Telraam S2 sensor te lanceren. Volgens de test op verschillende locatie, verwachten we een nauwkeurigheid voor auto’s/bussen/trucks van 90-95% en voor voetgangers/fietsen rond 80-85%. De presentatie hangt ook af van de locatie van jouw Telraam. Meer info hierover onze <ahref="https://faq-nl.helpspace-docs.io/article/103/mogelijke-onnauwkeurigheden-met-telraam-s2"  target="_blank">FAQ/a>. Meer gedetailleerde resultaten van onze tests op het terrein kan je vinden in dit <ahref="https://github.com/Telraam/Telraam-S2/blob/main/count-consistency-validation.md"  target="_blank">artikel</a>',
+ 	 	'question-6'           => 'Wat zijn de vereisten van Telraam S2 met betrekking op het zicht? Wat is een goede locatie? Wat is een slechte locatie?',
+ 	'answer-6' 			=> 'Om een Telraam S2 te kunnen is vereist: 
+<ul>
+</li>Een vrij en ongehinderd zicht op de rijbaan</li>
+</li>De mogelijkheid om het installeren aan de binnenkant van een raam op de 1ste of 2de verdieping.</li> 
+</li>Een wegsegment met een eenvoudig links-rechts verkeerspatroon (geen kruispunten)</li>
+</ul> 
+<BR><BR>
+Je vindt gedetailleerde voorbeelden in dit FAQ artikel: <a href="https://faq-nl.helpspace-docs.io/article/75/vereisten-voor-de-plaatsing-van-mijn-telraam-foto-op-het-deelnameformulier"  target="_blank">Vereisten voor de plaatsing van mijn Telraam</a>',
+ 	 	'question-7'           => 'Wat is het verschil tussen persoonlijke en professionele Telraam S2 toestellen?',
+ 	'answer-7' 			=> 'Er is geen verschil tussen het persoonlijke en professionele Telraam S2 toestel. Telraam gebruikt de inkomsten van professionele opdrachten om de beheerskosten voor persoonlijke toestellen te dekken. Indien je een organisatie bent die betrokken is in campagne voeren, consultancy of het managen van de lokale mobiliteit en mobiliteitsprojecten, dan nodigen we je uit onze  <a href="https://telraam.net/en/shop"  target="_blank">professionele pakketten</a> te bekijken.',
+ 	 	'question-8'           => 'Kan ik het LCD scherm van mijn Telraam S2 toestel uitschakelen? ',
+ 	'answer-8' 			=> 'Ja! Druk op de knop voor enkele seconden en het scherm zal donker worden. Het toestel blijft wel tellen, maar zal de tellingen niet visualiseren op het scherm. Je kan het scherm heractiveren door opnieuw op de knop te drukken.',
 
-You can find detailed examples in the faq article:  <a href="https://telraam.helpspace-docs.io/article/3/requirements-for-the-installation-of-a-telraam-in-my-window"  target="_blank">Requirements for the installation of Telraam on my window</a>
-',
- 	 	'question-7'           => 'What is the difference between personal and professional S2 devices?',
- 	'answer-7' 			=> 'There is no difference between the personal and professional Telraam S2 device. Telraam uses revenue from professional contracts to cover the costs of managing personal devices.  If you are an organisation involved in campaigning on, consulting for, or managing local transport and mobility projects, then please check out our [add link to shop: ] <a href="https://telraam.net/en/shop"  target="_blank">Professionals</a> packages',
- 	 	'question-8'           => 'Can I switch off the LCD screen on my Telraam S2 device?',
- 	'answer-8' 			=> 'Yes! Push the button for several seconds and the screen goes dark. The device will keep counting, but not display the counts on the screen. You can re-activate the screen by pushing the button again.',
-
-If you still have specific questions feel free to email us on support@telraam.net
+ 	'text-final' 			=>'Indien er toch specifieke vragen blijven, gelieve ons te contacteren via mail op <a href="mailto:support@telraam.net"  target="_blank">support@telraam.net</a>'
 ];
