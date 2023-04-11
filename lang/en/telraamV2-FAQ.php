@@ -20,7 +20,7 @@ The Telraam v1 device is still supported, but we won’t be making any improveme
 <li>Possibility to install inside a window on the first or second floor.</li> 
 <li>A road section with simple left-right moving traffic (no crossroads).</li>
 </ul> 
-<BR><BR>
+<br><br>
 You can find detailed examples in the faq article: <ahref="https://telraam.helpspace-docs.io/article/3/requirements-for-the-installation-of-a-telraam-in-my-window"  target="_blank">Requirements for the installation of Telraam on my window</a>',
  	 	'question-7'           => 'What is the difference between personal and professional S2 devices?',
  	'answer-7' 			=> 'There is no difference between the personal and professional Telraam S2 device. Telraam uses revenue from professional contracts to cover the costs of managing personal devices.  If you are an organisation involved in campaigning on, consulting for, or managing local transport and mobility projects, then please check out our <a href="https://telraam.net/en/shop"  target="_blank">Professionals</a> packages',

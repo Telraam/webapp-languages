@@ -3,7 +3,7 @@
 
 return [
 
-    'question-1'           => 'Proposez-vous une reprise d’un Telraam V1 à la S2 ?',
+    'question-1'           => 'Proposez-vous une reprise d’un Telraam V1 à la S2?',
 	'answer-1'           => 'Non, nous ne proposons pas d\'échange de matériel pour les Telraam v1 déjà achetés contre des Telraam S2. Si vous souhaitez utiliser le nouveau capteur Telraam S2, vous devrez acheter le nouveau matériel via la boutique en ligne <a href="https://telraam.net/fr/shop"  target="_blank">la boutique en ligne</a>. Vous pouvez également convaincre vos autorités locales de mettre en place un projet financé et d\'obtenir votre appareil gratuitement. 
 Le dispositif Telraam v1 est toujours pris en charge, mais nous n\'apporterons aucune amélioration au logiciel. Cependant, le capteur Telraam v1 est un système basé sur Raspberry Pi (3A+) et vous pouvez certainement le réutiliser pour d\'autres usages.'
  	'question-2'           => 'Comment les données sont-elles envoyées par le dispositif Telraam S2 ? Quelle est la connexion nécessaire ?',
@@ -15,7 +15,7 @@ Le dispositif Telraam v1 est toujours pris en charge, mais nous n\'apporterons a
  	 	'question-5'           => 'Quelle est la précision de la détection des différents modes?',
  	'answer-5' 			=> 'Nous avons effectué de nombreux tests et validations avant de lancer le capteur Telraam S2. D\'après nos tests sur différents sites, nous prévoyons une précision de 90 à 95 % pour les voitures/bus/camions et de 80 à 85 % pour les piétons/vélo. La performance dépend également de l\'emplacement de votre Telraam. Vous trouverez plus d\'informations dans notre <ahref="https://faq-fr.helpspace-docs.io/article/142/potential-inaccuracies-with-telraam-s2"  target="_blank">FAQ/a>. Vous trouverez d\'autres résultats détaillés de tests sur le terrain dans cet <ahref="https://github.com/Telraam/Telraam-S2/blob/main/count-consistency-validation.md"  target="_blank">article</a>.',
  	 	'question-6'           => 'Quelles sont les exigences de Telraam S2 en matière de vue ? Qu\'est-ce qu\'un bon emplacement ? Qu\'est-ce qu\'un mauvais emplacement ?',
- 	'answer-6' 			=> 'Pour pouvoir installer un dispositif Telraam S2, vous devez : <ul>
+ 	'answer-6' 			=> 'Pour pouvoir installer un dispositif Telraam S2, vous devez: <ul>
 <li>Une vue claire et dégagée sur la route.</li>
 <li>La possibilité d\'installer le dispositif à l\'intérieur d\'une fenêtre au premier ou au deuxième étage.</li> 
 <li>Un tronçon de route avec une circulation simple gauche-droite (pas de carrefour).</li> 
