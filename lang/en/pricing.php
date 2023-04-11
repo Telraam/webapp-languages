@@ -66,6 +66,7 @@ return [
     // ------------------- block #2
     // ------------------------------------------------------
     'title-block-2' => 'What features do you get in each package?',
+    'more-btn' => 'Show detailed pricing',
 
     'pricing-per-device' => 'Pricing per device',
     'subscription-software' => 'Subscription for software',

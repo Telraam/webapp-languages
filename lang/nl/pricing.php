@@ -66,6 +66,7 @@ return [
     // ------------------- block #2
     // ------------------------------------------------------
     'title-block-2' => 'Welke functionaliteiten krijg je in elk pakket?',
+    'more-btn' => 'Toon gedetaileerde info',
 
     'pricing-per-device' => 'Prijs per toestel',
     'subscription-software' => 'Abonnement op software',

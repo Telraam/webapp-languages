@@ -66,6 +66,7 @@ return [
     // ------------------- block #2
     // ------------------------------------------------------
     'title-block-2' => 'Quelles sont les fonctionnalités offertes dans chaque paquet?',
+    'more-btn' => 'Afficher les prix détaillés',
 
     'pricing-per-device' => 'Prix par appareil',
     'subscription-software' => 'Abonnement aux logiciels',
