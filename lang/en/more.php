@@ -28,6 +28,8 @@ return [
     'loc-det-average-24h' =>  '24 hour average',
     'loc-det-averige-24h-direction' => '24 hour average per direction',
     'loc-det-percentage-per-type' => 'Percentage per type',
+    'loc-det-live-today' => 'Comptage détaillé aujourd\'hui',
+
     'share-your-results-on-Facebook' => 'Share your results on Facebook',
     'share-your-results-on-Twitter' => 'Share your results on Twitter',
     'set-position' => ' Confirm your positon by selecting the green camera icon corresponding with the side of the road of your Telraam.',
