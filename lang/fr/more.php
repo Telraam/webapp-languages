@@ -28,8 +28,11 @@ return [
     'loc-det-average-24h' => 'Moyenne par 24h',
     'loc-det-averige-24h-direction' => 'Moyenne par 24h dans un sens de circulation',
     'loc-det-percentage-per-type' => 'Pourcentage par type',
+    'loc-det-live-today' => 'Comptage détaillé aujourd\'hui',
+
     'share-your-results-on-Facebook' => 'Partagez vos résultats sur Facebook',
     'share-your-results-on-Twitter' => 'Partagez vos résultats sur Twitter',
+
     'set-position' => "Confirmez votre position en sélectionnant l'icône de la caméra verte, qui correspond au côté de la bande de circulation de votre Telraam.",
     'save-position' => 'Enregistrer position.',
     'check-for-telraam-data' => 'Contrôlez si des données sont correctement assimilées par la Telraam',

@@ -6,6 +6,7 @@ return [
     'setup-first'               => 'Veuillez d’abord parcourir le procédure d’installation',
     'overview'                  => 'Aperçu des 7 derniers jours',
     'overview-current'          => 'Dernière heure mesurée et statut actuel',
+    'data'                      => 'Données',
 
     'no-data'                   => 'Pas de données disponible pour l’instant',
     'camera-position'           => 'Position de la camera ',
