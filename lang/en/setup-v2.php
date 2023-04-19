@@ -65,11 +65,14 @@ No fly screens, curtains or roller shutters that will block the camera.',
 
     // Step 6: Done
     'step-6-long-title' => 'Ready',
-    'step-6-description'  => "Happy counting! Your Telraam should be active and you’ll begin to see data on your dashboard within an hour. <br><br>
-<ul class=jump-in>
-<li>You can now compare your street with similar streets, just complete your <a href='https://telraam.net/en/admin/mijn-eigen-telraam/street-profile'>Street profile</a>  first.</li>
-<li>Join other counters on <a href='http://talks.telraam.net'>Telraam Talks</a> to make the most of your device.</li>
-</ul>
+    'step-6-description'  => "Happy counting! Your Telraam should be active and you’ll begin to see data on your dashboard within an hour. <br>
+<br>
+
+Two important things to fully complete the installation:
+<ol class=jump-in>
+<li>When your device is installed, take a moment to fine-tune the region of <a href='../camera-images'>interest of interest (ROI)</a> of your camera</li>
+<li>If you want to compare your street with similar streets, complete your <a href='https://telraam.net/en/admin/mijn-eigen-telraam/street-profile'>Street profile</a>  first.</li>
+</ol>
 <br><br> Feel free to get in touch with us at <a href='mailto:support@telraam.net'>support@telraam.net</a> with any feedback or questions.",
 
     // General

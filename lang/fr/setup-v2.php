@@ -12,7 +12,7 @@ return [
     // Step 1: device code
     'step-1-long-title' => 'Relier l\'appareil à votre compte de Telraam',
     'step-1-device-code' => 'Le code de votre appareil',
-    'step-1-description'  => 'Veuillez saisir les 15 chiffres et les 2 caractères de validation qui se trouvent sous le code QR sur votre appareil..',
+    'step-1-description'  => 'Veuillez saisir les 15 chiffres et les 2 caractères de validation qui se trouvent sous le code QR sur votre appareil.',
 
     'step-1-warning' => 'Attention! Vous avez une autre installation Telraam avec le même utilisateur.
     L\'ancienne installation cessera de compter lorsque vous initialiserez une nouvelle installation. Vous ne pouvez avoir qu\'une seule installation par compte utilisateur.',
@@ -65,11 +65,14 @@ return [
 
     // Step 6: done
     'step-6-long-title' => 'Prêt',
-    'step-6-description'  => 'Happy counting! Dans les prochaines heures, Telraam devrait être actif et vous pourrez voir les premières données dans les graphiques. <br><br> 
-<ul class="jump-in">
+    'step-6-description'  => 'Happy counting! Dans les prochaines heures, Telraam devrait être actif et vous pourrez voir les premières données dans les graphiques. <br><br>
+<br>
+Deux éléments importants pour compléter l\'installation :<br>
+
+<ol class="jump-in">
+ <li>Lorsque votre appareil est installé, prenez le temps d\'affine <a href="../camera-images">la région d\'intérêt (ROI)</a> de votre appareil photo.</li>
 <li>Vous pouvez comparer votre rue à d\'autres rues similaires, pour cela remplissez d\'abord votre <a href="https://telraam.net/fr/admin/mijn-eigen-telraam/street-profile">profil de la rue</a>. </li>
- <li>Enfin, vous pouvez consultez <a href="http://talks.telraam.net">Telraam Talks</a> et partager votre experience avec d\'autres compteurs.</li>
-  </ul><br><br> N\'hésitez pas à nous contacter à l\'adresse suivante  <a href="mailto:support@telraam.net">support@telraam.net</a> avec feedback ou des questions. ',
+  </ol><br><br> N\'hésitez pas à nous contacter à l\'adresse suivante  <a href="mailto:support@telraam.net">support@telraam.net</a> avec feedback ou des questions. ',
 
     // General
     'save'  => 'S\'enregistrer',

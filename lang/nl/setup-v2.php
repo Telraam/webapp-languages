@@ -66,9 +66,14 @@ belemmeren.<br><br>Er mogen geen vliegenramen, gordijnen of rolluiken voor het r
 
     // Step 6: done
     'step-6-long-title' => 'Klaar!',
-    'step-6-description'  => 'Veel telplezier gewenst! Binnen een uur zou je Telraam actief moeten zijn en kan je de eerste data zien in de grafieken. 
- <ul class=jump-in><li>Je kan jouw straat vergelijken met andere gelijkaardige straten, vul daarvoor eerst je <a href=https://telraam.net/nl/admin/mijn-eigen-telraam/street-profile>Straatprofiel</a> in. 
- </li><li>Tenslotte kan je een kijkje nemen op <a href=https://talks.telraam.net target=_blank>Telraam Talks</a> en je ervaringen delen met andere tellers.</li></ul>
+    'step-6-description'  => 'Veel telplezier gewenst! Binnen een uur zou je Telraam actief moeten zijn en kan je de eerste data zien in de grafieken.<br>
+<br>
+
+Twee belangrijke dingen om de installatie volledig te voltooien:
+ <ul class=jump-in>
+ <li>Wanneer uw toestel geïnstalleerd is, neem dan even de tijd om het <a href="../camera-images">interessegebied (ROI)</a> van uw camera af te stellen.</li>
+ <li>Je kan jouw straat vergelijken met andere gelijkaardige straten, vul daarvoor eerst je <a href=https://telraam.net/nl/admin/mijn-eigen-telraam/street-profile>Straatprofiel</a> in.</li>
+ </ul>
 <br> Je kan ons steeds contacteren op <a href="mailto:support@telraam.net">support@telraam.net</a> met feedback of vragen.',
 
     // General
