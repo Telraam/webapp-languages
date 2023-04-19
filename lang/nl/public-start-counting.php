@@ -7,7 +7,7 @@ return [
     // intro on top
     'section1-text-part-1' => '<p>Is uw straat te druk, ontsierd door auto\'s en bestelwagens die te hard rijden? Willen mensen meer lopen, fietsen en spelen in de straat, maar vinden ze het onveilig?</p>
 
-<p>De stijgende verkeersdrukte, vooral in woonstraten met Ė in principe Ė enkel lokaal verkeer, zorgt ervoor dat bewoners de verkeersleefbaarheid in vraag stellen.</p>
+<p>De stijgende verkeersdrukte, vooral in woonstraten met in principe enkel lokaal verkeer, zorgt ervoor dat bewoners de verkeersleefbaarheid in vraag stellen.</p>
 
 <p>Verkeerstellingen op zich zijn geen oplossing, maar in bekwame handen kan het een krachtig, kwantitatief instrument zijn dat een solide basis vormt voor zinvolle veranderingen, ten voordele van de leefbaarheid.</p>',
 
