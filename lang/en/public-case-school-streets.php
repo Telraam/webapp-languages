@@ -15,52 +15,47 @@ return [
 
 
     'example-1-title' => 'Polivisu',
-    'example-1-body' => 'The Mechelen case tries to link data from ANPR-camera’s and/or other traffic measurements with a traffic model and the information from the GIPOD system.
-The Polivisu project was an example of a third party using the Telraam-API to build an own dashboard,
-specifically to monitor the impact of schoolstreets on the traffic on the school street and adjacent street.
-About Telraam devices were installed around the school area and data was collected continuously for 6-12 months,
-with some devices still currently active. Telraam helped by counting cyclists and pedestrians in a cost-efficient way while having a proper open api.',
+    'example-1-body' => 'The Mechelen authorities wanted to link data from ANPR cameras and/or other traffic measurements with a traffic model and the information from the GIPOD system.
+The Polivisu project was an example of a third party using the Telraam API to build a custom dashboard,
+designed to monitor the impact of school streets on the traffic on the school street itself and adjacent streets.
+About 15 Telraam devices were installed around the school area and data was collected continuously for 6-12 months, with some devices still currently active. Telraam helped by counting cyclists and pedestrians in a cost-efficient way while having a reliable open API.',
 
     'example-1-location' => 'Mechelen, Antwerpen',
      'example-1-number' => '10-15 devices',
-    'example-1-challenges' => 'Api, focus on cyclists and pedestrians',
+    'example-1-challenges' => 'API, focus on cyclists and pedestrians',
     'example-1-link' => 'https://policyvisuals.eu/impact-of-temporary-road-blocks-by-road-works-or-for-a-safer-school-environment/',
 
 
-    'section-1-title' => 'School street campaign goals',
-    'section-1-text' => ' <p>In recent years the implementation of school streets has definitely gained momentum in various European countries. Pioneering with the
-    deployment of ‘Schoolstraten’ in the Netherlands and Belgium. With now close to 200 school streets permanently
-    deployed in the Flanders region. In recent years, also the ‘Rues aux écoles’ in France have gained traction,
-    with 168 currently implemented in Paris alone.
+    'section-1-title' => 'School Street campaign goals',
+    'section-1-text' => ' <p>The concept and implementation of school streets has definitely gained momentum in various European countries in recent years. In the Netherlands and Belgium there are now close to 200 ‘Schoolstraten’ permanently deployed in the Flanders region, and the ‘Rues aux écoles’ in France with 168 currently implemented in Paris alone.
     <span class="tiny"><a href="https://www.paris.fr/pages/57-nouvelles-rues-aux-ecoles-dans-paris-8197"><span class="heroicon heroicon-external-link"></span></a></span>
-    Also in the UK school streets have been successfully adopted, predominantly in some London boroughs. </p>
+    The UK has also seen school streets successfully adopted, in London boroughs but also in Manchester and other cities. </p>
 
 
-<p class="focus">A school street, technically speaking, means temporarily closing down of the road(s) in the immediate surroundings of a school entrance for motorised traffic,
-prior to school start and after the school ending.</p>
-<p>By doing so, school streets directly aim to: </p>
+<p class="focus">A school street means temporarily closing road(s) to motorised traffic immediately surrounding of a school entrance prior to school start and after the school end.</p>
+<p>By doing this, school streets directly aim to: </p>
 <ul class="jump-in">
- <li>improve traffic safety for active travelling children </li>
- <li>reduce the exposure to air pollution of school going children <a href="https://telraam.net/en/traffic-counts-for-clean-air"><span class="heroicon heroicon-external-link"></span></a> </li>
+ <li>improve safety for children travelling to school </li>
+ <li>reduce exposure to air pollution for school going children <a href="https://telraam.net/en/traffic-counts-for-clean-air"><span class="heroicon heroicon-external-link"></span></a> </li>
  <li>promote walking and cycling to school</li>
  </ul>
 
-<p>A study carried out in Flanders has demonstrated the positive effects of school streets for air and noise pollution, traffic safety and active travel.
+<p>A study carried out in Flanders has demonstrated the positive effects of School Streets for air and noise pollution, traffic safety and active travel.
  <span class="tiny">(<a href="https://vito.be/en/news/healthier-school-thanks-school-street"><span class="heroicon heroicon-external-link"></span></a>)</span>
 
-<p><strong>How can Telraam sensors play a role in the school street implementation:</strong> </p>
+<p><strong>How Telraam sensors can play a role in the School Street implementation:</strong> </p>
 <ul class="jump-in">
- <li>Telraam devices can monitor the traffic patterns in the school street, and observe possible long term behavioural changes in mobility patterns.  </li>
- <li>A strategically deployed network of Telraam devices allows it to track possible spillover traffic in the surrounding streets.  </li>
- <li>Engagement of neighbouring citizens with data collection allows to inform and gain citizen support for the school street implementation  </li>
+ <li>Telraam devices can monitor traffic patterns in the school street, and observe possible long term behavioural changes in mobility patterns.  </li>
+ <li>A network of Telraam devices allows the tracking of possible spillover traffic in surrounding streets.  </li>
+ <li>Engagement of neighbourhood citizens with data collection informs and gains citizen support for the School Street implementation  </li>
  <li>Engagement of children with data collection is a great learning opportunity  </li>
- <li>Having detailed results on the benefits, and monitoring possible negative effects, are great communication assets for the local authority towards parents, neighbourhood and children. </li>
+ <li>Having detailed results on the benefits, and monitoring possible negative effects, are great communication assets for a local authority in discussions with parents, residents, the children and the media. </li>
 </ul>
 ',
 
 
-    'section-2-title' => 'Setting out a school street campaign ',
-    'section-2-text-col-1' => '<p>The goal of any local school street campaign is to make the experience of arriving and leaving the school safer, healthier and more enjoyable for children, parents and local residents, usually by temporarily closing the street to cars and other vehicles, and opening them to children to walk, cycle and be active.
+    'section-2-title' => 'Setting out a School Street campaign ',
+    'section-2-text-col-1' => '<p>The goal of any local School Street campaign is to make the experience of arriving and leaving the school safer, healthier and more enjoyable for children, parents and local residents, usually by temporarily closing the street to cars and other vehicles, and opening them to children to walk, cycle and be active.
 The definition from the UK School Streets Initiative [<a href="http://schoolstreets.org.uk"><span class="heroicon heroicon-external-link"></span></a>] is:
 
 <blockquote>
@@ -86,7 +81,7 @@ such it could continue to be a ‘rat-run’ for pass-through traffic. For that 
 are safer and more pleasant and healthy streets, it is important to measure both the changes in the number of vehicles that use the street, and their average speed. A separate
  parking study might also need to be done since much of the target traffic is not passing through, but arriving and departing.
 
-<p>The measures of success will, of course, be a substantial drop in road traffic accidents involving children, and an improvement in air quality, but
+<p>The measures of success will be a substantial drop in road traffic accidents involving children, and an improvement in air quality, but
  also an increase in the choice of active travel modes for travelling to and from the school for both children and their parents, so more bikes,
  scooters and walking.
 
@@ -126,7 +121,7 @@ Involving local residents in data gathering, also known as Citizen Science, is k
 data to support your plans and conclusions.  </p>',
 
 
-    'case-other' => 'Read the other cases:'
+    'case-other' => 'Read other case studies:'
 
 
 ];
