@@ -8,8 +8,7 @@ return [
     'section1-text-part-1' => '<p>Is your street too busy, marred by cars and vans driving too fast? Do people want to walk,
     cycle, and play more in the street, but consider it unsafe?</p>
 
-<p>Today’s dominance of motorised vehicles as the primary means of transport in our cities and towns means that their traffic levels negatively
-impact, or simply directly cause many health and social issues, which urgently need to be addressed. </p>
+<p>Increasing traffic, especially on residential streets designed only for local traffic, can cause residents to question traffic flows as they impact livability.</p>
 
 <p>Traffic counting in itself is not a solution, but it can be a powerful, quantitative tool in capable hands, forming a solid basis for meaningful reforms.</p>',
 

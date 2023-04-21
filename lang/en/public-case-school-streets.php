@@ -32,11 +32,11 @@ About 15 Telraam devices were installed around the school area and data was coll
     The UK has also seen school streets successfully adopted, in London boroughs but also in Manchester and other cities. </p>
 
 
-<p class="focus">A school street means temporarily closing road(s) to motorised traffic immediately surrounding of a school entrance prior to school start and after the school end.</p>
-<p>By doing this, school streets directly aim to: </p>
+<p class="focus">A school street means temporarily closing road(s) to motorised traffic immediately surrounding a school entrance prior to school start and after the school end.</p>
+<p>By doing this, School Streets aim to: </p>
 <ul class="jump-in">
  <li>improve safety for children travelling to school </li>
- <li>reduce exposure to air pollution for school going children <a href="https://telraam.net/en/traffic-counts-for-clean-air"><span class="heroicon heroicon-external-link"></span></a> </li>
+ <li>reduce exposure to air pollution for students and teachers <a href="https://telraam.net/en/traffic-counts-for-clean-air"><span class="heroicon heroicon-external-link"></span></a> </li>
  <li>promote walking and cycling to school</li>
  </ul>
 
@@ -47,7 +47,7 @@ About 15 Telraam devices were installed around the school area and data was coll
 <ul class="jump-in">
  <li>Telraam devices can monitor traffic patterns in the school street, and observe possible long term behavioural changes in mobility patterns.  </li>
  <li>A network of Telraam devices allows the tracking of possible spillover traffic in surrounding streets.  </li>
- <li>Engagement of neighbourhood citizens with data collection informs and gains citizen support for the School Street implementation  </li>
+ <li>Engagement of neighbourhood citizens with data collection informs, and gains citizen support for the School Street implementation  </li>
  <li>Engagement of children with data collection is a great learning opportunity  </li>
  <li>Having detailed results on the benefits, and monitoring possible negative effects, are great communication assets for a local authority in discussions with parents, residents, the children and the media. </li>
 </ul>
