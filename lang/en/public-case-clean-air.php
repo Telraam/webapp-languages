@@ -41,7 +41,7 @@ a school street. Additional deployment will happen in pilot sites in Athens, Ber
     'section-1-title' => 'Telraam and Clean air measures',
     'section-1-text' => ' <p>Clean air is one of the main challenges faced by our urban areas in the 21st century. The level of premature death caused by air
  pollution on a global scale means policy action on this matter is urgent
-  <a href="https://uk-air.defra.gov.uk/air-pollution/causes"><span class="heroicon heroicon-external-link"></span></a></p>
+  <a href="https://uk-air.defra.gov.uk/air-pollution/causes" target="_blank"><span class="heroicon heroicon-external-link"></span></a></p>
 
 <p>Car traffic, still dominated by combustion engines, remains one of the main contributors to air pollution and so dealing with it is a key part of the solution to achieving clean air. Monitoring traffic is therefore an important element in any policy action on clean air initiatives.</p>
 
@@ -72,7 +72,7 @@ surrounding streets as well. Like air movement, it is important to ensure traffi
 <p>It is important to have traffic counts before, during and after, in order to ensure that interventions and outcomes can be accurately attributed, and
 further enhancements (or corrections) can be carried out. Continuous measurement allows for more accurate solutions that are improved through feedback
 loops and local experience.</p>',
-    
+
 
     'section-3-title' => 'Putting plans into action',
     'section-3-text' => '<p>In order to get feedback and local support, it is critically important to involve the local community in the planning,
@@ -92,21 +92,28 @@ will know what data has been gathered, when and how, and are more likely to feel
 also have the traffic data to support your plans and conclusions. </p>',
 
     'section-4-title' => 'Clean air campaigns',
-    'section-4-text' => '<p>The overall goal of Clean Air campaigns [<a href="https://www.unep.org/explore-topics/air"><span class="heroicon heroicon-external-link"></span></a>] are
+    'section-4-text' => '<p>The overall goal of Clean Air campaigns [<a href="https://www.unep.org/explore-topics/air" target="_blank"><span class="heroicon heroicon-external-link"></span></a>] are
  to ensure that we all, but especially children, get a chance to breathe air that is not unhealthy or unsafe from
-  pollutants [<a href="https://uk-air.defra.gov.uk/air-pollution/causes"><span class="heroicon heroicon-external-link"></span></a>]
+  pollutants [<a href="https://uk-air.defra.gov.uk/air-pollution/causes" target="_blank"><span class="heroicon heroicon-external-link" ></span></a>]
  including Nitrogen dioxide (NO2), Carbon monoxide (CO), Sulphur dioxide (SO2) and Particular matters (PM10, PM2.5 and PM1).
 
 <h4>Impact</h4>
-<p>The EEA reports in its latest annual TERM-report 
- [<a https://www.eea.europa.eu//publications/europes-air-quality-status-2023"><span class="heroicon heroicon-external-link"></span></a>], NO2 concentrations above the EU annual limit value registered at 3% of all monitoring stations, but 75% of those reporting exceedances were traffic stations, with the highest concentrations found in some big cities with a high volume of traffic.
- According to the EPA [<a https://www.epa.gov/no2-pollution/basic-information-about-no2"><span class="heroicon heroicon-external-link"></span></a>], this pollution, specifically from the type of emission from car traffic include respiratory diseases, impacts health and particularly asthma, leading to respiratory symptoms (such as coughing, wheezing or difficulty breathing). People with asthma, as well as children and the elderly, are generally at greater risk for the health effects of NO2.</p>
+<p>The EEA reports in its latest annual TERM-report
+ [<a href="https://www.eea.europa.eu//publications/europes-air-quality-status-2023" target="_blank"><span class="heroicon heroicon-external-link"></span></a>],
+ NO2 concentrations above the EU annual limit value registered at 3% of all monitoring stations, but 75% of those reporting exceedances were traffic stations,
+  with the highest concentrations found in some big cities with a high volume of traffic.
+ According to the EPA [<a href="https://www.epa.gov/no2-pollution/basic-information-about-no2" target="_blank"><span class="heroicon heroicon-external-link"></span></a>],
+  this pollution, specifically from the type of emission from car traffic include respiratory diseases, impacts health and particularly asthma, leading to
+  respiratory symptoms (such as coughing, wheezing or difficulty breathing). People with asthma, as well as children and the elderly, are generally
+  at greater risk for the health effects of NO2.</p>
 
   <p>
   The three most important interventions to achieve these goals are:
+  <ul class="jump-in">
   <li>Switch vehicles away from fossil fuels, for example to electric vehicles (EV)</li>
   <li>Reduce total number of vehicle miles driven, switching to active travel modes</li>
   <li>Increase mitigation measures, such as planting more trees or pollution-abating plants</li>
+  </ul>
 </p>',
 
 
