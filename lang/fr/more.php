@@ -14,7 +14,7 @@ return [
     'lorry' => 'Véhicules grands',
     'measurements-last-week' => 'Comptages de la semaine dernière',
     'more-data' => 'Plus de données...',
-    'received-last-data-package-on' => 'Dernier données',
+    'received-last-data-package-on' => 'Dernières données',
 
     'looks-like-camera-is-not-sending-data' => "La caméra n'envoie pas de données pour le moment.",
     'camera-registered-last-hour' => 'Mesures en direct de la dernière heure',
