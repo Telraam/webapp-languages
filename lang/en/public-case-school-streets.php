@@ -11,6 +11,8 @@ return [
 
 
     'title' => 'Traffic counts for School Streets',
+    'title-short' => 'School Streets',
+
     'intro' => 'How does a Telraam traffic counting network help to secure and maintain a School Street in your area?',
 
 

@@ -11,6 +11,7 @@ return [
 
 
     'title' => 'Telraam traffic counts for Clean Air',
+    'title-short' => 'Clean Air',
     'intro' => 'How does a Telraam traffic counting network help to achieve cleaner air in your street, neighbourhood or urban area?',
 
 

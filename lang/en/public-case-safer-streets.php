@@ -3,6 +3,7 @@
 return [
 
     'title' => 'Traffic counts for Safer Streets',
+    'title-short' => 'Safer Streets',
     'intro' => 'How does a Telraam traffic counting network help to ensure safer streets in your area?',
 
     'section-1-title' => 'Safe street campaign goals',
