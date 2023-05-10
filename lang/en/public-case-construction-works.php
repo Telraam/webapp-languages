@@ -98,12 +98,12 @@ which actions to reduce this are effective, such as legal speed restrictions, tr
 identify any potential changes to roads, access or public transport services. Additionally, the assessment should evaluate the potential
 impact of the development on public safety, air quality, and noise levels.</p>',
 
-    'section-4-title' => 'What do we need to measure?',
+    'section-4-title' => 'Putting plans into action',
     'section-4-text' => '<p>Traffic counts provide critical data on traffic volume, speed, and direction, allowing for an accurate assessment
  of the impact of the construction works on the local road transport network. A Telraam network can quickly be established during the planning
  stages to get a baseline, as well as monitoring the impact of the work, and the result of the final designs.</p>
 
-<h4>Engage</h4>
+<h4>Engagement</h4>
 <p>It is crucial to involve early discussions between agencies, developers, local residents and planning authorities to save time and resources.
  In order to increase the chances of success at all stages of the process, from planning, approval, and delivery of the project to plan
  and budget including the integration of the new development into the local community, it is also useful to engage with local citizens to
