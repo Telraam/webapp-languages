@@ -86,6 +86,9 @@ It’s your view. Make it count!',
     'use-cases-case-4-text' => 'Arriving and leaving a school should be a safe, healthy and enjoyable experience for children, parents and local residents. Measure the implementation and success',
 
 
+    // use cases
+    'read-more' => 'Read more',
+
     //
     'section4-cta-text' => 'Do not hesitate to drop us a message. We love to hear from you.',
     'section4-cta-btn' => 'Get in touch',

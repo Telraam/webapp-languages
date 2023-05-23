@@ -93,6 +93,8 @@ Het is jouw mening. Laat het meetellen!',
      'use-cases-case-4-title' => 'Schoolstraten',
      'use-cases-case-4-text' => 'Een school binnenkomen en verlaten moet een veilige, gezonde en plezierige ervaring zijn voor kinderen, ouders en buurtbewoners. Meet de implementatie en het succes van aanpassingen.',
 
+     'read-more' => 'Lees meer',
+
     //
     'section4-cta-text' => 'Aarzel niet om ons een bericht te sturen. We horen graag van je.',
     'section4-cta-btn' => 'Neem contact op',

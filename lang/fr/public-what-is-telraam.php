@@ -91,7 +91,8 @@ C\'est votre point de vue. Faites que ça compte!',
      'use-cases-case-4-title' => 'Rues de l\'école',
      'use-cases-case-4-text' => 'Arriver et quitter une école doit être une expérience sûre, saine et agréable pour les enfants, les parents et les résidents locaux. Mesurer la mise en œuvre et le succès',
 
-
+     'read-more' => 'Plus d\'informations',
+     
      //
      'section4-cta-text' => 'N\'hésitez pas à nous laisser un message. Nous aimons avoir de vos nouvelles.',
      'section4-cta-btn' => 'Prendre contact',
