@@ -85,13 +85,13 @@
                         @else
                             Here are some more interesting articles to read:<br>
                             <a href="https://telraam.helpspace-docs.io/article/18/how-are-the-different-types-of-road-users-classified-and-differentiated">
-                                How does the classification of Telraam works?<br>
+                                How does the classification of Telraam work?<br>
                             </a>
-                            <a href="https://telraam.helpspace-docs.io/article/43/potential-inaccuracies-with-telraam-s2">
+                            <a href="https://telraam.helpspace-docs.io/article/19/potential-inaccuracies-with-telraam">
                                 How should I interpret the Telraam data?<br>
                             </a>
                             <a href="https://telraam.helpspace-docs.io/article/20/telraam-calibration-and-the-ratio-auto-large-vehicles">
-                                Telraam calibration and the ratio auto/large vehicles
+                                Telraam calibration and the ratio car/large vehicles.
                                 <br>
                             </a>
                         @endif
