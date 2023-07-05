@@ -30,9 +30,16 @@
                         <br>
 
                         We hebben een artikel gepubliceerd met een eenvoudige stapsgewijze instructie om je te helpen
-                        je toestel weer aan het tellen te krijgen. Klik op deze link om het te lezen:
+                        je toestel weer aan het tellen te krijgen. 
+                        <ul>
+                        <li>Met een Telraam v1, klik op deze link om het te lezen:
                         <a href="https://faq-nl.helpspace-docs.io/article/111/mijn-telraam-telt-niet-meer">
-                                    “Mijn Telraam telt niet meer”</a><br>
+                                    “Mijn Telraam telt niet meer”</a>
+                        </li>
+                        <li>Heb je een Telraam S2-toestel, kijk dan even hier: <a href="https://faq-nl.helpspace-docs.io/article/207/probleemoplossing-met-de-s2">
+                                    “Probleemoplossing met de S2”</a>
+                        </li>
+                        </ul>      
                         <br>
                         Indien je er nog steeds niet in slaagt om het probleem op te lossen, stuur ons een mail
                         op <a href="mailto:support@telraam.net">support@telraam.net</a> en we zullen ons uiterste best doen om je te helpen.<br>
@@ -53,9 +60,14 @@
                         Il est important de disposer de comptages complets afin que l'image du trafic dans votre rue soit aussi précise que
                         possible. Nous aimerions continuer à compter avec vous. Avez-vous du temps pour résoudre ce problème?<br>
                         <br>
-                        Nous avons publié un article avec des instructions pour vous aider à réactiver votre appareil. Cliquez sur ce lien pour le lire:
-                        <a href="https://faq-fr.helpspace-docs.io/article/191/ma-telraam-ne-compte-plus">
-                            "Ma Telraam ne compte plus".</a><br>
+                        Nous avons publié un article avec des instructions pour vous aider à réactiver votre appareil:
+                        <ul>
+                            <li>Si vous avez un Telraam v1, vous suivez les instructions ici: <a href="https://faq-fr.helpspace-docs.io/article/191/ma-telraam-ne-compte-plus">"Ma
+                                    Telraam ne compte plus".</a>
+                            </li>
+                            <li>Avec un Telraam S2, vous trouvez plus d'infos ici: <a href="https://faq-fr.helpspace-docs.io/article/208/resolution-des-problemes-avec-le-s2">"Résolution des problèmes avec le S2".</a>
+                            </li>
+                        </ul>    
                         <br>
                         Si vous ne parvenez toujours pas à résoudre le problème, envoyez-nous un courriel à <a href="mailto:support@telraam.net">support@telraam.net</a>
                         et nous ferons de notre mieux pour vous aider.<br>
@@ -69,7 +81,8 @@
 
 
                     @else
-                        Dear {{ $toFirstname }},<br>
+                    
+    					Dear {{ $toFirstname }},<br>
                         <br><br>
                         <strong>Your Telraam on <a href="https://telraam.net/en/location/{{ $segmentId }}/{{ $dateFrom }}/{{ $dateTo }}">{{ $street }}</a>
                         has been offline for a week and we have not received any traffic counts.</strong><br>
@@ -78,8 +91,15 @@
                         It’s important to have complete counts so the picture of traffic on your street is as accurate as possible.
                         We would love to keep counting with you. Do you have time to resolve the issue with your Telraam?<br>
                         <br>
-                        We have published an article with simple step by step instructions to help you get your device counting again. Click on this link to read it:
-                        <a href="https://telraam.helpspace-docs.io/article/51/my-telraam-isnt-counting-anymore">“My Telraam isn't counting anymore“</a><br>
+                        We have published an article with simple step by step instructions to help you get your device counting again:
+                         <ul>
+                            <li>If you have a Telraam v1 device, follow the step by step instructions here:
+                                <a href="https://telraam.helpspace-docs.io/article/51/my-telraam-isnt-counting-anymore">“My Telraam isn't counting anymore“</a>
+                            </li>
+                            <li>If you have a Telraam S2 device, you can read more here:
+                                <a href="https://telraam.helpspace-docs.io/article/206/troubleshooting-with-the-s2">“Troubleshooting with the S2“</a>
+                            </li>
+                        </ul>
                         <br>
                         If you are still unable to resolve the issue, then please email us: <a href="mailto:support@telraam.net">support@telraam.net</a>
                         and we will do our best to help you.<br>
@@ -90,7 +110,6 @@
                         <br><br>
                         Kind regards,<br>
                         Team Telraam<br>
-
 
                     @endif
 

@@ -28,9 +28,11 @@
                         Als je toch hulp nodig hebt om je toestel weer aan het tellen te krijgen, dan kan dat:
 
                         <ul>
-                            <li>Volg de stapsgewijze instructies hier:
-                                <a href="https://faq-nl.helpspace-docs.io/article/111/mijn-telraam-telt-niet-meer">
-                                    “Mijn Telraam telt niet meer”</a>
+                            <li>Heb je een Telraam v1 toestel, volg de stapsgewijze instructies hier:
+                                <a href="https://faq-nl.helpspace-docs.io/article/111/mijn-telraam-telt-niet-meer">“Mijn Telraam telt niet meer”</a>
+                            </li>
+                            <li>Beschik je over een Telraam S2, lees meer hier:
+                                <a href="https://faq-nl.helpspace-docs.io/article/207/probleemoplossing-met-de-s2">“Probleemoplossing met S2”</a>
                             </li>
                             <li>
                                 Als je verdere hulp nodig hebt, mail ons dan op <a href="mailto:support@telraam.net">support@telraam.net</a>.
@@ -56,8 +58,9 @@
                         Si vous êtes déjà au courant du problème, vous n'avez pas besoin de répondre à ce courrier. Si vous avez besoin d'aide pour que votre appareil compte à nouveau, vous pouvez:
 
                         <ul>
-                            <li>Suivre les instructions ici: <a href="https://faq-fr.helpspace-docs.io/article/191/ma-telraam-ne-compte-plus">"Ma
+                            <li>Si vous avez un Telraam v1, vous suivez les instructions ici: <a href="https://faq-fr.helpspace-docs.io/article/191/ma-telraam-ne-compte-plus">"Ma
                                     Telraam ne compte plus".</a></li>
+                            <li>Avec un Telraam S2, vous trouvez plus d'infos ici: <a href="https://faq-fr.helpspace-docs.io/article/208/resolution-des-problemes-avec-le-s2">"Résolution des problèmes avec le S2".</a></li>
                             <li>Envoyer un courriel à <a href="mailto:support@telraam.net">support@telraam.net</a> si vous avez besoin d'assistance supplémentaire.
                                 Dans ce cas, veuillez nous indiquer lesquelles des étapes vous avez déjà essayées.</li>
                         </ul>
@@ -80,8 +83,11 @@
                         You may already know about the issue, so there’s no need to reply to this message if you have it in hand (if you are currently travelling for example),
                         but if you do need any support to get your device counting again, you can:
                         <ul>
-                            <li>Follow the step by step instructions here:
+                            <li>If you have a Telraam v1 device, follow the step by step instructions here:
                                 <a href="https://telraam.helpspace-docs.io/article/51/my-telraam-isnt-counting-anymore">“My Telraam isn't counting anymore“</a>
+                            </li>
+                            <li>If you have a Telraam S2 device, you can read more here:
+                                <a href="https://telraam.helpspace-docs.io/article/206/troubleshooting-with-the-s2">“Troubleshooting with the S2“</a>
                             </li>
                             <li>If you need further support, email us at
                                 <a href="mailto:support@telraam.net">support@telraam.net</a> letting us know what

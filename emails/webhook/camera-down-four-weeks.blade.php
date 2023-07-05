@@ -28,9 +28,14 @@
 
                             <br>
                             <h4>Meer hulp nodig met uw toestel?</h4>
-                            We delen hier het artikel dat je kan gebruiken om je toestel weer actief te krijgen:
-                            <a href="https://faq-nl.helpspace-docs.io/article/111/mijn-telraam-telt-niet-meer">
-                                “Mijn Telraam telt niet meer”</a><br>
+                           We delen hier de artikels die je kan gebruiken om je toestel weer actief te krijgen:
+                            <li>Met een Telraam v1, klik op deze link om het te lezen:
+                            <a href="https://faq-nl.helpspace-docs.io/article/111/mijn-telraam-telt-niet-meer">“Mijn Telraam telt niet meer”</a>
+                            </li>
+                            <li>Beschik je over een Telraam S2, lees meer hier:
+                                <a href="https://faq-nl.helpspace-docs.io/article/207/probleemoplossing-met-de-s2">“Probleemoplossing met S2”</a>
+                            </li>
+                            </ul>
                             <br>
                             Als dit je probleem niet heeft opgelost, mag je ons zeker een bericht sturen zodat we je kunnen helpen. Stuur ons in dit geval een
                             mail naar <a href="mailto:support@telraam.net">support@telraam.net</a> en we zullen je zo snel mogelijk advies geven.<br>
@@ -74,8 +79,14 @@
                             <h4>Avez-vous besoin d'aide supplémentaire?</h4>
 
                             Nous vous avons déjà envoyé des liens vers des conseils pour remettre votre appareil en service.
-                            Pour votre information, voici le lien:  <a href="https://faq-fr.helpspace-docs.io/article/191/ma-telraam-ne-compte-plus">
-                                "Ma Telraam ne compte plus".</a><br>
+                            Pour votre information, voici le liens:
+                            <ul>
+                            <li>Si vous avez un Telraam v1, vous suivez les instructions ici: <a href="https://faq-fr.helpspace-docs.io/article/191/ma-telraam-ne-compte-plus">"Ma
+                                    Telraam ne compte plus".</a>
+                            </li>
+                            <li>Avec un Telraam S2, vous trouvez plus d'infos ici: <a href="https://faq-fr.helpspace-docs.io/article/208/resolution-des-problemes-avec-le-s2">"Résolution des problèmes avec le S2".</a><
+                            </li>
+                            </ul>
                             <br>
                             Si cela n'a pas résolu votre problème, nous aimerions avoir de vos nouvelles afin de vous aider, et d’améliorer nos
                             documents d'assistance pour autres participants.
@@ -121,9 +132,15 @@
 
                             <h4>Need more help with your device?</h4>
 
-                            We’ve previously sent you links to instructions for getting your device counting again. In case you need the link, this is here:
-                            <a href="https://telraam.helpspace-docs.io/article/51/my-telraam-isnt-counting-anymore">“My Telraam isn't counting anymore“</a>.<br>
-                            <br>
+                           We’ve previously sent you links to instructions for getting your device counting again. In case you need themn, you can find them here:
+                             <ul>
+                            <li>If you have a Telraam v1 device, follow the step by step instructions here:
+                                <a href="https://telraam.helpspace-docs.io/article/51/my-telraam-isnt-counting-anymore">“My Telraam isn't counting anymore“</a>
+                            </li>
+                            <li>If you have a Telraam S2 device, you can read more here:
+                                <a href="https://telraam.helpspace-docs.io/article/206/troubleshooting-with-the-s2">“Troubleshooting with the S2“</a>
+                            </li>
+                       	    </ul>
                             If this has not resolved your issue, we’d really like to hear from you so we can help you and also improve our
                             support documents for others. If so, please write to us at <a href="mailto:support@telraam.net">support@telraam.net</a> and we will provide as much advice as we can.<br>
                             <br>
