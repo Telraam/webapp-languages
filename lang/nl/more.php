@@ -73,10 +73,11 @@ return [
 
     // 7 mei
     'timerangetoolong' => 'Het verschil tussen de twee data is te lang. Het maximum is zes maanden.',
+    'timerangetoolong3months' => 'Het verschil tussen de twee data is te lang. Het maximum is drie maanden.',
+    'timerangetoolong1month' => 'Het verschil tussen de twee data is te lang. Het maximum is één maand.',
 
     // 17 mei
     'no-callibration' => 'Verhouding auto/grote voertuigen is niet correct? Nog even geduld, Telraam heeft tijd nodig om zichzelf te kalibreren. <a href="https://faq-nl.helpspace-docs.io/article/78/telraam-kalibratie-en-de-verhouding-auto-grote-voertuigen">Faq artikel</a>',
-
 
     // 7 juni location detail
     'header-data' => 'Data',

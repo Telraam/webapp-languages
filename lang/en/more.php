@@ -66,6 +66,8 @@ return [
 
     // 7 mei
     'timerangetoolong' => 'The difference between the two dates is too long. The maximum is six months.',
+    'timerangetoolong3months' => 'The difference between the two dates is too long. The maximum is three months.',
+    'timerangetoolong1month' => 'The difference between the two dates is too long. The maximum is one months.',
 
     // 17 mei
     'no-callibration' => 'Ratio auto/large vehicles not correct? Be patient, Telraam needs time to calibrate itself. <a href="https://telraam.helpspace-docs.io/article/20/telraam-calibration-and-the-ratio-auto-large-vehicles">Faq article</a>',

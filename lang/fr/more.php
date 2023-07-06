@@ -63,8 +63,11 @@ la mobilité et la sécurité routière, car elle est considérée comme représ
 
     // 23 feb
     'remark-upload-picture-dashboard' => 'Cette photo sera utilisée sur le site web public. Évitez les plaques d\'immatriculation lisibles ou les personnes identifiables.',
-// 7 mei
+
+    // 7 mei
     'timerangetoolong' => 'L\'écart entre les deux dates est trop important. Le maximum est de six mois.',
+    'timerangetoolong3months' => 'L\'écart entre les deux dates est trop important. Le maximum est de trois mois.',
+    'timerangetoolong1month' => 'L\'écart entre les deux dates est trop important. Le maximum est d\'un mois.',
 
     // 17 mei
     'no-callibration' => 'Le rapport entre la voiture et les gros véhicules n\'est pas correct? Veuillez être patient, Telraam a besoin de temps pour se
