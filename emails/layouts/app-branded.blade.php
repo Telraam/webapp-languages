@@ -210,9 +210,9 @@
                                   </tr>
                                   <tr>
                                       <td style="font-size:12px; line-height: 13px; text-align:center;">
-                                          Telraam<br>
+                                          Telraam / Rear Window BV<br>
                                           Diestsesteenweg 71<br>
-                                          B-3000 Leuven
+                                          3100 Leuven, Belgium
                                       </td>
                                   </tr>
                               </table>
