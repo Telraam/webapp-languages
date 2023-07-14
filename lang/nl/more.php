@@ -31,7 +31,7 @@ return [
     'loc-det-overview-detail' => 'Overzicht in detail',
     'loc-det-average-24h' => 'Gemiddelde over 24u',
     'loc-det-averige-24h-direction' => 'Gemiddelde over 24u rijrichting',
-    'loc-det-percentage-per-type' => 'Percentage per type',
+    'loc-det-percentage-per-type' => 'Model split',
     'loc-det-live-today' => 'Gedetailleerde telllingen van vandaag',
 
     'share-your-results-on-Facebook' => 'Deel je resultaten op Facebook',

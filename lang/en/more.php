@@ -1,7 +1,7 @@
 <?php
 
 return [
-		'auth-login'  => 'Login',
+	'auth-login'  => 'Login',
     'auth-password'  => 'Password',
     'auth-forgot-password'  => 'Forgot Password?',
     'auth-remember-me' => 'Remember me',
@@ -11,7 +11,7 @@ return [
     'pedestrian' => 'Pedestrians',
     'bike' => 'Two-wheelers',
     'car' => "Cars",
-    'lorry' => 'Heavy Vehicles ',
+    'lorry' => 'Heavy vehicles ',
     'measurements-last-week' => 'Measurements last week',
     'more-data' => 'More data...',
     'received-last-data-package-on' => 'Last data',
@@ -23,11 +23,11 @@ return [
     'camera-shown-after-full-day' => "We haven't received any counting data yet, please be patient.",
 
     'hour' => 'h',
-    'loc-det-overview-per-day' => 'Overview per day',
+    'loc-det-overview-per-day' => 'Daily overview',
     'loc-det-overview-detail' => 'Overview in detail',
     'loc-det-average-24h' =>  '24 hour average',
     'loc-det-averige-24h-direction' => '24 hour average per direction',
-    'loc-det-percentage-per-type' => 'Percentage per type',
+    'loc-det-percentage-per-type' => 'Modal split',
     'loc-det-live-today' => 'Detailed counting from today',
 
     'share-your-results-on-Facebook' => 'Share your results on Facebook',

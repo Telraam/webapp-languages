@@ -40,8 +40,8 @@ return [
     'bikes-left-to-right'   => 'Bikes Left to right',
     'cars-right-to-left'    => 'Cars Right to left',
     'cars-left-to-right'    => 'Cars Left to right',
-    'lorries-right-to-left' => 'Heavy Vehicles Right to left',
-    'lorries-left-to-right' => 'Heavy Vehicles Left to right',
+    'lorries-right-to-left' => 'Heavy vehicles Right to left',
+    'lorries-left-to-right' => 'Heavy vehicles Left to right',
 
     'save-position' => 'Confirm Position',
 
