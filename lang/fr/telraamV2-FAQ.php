@@ -52,22 +52,6 @@ une rangée d\'arbres ou de voitures garées, votre Telraam aura probablement de
   angle (de sorte que toute la surface de la rue soit visible) avec votre smartphone ou une caméra GoPro contenant 15 minutes de trafic depuis la fenêtre où
   votre Telraam S2 est installé et nous l\'envoyer. Nous pourrons utiliser cette vidéo pour comprendre pourquoi votre appareil n\'est pas performant, et nous
   pourrons peut-être l\'utiliser pour améliorer notre algorithme de détection à l\'avenir.',
-	 	 	'question-11'           => 'Retours',
- 	'answer-11' 			=> 'Nous offrons une politique de retour pour tous les articles physiques retournés dans un état vendable dans un délai de 14 jours. Contactez-nous par l\'intermédiaire de notre système d\'assistance ou par courriel à l\'adresse <a href="mailto:support@telraam.net"  target="_blank">support@telraam.net</a>.
-Après approbation, vous recevrez une étiquette de retour de notre part.  Ne retournez pas d\'articles sans nous avoir contactés au préalable, sinon nous ne pouvons pas retracer leur provenance.
-Notre adresse est Telraam c/o returns, Diestsesteenweg 71, 3010 Leuven - Belgique.
-Veuillez noter que nous n\'acceptons pas les retours pour les abonnements numériques.
-',
- 		 	'question-12'           => 'Dommages',
- 	'answer-12' 			=> 'Si votre commande arrive dans un état insatisfaisant, contactez <a href="mailto:support@telraam.net"  target="_blank">support@telraam.net</a> en expliquant le problème et en joignant une photo du colis. Nous pouvons vous demander de nous renvoyer le ou les articles défectueux ou de nous envoyer d\'autres preuves du problème. Les frais de retour vous seront remboursés. Veuillez ne pas nous renvoyer d\'articles défectueux sans nous avoir contactés au préalable.
-Nous ne pouvons pas remplacer un appareil endommagé après son installation, nous le faisons uniquement lorsque le colis arrive en mauvais état.
 
-',
- 	 		 	'question-13'           => 'Paquets manquants',
- 	'answer-13' 			=> 'Malheureusement, il peut y avoir des retards dans la poste qui échappent à notre contrôle, en particulier lors de l\'expédition en dehors de l\'UE. Nous vous présentons nos excuses les plus sincères pour les désagréments que cela peut causer.
-Nous vous demandons de prévoir un délai de 14 jours pour les clients de l\'UE et de 28 jours pour les clients hors UE, à compter de la date d\'expédition, avant de considérer qu\'un article a été perdu par la poste. Si votre commande n\'est pas arrivée à cette date, veuillez nous en informer à l\'adresse suivante : Contact <a href="mailto:support@telraam.net"  target="_blank">support@telraam.net</a>. Nous ne manquerons pas de vous informer si votre commande nous est renvoyée pour quelque raison que ce soit.',
- 	 		 	'question-14'           => 'Douanes, droits et taxes',
- 	'answer-14' 			=> 'Lorsqu\'il commande sur telraam.net, le destinataire est tenu de s\'assurer que le produit peut être légalement importé à destination. Les destinataires d\'envois internationaux peuvent être soumis à des taxes d\'importation, des redevances et des droits de douane (ci-après, les frais d\'importation), prélevés par le bureau de douane de votre destination d\'expédition. Les frais d\'importation varient en fonction de la réglementation douanière du pays de destination et, à l\'heure actuelle, nous sommes principalement confrontés à des frais de douane lors de l\'exportation vers le Royaume-Uni.',
- 	
  	'text-final' 			=>'Si vous avez encore des questions spécifiques, n\'hésitez pas à nous envoyer un courriel à l\'adresse suivante: <a href="mailto:support@telraam.net"  target="_blank">support@telraam.net</a>'
 ];
