@@ -39,5 +39,13 @@ return [
     'product-4-note' => 'Incl vat',
     'product-4-link' => 'Pay',
 
+    // warning
+    'warning-body-1' => '<strong>The Telraam device needs a clear view on the street.</strong><br>
+Review the <a href="https://telraam.helpspace-docs.io/article/3/requirements-for-the-installation-of-a-telraam-in-my-window" target="_blank" class="grey">requirements for the window placement</a>
+    of your device(s).',
+    'warning-body-2' => '<strong>There needs a suitable LTE-M data network coverage</strong>. <br>Check operator coverage maps for your area/country if you are unsure, or
+reach out to us <a href=mailto:support@telraam.net?body=coverage class="grey">via email</a> so we can assist',
+    'warning-body-3' => '<strong>Personal</strong> device plans are <strong>only intended for individuals</strong>. <br>Select the appropriate package. ',
+
 
 ];
