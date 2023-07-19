@@ -51,7 +51,7 @@ return [
 
     'standard-include-1' => 'Persoonlijk dashboard',
     'standard-include-2' => 'Basis API toegang',
-    'standard-include-3' => 'Email supportt',
+    'standard-include-3' => 'Email support',
 
     'enhanced-include-1' => 'Alle kenmerken van Starter',
     'enhanced-include-2' => 'Premium analytische tools',
