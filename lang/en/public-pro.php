@@ -31,10 +31,12 @@ return [
     <br>
     <strong>15 minute data intervals for granular level analysis</strong><br>
     <table width="100%">
-        <tr><td><span class=" heroicon heroicon-check-circle"  style="position:relative; top:3px "></span> Spot traffic peak trends with greater
-        clarity</td>
+        <tr>
+            <td><span class=" heroicon heroicon-check-circle"  style="position:relative; top:3px "></span> Spot traffic peak trends with greater clarity</td>
         </tr>
-        <tr><td><span class=" heroicon heroicon-check-circle"  style="position:relative; top:3px"></span> Ideal for tracking school street usage or through-traffic patterns</tr>
+        <tr>
+            <td><span class=" heroicon heroicon-check-circle"  style="position:relative; top:3px"></span> Ideal for tracking school street usage or through-traffic patterns</td>
+        </tr>
     </table>
     </p>',
 
