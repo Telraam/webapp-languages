@@ -36,6 +36,8 @@
                                 <a href="https://faq-nl.helpspace-docs.io/article/207/probleemoplossing-met-de-s2">“Probleemoplossing met S2”</a>
                             </li>
                             </ul>
+                            Telt je Telraam niet meer omdat het (herhaaldelijk) van het raam valt. Dan raden we je aan om de meegeleverde tape door dubbelzijdige foamtape te vervangen.<br>
+                            <br>
                             <br>
                             Als dit je probleem niet heeft opgelost, mag je ons zeker een bericht sturen zodat we je kunnen helpen. Stuur ons in dit geval een
                             mail naar <a href="mailto:support@telraam.net">support@telraam.net</a> en we zullen je zo snel mogelijk advies geven.<br>
@@ -87,6 +89,8 @@
                             <li>Avec un Telraam S2, vous trouvez plus d'infos ici: <a href="https://faq-fr.helpspace-docs.io/article/208/resolution-des-problemes-avec-le-s2">"Résolution des problèmes avec le S2".</a><
                             </li>
                             </ul>
+                            Est-ce que votre Telraam compte plus parce qu'il tombe de la fenêtre (à plusieurs reprises). Dans ce cas, nous vous conseillons de remplacer le scotch fourni par du ruban mousse double face.
+                            <br>
                             <br>
                             Si cela n'a pas résolu votre problème, nous aimerions avoir de vos nouvelles afin de vous aider, et d’améliorer nos
                             documents d'assistance pour autres participants.
@@ -141,6 +145,8 @@
                                 <a href="https://telraam.helpspace-docs.io/article/206/troubleshooting-with-the-s2">“Troubleshooting with the S2“</a>
                             </li>
                        	    </ul>
+                       	    Does your Telraam no longer count because it falls off the window (repeatedly). If so, we recommend replacing the supplied tape with double-sided foam tape.<br>
+                            <br>
                             If this has not resolved your issue, we’d really like to hear from you so we can help you and also improve our
                             support documents for others. If so, please write to us at <a href="mailto:support@telraam.net">support@telraam.net</a> and we will provide as much advice as we can.<br>
                             <br>

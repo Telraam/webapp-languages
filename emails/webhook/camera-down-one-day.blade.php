@@ -39,6 +39,7 @@
                                 Laat ons in dit geval weten welke bovenstaande stappen je reeds hebt geprobeerd.
                             </li>
                         </ul>
+                        Telt je Telraam niet meer omdat het (herhaaldelijk) van het raam valt. Dan raden we je aan om de meegeleverde tape door dubbelzijdige foamtape te vervangen.<br>
                         <br>
 
                         Bedankt om deel uit te maken van de Telraam community.<br>
@@ -64,6 +65,7 @@
                             <li>Envoyer un courriel à <a href="mailto:support@telraam.net">support@telraam.net</a> si vous avez besoin d'assistance supplémentaire.
                                 Dans ce cas, veuillez nous indiquer lesquelles des étapes vous avez déjà essayées.</li>
                         </ul>
+                         Est-ce que votre Telraam compte plus parce qu'il tombe de la fenêtre (à plusieurs reprises). Dans ce cas, nous vous conseillons de remplacer le scotch fourni par du ruban mousse double face.
                         <br>
 
                         Merci pour votre participation dans la communauté Telraam.<br>
@@ -93,6 +95,7 @@
                                 <a href="mailto:support@telraam.net">support@telraam.net</a> letting us know what
                                 steps above you have already tried.</li>
                         </ul>
+                        Does your Telraam no longer count because it falls off the window (repeatedly). If so, we recommend replacing the supplied tape with double-sided foam tape.
                         <br>
 
                         Thank you for being part of the Telraam citizen community.<br>

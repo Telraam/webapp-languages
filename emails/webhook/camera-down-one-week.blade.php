@@ -41,6 +41,8 @@
                         </li>
                         </ul>      
                         <br>
+                         Telt je Telraam niet meer omdat het (herhaaldelijk) van het raam valt. Dan raden we je aan om de meegeleverde tape door dubbelzijdige foamtape te vervangen.<br>
+                        <br>
                         Indien je er nog steeds niet in slaagt om het probleem op te lossen, stuur ons een mail
                         op <a href="mailto:support@telraam.net">support@telraam.net</a> en we zullen ons uiterste best doen om je te helpen.<br>
                         <br>
@@ -67,7 +69,9 @@
                             </li>
                             <li>Avec un Telraam S2, vous trouvez plus d'infos ici: <a href="https://faq-fr.helpspace-docs.io/article/208/resolution-des-problemes-avec-le-s2">"Résolution des problèmes avec le S2".</a>
                             </li>
-                        </ul>    
+                        </ul>
+                        Est-ce que votre Telraam compte plus parce qu'il tombe de la fenêtre (à plusieurs reprises). Dans ce cas, nous vous conseillons de remplacer le scotch fourni par du ruban mousse double face.
+                        <br>    
                         <br>
                         Si vous ne parvenez toujours pas à résoudre le problème, envoyez-nous un courriel à <a href="mailto:support@telraam.net">support@telraam.net</a>
                         et nous ferons de notre mieux pour vous aider.<br>
@@ -100,6 +104,8 @@
                                 <a href="https://telraam.helpspace-docs.io/article/206/troubleshooting-with-the-s2">“Troubleshooting with the S2“</a>
                             </li>
                         </ul>
+                        Does your Telraam no longer count because it falls off the window (repeatedly). If so, we recommend replacing the supplied tape with double-sided foam tape.<br>
+                        <br>
                         <br>
                         If you are still unable to resolve the issue, then please email us: <a href="mailto:support@telraam.net">support@telraam.net</a>
                         and we will do our best to help you.<br>
