@@ -70,8 +70,7 @@
                             <li>Avec un Telraam S2, vous trouvez plus d'infos ici: <a href="https://faq-fr.helpspace-docs.io/article/208/resolution-des-problemes-avec-le-s2">"Résolution des problèmes avec le S2".</a>
                             </li>
                         </ul>
-                        Est-ce que votre Telraam compte plus parce qu'il tombe de la fenêtre (à plusieurs reprises). Dans ce cas, nous vous conseillons de remplacer le scotch fourni par du ruban mousse double face.
-                        <br>    
+                        Est-ce que votre Telraam compte plus parce qu'il tombe de la fenêtre (à plusieurs reprises). Dans ce cas, nous vous conseillons de remplacer le scotch fourni par du ruban mousse double face.<br>    
                         <br>
                         Si vous ne parvenez toujours pas à résoudre le problème, envoyez-nous un courriel à <a href="mailto:support@telraam.net">support@telraam.net</a>
                         et nous ferons de notre mieux pour vous aider.<br>

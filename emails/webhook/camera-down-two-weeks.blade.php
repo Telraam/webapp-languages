@@ -85,7 +85,6 @@
                             </ul>
                             Est-ce que votre Telraam compte plus parce qu'il tombe de la fenêtre (à plusieurs reprises). Dans ce cas, nous vous conseillons de remplacer le scotch fourni par du ruban mousse double face.<br>
                             <br>
-                            <br>
                             Si cela n'a pas résolu votre problème, nous aimerions avoir de vos nouvelles afin de vous aider, et d’améliorer nos
                             documents d'assistance pour autres participants.
                             Dans ce cas, écrivez-nous à <a href="mailto:support@telraam.net">support@telraam.net</a> et nous vous conseillerons

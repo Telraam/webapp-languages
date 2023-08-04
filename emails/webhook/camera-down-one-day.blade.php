@@ -65,7 +65,7 @@
                             <li>Envoyer un courriel à <a href="mailto:support@telraam.net">support@telraam.net</a> si vous avez besoin d'assistance supplémentaire.
                                 Dans ce cas, veuillez nous indiquer lesquelles des étapes vous avez déjà essayées.</li>
                         </ul>
-                         Est-ce que votre Telraam compte plus parce qu'il tombe de la fenêtre (à plusieurs reprises). Dans ce cas, nous vous conseillons de remplacer le scotch fourni par du ruban mousse double face.
+                         Est-ce que votre Telraam compte plus parce qu'il tombe de la fenêtre (à plusieurs reprises). Dans ce cas, nous vous conseillons de remplacer le scotch fourni par du ruban mousse double face.<br>
                         <br>
 
                         Merci pour votre participation dans la communauté Telraam.<br>
@@ -95,7 +95,7 @@
                                 <a href="mailto:support@telraam.net">support@telraam.net</a> letting us know what
                                 steps above you have already tried.</li>
                         </ul>
-                        Does your Telraam no longer count because it falls off the window (repeatedly). If so, we recommend replacing the supplied tape with double-sided foam tape.
+                        Does your Telraam no longer count because it falls off the window (repeatedly). If so, we recommend replacing the supplied tape with double-sided foam tape.<br>
                         <br>
 
                         Thank you for being part of the Telraam citizen community.<br>
