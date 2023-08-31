@@ -28,7 +28,7 @@ return [
     'loc-det-average-24h' =>  '24 hour average',
     'loc-det-averige-24h-direction' => '24 hour average per direction',
     'loc-det-percentage-per-type' => 'Modal split',
-    'loc-det-live-today' => 'Detailed counting from today',
+    'loc-det-live-today' => 'Traffic of the past 24 hours - quarter of an hour resolution',
 
     'share-your-results-on-Facebook' => 'Share your results on Facebook',
     'share-your-results-on-Twitter' => 'Share your results on Twitter',
