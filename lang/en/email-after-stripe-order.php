@@ -9,7 +9,7 @@ We know that you will want to start counting as soon as possible, so here is a s
 shipping of your Telraam package. <br>
 <br>
 
-We provide your details to our shipping partner the same day, and they usually ship the next day from Leuven, Belgium. Depending on the country you ordered from, it can take your Telraam package anything from a few days (for EU-countries) to two weeks (outside EU) to reach the country of destination.<br>
+We work with a local shipping partner, who is currently shipping out every two weeks the online orders of the past period. Depending on the country you ordered from, it can take your Telraam package anything from a few days (for EU-countries) to two weeks (outside EU) to reach the country of destination.<br>
 <br>
 Once your Telraam is dispatched your details are entered in the track and trace system of our local carrier BPost. You should then receive updates on your order’s progress via email (please check your spam folder). <br>
 <br>
