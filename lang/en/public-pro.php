@@ -2,17 +2,18 @@
 
 return [
 
-    'title' => 'Professional Data Insights',
+ //   'title' => 'Professional Data Insights',
+    'title' => 'Premium membership',
     'sub-title' => 'Drill down into your traffic counts with superior levels of data for a location.<br><br>
         All Telraam devices offer a standard level of data reporting that give
-    insights into local traffic, but with the Pro Data package (only available with Telraam S2 devices) you
+    insights into local traffic, but with the Premium package (only available with Telraam S2 devices) you
     can drill down in greater detail into specific modes, segments, and time periods.',
 
     'section-1-title' => 'More detail',
     'section-1-text' => '
-    <p>The Pro Data dashboard gives you full access to the additional capabilities of the Telraam S2 device, with all the additional modes it can track,
+    <p>The Premium dashboard gives you full access to the additional capabilities of the Telraam S2 device, with all the additional modes it can track,
     and more regular data reports.<br>
-    <br>The Pro Data package includes the following additional data points:<br>
+    <br>The Premium package includes the following additional data points:<br>
     <br>
     <strong>Counts, trends & direction of travel for up to 10 different individual modes, including:</strong>
     <table width="100%">
@@ -64,7 +65,7 @@ return [
      down to each day of the week (including a more general weekday and weekend option too).',
 
 
-    'section-2-block-E-text' => '<strong>Premium ‘Street Sheet’ data insight & summary report </strong>',
+    'section-2-block-E-text' => 'Premium ‘Street Sheet’ data insight & summary report',
     'section-2-block-F-text' => ' In-depth Excel-format summary for a device; with insights, calculations and raw data for review.<br><br>
     These reports give all users, experts and non-experts alike, a snapshot review of the data from a device to help
     identify trends and anomalies.<br>
@@ -90,7 +91,7 @@ Download spreadsheets to carry out more custom analysis, or integrate into other
         <li>
 Integrate custom data connections for anything from personalised dashboards to a full integration with Business Intelligence (BI) data systems</li>
 <li>Pro users will have additional rate limits to enable more regular data refreshing</li>
-<li>Additional end-points will be available exclusively for Pro Data users, such as 5km speed data points (instead of 10km bins) and additional
+<li>Additional end-points will be available exclusively for Premium users, such as 5km speed data points (instead of 10km bins) and additional
 typical traffic derived data</li>
 <li>Potential for custom integrations by agreement with the Telraam Team</li>',
 

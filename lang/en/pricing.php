@@ -41,7 +41,7 @@ return [
     'get-started' => ' Get started',
     'get-in-touch' => 'Get in touch',
     'order' => 'Order',
-    'order-note' => 'ATM Europe & US only',
+    'order-note' => 'Europe, UK & US only',
 
     // includes
     'include-title' => 'Includes:',

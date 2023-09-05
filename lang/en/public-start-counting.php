@@ -104,7 +104,7 @@ Telraam API) includes four categories.</p>
 
     'how-to-start-option-B-title' => 'Join a network',
     'how-to-start-option-B-text' => '<p>Alternatively, join one of the many networks already counting or recruiting.</p>',
-    'how-to-start-option-B-button' => '<a href="#joinlocalnetwork" class="button">Browse the network list</a></p>',
+    'how-to-start-option-B-button' => '<a href="browse-networks#joinlocalnetwork" class="button">Browse the network list</a></p>',
 
     'how-to-start-option-C-title' => 'Start a network',
     'how-to-start-option-C-text' => '<p>No existing networks in your area, or need to decide where to collect traffic data?</p>',

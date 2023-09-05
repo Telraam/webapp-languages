@@ -97,7 +97,7 @@ return [
 
     'how-to-start-option-B-title' => 'Join a network',
     'how-to-start-option-B-text' => '<p>Vous pouvez également rejoindre l\'un des nombreux réseaux qui comptent ou recrutent déjà.</p>',
-    'how-to-start-option-B-button' => '<a href="#joinlocalnetwork" class="button">Parcourir la liste des réseaux</a></p>',
+    'how-to-start-option-B-button' => '<a href="browse-networks#joinlocalnetwork" class="button">Parcourir la liste des réseaux</a></p>',
 
     'how-to-start-option-C-title' => 'Démarrer un réseau',
     'how-to-start-option-C-text' => '<p>S\'il n\'y a pas pas de réseaux dans votre région ou souhaitez-vous exploiter vos propres données de trafic ?</p>',

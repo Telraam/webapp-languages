@@ -92,7 +92,7 @@ Deze werkwijze en de open toegang tot de verzamelde verkeersgegevens, democratis
 
     'how-to-start-option-B-title' => 'Neem deel aan een netwerk',
     'how-to-start-option-B-text' => '<p>U kunt zich ook aansluiten bij een van de vele netwerken die reeds tellen of werven</p>',
-    'how-to-start-option-B-button' => '<a href="#joinlocalnetwork" class="button">Browse the network list</a></p>',
+    'how-to-start-option-B-button' => '<a href="browse-networks#joinlocalnetwork" class="button">Browse the network list</a></p>',
 
     'how-to-start-option-C-title' => 'Start een netwerk',
     'how-to-start-option-C-text' => '<p>Geen bestaande netwerken in uw omgeving?</p>',
