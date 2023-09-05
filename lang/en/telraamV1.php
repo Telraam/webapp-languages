@@ -17,12 +17,13 @@ While we believe that the Telraam S2 offers better accuracy, precision, and an i
     'section1-title'        => 'History, An origin(al) story',
     'section1-text'        => '<p>During the summer of 2018 a mix of transport engineers, data scientists, and developers sat
 together at <a href="https://www.tmleuven.be/" target="_blank">TML</a>
-continuously for the fraction of the cost of existing traffic monitoring systems.</p>
+ to come up with a method that could provide traffic data on a previously unprecedented local scale, operating continuously
+ for the fraction of the cost of existing traffic monitoring systems.</p>
 
 <p>The experience of the team led them to focus on building something small, simple and affordable, but fit for the purpose.
 The final device would need be able to be fit in citizens’ windows, so that it would represent their actual ‘view’ of the street,
  but without being intrusive. This way it could be deployed in large numbers to get a complete picture of a wide range of streets,
-  including minor and residential ones, not often covered by traditional counting setups.</p>
+ including minor and residential ones, not often covered by traditional counting setups.</p>
 
 <p>The prototype was built using off-the shelf components such as a miniature Raspberry Pi computer and a camera that met the
 above criteria, but the detection algorithm was developed in house. The development of the sensor was finished before the end
@@ -30,7 +31,7 @@ of the summer, then a basic backend and fronted were built from scratch, and the
 in Leuven during early 2019. By the time the Telraam S2 was launched in 2023, more than 5000 Telraam V1 devices were sold
  around the world.</p>',
 
-    'section1-text-extra'        => 'Having launched the S2 in spring 2023, Telraam no long sells the assembled V1, but if
+    'section1-text-extra'        => 'Having launched the Telraam S2 in spring 2023, Telraam no long sells the V1 kit, but if
     you wish to create your own device from the instructions below, it can still be connected to our network.',
 
     'section2-title'        => 'DIY/ What is required for a Telraam V1?',
@@ -52,17 +53,18 @@ in Leuven during early 2019. By the time the Telraam S2 was launched in 2023, mo
             <a href="https://telraam.helpspace-docs.io/article/36/do-it-yourself-assemble-telraam-by-yourself">how to assemble your device</a>.</p>
 ',
 
-    'section2-text-extra'        => 'The Telraam detection algorithm and communication protocols were created for
-    these specific components and may not work with more recent versions, so please make sure you source the correct components.',
+    'section2-text-extra'        => 'The software and firmware included in the offered SD card image were created for
+    these specific components and may not work with a different configuration, so please make sure you source the correct hardware. Some community efforts
+    have been made to set up V1 devices using different RPi versions (see entries on our GitHub), but we are unable to provide support for such endevours.',
 
     'section3-title'        => 'What & How Telraam counts',
-    'section3-text'        => 'Telraam V1 uses computer vision (OpenCV) to detect objects in front of a constant (often
+    'section3-text'        => 'Telraam V1 uses computer vision (OpenCV) to detect objects in front of a constant (periodically
      recalculated median) background. Objects are detected in real time on each low resolution frame that is sent by the camera.
      Some basic parameters (such as position in the frame, width, height, area, etc.) of the objects\' contours are stored in
      the memory until every couple of minutes an algorithm processes (and later deletes) them in order to identify and
      track objects moving across the image frame (therefore along the street). At the end of each cycle the average
      parameters of the successfully tracked objects are sent to the Telraam servers, where they later get classified
-     into road users based on their observed parameters, before being aggregated into quarterly and hourly count totals,
+     into road users based on their observed parameters, before being aggregated into quarterly and hourly count totals
      per mode and direction of travel.<br>
 <br>
 
