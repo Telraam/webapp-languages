@@ -73,11 +73,11 @@ return [
     'spec-table-row-3-subject'     => 'Camera',
     'spec-table-row-3-details' => 'Wide angle fixed lens<br>Automatic region of interest selection',
 
-    'spec-table-row-4-subject'     => 'Size',
-    'spec-table-row-4-details' => '65 mm x 99 mm x 30 mm<br>(W x H x D)',
+    'spec-table-row-4-subject'     => 'Dimensions',
+    'spec-table-row-4-details' => '65 mm x 99 mm x 30 mm<br>96 g (123 g including the mounting bracket)',
 
     'spec-table-row-5-subject'     => 'Power',
-    'spec-table-row-5-details' => '1-1.5W<br>',
+    'spec-table-row-5-details' => '< 1.5 W (0.8 W with screen off)',
 
     'spec-table-row-6-subject'     => 'Privacy',
     'spec-table-row-6-details' => 'AI counts on the device<br>No videos or images are saved<br>',

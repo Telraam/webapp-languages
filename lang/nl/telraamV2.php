@@ -72,10 +72,10 @@ return [
     'spec-table-row-3-details' => 'Vaste groothoeklens<br>Automatische selectie van het interessegebied',
 
     'spec-table-row-4-subject'     => 'Grootte',
-    'spec-table-row-4-details' => '65 mm x 99 mm x 30 mm<br>(B x H x D)',
+    'spec-table-row-4-details' => '65 mm x 99 mm x 30 mm<br>96 g (123 g inclusief montagebeugel)',
 
     'spec-table-row-5-subject'     => 'Power',
-    'spec-table-row-5-details' => '1-1.5W<br>',
+    'spec-table-row-5-details' => '< 1,5 W (0,8 W met scherm uitgeschakeld)',
 
     'spec-table-row-6-subject'     => 'Privacy',
     'spec-table-row-6-details' => 'AI telt op het apparaat<br>Er worden geen video\'s of afbeeldingen opgeslagen<br>',

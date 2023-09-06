@@ -71,11 +71,11 @@ return [
     'spec-table-row-3-subject'     => 'Caméra',
     'spec-table-row-3-details' => 'Objectif grand angle fixe<br>Sélection automatique de la zone d\'intérêt',
 
-    'spec-table-row-4-subject'     => 'Taille',
-    'spec-table-row-4-details' => '65 mm x 99 mm x 30 mm<br>(L x H x P)',
+    'spec-table-row-4-subject'     => 'Dimensions',
+    'spec-table-row-4-details' => '65 mm x 99 mm x 30 mm<br>96 g (123 g avec le support de montage)',
 
     'spec-table-row-5-subject'     => 'Puissance',
-    'spec-table-row-5-details' => '1-1.5W<br>',
+    'spec-table-row-5-details'      => '< 1,5 W (0,8 W avec écran éteint)',
 
     'spec-table-row-6-subject'     => 'Confidentialité',
     'spec-table-row-6-details' => 'IA compte sur l\'appareil<br>Aucune vidéo ou image n\'est enregistrée<br>',
