@@ -68,7 +68,7 @@ return [
     'spec-table-row-1-details' => 'K210 edge computing chip',
 
     'spec-table-row-2-subject'     => 'Connection',
-    'spec-table-row-2-details' => 'MQTT w/ thingstream IoT<br>No wifi connection needed',
+    'spec-table-row-2-details' => 'Cellular via LTE-M or NB-IoT<br>No wifi connection needed',
 
     'spec-table-row-3-subject'     => 'Camera',
     'spec-table-row-3-details' => 'Wide angle fixed lens<br>Automatic region of interest selection',

@@ -66,7 +66,7 @@ return [
     'spec-table-row-1-details' => 'puce K210 informatique de pointe',
 
     'spec-table-row-2-subject'     => 'Connection',
-    'spec-table-row-2-details' => 'MQTT avec thingstream IdO<br>Pas de connexion wifi nécessaire',
+    'spec-table-row-2-details' => 'Cellulaire via LTE-M ou NB-IoT<br>Pas de connexion wifi nécessaire',
 
     'spec-table-row-3-subject'     => 'Caméra',
     'spec-table-row-3-details' => 'Objectif grand angle fixe<br>Sélection automatique de la zone d\'intérêt',

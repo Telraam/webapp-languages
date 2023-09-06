@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee003347-7baf-4775-afc1-aaeab6092988" name="Changes" comment="" />
+    <list default="true" id="ee003347-7baf-4775-afc1-aaeab6092988" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/lang/nl/telraamV2.php" beforeDir="false" afterPath="$PROJECT_DIR$/lang/nl/telraamV2.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676035806120</updated>
       <workItem from="1676035807306" duration="1070000" />
+      <workItem from="1694005576191" duration="339000" />
     </task>
     <servers />
   </component>
