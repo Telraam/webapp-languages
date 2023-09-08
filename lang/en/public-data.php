@@ -9,6 +9,19 @@ return [
         finer temporal resolution, more modes of traffic, advanced APIs,
         and a broad set of visualisations and analytic tools.',
 
+    // pricing box
+    'pricing-1-title' => 'Data subscription <span class="green">€15 <span class="month">/ month</span>',
+    'pricing-1-subtitle' => 'Get the 10 modes, greater detail and better reports',
+    'pricing-1-info' => '(Multiple) devices in your neighborhood as an organisation or city?
+                            <div style="padding-left: 20px">
+                                We\'ll refer you to the <a href="../professionals">Network</a>.
+                                This includes a data subscription for all devices.
+                            </div>',
+
+    'pricing-2-title' => 'Limited data <span class="green">Free for personal use only</span>',
+    'pricing-2-subtitle' => 'Limited to the 4 default modes and hourly data',
+
+    // info
     'section-1-title' => 'More detail',
     'section-1-text' => '
    <p>Telraam data subscribers get access to count data that has four times higher temporal

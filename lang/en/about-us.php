@@ -4,7 +4,7 @@ return [
 
     'title'           => 'About us',
 
-    'subtitle'          => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dignissim tincidunt congue. Nulla lacinia ultricies lobortis.',
+    'subtitle'          => 'A story of traffic engineering and citizen science getting married',
 
     'section-1-title'            => 'History',
     'section1-block1-text'        => '<p>Telraam is the brainchild of two organisations based in Leuven (BE):
@@ -24,18 +24,40 @@ and become a driving force in conversations and debates on urban mobility polici
 <p>We want to provide affordable solutions to connect citizens and their local governments, and facilitate the shift towards a more
 human-focused, multimodal traffic culture. </p>',
 
-'section2-block2-text'        => '<p>Coming from a traffic engineering background, we know traffic counting data. We breathe traffic counting data. We understand what type of data can be valuable for professionals. Are you a mobility professional; a non-profit organization, a traffic engineering or consultancy firm, a transport agency, or a local government? Are you looking for affordable, multimodal traffic
-monitoring solutions for your projects that can be deployed on a large number of locations? Then Telraam is the right place for you!</p>',
+'section2-block2-text'        => '<p>Coming from a traffic engineering background, we know traffic counting data. We breathe traffic counting data. We understand what type of data can be valuable for professionals. Are you a mobility professional; a non-profit organization, a traffic engineering or consultancy firm, a transport agency, or a local government?<br>
+ <br>
+ Are you looking for affordable, multimodal traffic monitoring solutions for your projects that can be deployed on a
+  large number of locations? Then Telraam is the right place for you!</p>',
 
     // team
     'team-title'   => 'Team',
-    'role-kris'     => 'Co-founder, do-it-all',
-    'role-dave'     => 'Co-founder, web development',
+
+    'role-kris'     => 'Co-founder and do-it-all',
+    'sentence-kris'    => 'A citizen scientist on a mission to create a durable business model for this "little project"
+    and small-time investor after hours. Always looking for new idea\'s. Trying to lead this bunch of unguided rockets of a team (love you guys!).
+    Generally likes data and likes to play a bit of chess when there\'s time. ',
+
+    'role-dave'     => 'Co-founder and web development',
+    'sentence-dave'    => 'Likes to have design, development and a bit of strategy all mixed in his work.
+    Enjoys art, music and a bit of crazyness. Plays outdoor football till his knees really give it up.',
+
     'role-peter'    => 'Data-analytics and development',
+    'sentence-peter'    => 'Peter has a PhD in Astrophysics (KU Leuven), and 5 years of experience in working with transport related data.
+    After work he is a road cyclist, a private pilot, or a bass player.',
+
     'role-carl'     => 'Backend infrastruction and development',
-    'role-elke'     => 'Support and processes',
+    'sentence-carl'    => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis at metus cursus dapibus. Aenean ut tellus mattis, vehicula dolor fringilla.',
+
+    'role-elke'     => 'Support, documentation and processes',
+    'sentence-elke'    => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis at metus cursus dapibus. Aenean ut tellus mattis, vehicula dolor fringilla.',
+
     'role-wouter'   => 'Project & business development manager',
+    'sentence-wouter'    => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis at metus cursus dapibus. Aenean ut tellus mattis, vehicula dolor fringilla.',
+
     'role-rob'      => 'UK & US, Community manager and sales',
+    'sentence-rob'    => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis at metus cursus dapibus. Aenean ut tellus mattis, vehicula dolor fringilla.',
+
     'role-laurens'  => 'Workhop-hero and sales',
+    'sentence-laurens'    => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis at metus cursus dapibus. Aenean ut tellus mattis, vehicula dolor fringilla.',
 
 ];
