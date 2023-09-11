@@ -2,7 +2,7 @@
 
 return [
 
-    'title' => 'Limited data  <span class="black">- Free for personal use only</span>',
+    'title' => 'Basic data  <span class="black">- Free for personal use only</span>',
     'sub-title' => '',
 
     'section-1-title' => 'Open Data for all users and campaigners',
