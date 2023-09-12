@@ -3,13 +3,15 @@
 return [
 
         // user edit
-    'title'             => 'Tier',
-    'info'              => 'With a pro tier you get more data insight and you support the Telraam community. Organisations, cities or organisations are obligued to offer the citizens a pro account',
-    'pro-status'        => 'You have a device with pro tier.',
-    'basic-status'       => 'You are currently on a basic tier.',
+    'title'             => 'User plan',
+    'info'              => 'With a data subscription tier you get more data insights and you support the Telraam community.
+Organisations, cities or organisations are obligued
+    to offer the citizens an account w/ data subscription. If you want to start <a href="{{ url(/) }}/en/network">a network in your neighboorhood</a> get in touch with us
+    at <a href="mailto:info@telraam.net?subject=tier network">info@telraam.net</a>',
+    'has-data-subscription-status'        => 'You have a device with data subscription.',
+    'basic-status'       => 'You are currently on a basic (free) tier for personal use only.',
 
-    'have-license'       => 'You have a license code to upgrade?',
-    'upgrade-to-pro'           => 'Upgrade to Pro (180€/year)',
+    'upgrade-to-pro'           => 'Upgrade (180€/year)',
 
 
 ];
