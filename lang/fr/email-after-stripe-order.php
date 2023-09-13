@@ -8,7 +8,7 @@ return [
 Nous savons que vous voudrez commencer à compter dès que possible, voici donc un bref calendrier pour l\'expédition de votre Telraam.  <br>
 <br>
 
-Nous transmettons vos coordonnées à notre partenaire d\'expédition le jour même, et l\'envoi est généralement effectué le jour suivant à partir de Louvain, en Belgique. En fonction du pays où vous avez passé votre commande, votre colis Telraam peut mettre de quelques jours (pour les pays de l\'UE) à deux semaines (en dehors de l\'UE) pour arriver dans le pays de destination.<br>
+Nous travaillons avec un partenaire local qui expédie actuellement toutes les deux semaines les commandes en ligne de la période écoulée. Selon le pays depuis lequel vous avez commandé, votre colis Telraam peut mettre de quelques jours (pour les pays de l\'UE) à deux semaines (en dehors de l\'UE) pour atteindre le pays de destination.<br>
 <br>
 Une fois que votre Telraam est expédié, vos coordonnées sont enregistrées dans le système de suivi et de traçabilité de notre transporteur local BPost. Vous devriez alors recevoir des mises à jour sur l\'état d\'avancement de votre commande par e-mail (veuillez vérifier votre dossier spam).<br>
 <br>

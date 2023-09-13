@@ -7,7 +7,7 @@ return [
 We begrijpen dat je zo snel mogelijk wil starten met verkeer tellen, daarom vind je hierbij een korte tijdslijn voor de verzending van jouw Telraam-pakket. <br>
 <br>
 
-We geven uw bestelling vandaag nog door aan onze verzendpartner, doorgaans worden pakketjes de volgende dag vanuit Leuven, België verstuurd. Afhankelijk vanuit welk land je de bestelling hebt geplaatst, kan jouw Telraam pakket tussen de paar dagen (voor EU-landen) tot twee weken (buiten de EU), onderweg zijn om het land van de eindbestemming te bereiken. <br>
+We werken met een lokale verzendpartner, die momenteel elke twee weken de online bestellingen van de afgelopen periode verstuurt. Afhankelijk van het land waar je hebt besteld, kan het enkele dagen (voor EU-landen) tot twee weken (buiten de EU) duren voordat je Telraam-pakket het land van bestemming bereikt. <br>
 <br>
 Op het moment dat jouw Telraam wordt verzonden, voegen we jouw gegevens toe aan het track & trace systeem van onze lokale koerier BPost. Vanaf dan ontvang je via mail updates over de status van je verzending (check zeker ook je Spam). <br>
 <br>
