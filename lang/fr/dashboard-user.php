@@ -18,12 +18,8 @@ return [
 petite échelle. <a href=https://telraam.net/fr/governments target=_blank>Plus d'infos</a>",
 
     'som-gotron-title'      => 'Commander un Telraam en ligne',
-    'som-gotron-text'       => "Je veux commander un Telraam à <a href=https://www.gotron.be/telraampakket-pre-installed-version-voorafgemonteerd-en-flashed-sd-kaart.html target=blank>GoTron</a>",
-    'som-gotron-order-link' => "https://www.gotron.be/telraampakket-pre-installed-version-voorafgemonteerd-en-flashed-sd-kaart.html",
-
-    'som-gotron-ass-title' => 'Commander un Telraam DIY en ligne',
-    'som-gotron-ass-text'  => "Je veux commander un Telraam (version DIY) à <a href=https://www.gotron.be/je-wil-graag-weten-hoeveel-en-welk-verkeer-er-door-je-straat-komt.html target=_blank>GoTron</a>. N'hésitez pas à lire
-<a href=setup/info-assembly/ target=_blank>les instructions de montage</a> d'abord.",
+    'som-gotron-text'       => "Je veux commander un Telraam à <a href=https://telraam.net/fr/shop target=blank>le shop de Telraam</a>",
+    'som-gotron-order-link' => "https://telraam.net/fr/shop",
 
     /* de l'étape de paramétrage 1 avec quelques mises à jour */
     'selection-selected' => "Bienvenue à l'enregistrement Telraam! Félicitations, vous avez été sélectionné. Vous avez votre Telraam ou vous le recevrez bientôt",

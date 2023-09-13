@@ -20,13 +20,9 @@ return [
     'som-default-text' => 'Moedig uw lokale en regionale overheden aan om een kleinschalig telnetwerk uit te rollen. <a href="https://telraam.net/en/governments" target="blank">Meer info</a>',
 
     'som-gotron-title' => 'Bestel een Telraam online',
-    'som-gotron-text' => 'Ik wil het Telraam-apparaat bestellen bij <a href="https://www.gotron.be/telraampakket-pre-installed-version-voorafgemonteerd-en-flashed-sd-kaart.html" target="blanco">GoTron</a>',
-    'som-gotron-order-link' => 'https://www.gotron.be/telraampakket-pre-installed-version-voorafgemonteerd-en-flashed-sd-kaart.html',
+    'som-gotron-text' => 'Ik wil het Telraam-apparaat bestellen bij <a href="https://telraam.net/nl/shop" target="blanco">de Telraam shop</a>',
+    'som-gotron-order-link' => 'https://telraam.net/nl/shop',
 
-    'som-gotron-ass-title' => 'Bestel een Telraam DIY online',
-    'som-gotron-ass-tekst' => 'Ik wil een Telraam (doe-het-zelf-versie) bestellen op
-<a href="https://www.gotron.be/je-wil-graag-weten-hoeveel-en-welk-verkeer-er-door-je-straat-komt.html" target="blank">GoTron</a>. Voel je vrij om te lezen naar
-<a href="setup/info-assemblage/" target="_blank">de montagehandleiding</a> eerst door.',
 
      /* van instelling stap 1 met enkele updates*/
     'selection-selected' => 'Welkom bij de Telraam registratie! Gefeliciteerd, u bent geselecteerd. U heeft reeds uw toestel of ontvangt het binnenkort.',
