@@ -54,8 +54,8 @@ human-focused, multimodal traffic culture. </p>',
     'role-wouter'   => 'Project & business development manager',
     'sentence-wouter'    => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis at metus cursus dapibus. Aenean ut tellus mattis, vehicula dolor fringilla.',
 
-    'role-rob'      => 'UK & US, Community manager and sales',
-    'sentence-rob'    => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis at metus cursus dapibus. Aenean ut tellus mattis, vehicula dolor fringilla.',
+    'role-rob'      => 'Community success manager',
+    'sentence-rob'    => 'Community-driven communicator, trying to make change happen by bringing people together. Has plenty of wine stories, and outside of work is usually found in the garden, working on bonsai trees.',
 
     'role-laurens'  => 'Workhop-hero and sales',
     'sentence-laurens'    => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis at metus cursus dapibus. Aenean ut tellus mattis, vehicula dolor fringilla.',
