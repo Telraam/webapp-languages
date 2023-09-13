@@ -75,8 +75,8 @@ return [
 
     // the 4 data sections
     'features-1-title' => 'Segments',
-    'features-1-text' => 'Monitor live or historical traffic (and the overall modal split) on a segment and compare it to the expected levels to identify atypical traffic. For example: if the live traffic is outside
-    of the interval that is defined by the average plus and minus three times the standard deviation of the histroical traffic, that means that the observed traffic
+    'features-1-text' => 'Monitor live or historical traffic (and the overall modal split) on a segment and compare it to the expected levels to identify atypical traffic.<br> For example: if the live traffic is outside
+    of the interval that is defined by the average plus and minus three times the standard deviation of the histrorical traffic, that means that the observed traffic
     is unexpected compared to the average of the past month, season, or year, depending on the used typical data product. Is the anomaly short lived or long-term,
     is it caused by a special event, weather, or a change in the circulation plan? Go and explore!',
 

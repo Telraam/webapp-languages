@@ -31,13 +31,13 @@ return [
                 for that street.<br>
                 <br>
                 This same information is available to the device owner, who will also receive a monthly report via email, and will have the ability to export their data in a spreadsheet so they can do some further analysis.
-                Additional data, insights, reports and exports are available via our data package.',
+                Additional data, insights, reports and exports are available via our <a href="/en/data-subscription">paying data subscription</a>.',
 
 
     'section-2-title' => 'What makes free different from a data subscription?',
     'section-2-text' => 'In both cases, the Telraam device hardware is the same.<br><br>
                 When you purchase the device with a data subscription, we are including a subscription to full package that takes full advantage of the capabilities of the Telraam S2 device, and covers the cost of data communications, additional dashboards and reports.
-                When you purchase a Personal device, you get the standard data and reports mentioned above but you are not paying for the data communications.',
+                Aersonal device comes with at a minimum with the standard data and reports mentioned above but you are not paying for the data communications.',
 
     'section-3-title' => 'Who is the free option intended for?',
     'section-3-text' => ' While Telraam sets up networks of devices, both large and small, to gather
@@ -51,7 +51,7 @@ return [
                 to use for your own projects.<br><br>
                 Because of this subsidy and support, this is strictly for individual, private citizens. If you are
                 an organisation involved in campaigning on, consulting for, or managing local transport and mobility
-                 projects, then please check out our ‘Professionals’ packages.'
+                 projects, then please check out our <a href="/en/network">‘Network’ package</a>.'
 
 
 ];
