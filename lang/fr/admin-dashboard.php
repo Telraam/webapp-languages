@@ -5,7 +5,7 @@ return [
     'title'                     => 'Tableau de bord',
     'setup-first'               => 'Veuillez d’abord parcourir le procédure d’installation',
     'overview'                  => 'Aperçu des 7 derniers jours',
-    'overview-current'          => 'Dernière heure mesurée et statut actuel',
+    'overview-current'          => 'Statut actuel',
     'data'                      => 'Données',
 
     'no-data'                   => 'Pas de données disponible pour l’instant',

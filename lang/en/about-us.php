@@ -49,7 +49,8 @@ human-focused, multimodal traffic culture. </p>',
     'sentence-carl'    => 'Carl is an industrial engineer with a master\'s degree. He combines his expertise with a passion for Lierse and playing music as the bassist in a power metal band.',
 
     'role-elke'     => 'Support, documentation and processes',
-    'sentence-elke'    => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis at metus cursus dapibus. Aenean ut tellus mattis, vehicula dolor fringilla.',
+    'sentence-elke'    => 'Introducing Elke Verhoeven, Telraam\'s organizational guru, mastering support, operations, and a splash of product management.
+     Off-duty, she\'s a water-loving enthusiast, sailing, supping, and swimming her way through life! 🌊🚤🌼',
 
     'role-wouter'   => 'Project & business development manager',
     'sentence-wouter'    => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis at metus cursus dapibus. Aenean ut tellus mattis, vehicula dolor fringilla.',

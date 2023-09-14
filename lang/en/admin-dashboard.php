@@ -5,7 +5,7 @@ return [
     'title'                     => 'Dashboard',
     'setup-first'               => 'You have to complete the installation procedure.',
     'overview'                  => 'Overview - last 7 days',
-    'overview-current'          => 'Last measured hour and current status',
+    'overview-current'          => 'Current status',
     'data'                      => 'Data',
 
     'no-data'                   => 'No data available yet',

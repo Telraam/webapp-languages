@@ -5,7 +5,7 @@ return [
     'title'                     => 'Dashboard',
     'setup-first'               => 'Je dient de installatieprocedure nog te doorlopen.',
     'overview'                  => 'Overzicht laatste 7 dagen',
-    'overview-current'          => 'Laatst gemeten uur en actuele status',
+    'overview-current'          => 'Actuele status',
     'data'                      => 'Tellingen',
 
     'no-data'                   => 'Nog geen gegevens beschikbaar',
