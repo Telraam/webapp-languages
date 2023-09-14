@@ -46,7 +46,7 @@ human-focused, multimodal traffic culture. </p>',
     After work he is a road cyclist, a private pilot, or a bass player.',
 
     'role-carl'     => 'Backend infrastruction and development',
-    'sentence-carl'    => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis at metus cursus dapibus. Aenean ut tellus mattis, vehicula dolor fringilla.',
+    'sentence-carl'    => 'Carl is an industrial engineer with a master\'s degree. He combines his expertise with a passion for Lierse and playing music as the bassist in a power metal band.',
 
     'role-elke'     => 'Support, documentation and processes',
     'sentence-elke'    => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis at metus cursus dapibus. Aenean ut tellus mattis, vehicula dolor fringilla.',
