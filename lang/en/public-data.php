@@ -45,7 +45,7 @@ return [
     Traffic counts per direction of travel for 10 different road user classes (non-subscriber users are
     provided aggregated counts over the four main classes).<br>
     The differentiated classes are bicycles, buses, cars, light trucks, motorcycles, pedestrians, strollers, tractors,
-    trailers, and trucks.
+    trailers, and trucks.    <br>
     <br>
     <strong>Typical traffic data</strong><br>
     Typical traffic is the foundation of many of the analytical tools and data products that we offer to our subscribers.

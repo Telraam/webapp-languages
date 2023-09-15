@@ -53,8 +53,8 @@ human-focused, multimodal traffic culture. </p>',
      Off-duty, she\'s a water-loving enthusiast, sailing, supping, and swimming her way through life! 🌊🚤🌼',
 
     'role-wouter'   => 'Project & business development manager',
-    'sentence-wouter'    => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis at metus cursus dapibus. Aenean ut tellus mattis, vehicula dolor fringilla.',
-
+    'sentence-wouter'    => 'Tries to turn interest & enthusiasm for Telraam into concrete projects and business. Spokesperson and hispanoparlante. Has a barrel of local commitments in Leuven during off-peak hours. Doer above all!',
+    
     'role-rob'      => 'Community success manager',
     'sentence-rob'    => 'Community-driven communicator, trying to make change happen by bringing people together. Has plenty of wine stories, and outside of work is usually found in the garden, working on bonsai trees.',
 
