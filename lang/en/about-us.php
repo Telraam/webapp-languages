@@ -42,8 +42,8 @@ human-focused, multimodal traffic culture. </p>',
     Enjoys art, music and a bit of crazyness. Plays outdoor football till his knees really give it up.',
 
     'role-peter'    => 'Data-analytics and development',
-    'sentence-peter'    => 'Peter has a PhD in Astrophysics (KU Leuven), and 5 years of experience in working with transport related data.
-    After work he is a road cyclist, a private pilot, or a bass player.',
+    'sentence-peter'    => 'Peter has a PhD in Astronomy and Astrophysics (KU Leuven), and 5 years of experience in working with transport related data.
+    After work he is a road cyclist, a private pilot, or a bass player. YNWA!',
 
     'role-carl'     => 'Backend infrastruction and development',
     'sentence-carl'    => 'Carl is an industrial engineer with a master\'s degree. He combines his expertise with a passion for Lierse and playing music as the bassist in a power metal band.',
