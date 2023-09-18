@@ -3,17 +3,17 @@
 return [
 
     'title' => 'Data',
-    'sub-title' => 'Professional applications require advanced data products. Dig deeper with our Telraam data subscription,
+    'sub-title' => 'Professional applications require advanced data products. Dig deeper with the Telraam Data subscription,
     and unlock the full potential of the Telraam S2 device: gain access to segment and device level counts on a finer temporal resolution,
     more modes of traffic, advanced APIs, and a broad set of visualisations and analytic tools.',
 
     // pricing box
     'pricing-1-title' => 'Data subscription <span class="green">€15 <span class="month">/ month</span>',
-    'pricing-1-subtitle' => 'Get the 10 modes, greater detail, and better reports',
+    'pricing-1-subtitle' => 'Includes the 10 road user classes, 15 minute data resolution, more tools, and better reports',
     'pricing-1-info' => '(Multiple) devices in your neighborhood as an organisation or city?
                             <div style="padding-left: 20px">
-                                We\'ll refer you to the <a href="../professionals">Network</a>.
-                                This includes a data subscription for all devices.
+                                Consider the <a href="../professionals">Network</a> instead.
+                                This includes a Data subscription for all devices, and a rich set of network-management tools.
                             </div>',
 
     'pricing-2-title' => 'Basic data <span class="green">Free for personal use only</span>',
@@ -26,8 +26,8 @@ return [
     // info
     'section-1-title' => 'More detail',
     'section-1-text' => '
-   <p>Telraam data subscribers get access to count data that has four times higher temporal
-    resolution compared to our standard dataset, and an extended set of road user
+   <p>Data subscribers get access to count data that has four times higher temporal
+    resolution than our basic dataset, and an extended set of road user
     classes when looking at modal shares. This higher resolution also means a much
     reduced delay which enables professional users to follow live traffic data much more real-time.</p>
     <br>
@@ -67,7 +67,7 @@ return [
     'section-2-intro-text' => 'Benefit from the experience of the team behind Telraam. Get access to a
      range of advanced, purpose-made tools to explore and understand your data, facilitating and accelerating
       your research.<br>
-      The data subscription includes access to the Data dashboard, the Advanced APIs, the Street sheets,
+      The Data subscription includes access to the Data dashboard, the Advanced APIs, the Street sheets,
        and other custom data export options.',
 
     // The 4 feature sections also need a title here: "Data dashboard" (optimally this would have the same weight as the Street sheets, APIs, and RAW data export below it,
@@ -84,8 +84,8 @@ return [
     'features-2-text' => 'Monitor the evolution of traffic trends over time. For example you can visualise
     the average Monday\'s car traffic over the past year, using seasonal (quarterly) averages that were calculated every two weeks,
     providing a rolling average traffic pattern over time. Looking at rolling averages helps to filter out short lived anomalies while bringing
-    long-term changes into the spotlight. While the 3D histogram is a very powerful visualisation tool, if you just want to compare the traffic of a
-    few selected epochs, we provide a traditional interactive 2D plot for that too. With the number of modes, weekdays, typical intervals, and calculation
+    long-term changes into the spotlight. The 3D histogram is a very powerful visualisation tool, but if you just want to compare the traffic levels of a
+    few selected epochs to eachoter, you can use our traditional interactive 2D plot for that. With the number of modes, weekdays, typical intervals, and calculation
     epochs available, the options are very broad.',
 
     'features-3-title' => '15 minute data',
@@ -94,8 +94,8 @@ return [
     are added evey fifteen minutes, which is great for real-time applications.',
 
     'features-4-title' => 'Installations',
-    'features-4-text' => 'It happens that one road segment has more than one Telraam sensor installed. In such case the segment page shows the (smartly weighted)
-    average metrics coming from the corresponding installations (which we refer to as Telraam instances). As a data subscriber you can consult the original data
+    'features-4-text' => 'A road segment may have more than one Telraam sensor installed. In this case the segment page shows the (smartly weighted)
+    average metrics coming from the corresponding installations (also known as Telraam instances). As a Data subscriber you can consult the original data
     of each individual Telraam instance, which can be useful in many situations, including data validation, separating data coming from different sensor versions
     (e.g., Telraam V1 and S2 devices on the same segment), or simply to consult the data of your own device.',
 
@@ -125,17 +125,13 @@ modal splits, typical traffic patterns (for days and weeks), and also speed patt
         <li>Potential for custom integrations and endpoints by agreement or collaboration with the Telraam Team.</li>
     </ul>',
 
-    'extra-features-3-title' => 'RAW data export',
-    'extra-features-3-text' => 'Download RAW count data (in spreadsheets or as CSV files) to carry out more custom analyses.
+    'extra-features-3-title' => 'Raw data export',
+    'extra-features-3-text' => 'Download raw count data (in spreadsheets or as CSV files) to carry out more custom analyses.
     <ul class="jump-in">
         <li>The data export tool allows organisations that do not have large data lakes or BI systems to export,
         repurpose and personalise reports from one or even multiple devices.</li>
 <li>The data exports include charts, calculations, typical values, and raw data from the device.
-<li>Adapt the reports to report items of particular relevance to your street:
-Modal shift patterns
-Speed changes before or after interventions
-Traffic volumes over time
-And more …
+<li>Adapt the reports to include items of particular relevance to your street: modal shift patterns, speed changes before or after interventions, traffic volumes over time, and more.
 </li>
 </ul>',
 
