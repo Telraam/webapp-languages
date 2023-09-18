@@ -17,7 +17,7 @@ return [
     // -> file candidates
 
     // web page  ----
-    'title' => 'Professionals',
+    'title' => 'Build a Network',
     'subtitle' => 'Deploy Telraam at local, municipal or city level with a finely meshed network of Telraam devices hosted by citizens',
 
     // quotes
@@ -41,79 +41,69 @@ return [
 
     // main content
     'section1-block1-title' => 'Reliable measurement with citizens',
-    'section1-block1-text' => 'Traffic counts are essential for a sound mobility policy. Counts that are multimodal, and register cars and heavy vehicles as well as cyclists and pedestrians, are the base of any traffic engineering study. Classic traffic counts are limited today: both in time and in counting modes. In addition, they are often expensive and not very transparent.<br><br>
-    New technology can provide innovative measurement methods without costing a fortune. Telraam has developed high-tech and reliable measuring equipment that quantifies and categorises traffic in a finely-meshed, continuous, multimodal way and in conjunction with citizens.
- Telraam provides the research effort and the appropriate technology and data services, and the citizens count and provide local insight to support it. <br>
- <br>
-We have developed a Telraam solution for local governments and authorities as well as campaign groups. The organisation chooses a programme running for several months (usually 6-12+), then engages citizens to apply, and after screening and selection can start counting.
-Data analysis and support is provided by the Telraam team throughout the process, from start to finish.<br>',
+    'section1-block1-text' => 'Official traffic counts and engineering studies at a local and regional level require the collection of data from multiple locations, and traditionally this has been an expensive and time-consuming process.<br>
+<br>By deploying a number of Telraam devices in an area, this process can be much improved, gathering multi-modal data on a continuous basis by creating a finely meshed network of devices powered by citizen science, increasing the data gathered and reducing the cost.<br>
+<br>Telraam   offer the Network solution for organisations running multiple devices, such as local governments and authorities as well as campaign groups. <br>
+<br>With this tool, the organisation can choose a programme to run for several months (usually 6-12 months or more), engage citizens to apply, and use the dashboard to  screen and select locations so users can start counting. Data analysis and support is provided by the Telraam team throughout the process, from start to finish.',
 
     'section2-small-title' => 'How does it work?',
-    'section2-block1-title' => 'Citizens',
-    'section2-block1-text' => 'Telraam provides a means to actively engage with citizens to deliver traffic counts. Residents are already motivated to discover how much and what kind of traffic passes along through their street and so have a direct personal involvement in local mobility policy. In this way, highly relevant traffic data is collected in a participatory manner that can underpin local policy decisions. <br>
-<br>
-    Citizens who apply and are selected, are guided throughout the entire Telraam project. They learn how to set-up their own fully automatic traffic counter and how to interpret the data and even to communicate about it. They can then collaborate with others, neighbours, local campaign groups, citizen movements and other counters across the world.<br>
-<br>
-    In this way, participating citizens become citizen scientists that make constructive, objective and data-driven contributions to local mobility policy that is also engaging and relevant.',
+    'section2-block1-title' => 'Data for efficient traffic plans',
+    'section2-block1-text' => 'The traffic count data are a valuable basis for traffic and mobility planning and decision-making in a city or municipality. <br>
+    <br>Telraam data can also be used to measure the impact of a planned mobility measure or intervention, supporting and validating policy measures.<br>
+    <br>The data can also be used by researchers, residents and interested parties to validate their demands for changes, helping to make local discussions more constructive.',
 
-    'section2-block2-title' => 'Data for efficient traffic plans',
-    'section2-block2-text' => 'The count data collected are a valuable basis for  traffic and mobility planning and decision-making in a city or municipality. <br>
-    <br>Telraam data can also be used to measure the concrete impact of a planned mobility measure or intervention, supporting and validating policy measures.<br><br>
-    The data can also be used by researchers, residents and interested parties to support a position or choice, helping to make local discussions more constructive.',
+   'section2-block2-title' => 'Engaging Citizens',
+    'section2-block2-text' => 'Telraam provides a means to actively engage with citizens to deliver traffic counts. Residents are already motivated to discover how much and what kind of traffic passes along through their street and so have a direct personal involvement in local mobility policy. In this way, highly relevant traffic data is collected in a participatory manner that can underpin local policy decisions.<br>
+    <br>Citizens who apply and are selected, are guided throughout the entire Telraam project. They learn how to set-up their own fully automatic traffic counter and how to interpret the data and even to communicate about it. They can then collaborate with others, neighbours, local campaign groups, citizen movements and other counters across the world.<br>
+    <br>In this way, participating citizens become citizen scientists that make constructive, objective and data-driven contributions to local mobility policy that is also engaging and relevant.',
 
-    'section2-block3-title' => 'Telraam workshops',
-    'section2-block3-text' => 'After several months of counting, participants are invited to come together again for a Telraam data workshop.<br><br>
-    The traffic data collected by the Telraam devices in the network are explained. In these interactive workshops we conduct collaborative analysis and interpretation, drawing conclusions and formulating proposals in partnership with citizens. In consultation with the network manager and client, certain subjects or solutions can be included or specific measures and traffic situations can be explored.<br>
-    <br>
-    The data workshops focus on capturing the unique knowledge and local context of the citizens who participate. After all, who knows what insights can be gathered from involving those who actually live there?',
 
-    'section2-block4-title' => 'Open data',
-    'section2-block4-text' => 'Open and transparent traffic data are essential for mobility policy.<br><br>
-    Open data also offers the opportunity for other interested parties to add value. Telraam provides the following tools for this:<br>
+    'section2-block3-title' => 'Open data',
+    'section2-block3-text' => 'Open and transparent traffic data are essential for mobility policy that reaches out to the community to build engagement and support.<br>
+    <br>Open data also offers the opportunity for other interested parties to add value. Telraam provides the following tools for this:<br>
 <ul class="text-list">
-    <li>The traffic data collected is made available to the public via the interactive map on the Telraam homepage.</li>
-    <li>The professional Telraam network dashboard allows local authorities to monitor the Telraam devices in their project area, export the data and perform live analysis.</li>
-    <li>Through the Telraam API, anyone can retrieve all traffic data directly, under an open data, non-commercial licence, for use in their own database or existing dashboard. Telraam won the award for "API of the Year" in 2020.</li>
+    <li>The basic traffic data collected is made available to the public via the interactive map on the Telraam homepage.</li>
+    <li>Network owners, and device users, also have additional access to the full, detailed data from their Telraam S2 devices.</li>
+    <li>The Telraam network dashboard allows local authorities to monitor the Telraam devices in their project area, export the data and perform live analysis.</li>
+    <li>Through the Telraam API, anyone can retrieve basic traffic data directly, under an open data, non-commercial licence, for use in their own database or existing dashboard. Telraam won the award for "API of the Year" in 2020.</li>
     </ul>',
     'section2-block4-note' => 'Telraam, API of the year',
 
-    'section3-block1-title' => 'A Telraam network in your city?',
-    'section3-block1-text' => 'A Telraam network in which citizen science conducts the collection of objective, multimodal traffic data is a unique proposition. Through the combination of these different building blocks in a Telraam project and our experience with dozens of Telraam projects for local authorities, we have built the expertise to develop a successful Telraam project for your city or municipality. <br><br>
-    Talk to us about putting together a Telraam project tailored to your municipality and fitting the local policy context. <br><br>
-    If you would like more information or a quotation, visit our <a href="https://staging.telraam.net/en/contact-us">Contact Us page</a>, and we will be pleased to help you.',
+    'section3-block1-title' => 'Want a Telraam network in your city?',
+    'section3-block1-text' => 'Telraam has  experience with dozens of Telraam projects for local authorities in many different countries, and we have built the expertise to develop a successful Telraam project for your city or municipality.<br>
+    <br>Talk to us about putting together a Telraam project tailored to your municipality and fitting the local policy context. <br>
+    <br>If you would like more information or a quotation, visit our <a href="https://staging.telraam.net/en/contact-us">Contact Us page</a>, and we will be pleased to help you.',
 
     // features in focus
-    'features-title' => 'More features',
+    'features-title' => 'Additional features',
     'features-1-title' => 'Network dashboard',
-    'features-1-text' => '<p>Donec semper tempus ligula, nec egestas justo maximus ut. Sed et eros et turpis egestas venenatis. Donec quis massa a leo consequat dictum in ac sem.
-Sed nec dignissim neque. Maecenas mollis cursus nulla, eu fringilla ante volutpat sit amet.</p>
-<p>Aliquam suscipit est et magna lobortis, ut interdum orci pellentesque. Donec feugiat, mauris at euismod sodales, elit purus tincidunt lectus,
-ut elementum odio quam sed augue. Praesent vehicula lectus id erat finibus imperdiet. Nullam mollis lorem ut orci tristique,
-ac aliquam erat vehicula. Donec consectetur nec dui at tempor.</p>',
+    'features-1-text' => '<p>Access your data and user information through the Network dashboard, exclusive to administrators of a Telraam network.</p>
+    <p>The Telraam network dashboard includes all the tools required to create and maintain your network, including communication tools as well as reporting. It also gives you at-a-glance summaries of active devices on a map, and a notification stream of any activity or warnings on participating devices</p>',
 
     'features-2-title' => 'Manage network settings',
-    'features-2-text' => '<p>Donec semper tempus ligula, nec egestas justo maximus ut. Sed et eros et turpis egestas venenatis. Donec quis massa a leo consequat dictum in ac sem.
-Sed nec dignissim neque. Maecenas mollis cursus nulla, eu fringilla ante volutpat sit amet.</p>
-<p>Aliquam suscipit est et magna lobortis, ut interdum orci pellentesque. Donec feugiat, mauris at euismod sodales, elit purus tincidunt lectus,
-ut elementum odio quam sed augue. Praesent vehicula lectus id erat finibus imperdiet. Nullam mollis lorem ut orci tristique,
-ac aliquam erat vehicula. Donec consectetur nec dui at tempor.</p>',
+    'features-2-text' => '<p>Personalise and maintain your network, with content management tools for text and branding opportunities. You can also maintain the timeline of the network to recruit users, or close applications, and to inform all interested parties about the progress of the project.</p>
+    <p>You can decide whether and when to make the content public, or keep it restricted to a select group. You can also create multiple ‘tracks’ to segment your data gathering by time or by location.</p>
+    <p>Provide support and improve data collection through remote management of devices to diagnose and fix issues, and get support from the Telraam team</p>',
 
-    'features-3-title' => 'Recruiting tools',
-    'features-3-text' => '<p>Donec semper tempus ligula, nec egestas justo maximus ut. Sed et eros et turpis egestas venenatis. Donec quis massa a leo consequat dictum in ac sem.
-Sed nec dignissim neque. Maecenas mollis cursus nulla, eu fringilla ante volutpat sit amet.
-<p>Aliquam suscipit est et magna lobortis, ut interdum orci pellentesque. Donec feugiat, mauris at euismod sodales, elit purus tincidunt lectus,
-ut elementum odio quam sed augue. Praesent vehicula lectus id erat finibus imperdiet. Nullam mollis lorem ut orci tristique,
-ac aliquam erat vehicula. Donec consectetur nec dui at tempor.</p>',
+    'features-3-title' => 'Recruitment tools',
+    'features-3-text' => '<p>Your network requires the participation of citizens. Recruit, select and engage them through the Telraam network dashboard to build a long-term data gathering solution.</p>
+    <ul class="text-list">
+    <li>Define the data you collect from candidates through the form. </li>
+    <li>Review all candidates’ according to their physical location and the quality of their view of street segments. </li>
+    <li>Grade applications for future review and selection or waitlist them.</li>
+    <li>Personalise your email correspondence for automated or ad-hoc communications via the dashboard</li>
+    </ul>
+    </p>',
 
     // features simple list
-    'extra-features-1' => 'Personal dashboard',
-    'extra-features-2' => 'Manage network settings',
-    'extra-features-3' => ' Selection of candidates',
-    'extra-features-4' => ' Automated emails',
+    'extra-features-1' => 'Network dashboard',
+    'extra-features-2' => 'Manage network branding & content',
+    'extra-features-3' => 'Candidate recruitment & selection',
+    'extra-features-4' => 'Automated emails & templates',
 
-    'extra-features-5' => 'Basic analytics tools',
-    'extra-features-6' => 'Advanced analytics tools',
-    'extra-features-7' =>  'Branding options',
+    'extra-features-5' => 'Basic analytics summaries',
+    'extra-features-6' => 'Advanced analytics for analysis',
+    'extra-features-7' => 'Device management',
     'extra-features-8' => 'Multiple tracks',
 
     'extra-features-9' => 'Advanced API Access',
