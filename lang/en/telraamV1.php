@@ -31,17 +31,20 @@ of the summer, then a basic back-end and front-end were built from scratch, with
 in Leuven during early 2019. By the time the Telraam S2 was launched in 2023, more than 5000 Telraam V1 devices had been sold
  around the world.</p>',
 
-    'section1-text-extra'        => 'Having launched the Telraam S2 in spring 2023, Telraam no long sells the V1 kit, but if
-    you wish to build your own device from the instructions below, it can still be connected to our network.',
+    'section1-text-extra'        => 'Because most of our users just want to count traffic and aren\'t necessarily technically skilled 
+    to work with Raspberry Pi\'s, we only sell the Telraam S2 since its release in spring 2023. However, we know that there are plenty of techies 
+    out there who would love to get started, and for them the Raspberry Pi based V1 sensors is still a great tool to play with. 
+    That is why we are not only still supporting the old V1 sensors in the field, but also installations of new self-built Telraam V1 devices. 
+    If you want to count traffic and you’re not scared of a Raspberry Pi project, read on!',
 
     'section2-title'        => 'DIY/ What is required for a Telraam V1?',
     'section2-text'        => 'The kit required for a Telraam V1 consists of the following components (please note the specific models required):<br>
             <ul class="jump-in">
                 <li>Raspberry Pi 3A+</li>
                 <li>Raspberry Pi Camera Module 2</li>
-                <li>3D-printed camera bracket (you can still buy our custom-made and 3D printed
-                camera brackets in our <a href="https://buy.stripe.com/4gw4jXeOv3G8ePucMP">
-                shop</a>)</li>
+                <li>Camera mount (you can buy any available RPI camera holder, but we have also made a 3D-printed bracket ourselves, that you can still buy in our <a href="https://buy.stripe.com/4gw4jXeOv3G8ePucMP">
+                shop</a>, or you can print it yourself using the files on <a href="https://github.com/Telraam/camera-mount">
+                GitHub</a>)</li>
                 <li>16 GB SD card with the Telraam image flashed (you can find
                 <a href="https://github.com/Telraam/Telraam-RPi">the software on GitHub here</a>)</li>
                 <li>Power adapter</li>
