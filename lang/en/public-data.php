@@ -32,6 +32,7 @@ return [
     reduced delay which enables professional users to follow live traffic data much more real-time.</p>
     <br>
     <strong>15 minute resolution</strong><br>
+    <br>
     15 minute temporal resolution for all data products, including count data, typical trend data, and for all analytic,
     visualisation, and export tools and APIs.
     <ul class="jump-in">
@@ -42,12 +43,14 @@ return [
     </ul>',
 
     'section-1-block2' => '<p><strong>10 different modes</strong><br>
+    <br>
     Traffic counts per direction of travel for 10 different road user classes (non-subscriber users are
     provided aggregated counts over the four main classes).<br>
     The differentiated classes are bicycles, buses, cars, light trucks, motorcycles, pedestrians, strollers, tractors,
     trailers, and trucks.</p>
     <br>
     <strong>Typical traffic data</strong><br>
+    <br>
     Typical traffic is the foundation of many of the analytical tools and data products that we offer to our subscribers.
     As an example, typicala data includes the typical (average) counts (and the most likely range) for the expected car traffic for a Monday morning
     between 08:00 and 08:15 based on the last 12 months\' actual traffic - but you can choose a different mode, day of week, time of day, and baseline
