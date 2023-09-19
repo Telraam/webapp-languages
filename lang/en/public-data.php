@@ -68,10 +68,10 @@ return [
       The Data subscription includes access to the Data dashboard, the Advanced APIs, the Street sheets,
        and other custom data export options.',
 
-    // The 4 feature sections also need a title here: "Data dashboard" (optimally this would have the same weight as the Street sheets, APIs, and RAW data export below it,
-    // since these are the referred to topics from section-2-intro-text, then change the colour of the Segments/Trends/15 minute data/Installations) to green, and maybe smallcaps style.
 
     // the 4 data sections
+    'features-title' => 'Data dashboard',
+
     'features-1-title' => 'Segments',
     'features-1-text' => 'Monitor live or historical traffic (and the overall modal split) on a segment and compare it to the expected levels to identify atypical traffic.<br> For example: if the live traffic is outside
     of the interval that is defined by the average plus and minus three times the standard deviation of the histrorical traffic, that means that the observed traffic
