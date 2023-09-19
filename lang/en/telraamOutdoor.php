@@ -3,6 +3,7 @@
 return [
 
     'title'           => 'Telraam Outdoor',
+    'nav-title'         => 'Outdoor',
 
     'subtitle'          => 'Fully autonomous Telraam S2 for outdoor deployment',
 

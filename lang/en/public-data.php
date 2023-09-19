@@ -65,6 +65,7 @@ return [
     'section-2-intro-text' => 'Benefit from the experience of the team behind Telraam. Get access to a
      range of advanced, purpose-made tools to explore and understand your data, facilitating and accelerating
       your research.<br>
+      <br>
       The Data subscription includes access to the Data dashboard, the Advanced APIs, the Street sheets,
        and other custom data export options.',
 
