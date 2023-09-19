@@ -25,13 +25,12 @@ return [
 
     // info
     'section-1-title' => 'More detail',
-    'section-1-block1' => '
-   <p>Data subscribers get access to count data that has four times higher temporal
+    'section-1-intro' => 'Data subscribers get access to count data that has four times higher temporal
     resolution than our basic dataset, and an extended set of road user
     classes when looking at modal shares. This higher resolution also means a much
-    reduced delay which enables professional users to follow live traffic data much more real-time.</p>
-    <br>
-    <strong>15 minute resolution</strong><br>
+    reduced delay which enables professional users to follow live traffic data much more real-time.',
+    
+    'section-1-block1' => '<strong>15 minute resolution</strong><br>
     <br>
     15 minute temporal resolution for all data products, including count data, typical trend data, and for all analytic,
     visualisation, and export tools and APIs.
@@ -40,15 +39,18 @@ return [
         <li>Ideal for studying short-lived events (school-street usage, congestions, accidents).</li>
         <li>Live traffic with a much more real-time display (delay of only 15 minutes on device level, compared to a bit
         over an hour for non-subscriber users with only segment level data).</li>
-    </ul>',
+    </ul>
+    <br>
+    <p><strong>10 different modes</strong><br>
+     <br>
+     Traffic counts per direction of travel for 10 different road user classes (non-subscriber users are
+     provided aggregated counts over the four main classes).<br>
+     The differentiated classes are bicycles, buses, cars, light trucks, motorcycles, pedestrians, strollers, tractors,
+     trailers, and trucks.</p>
+     <br>
+    ',
 
-    'section-1-block2' => '<p><strong>10 different modes</strong><br>
-    <br>
-    Traffic counts per direction of travel for 10 different road user classes (non-subscriber users are
-    provided aggregated counts over the four main classes).<br>
-    The differentiated classes are bicycles, buses, cars, light trucks, motorcycles, pedestrians, strollers, tractors,
-    trailers, and trucks.</p>
-    <br>
+    'section-1-block2' => '
     <strong>Typical traffic data</strong><br>
     <br>
     Typical traffic is the foundation of many of the analytical tools and data products that we offer to our subscribers.
