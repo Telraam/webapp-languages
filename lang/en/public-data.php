@@ -25,7 +25,7 @@ return [
 
     // info
     'section-1-title' => 'More detail',
-    'section-1-text' => '
+    'section-1-block1' => '
    <p>Data subscribers get access to count data that has four times higher temporal
     resolution than our basic dataset, and an extended set of road user
     classes when looking at modal shares. This higher resolution also means a much
@@ -39,13 +39,13 @@ return [
         <li>Ideal for studying short-lived events (school-street usage, congestions, accidents).</li>
         <li>Live traffic with a much more real-time display (delay of only 15 minutes on device level, compared to a bit
         over an hour for non-subscriber users with only segment level data).</li>
-    </ul>
-    <br>
-    <strong>10 different modes</strong><br>
+    </ul>',
+
+    'section-1-block2' => '<p><strong>10 different modes</strong><br>
     Traffic counts per direction of travel for 10 different road user classes (non-subscriber users are
     provided aggregated counts over the four main classes).<br>
     The differentiated classes are bicycles, buses, cars, light trucks, motorcycles, pedestrians, strollers, tractors,
-    trailers, and trucks.    <br>
+    trailers, and trucks.</p>
     <br>
     <strong>Typical traffic data</strong><br>
     Typical traffic is the foundation of many of the analytical tools and data products that we offer to our subscribers.
@@ -58,9 +58,7 @@ return [
         <li>Each typical product is calculated at regular intervals to provide a continuously growing set of historical
         averages corresponding to various epochs. The data is made available on a quarterly and hourly resolution,
         for each mode, down to each day of the week (including a more general weekday and weekend option too).</li>
-    </ul>
-
-',
+    </ul>',
 
     'section-2-title' => 'More tools, better insights, and complete control',
 
