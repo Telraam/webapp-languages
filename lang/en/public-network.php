@@ -20,24 +20,7 @@ return [
     'title' => 'Build a Network',
     'subtitle' => 'Deploy Telraam at local, municipal or city level with a finely meshed network of Telraam devices hosted by citizens',
 
-    // quotes
-    'testimonials' => 'Testimonials',
 
-    'quote1' => 'The city council of Kortrijk wants to take more data-driven decisions. We already do this with our own measuring equipment, but with innovative techniques, such as Telraam, we can measure for a long time in several locations at the same time.',
-    'quote1-author' => 'Lotte Demeestere',
-    'quote1-function' => 'Mobility expert for the city Kortrijk',
-
-    'quote2' => 'By analysing the V85 standard, we get an indication of the best time to use the device for speed checks. Speed checks is best used to achieve maximum effect with a view to changing the behaviour of road users.',
-    'quote2-author' => 'David Tailleur',
-    'quote2-function' => 'Teamcoach neighbourhood Police Lubbeek',
-
-    'quote3' => 'Telraam provides not only insights through data but also understanding through interaction with residents, local and provincial government.',
-    'quote3-author' => 'Eric van Dijk',
-    'quote3-function' => 'Beleidsmedewerker smart mobility, Province of Utrecht',
-
-    'quote4' => 'Telraam gives citizens the traffic data they need to amplify their voice, ensuring that decision-makers listen to their concerns and the conversations can move beyond subjective and anecdotal evidence.',
-    'quote4-author' => 'Professor Enda Hayes',
-    'quote4-function' => 'University of the West of England',
 
     // main content
     'section1-block1-title' => 'Reliable measurement with citizens',
@@ -69,10 +52,6 @@ return [
     </ul>',
     'section2-block4-note' => 'Telraam, API of the year',
 
-    'section3-block1-title' => 'Want a Telraam network in your city?',
-    'section3-block1-text' => 'Telraam has  experience with dozens of Telraam projects for local authorities in many different countries, and we have built the expertise to develop a successful Telraam project for your city or municipality.<br>
-    <br>Talk to us about putting together a Telraam project tailored to your municipality and fitting the local policy context. <br>
-    <br>If you would like more information or a quotation, visit our <a href="https://staging.telraam.net/en/contact-us">Contact Us page</a>, and we will be pleased to help you.',
 
     // features in focus
     'features-title' => 'Additional features',
@@ -83,7 +62,7 @@ return [
     'features-2-title' => 'Manage network settings',
     'features-2-text' => '<p>Personalise and maintain your network, with content management tools for text and branding opportunities. You can also maintain the timeline of the network to recruit users, or close applications, and to inform all interested parties about the progress of the project.</p>
     <p>You can decide whether and when to make the content public, or keep it restricted to a select group. You can also create multiple ‘tracks’ to segment your data gathering by time or by location.</p>
-    <p>Provide support and improve data collection through remote management of devices to diagnose and fix issues, and get support from the Telraam team</p>',
+    <p>Provide support and improve data collection through remote management of devices to diagnose and fix issues, and get support from the Telraam team.</p>',
 
     'features-3-title' => 'Recruitment tools',
     'features-3-text' => '<p>Your network requires the participation of citizens. Recruit, select and engage them through the Telraam network dashboard to build a long-term data gathering solution.</p>
@@ -110,6 +89,32 @@ return [
     'extra-features-10' => 'Peer-to-peer support',
     'extra-features-11' => 'Priority mail supports',
     'extra-features-12' => 'Training sessions',
+
+    // quotes
+    'testimonials' => 'Testimonials',
+
+    'quote1' => 'The city council of Kortrijk wants to take more data-driven decisions. We already do this with our own measuring equipment, but with innovative techniques, such as Telraam, we can measure for a long time in several locations at the same time.',
+    'quote1-author' => 'Lotte Demeestere',
+    'quote1-function' => 'Mobility expert for the city Kortrijk',
+
+    'quote2' => 'By analysing the V85 standard, we get an indication of the best time to use the device for speed checks. Speed checks is best used to achieve maximum effect with a view to changing the behaviour of road users.',
+    'quote2-author' => 'David Tailleur',
+    'quote2-function' => 'Teamcoach neighbourhood Police Lubbeek',
+
+    'quote3' => 'Telraam provides not only insights through data but also understanding through interaction with residents, local and provincial government.',
+    'quote3-author' => 'Eric van Dijk',
+    'quote3-function' => 'Beleidsmedewerker smart mobility, Province of Utrecht',
+
+    'quote4' => 'Telraam gives citizens the traffic data they need to amplify their voice, ensuring that decision-makers listen to their concerns and the conversations can move beyond subjective and anecdotal evidence.',
+    'quote4-author' => 'Professor Enda Hayes',
+    'quote4-function' => 'University of the West of England',
+
+    // final
+    'section4-block1-title' => 'Want a Telraam network in your city?',
+    'section4-block1-text' => 'Telraam has  experience with dozens of Telraam projects for local authorities in many different countries, and we have built the expertise to develop a successful Telraam project for your city or municipality.<br>
+    <br>Talk to us about putting together a Telraam project tailored to your municipality and fitting the local policy context. <br>
+    <br>If you would like more information or a quotation, visit our <a href="https://staging.telraam.net/en/contact-us">Contact Us page</a>, and we will be pleased to help you.',
+
 
 ];
 
