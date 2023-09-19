@@ -44,7 +44,7 @@ reach out to us <a href=mailto:support@telraam.net?body=coverage class="grey">vi
 
 
  //   'product-1-title' => 'Telraam S2 - Professional',
-    'product-1-title' => 'The Pionieer',
+    'product-1-title' => 'The Pioneer',
     'product-1-description' => 'One Telraam S2 with a 12 month Data subscription',
     'product-1-price' => '€340',
     'product-1-note' => 'excl. VAT',
