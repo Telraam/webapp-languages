@@ -4,6 +4,10 @@ return [
 
     'title'           => 'Shop',
 
+    'general-intro'           => 'Telraam packages consist of a Telraam device, and a Data or Network subscription. We provide a selection 
+    of pre-assembled packages ready to be purchased below, or you can assemble your own custom-made package from these ingredients and ask 
+    for a personal quote.',
+
     // pricing simple
     'device-title'        => 'Device',
     'data-title'          => 'Data',
