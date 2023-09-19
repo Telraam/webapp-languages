@@ -27,8 +27,8 @@ return [
     'pack-custom-number' => '50+ devices',
 
     'per-device' => 'Per device',
-    'incl-vat' => '(incl VAT)',
-    'excl-vat' => '(ex VAT)',
+    'incl-vat' => '(incl. VAT)',
+    'excl-vat' => '(excl. VAT)',
     'one-time-hardware' => 'One time hardware cost',
     'month' => 'month',
     'subscription' => 'Subscription',
