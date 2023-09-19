@@ -14,7 +14,9 @@ While we believe that the Telraam S2 offers better accuracy, precision, and an i
  we will keep supporting Telraam V1 devices over the coming years.</p>',
 
 
-    'section1-title'        => 'History, An origin(al) story',
+    'section1-title'        => 'History',
+    'section1-subtitle'     => 'An origin(al) story',
+
     'section1-text'        => '<p>During the summer of 2018 a mix of transport engineers, data scientists, and developers sat
 together at <a href="https://www.tmleuven.be/" target="_blank">TML</a>
  to come up with a method that could provide traffic data on a previously unprecedented local scale, operating continuously
@@ -37,7 +39,8 @@ in Leuven during early 2019. By the time the Telraam S2 was launched in 2023, mo
     That is why we are not only still supporting the old V1 sensors in the field, but also installations of new self-built Telraam V1 devices. 
     If you want to count traffic and you’re not scared of a Raspberry Pi project, read on!',
 
-    'section2-title'        => 'DIY/ What is required for a Telraam V1?',
+    'section2-title'        => 'DIY',
+    'section2-subtitle'     => 'What is required for a Telraam V1?',
     'section2-text'        => 'The kit required for a Telraam V1 consists of the following components (please note the specific models required):<br>
             <ul class="jump-in">
                 <li>Raspberry Pi 3A+</li>
@@ -60,7 +63,9 @@ in Leuven during early 2019. By the time the Telraam S2 was launched in 2023, mo
     these specific components and may not work with a different configuration, so please make sure you source the correct hardware.</b> Some community efforts
     have been made to set up V1 devices using different RPi versions (see entries on our GitHub), but we are unable to provide support for such endevours.',
 
-    'section3-title'        => 'What & How Telraam counts',
+    'section3-title'        => 'Telraam V1 FAQ',
+    'section3-subtitle'     => 'What and how does Telraam V1 count?',
+
     'section3-text'        => 'Telraam V1 uses computer vision (OpenCV) to detect objects in front of a constant (periodically
      recalculated median) background. Objects are detected in real time on each low-resolution frame that is sent by the camera.
      Some basic parameters (such as position in the frame, width, height, area, etc.) of the objects\' contours are stored in
