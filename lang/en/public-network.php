@@ -20,6 +20,11 @@ return [
     'title' => 'Build a Network',
     'subtitle' => 'Deploy Telraam at local, municipal or city level with a finely meshed network of Telraam devices hosted by citizens',
 
+    // pricing
+    'month' => 'month',
+    'per-active-device' => 'per active device',
+    'pricing-box-line1' => 'Advanced reports and tools to manage your fleet and streamline your citizen recruitment',
+    'pricing-box-line2' => 'Includes a data subscription for every device',
 
 
     // main content
@@ -39,7 +44,6 @@ return [
     'section2-block2-text' => 'Telraam provides a means to actively engage with citizens to deliver traffic counts. Residents are already motivated to discover how much and what kind of traffic passes along through their street and so have a direct personal involvement in local mobility policy. In this way, highly relevant traffic data is collected in a participatory manner that can underpin local policy decisions.<br>
     <br>Citizens who apply and are selected, are guided throughout the entire Telraam project. They learn how to set-up their own fully automatic traffic counter and how to interpret the data and even to communicate about it. They can then collaborate with others, neighbours, local campaign groups, citizen movements and other counters across the world.<br>
     <br>In this way, participating citizens become citizen scientists that make constructive, objective and data-driven contributions to local mobility policy that is also engaging and relevant.',
-
 
     'section2-block3-title' => 'Open data',
     'section2-block3-text' => 'Open and transparent traffic data are essential for mobility policy that reaches out to the community to build engagement and support.<br>
