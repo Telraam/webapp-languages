@@ -10,7 +10,7 @@ return [
 is blocked by that damn tree? Obviously, you don\'t want to cut down the tree, but you do want to count traffic, so for you,
 it\'d be best to have a Telraam actually outside, maybe attached to the tree.</p>
 
-<pYou\'re not the only one and we\'ve heard your call. To address this need, we have embarked on a new development journey to
+<p>You\'re not the only one and we\'ve heard your call. To address this need, we have embarked on a new development journey to
 develop an autonomous Telraam S2 device which you can install outdoors. We want to keep the simplicity of installation, so
  don\'t mess with power cables or wifi connections, so our approach is to fit our existing S2 device in a safe enclosure
  and combine it with a small solar panel and internal battery. Because our device consumes very little power, we expect to get
