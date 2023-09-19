@@ -39,7 +39,7 @@ return [
     'warning-body-1' => '<strong>The Telraam S2 device needs a clear view of the street.</strong>
 Review the <a href="https://telraam.helpspace-docs.io/article/3/requirements-for-the-installation-of-a-telraam-in-my-window" target="_blank" class="grey">requirements for the window placement</a>
     of your device(s).',
-    'warning-body-2' => '<strong>We rely on cellular data-transfer via LTE-M or NB-IoT networks.</strong>. Check operator coverage maps for your area/country if you are unsure, or
+    'warning-body-2' => '<strong>We rely on cellular data-transfer via LTE-M or NB-IoT networks.</strong> Check operator coverage maps for your area/country if you are unsure, or
 reach out to us <a href=mailto:support@telraam.net?body=coverage class="grey">via email</a> so we can assist.',
 
 
