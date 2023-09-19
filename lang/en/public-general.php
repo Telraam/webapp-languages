@@ -4,9 +4,12 @@ return [
 
     'nav-map' => 'Map',
     'nav-what-is' => 'What is Telraam',
-    'nav-self-measure' => 'Start counting',
-    'nav-government' => 'Governments',
-    'nav-professionals' => 'Professionals',
+    'nav-device' => 'Device',
+    'nav-data' => 'Data',
+    'nav-network' => 'Network',
+    'nav-shop' => 'Shop',
+    'nav-press-kit' => 'Shop',
+    'nav-blog' => 'Blog',
     'nav-talks' => 'Telraam Talks',
 
     'nav-faq-support' => 'FAQ and support',
