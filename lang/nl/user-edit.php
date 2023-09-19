@@ -26,8 +26,8 @@ return [
     'delete' => 'Verwijderen',
 
     // telraam talks
-    'talks-avatar-info' => 'Avatar voor gebruik in de <a href="http://talks.telraam.net/" target="_blank">Telraam Talks forum</a>',
-    'talks-bio-info' => 'Bio voor gebruik in de <a href="http://talks.telraam.net/" target="_blank">Telraam Talks forum</a>',
+    'talks-avatar-info' => 'Avatar voor gebruik in het <a href="http://talks.telraam.net/" target="_blank">Telraam Talks forum</a>',
+    'talks-bio-info' => 'Bio voor gebruik in het <a href="http://talks.telraam.net/" target="_blank">Telraam Talks forum</a>',
 
 
 ];
