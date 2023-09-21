@@ -59,6 +59,7 @@ human-focused, multimodal traffic culture. </p>',
     'sentence-rob'    => 'Community-driven communicator, trying to make change happen by bringing people together. Has plenty of wine stories, and outside of work is usually found in the garden, working on bonsai trees.',
 
     'role-laurens'  => 'Workhop-hero and sales',
-    'sentence-laurens'    => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis at metus cursus dapibus. Aenean ut tellus mattis, vehicula dolor fringilla.',
+    'sentence-laurens'    => 'Working at Telraam\'s front of the house, he supports future clients in finding tailored solutions for their use case. This while maintaining contact with the end-users. This polyglot helps you setting up projects in dutch, english, french and german. 
+    When not in the office you can find Laurens in his running shoes or in the kitchen, as an enthousiast amateur chef. ',
 
 ];
