@@ -38,7 +38,7 @@ Voor vragen of opmerkingen inzake deze privacy policy kan u ons steeds contacter
                 Geëncrypteerd paswoord
                 </td>
             <td>Uitvoering deelname-overeenkomst</td>
-            <td>Tot 10 jaar na beëindiging deelname (gelet op wettelijke verjaringstermijn voor contractuele vorderingen).<br>
+            <td>Tot 5 jaar na beëindiging deelname (gelet op wettelijke verjaringstermijn voor contractuele vorderingen).<br>
         Deze termijn kan verlengd worden in geval van schorsing of stuiting van de verjaringstermijn.</td>
         </tr>
         <tr>

@@ -35,7 +35,7 @@ contacter à l'adresse électronique suivante : <a href=mailto:privacy@telraam.n
                 Mot de passe crypté
                 </td>
             <td>Exécution de l'accord de participation</td>
-            <td>Jusqu'à 10 ans après la fin de la participation (compte tenu du délai de prescription légal pour les réclamations contractuelles).
+            <td>Jusqu'à 5 ans après la fin de la participation (compte tenu du délai de prescription légal pour les réclamations contractuelles).
         Ce délai peut être prolongé en cas de suspension ou d'interruption du délai de prescription.
         </tr>
         <tr>

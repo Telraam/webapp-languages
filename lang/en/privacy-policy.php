@@ -38,7 +38,7 @@ For questions or remarks about this privacy policy you can always contact us at 
                 Encrypted password
             </td>
             <td>Execution of participation agreement</td>
-            <td>Up to 10 years after termination of participation (in view of the statutory limitation period for contractual claims).<br>
+            <td>Up to 5 years after termination of participation (in view of the statutory limitation period for contractual claims).<br>
             This period can be extended in the case of suspension or interruption of the limitation period.</td>
         </tr>
         <tr>
