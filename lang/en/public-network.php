@@ -21,10 +21,13 @@ return [
     'subtitle' => 'Deploy and manage Telraam at a local, municipal or city level with a network of Telraam devices hosted by citizens',
 
     // pricing
-    'month' => 'month',
-    'per-active-device' => 'per active device',
-    'pricing-box-line1' => 'Advanced reports and tools to manage your fleet and streamline your citizen recruitment',
-    'pricing-box-line2' => 'Includes a data subscription for every device',
+
+     // pricing
+     'pricing-title' => 'Network subscription',
+     'month' => 'month',
+     'pricing-box-line1' => 'Administration and recruitment tools',
+     'pricing-box-line2' => 'Network data analytics tools and various reporting and data export options',
+     'pricing-box-line3' => 'Includes all the features of the <a href="../en/data-subscription">data subscription</a> for all sensors and segments in the network',
 
 
     // main content
