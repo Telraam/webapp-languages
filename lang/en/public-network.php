@@ -61,7 +61,7 @@ return [
 
 
     // features in focus
-    'features-title' => 'Additional features',
+    'features-title' => 'Features',
     'features-1-title' => 'Network dashboard',
     'features-1-text' => '<p>Access your data and user information through the Network dashboard, exclusive to administrators of a Telraam network.<br>
     <br>Administrators of a Telraam network gain access to a rich set of tools. The Dashboard is a central hub that provides a quick, general overview of the status of the network and access to other tools. It includes communication tools as well as reporting options. It gives you at-a-glance summaries of active devices on a map, and a notification stream of any activity or warnings on participating devices.</p>',
@@ -72,36 +72,43 @@ return [
     <br>Provide support and improve data collection through remote management of devices to diagnose and fix issues, and get support from the Telraam team.</p>',
 
     'features-3-title' => 'User recruitment and management',
-    'features-3-text' => '<p>A network requires the participation of citizens. Recruit, select and engage them through the Telraam network dashboard to build a long-term data gathering solution.<br>
-    <br>Recruit candidates:</p>
-    <ul class="text-list">
+    'features-3-text' => '<p>A network requires the participation of citizens. Recruit, select and engage them through the Telraam
+    network dashboard to build a long-term data gathering solution.<br>',
+
+    'features-3-recruit-title' => 'Recruit candidates:',
+    'features-3-recruit-list' => '
+    <ul class="text-list small">
     <li>Define what data is collected from candidates through the application form.</li>
     <li>Review candidates’ according to location on the map, and the quality of their view of street segments from their photos, and collaborate with other admins by adding notes and reviews.</li>
     <li>Grade applications for future review and selection or waitlist them.</li>
     <li>Personalise any email correspondence for automated or ad-hoc communications.</li>
-    </ul>
-    </p> 
-    <p>Interact with users:</p>
-    <ul class="text-list">
+    </ul>',
+
+    'features-3-interact-title' => 'Interact with users:',
+ 'features-3-interact-list' => '<ul class="text-list small">
     <li>Browse a detailed overview of active users.</li>
     <li>Filter users according to specific criteria, ideal when managing larger networks.</li>
     <li>Send batch emails to specific subgroups of users to keep them informed and engaged.</li>
     <li>Get operational statistics (e.g., device status, uptime over the last month) for the network from our reports.</li>
-    </ul>
-    </p>',
+    </ul>',
 
     'features-4-title' => 'Advanced data analytics',
     'features-4-text' => '<p>The Network subscription includes all the features of the Data subscription, and more. Network administrators have access to the data dashboards of all segments (and devices) in the network, while users have access to their own segment’s data dashboards.<br>
-    <br>Additional data analytic features only available with the Network subscription:</p>
-    <p>Data reports<br>
-    <ul class="text-list">
+    <br>Additional data analytic features only available with the Network subscription:</p>',
+
+    'features-4-reports-title' => 'Data reports:',
+    'features-4-reports-list' => '
+    <ul class="text-list small">
     <li>One-click access to Data dashboards for each individual segment in the Network.</li>
     <li>Overview of hourly or daily network level traffic compared to the typical traffic, which can be useful to spot network level changes or irregularities.</li>
-    <li>Compare data from two periods, either for the whole network or just selected segments, to review traffic levels, daily traffic patterns, or car speeds. </li></ul></p>
-    <p>Data exports<br>
-    <ul class="text-list">
+    <li>Compare data from two periods, either for the whole network or just selected segments, to review traffic levels,
+    daily traffic patterns, or car speeds. </li></ul>',
+
+    'features-4-exports-title' => 'Data exports:',
+    'features-4-exports-list' => '<ul class="text-list small">
     <li>Export options include monthly reports, monthly raw data, full raw data and typical traffic (for two user-defined periods).</li>
-    <li>Create “Street sheets”, our popular pre-configured Excel files that allow you to work with count and typical data without having to process raw data or access our APIs.</li></ul></p>',
+    <li>Create “Street sheets”, our popular pre-configured Excel files that allow you to work with count and typical data without
+having to process raw data or access our APIs.</li></ul>',
 
 
     // features simple list
