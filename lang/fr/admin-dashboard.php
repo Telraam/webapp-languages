@@ -13,11 +13,11 @@ return [
     'network'                   => 'Réseau',
     'member-since'            => 'Membre en cours depuis ...',
     'visualisation-more'        => 'Trouvez plus de visualisations sur',
-    
+
     'visualisation-info-1'    => 'Les données de comptage de votre rue sont joliment publiées sur ',
     'visualisation-info-2'    => 'N\'hésitez pas à les partager !',
     'visualisation-info-3'    => ' Vous pouvez trouver des rapports encore plus détaillés <a href="report">sous l\'onglet rapport</a>',
-    
+
      'camera-status'            => 'Statut de caméra',
      'please-complete'          => 'Veuillez d’abord terminer le procédure d’installation',
     'setup-status'              => 'Statut du setup',
@@ -52,7 +52,9 @@ return [
     'camera-has-problematic-status' => 'La caméra est connectée et transmet les données de mesure. Toutefois, la qualité des mesures effectuées au cours des dernières 24 heures n\'est pas satisfaisante.
     Un contrôle automatique des données de mesure sera effectué toutes les 24 heures.',
 
-    'upload'                    => 'Télécharger'
+    'upload'                    => 'Télécharger',
 
+    'edit'                        => 'Profil & plan',
+    'logout'                      => 'Déconnexion',
 
 ];

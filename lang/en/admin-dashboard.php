@@ -48,5 +48,9 @@ return [
     'camera-has-problematic-status' => 'The camera is connected and transmits measurement data. However, the quality of the measurements in
      the last 24 hours was insufficient. An automatic check of the measurement data will follow every 24 hours. ',
 
-    'upload'                    => 'Upload'
+    'upload'                    => 'Upload',
+
+    'edit'                        => 'My profile & plan',
+    'logout'                      => 'Logout',
+
 ];

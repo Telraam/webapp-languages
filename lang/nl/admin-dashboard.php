@@ -19,8 +19,8 @@ return [
     'visualisation-info-1'    => 'De telgegevens van jouw straat worden overzichtelijk gepubliceerd op ',
     'visualisation-info-2'    => 'Aarzal niet om ze te delen!',
     'visualisation-info-3'    => 'Je kunt nog meer gedetailleerde rapporten vinden <a href="report">onder het tabblad Rapport</a>',
-    
-    
+
+
      'camera-status'            => 'Camerastatus',
      'please-complete'          => 'Gelieve de installatieprocedure eerst te vervolledigen',
     'setup-status'              => 'Setup Status',
@@ -51,6 +51,8 @@ return [
     'camera-is-set-inactive-on'     => 'Camera staat inactief sinds ',
     'camera-has-problematic-status' => 'De camera is verbonden en stuurt meetgegevens door. De kwaliteit van de metingen was de laatste 24u echter onvoldoende. Er volgt iedere 24u een automatische controle op de meetgegevens.',
 
-    'upload'                    => 'Upload'
+    'upload'                    => 'Upload',
 
+    'edit'                        => 'Mijn profiel & plan',
+    'logout'                      => 'Logout',
 ];
