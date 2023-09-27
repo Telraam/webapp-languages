@@ -29,6 +29,27 @@ human-focused, multimodal traffic culture. </p>',
  Are you looking for affordable, multimodal traffic monitoring solutions for your projects that can be deployed on a
   large number of locations? Then Telraam is the right place for you!</p>',
 
+    // press
+    'press-title' => 'In the press',
+
+    'quote1' => 'Data Democracy: Cheap Home-Mounted Sensor Counts All Road Users Not Just Motorists',
+    'quote1-source' => 'Forbes',
+    'quote1-link' => 'https://www.forbes.com/sites/carltonreid/2023/09/26/data-democracy-cheap-home-mounted-sensor-counts-all-road-users-not-just-motorists/',
+
+    'quote2' => 'This European startup is installing 50 traffic-counting sensors across San Francisco',
+    'quote2-source' => 'Smart Cities World',
+    'quote2-link' => 'https://techcrunch.com/2023/05/16/telraam-pilot/',
+
+    'quote3' => 'AI traffic counter enables citizen science data projects',
+    'quote3-source' => 'Techcrunch',
+    'quote3-link' => 'https://www.smartcitiesworld.net/ai-and-machine-learning/ai-traffic-counter-enables-citizen-science-data-projects',
+
+    'quote4' => 'Europe-wide traffic survey to recruit <i>citizen scientists</i>',
+    'quote4-source' => 'BBC',
+    'quote4-link' => 'https://www.bbc.com/news/world-europe-51123760',
+
+
+
     // team
     'team-title'   => 'Team',
 
@@ -54,12 +75,12 @@ human-focused, multimodal traffic culture. </p>',
 
     'role-wouter'   => 'Project & business development manager',
     'sentence-wouter'    => 'Tries to turn interest & enthusiasm for Telraam into concrete projects and business. Spokesperson and hispanoparlante. Has a barrel of local commitments in Leuven during off-peak hours. Doer above all!',
-    
+
     'role-rob'      => 'Community success manager',
     'sentence-rob'    => 'Community-driven communicator, trying to make change happen by bringing people together. Has plenty of wine stories, and outside of work is usually found in the garden, working on bonsai trees.',
 
-    'role-laurens'  => 'Workshop-hero and sales',
-    'sentence-laurens'    => 'Working at Telraam\'s front of the house, he supports future clients in finding tailored solutions for their use case. This while maintaining contact with the end-users. This polyglot helps you setting up projects in dutch, english, french and german. 
+    'role-laurens'  => 'Workhop-hero and sales',
+    'sentence-laurens'    => 'Working at Telraam\'s front of the house, he supports future clients in finding tailored solutions for their use case. This while maintaining contact with the end-users. This polyglot helps you setting up projects in dutch, english, french and german.
     When not in the office you can find Laurens in his running shoes or in the kitchen, as an enthousiast amateur chef. ',
 
 ];
