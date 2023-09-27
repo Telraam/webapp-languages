@@ -18,7 +18,7 @@ return [
 
     // web page  ----
     'title' => 'Build a Network',
-    'subtitle' => 'Deploy and manage Telraam at a local, municipal or city level with a network of Telraam devices hosted by citizens',
+    'subtitle' => 'Deploy and manage Telraam at a local, municipal or city level with a network of Telraam devices hosted by citizens. The Network subscription provides all the management and data analytic tools that you need',
 
     // pricing
 
@@ -32,30 +32,28 @@ return [
 
     // main content
     'section1-block1-title' => 'A network of opportunities',
-    'section1-block1-text' => 'Official traffic counts and engineering studies at a local and regional level require the collection of data from multiple locations, and traditionally this has been an expensive and time-consuming process.<br>
+    'section1-block1-text' => 'Traffic engineering studies and urban planning at a local and regional level require the collection of data from multiple locations, and traditionally this has been an expensive and time-consuming process.<br>
     <br>Thanks to AI-driven technology and the unique deployment-model of <a href="https://www.telraam.net/en/S2">Telraam devices</a>, we provide an alternative, cost-efficient counting method that has been proven both <a href="https://github.com/Telraam/Telraam-S2/blob/main/count-performance-validation.md">accurate and precise</a> in a wide variety of conditions.<br>
-    <br>By deploying a number of Telraam devices in an area, the counting process can be much improved, gathering multi-modal data on a continuous basis by creating a finely meshed network of devices powered by citizen science, increasing the data gathered and reducing the cost.<br>
-    <br>Telraam offer the Network solution for organisations running multiple devices, such as local governments and authorities as well as campaign groups.',
+    <br>Telraam offer a Network subscription for organisations running multiple devices, such as local governments and authorities as well as campaign groups. By deploying a number of Telraam devices in an area, the counting process can be much improved, gathering multi-modal data on a continuous basis by creating a finely meshed network of devices powered by citizen science, increasing the data gathered and reducing the cost.',
 
     'section2-small-title' => 'How does it work?',
-    'section2-block1-title' => 'Data for efficient traffic plans',
-    'section2-block1-text' => 'The traffic count data are particularly valuable to city and regional authorities  for traffic and mobility planning and decision-making.<br>
-    <br>Telraam data can also be used to measure the impact of a planned mobility measure or intervention, supporting and validating policy measures whether it is a local or even a national infrastructure project.<br>
-    <br>The data can also be used by researchers, residents and interested parties to validate their campaigns for changes, helping to make local discussions more effective and constructive.<br>
-    <br>With this tool, any organisation can choose a programme to run for several months (usually 6-12 months or more), engage citizens to apply, and use the dashboard to screen and select locations so users can start counting. Data analysis and support is provided by the Telraam team throughout the process, from start to finish.',
+    'section2-block1-title' => 'A comprehensive project solution',
+    'section2-block1-text' => 'A Network subscription provides the necessary management and data-analytics tools needed throughout the lifetime of a project. It includes tools to plan, deploy, and manage a network of Telraam devices hosted by private citizens over long periods (usually 6-12 months), and data analytics tools to monitor and analyse traffic on both street-segment and network level. <br>
+    <br>Real-time and historical data can be assessed and analysed any time, or it can be exported for off-line analysis. Data analysis and support is provided by the Telraam team throughout the process, from start to finish.',
 
    'section2-block2-title' => 'Citizen engagement and data transparency',
     'section2-block2-text' => 'Telraam devices are hosted by individual citizens. A Telraam network provides a unique opportunity to engage with locals, build trust, and exchange know-how with the people who experience the effects of traffic on their streets every day. In this way motivated residents have a more direct, personal involvement in local mobility policy.<br>
-    <br>Network subscription tools streamline the recruitment, application, and selection process of citizens.. They learn how to set-up their own fully automatic traffic counter and how to better understand the data. Participants become citizen scientists that can make constructive, objective, data-driven contributions to the local policy-making process.',
+    <br>Network subscription tools streamline the recruitment, application, and selection process of citizens. They learn how to set-up their own fully automatic traffic counter and how to better understand the data. Participants become citizen scientists that can make constructive, objective, data-driven contributions to the local policy-making process.<br>
+    <br>The data can also be used by researchers, residents and interested parties to validate their campaigns for changes, helping to make local discussions more effective and constructive.',
 
     'section2-block3-title' => 'Open data and trust',
     'section2-block3-text' => 'Organisations can build trust with citizens by engaging through Telraam. A large part of the count data is freely available as open data, and both the technology and performance of Telraam sensors are well documented.<br>
     <br>Third parties can also add value to the datasets. There are many ways for parties within and outside of a network to browse and interact with your data, ranging from the fully open live Telraam map, to public and advanced APIs, or the specific, advanced segment- and network-level data dashboards.<br>
 <ul class="text-list">
-    <li>All basic traffic data collected is made available to the public via the interactive map on the Telraam homepage.</li>
-    <li>Network owners, and device users, have additional access to the full, detailed data from their Telraam S2 devices through the dashboard and exclusive API endpoints.</li>
+    <li>All basic traffic data collected is available to the public via the interactive map on the Telraam homepage.</li>
+    <li>Network owners and device users, have additional access to the full data from their Telraam S2 devices through the dashboard and exclusive API endpoints.</li>
     <li>A Telraam Network dashboard allows local authorities to monitor the Telraam devices in their project area, export the data and perform live analysis.</li>
-    <li>A Telraam Network dashboard allows local authorities to monitor the Telraam devices in their project area, export the data and perform live analysis.</li>
+    <li>Anyone can retrieve basic traffic data directly through the Telraam API under an open data, non-commercial licence, for use in their own database or existing dashboard.</li>
     </ul>',
     'section2-block4-note' => 'Telraam, API of the year',
 
