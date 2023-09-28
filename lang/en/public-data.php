@@ -12,7 +12,7 @@ return [
     'pricing-1-subtitle' => 'Includes the 10 road user classes, 15 minute data resolution, more tools, and better reports',
     'pricing-1-info' => '(Multiple) devices in your neighborhood as an organisation or city?
                             <div style="padding-left: 20px">
-                                Consider the <a href="../professionals">Network</a> instead.
+                                Consider the <a href="../network">Network</a> instead.
                                 This includes a Data subscription for all devices, and a rich set of network-management tools.
                             </div>',
 

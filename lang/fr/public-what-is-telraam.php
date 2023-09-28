@@ -40,6 +40,36 @@ d\'interaction, de dialogue, de co-création et d\'autres formes de participatio
 
      'section2-cta' => 'Parlez-nous aujourd\'hui d\'un compte Telraam dans votre rue',
 
+
+     // The Telraam Methodology
+     'methodology-title' => 'La méthodologie Telraam',
+     'methodology-part-1' => '<p>Telraam propose des capteurs de comptage du trafic, basés sur l\'intelligence artificielle, conçus à cet effet et abordables, un cadre de gestion de réseau et une architecture complète pour le classement, l\'analyse, la visualisation et la distribution des données relatives au trafic. Dans cette configuration, les capteurs Telraam sont hébergés par des scientifiques citoyens, établissant ainsi un pont précieux entre leur communauté, les autorités locales et les professionnels de la mobilité. Cette connexion et l\'accès libre aux données collectées sur le trafic démocratisent la planification du trafic local et ouvrent de nouvelles perspectives à toutes les parties concernées.</p>',
+     
+     'methodology-part-2' => "<p>L\'approche Telraam:</p>",
+     
+     'methodology-item-A' => 'Les citoyens collectent des données sur le trafic depuis leurs fenêtres à l\'aide de capteurs Telraam. Ceux-ci comptent généralement en continu sur une longue période (généralement 12 mois), envoyant des données toutes les 15 minutes (pendant les heures de clarté).',
+     'methodology-item-B' => 'Les professionnels de la mobilité et les autorités locales analysent les données pour comprendre le trafic local et proposer des solutions à des problèmes spécifiques.',
+     'methodology-item-C' => 'Les citoyens et les professionnels travaillent ensemble pour examiner les données et concevoir ensemble des moyens de mettre en œuvre de meilleurs plans de gestion du trafic.',
+     'methodology-item-D' => 'Les capteurs Telraam peuvent être utilisés pour surveiller, évaluer et ajuster les changements mis en œuvre.',
+     
+     'methodology-part-3' => '<p>En tant que personne intéressée, vous pouvez avoir votre propre capteur Telraam et analyser vos propres données, mais les données collectées par votre capteur sont également mises à la disposition de tous les autres en tant que données ouvertes via l\'API Telraam.</p>',
+     
+     
+     // Why Citizen Science?
+     'cit-science-title' => 'Pourquoi la science citoyenne?',
+     'cit-science-item-1' => '<strong class="green">Rentabilité</strong><br>
+     <p>Les projets de science citoyenne peuvent être un moyen rentable pour les autorités locales de recueillir des données et d\'obtenir des informations sur les problèmes de circulation dans leur communauté. Il n\'est pas nécessaire de procéder à des installations coûteuses dans les rues pour assurer la sécurité des usagers et des dispositifs de comptage.</p>',
+     
+     'cit-science-item-2' => '<strong  class="green">Connaissances locales</strong><br>
+     <p>Les citoyens scientifiques sont des résidents de la communauté dans laquelle ils collectent des données, ce qui signifie qu\'ils ont des connaissances et des perspectives locales qui peuvent être précieuses pour comprendre les problèmes locaux et développer des solutions applicables localement.</p>',
+     
+     'cit-science-item-3' => '<strong  class="green">Engager la communauté</strong><br>
+     <p>Les projets de science citoyenne peuvent être un moyen d\'impliquer les membres de la communauté dans le processus de prise de décision et de les amener à s\'investir davantage dans la recherche de solutions aux défis locaux.</p>',
+     
+     'cit-science-item-4' => '<strong  class="green">Un impact plus large</strong><br>
+     <p>En impliquant les citoyens dans le processus de collecte des données, les autorités locales peuvent également créer un plus grand sentiment d\'appropriation et d\'adhésion pour les solutions qui sont développées à la suite de ces collaborations, ce qui conduira à une adoption plus répandue et à un impact et une réception plus positifs dans la communauté.</p>',
+
+
 // témoignages
      'quote1' => 'En analysant la norme V85, nous obtenons une indication des meilleurs moments pour effectuer des contrôles de vitesse. Ces contrôles permettent d\'obtenir un changement de comportement des usagers de la route.',
      'quote1-author' => 'David Tailleur',
@@ -75,6 +105,22 @@ C\'est votre point de vue. Faites que ça compte!',
 
 
 
+// Make your view count
+'make-view-count-title' => 'Want to make your view count?',
+'make-view-count-text' => '<p>Is your street too busy, marred by cars and vans driving too fast? Do people want to walk, cycle, and play more in the street, but consider it unsafe?</p>
+
+<p>Heavy traffic, especially on residential streets designed only for local traffic, can cause residents to question traffic flows as they impact livability.</p>
+
+<p>Traffic counting in itself is not the solution, but it can be a powerful, quantitative tool in capable hands, forming a solid basis for meaningful discussions and reforms.</p>
+
+<p>Forward-thinking local authorities are finding ways to address these social issues, to make our communities cleaner, safer, and healthier, but to do this they need supporting data.</p>
+
+<p>That is why Telraam works with citizens and mobility professionals together: to gather the data needed to make the streets a better place.</p>
+
+<p>Read about our <a href="S2">Devices</a>, our <a href="data-subscription">Data</a> and our 
+<a href="network">Network solutions</a> and see how you could get involved.</p>',
+
+
     // use cases
     'use-cases-title' => 'Cas d\'utilisation',
 
@@ -92,6 +138,22 @@ C\'est votre point de vue. Faites que ça compte!',
      'use-cases-case-4-text' => 'Arriver et quitter une école doit être une expérience sûre, saine et agréable pour les enfants, les parents et les résidents locaux. Mesurer la mise en œuvre et le succès',
 
      'read-more' => 'Plus d\'informations',
+     
+     // block start counting
+     'start-counting-section-1-title' => 'Want to make your view count?',
+     'start-counting-section-1-text' => ' <p>Is your street too busy, marred by cars and vans driving too fast? Do people want to walk,
+         cycle, and play more in the street, but consider it unsafe?</p>
+     <p>Increasing traffic, especially on residential streets designed only for local traffic, can cause residents to question traffic flows as they impact livability.</p>
+     <p>Traffic counting in itself is not a solution, but it can be a powerful, quantitative tool in capable hands, forming a solid basis for meaningful reforms.</p>
+      <p>Increasingly, some forward-thinking local authorities are finding ways to address these social issues, to make our communities cleaner, safer, and healthier, but to do this they need supporting data. </p>
+     <ul class="jump-in">
+     <li>Data on what is actually happening today.</li>
+     <li>Data on what needs to change. </li>
+     <li>Data on how the changes are going.</li>
+     </ul>
+     <p>That is why Telraam works with citizens and mobility professionals together: to gather the data needed to make the streets a better place.</p>',
+     
+
      
      // How to start counting
      'how-to-start-title' => 'Commencer à compter',

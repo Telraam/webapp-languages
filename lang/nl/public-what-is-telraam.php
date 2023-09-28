@@ -74,6 +74,47 @@ In een mum van tijd heb je een gedetailleerd inzichtrapport van alle activiteite
 Het is jouw mening. Laat het meetellen!',
 
 
+    // The Telraam Methodology
+    'methodology-title' => 'De Telraam-methode',
+    'methodology-part-1' => '<p>Telraam biedt speciaal gebouwde, betaalbare, door AI aangedreven verkeerstellende sensoren, een framework voor netwerkbeheer en een complete architectuur voor het opslaan, analyseren, visualiseren en delen van verkeersdata.</p>
+<p> In deze set-up worden de Telraam-sensoren gehost door burgerwetenschappers, waardoor een brug wordt geslagen tussen hun buurt, lokale overheden en mobiliteitsprofessionals.
+Deze werkwijze en de open toegang tot de verzamelde verkeersgegevens, democratiseert het proces van lokale verkeersplanning en opent nieuwe mogelijkheden voor alle betrokken partijen.</p>',
+
+    'methodology-part-2' => '<p>De Telraam-aanpak:</p>',
+
+    'methodology-item-A' => 'Burgers verzamelen verkeersgegevens uit hun ramen met behulp van Telraam-sensoren. Deze blijven doorgaans continu tellen over een langere periode (meestal 12 maanden) en verzenden elke 15 minuten gegevens.',
+    'methodology-item-B' => 'Mobiliteitsprofessionals en lokale overheden analyseren de gegevens om inzicht te krijgen in het lokale verkeer en oplossingen voor te stellen voor specifieke problemen.',
+    'methodology-item-C' => 'Burgers en professionals werken samen om de gegevens te bekijken, te doorgronden en samen manieren te bedenken om betere verkeersplannen uit te voeren.',
+    'methodology-item-D' => 'De sensoren van Telraam kunnen na de implementatie van de verkeersmaatregelen worden gebruikt om de doorgevoerde veranderingen te controleren, te evalueren en Ė waar nodig Ė bij te sturen.',
+
+    'methodology-part-3' => '<p>Als geÔnteresseerde kunt u uw eigen persoonlijke Telraam-sensor aankopen, installeren en uw eigen gegevens analyseren. De gegevens die uw sensor verzamelt worden ook voor iedereen als Open Data beschikbaar gesteld via de Telraam API.</p>',
+
+    // Why Citizen Science?
+    'cit-science-title' => 'Waarom burgerwetenschap?',
+    'cit-science-item-1' => '<strong class="green">Kosteneffectief</strong><br>
+    <p>Burgerwetenschapsprojecten kunnen voor lokale overheden een kostenbesparende manier zijn om gegevens te verzamelen en inzicht te krijgen in verkeersproblemen in hun gemeenschap. Er zijn geen dure interventies nodig om de veiligheid van de straatgebruikers en de telapparaten te beschermen.</p>',
+
+    'cit-science-item-2' => '<strong  class="green">Lokale kennis</strong><br>
+    <p>Burgerwetenschappers kennen hun eigen buurt het best. Ze beschikken over heel wat lokale kennis en perspectieven die waardevol kunnen zijn bij het begrijpen van lokale problemen en het ontwikkelen van oplossingen.</p>',
+    'cit-science-item-3' => '<strong  class="green">De gemeenschap betrekken</strong><br>
+    <p>Burgerwetenschapsprojecten kunnen een manier zijn om leden van de gemeenschap bij het besluitvormingsproces te betrekken en om hen grondiger te betrekken bij het vinden van oplossingen voor de lokale uitdagingen.</p>',
+    'cit-science-item-4' => '<strong  class="green">Breder effect</strong><br>
+    <p>Door burgers bij het gegevensverzamelingsproces te betrekken, kunnen lokale autoriteiten ook een groter gevoel van eigenaarschap creŽren voor oplossingen die uit proces komen. Dit zal leiden tot een bredere toepassing en een grotere positieve impact en ontvangst in de lokale gemeenschap.</p>',
+
+     // Make your view count
+     'make-view-count-title' => 'Want to make your view count?',
+     'make-view-count-text' => '<p>Is your street too busy, marred by cars and vans driving too fast? Do people want to walk, cycle, and play more in the street, but consider it unsafe?</p>
+     
+     <p>Heavy traffic, especially on residential streets designed only for local traffic, can cause residents to question traffic flows as they impact livability.</p>
+     
+     <p>Traffic counting in itself is not the solution, but it can be a powerful, quantitative tool in capable hands, forming a solid basis for meaningful discussions and reforms.</p>
+     
+     <p>Forward-thinking local authorities are finding ways to address these social issues, to make our communities cleaner, safer, and healthier, but to do this they need supporting data.</p>
+     
+     <p>That is why Telraam works with citizens and mobility professionals together: to gather the data needed to make the streets a better place.</p>
+     
+     <p>Read about our <a href="S2">Devices</a>, our <a href="data-subscription">Data</a> and our 
+     <a href="network">Network solutions</a> and see how you could get involved.</p>',
 
     // use cases
     'use-cases-title' => 'Toepassingen',
