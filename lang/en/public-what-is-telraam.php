@@ -65,22 +65,16 @@ The Telraam S2 has a low resolution camera (for privacy), an AI chip for detecti
 <br>
 In no time you will have a detailed insight report on all the activity on your street, neighbourhood or city.<br>
 <br>
-It’s your view. Make it count!',
+It’s your view. Make it count! <br>
+<a href="/en/data-subscription">Read more about the S2 data and reports</a>',
 
     // Make your view count
-    'make-view-count-title' => 'Want to make your view count?',
-    'make-view-count-text' => '<p>Is your street too busy, marred by cars and vans driving too fast? Do people want to walk, cycle, and play more in the street, but consider it unsafe?</p>
+    'make-view-count-title' => 'How can I get Telraam devices on the streets near me?',
+    'make-view-count-text' => '<p>You can choose to host an individual device on your street, or work with the local authority or a campaign group to establish a wider network for a whole groups of streets.</p>
+    <p>You can read more below on Telraam\'s methodology and why Citizen Science is so unique and valuable, but it only works when you get involved.</p>
+    <p>Telraam provides the tools so motivated individuals can monitor their own street, but can also work together in a network to empower whole communities to work together.</p>
     
-    <p>Heavy traffic, especially on residential streets designed only for local traffic, can cause residents to question traffic flows as they impact livability.</p>
-    
-    <p>Traffic counting in itself is not the solution, but it can be a powerful, quantitative tool in capable hands, forming a solid basis for meaningful discussions and reforms.</p>
-    
-    <p>Forward-thinking local authorities are finding ways to address these social issues, to make our communities cleaner, safer, and healthier, but to do this they need supporting data.</p>
-    
-    <p>That is why Telraam works with citizens and mobility professionals together: to gather the data needed to make the streets a better place.</p>
-    
-    <p>Read about our <a href="S2">Devices</a>, our <a href="data-subscription">Data</a> and our 
-    <a href="network">Network solutions</a> and see how you could get involved.</p>',
+    <p>Read all about our <a href="network">Network subscription and tools</a> and see how you could build your own.</p>',
 
 
     // use cases
@@ -101,17 +95,18 @@ It’s your view. Make it count!',
     
     // block start counting
     'start-counting-section-1-title' => 'Want to make your view count?',
-    'start-counting-section-1-text' => ' <p>Is your street too busy, marred by cars and vans driving too fast? Do people want to walk,
-        cycle, and play more in the street, but consider it unsafe?</p>
-    <p>Increasing traffic, especially on residential streets designed only for local traffic, can cause residents to question traffic flows as they impact livability.</p>
-    <p>Traffic counting in itself is not a solution, but it can be a powerful, quantitative tool in capable hands, forming a solid basis for meaningful reforms.</p>
-     <p>Increasingly, some forward-thinking local authorities are finding ways to address these social issues, to make our communities cleaner, safer, and healthier, but to do this they need supporting data. </p>
-    <ul class="jump-in">
-    <li>Data on what is actually happening today.</li>
-    <li>Data on what needs to change. </li>
-    <li>Data on how the changes are going.</li>
-    </ul>
-    <p>That is why Telraam works with citizens and mobility professionals together: to gather the data needed to make the streets a better place.</p>',
+    'start-counting-section-1-text' => '<p>Is your street too busy, marred by cars and vans driving too fast? Do people want to walk, cycle, and play more in the street, but consider it unsafe?</p>
+    
+    <p>Heavy traffic, especially on residential streets designed only for local traffic, can cause residents to question traffic flows as they impact livability.</p>
+    
+    <p>Traffic counting in itself is not the solution, but it can be a powerful, quantitative tool in capable hands, forming a solid basis for meaningful discussions and reforms.</p>
+    
+    <p>Forward-thinking local authorities are finding ways to address these social issues, to make our communities cleaner, safer, and healthier, but to do this they need supporting data.</p>
+    
+    <p>That is why Telraam works with citizens and mobility professionals together: to gather the data needed to make the streets a better place.</p>
+    
+    <p>Read about our <a href="S2">Devices</a>, our <a href="data-subscription">Data</a> and our 
+    <a href="network">Network solutions</a> and see how you could get involved.</p>',
 
 
     // The Telraam Methodology
