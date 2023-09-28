@@ -8,7 +8,7 @@ return [
     'nav-data' => 'Data',
     'nav-network' => 'Network',
     'nav-shop' => 'Shop',
-    'nav-press-kit' => 'Shop',
+    'nav-press-kit' => 'Press Kit',
     'nav-blog' => 'Blog',
     'nav-talks' => 'Telraam Talks',
 

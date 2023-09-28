@@ -5,7 +5,8 @@ return [
     'nav-map' => 'Carte',
     'nav-what-is' => 'Qu’est-ce que Telraam',
     'nav-self-measure' => 'Compter soi-même',
-    'nav-government' => 'Institutions', // old
+    'nav-shop' => 'Shop',
+    'nav-press-kit' => 'Press Kit',
     'nav-professionals' => 'Professionnels',
     'nav-faq-support' => 'FAQ & Support',
     'nav-login' => 'Se connecter',

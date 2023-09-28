@@ -5,7 +5,8 @@ return [
     'nav-map' => 'Kaart',
     'nav-what-is' => 'Wat is Telraam',
     'nav-self-measure' => 'Zelf meten',
-    'nav-government' => 'Overheden', // old
+    'nav-shop' => 'Shop',
+    'nav-press-kit' => 'Pers Kit',
     'nav-professionals' => 'Professionals',
     'nav-faq-support' => 'Faq & Support',
     'nav-login' => 'Login',
