@@ -18,9 +18,7 @@ return [
 
     // web page  ----
     'title' => 'Build a Network',
-    'subtitle' => 'Deploy and manage Telraam at a local, municipal, or regional level with a network of Telraam devices hosted by citizens. The Network subscription provides all the management and data analytic tools that you need.',
-
-    // pricing
+    'subtitle' => 'Deploy and manage Telraam at a local, municipal, or regional level with a network of Telraam devices hosted by citizens. The Network subscription provides all the management and data analytic tools that you need',
 
      // pricing
      'pricing-title' => 'Network subscription',
@@ -34,7 +32,7 @@ return [
     'section1-block1-title' => 'A network of opportunities',
     'section1-block1-text' => 'Traffic engineering studies and urban planning at a local and regional level require the collection of traffic counts from multiple locations, and traditionally this has been an expensive and time-consuming process.<br>
     <br>Thanks to AI-driven technology and the unique deployment-model of <a href="https://www.telraam.net/en/S2">Telraam devices</a>, we provide an alternative, cost-efficient, multi-modal counting method that has been proven both <a href="https://github.com/Telraam/Telraam-S2/blob/main/count-performance-validation.md">accurate and precise</a> in a wide variety of conditions.<br>
-    <br>Telraam offers a Network subscription for organisations running multiple devices, such as governments and authorities from local to national level as well as activist groups. By deploying a finely meshed network of Telraam devices powered by citizen science, the traffic counting process can be much improved, gathering multi-modal data on a continuous basis, while reducing the costs.'
+    <br>Telraam offers a Network subscription for organisations running multiple devices, such as governments and authorities from local to national level as well as activist groups. By deploying a finely meshed network of Telraam devices powered by citizen science, the traffic counting process can be much improved, gathering multi-modal data on a continuous basis, while reducing the costs.',
 
     'section2-small-title' => 'How does it work?',
     'section2-block1-title' => 'A comprehensive project solution',
