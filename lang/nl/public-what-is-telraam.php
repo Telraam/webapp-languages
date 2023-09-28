@@ -95,6 +95,21 @@ Het is jouw mening. Laat het meetellen!',
 
      'read-more' => 'Lees meer',
 
+    // How to start counting
+      'how-to-start-title' => 'Hoe begin je met tellen?',
+      'how-to-start-option-A-title' => 'Een apparaat kopen',
+      'how-to-start-option-A-text' => '<p>Als individuele burger kunt u uw eigen Telraam-toestel kopen en zelf het verkeer in uw straat tellen via het Telraam-platform..</p>',
+      'how-to-start-option-A-button' => '<a href="shop" class="button">Bezoek onze winkel</a></p>',
+     
+      'how-to-start-option-B-title' => 'Neem deel aan een netwerk',
+      'how-to-start-option-B-text' => '<p>U kunt zich ook aansluiten bij een van de vele netwerken die reeds tellen of werven</p>',
+      'how-to-start-option-B-button' => '<a href="browse-networks#joinlocalnetwork" class="button">Browse the network list</a></p>',
+     
+      'how-to-start-option-C-title' => 'Start een netwerk',
+      'how-to-start-option-C-text' => '<p>Geen bestaande netwerken in uw omgeving?</p>',
+      'how-to-start-option-C-button' => '<a href="network" class="button">Start en beheer uw eigen netwerk</a></p>',
+
+
     //
     'section4-cta-text' => 'Aarzel niet om ons een bericht te sturen. We horen graag van je.',
     'section4-cta-btn' => 'Neem contact op',

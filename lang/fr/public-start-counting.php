@@ -89,20 +89,6 @@ return [
 </tbody></table>',
 
 
-    // How to start counting
-    'how-to-start-title' => 'Commencer à compter',
-    'how-to-start-option-A-title' => 'Acheter un appareil',
-    'how-to-start-option-A-text' => '<p>En tant que citoyen, vous pouvez acheter votre propre appareil Telraam et compter vous-même le trafic dans votre rue via la plateforme Telraam.</p>',
-    'how-to-start-option-A-button' => '<a href="shop" class="button">Visitez notre boutique</a></p>',
-
-    'how-to-start-option-B-title' => 'Join a network',
-    'how-to-start-option-B-text' => '<p>Vous pouvez également rejoindre l\'un des nombreux réseaux qui comptent ou recrutent déjà.</p>',
-    'how-to-start-option-B-button' => '<a href="browse-networks#joinlocalnetwork" class="button">Parcourir la liste des réseaux</a></p>',
-
-    'how-to-start-option-C-title' => 'Démarrer un réseau',
-    'how-to-start-option-C-text' => '<p>S\'il n\'y a pas pas de réseaux dans votre région ou souhaitez-vous exploiter vos propres données de trafic ?</p>',
-    'how-to-start-option-C-button' => '<a href="contact-us" class="button">Créez et gérez votre propre réseau</a></p>',
-
     // networks
     'all-networks-title' => 'Liste complète des réseaux',
     'all-networks-text' => 'N\'hésitez pas à consulter un aperçu complet des réseaux passés et actuels.',

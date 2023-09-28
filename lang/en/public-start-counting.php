@@ -96,19 +96,6 @@ Telraam API) includes four categories.</p>
 </tbody></table>',
 
 
-    // How to start counting
-    'how-to-start-title' => 'How to start counting?',
-    'how-to-start-option-A-title' => 'Buy a device',
-    'how-to-start-option-A-text' => '<p>As an individual citizen you can buy your own Telraam device and count traffic in your street on your own via the Telraam platform.</p>',
-    'how-to-start-option-A-button' => '<a href="shop" class="button">Visit our shop</a></p>',
-
-    'how-to-start-option-B-title' => 'Join a network',
-    'how-to-start-option-B-text' => '<p>Alternatively, join one of the many networks already counting or recruiting.</p>',
-    'how-to-start-option-B-button' => '<a href="browse-networks#joinlocalnetwork" class="button">Browse the network list</a></p>',
-
-    'how-to-start-option-C-title' => 'Start a network',
-    'how-to-start-option-C-text' => '<p>No existing networks in your area, or need to decide where to collect traffic data?</p>',
-    'how-to-start-option-C-button' => '<a href="contact-us" class="button">Start and manage your own network</a></p>',
 
     // networks
     'all-networks-title' => 'All networks',
