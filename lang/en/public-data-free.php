@@ -18,7 +18,7 @@ return [
                 <br>
                 <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Car speed data & charts<br>
                 <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> 1 hour data interval reports<br>
-                <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> 24 averages<br>
+                <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> 24 hour averages<br>
                 <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Monthly insight & summary report for device users via email<br>
                 <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Ability to compare your location data to other similar locations<br>
                 <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Standard API access<br>
@@ -37,7 +37,7 @@ return [
     'section-2-title' => 'What makes free different from a data subscription?',
     'section-2-text' => 'In both cases, the Telraam device hardware is the same.<br><br>
                 When you purchase the device with a data subscription, we are including a subscription to full package that takes full advantage of the capabilities of the Telraam S2 device, and covers the cost of data communications, additional dashboards and reports.
-                Aersonal device comes with at a minimum with the standard data and reports mentioned above but you are not paying for the data communications.',
+                A personal device comes with at a minimum with the standard data and reports mentioned above but you are not paying for the data communications.',
 
     'section-3-title' => 'Who is the free option intended for?',
     'section-3-text' => ' While Telraam sets up networks of devices, both large and small, to gather

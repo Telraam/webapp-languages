@@ -29,7 +29,7 @@ de burgers die leven door - en gebruiken - deze straten, door verkeer te omzette
 Toestellen en netwerken van Telraam bieden een oplossing voor burgers en hun lokale vertegenwoordigers.',
 
 
-    'section2-block2-title' => 'Traffic data voor betere straten',
+    'section2-block2-title' => 'Verkeersdata voor betere straten',
     'section2-block2-text' => 'Telraam creëert aangepaste netwerken van sensoren die gebruikmaken van de kennis en toegang van lokale bewoners, met behulp van kunstmatige intelligentie (AI) technologie om consistente, tijdige en kwalitatieve gegevens te leveren voor efficiëntere en effectievere plannen voor infrastructuur, verkeersstromen en verkeersbeheer.<br>
     <br>
 Het betrekken van burgers en het publiceren van open data brengt onderzoekers en beleidsmakers in contact met de plaatselijke bewoners, waardoor mogelijkheden ontstaan voor interactie, dialoog, co-creatie en andere vormen van participatie..',
@@ -65,16 +65,51 @@ Als je eenmaal bent verbonden, hoef je niets te doen, je hoeft alleen maar de te
 De Telraam S2 heeft een lage resolutie camera (voor privacy), een AI-chip voor het detecteren en categoriseren van straatgebruikers, en een ingebouwde mobiele dataverbinding die geaggregeerde, anonieme data doorstuurt naar de Telraam-servers.
 Het apparaat hoeft alleen maar van stroom te worden voorzien en aan de binnenkant van een raam op de bovenverdieping te worden gemonteerd met vrij uitzicht over de straat.',
 
-    'section3-block3-title' => 'Zorg dat je straat telt',
-    'section3-block3-text' => 'Klaar om te beginnen met het verzamelen van uw eigen gegevens? Lees onze <a href="/nl/self-measure">zelf meten</a> gids om te zien
-     hoe gemakkelijk het is om aan de slag te gaan en hoe u uw eigen telnetwerk op te zetten.<br>
-<br>
-In een mum van tijd heb je een gedetailleerd inzichtrapport van alle activiteiten in je straat, buurt of stad.<br>
-<br>
-Het is jouw mening. Laat het meetellen!',
+ // Make your view count
+    'make-view-count-title' => 'Hoe start ik met Telraam sensoren in mijn buurt?',
+    'make-view-count-text' => '<p>Je kunt ervoor kiezen om een individuele Telraam sensor in je straat te hosten, of samen te werken met de lokale overheid of een actiegroep om een breder netwerk voor een hele groep straten op te zetten.</p>
+    <p>Hieronder lees je meer over de Telraammethodologie en waarom burgerwetenschap uniek en waardevol is. Maar het werkt natuurlijk alleen als je ook meedoet.</p>
+    <p>Telraam levert de tools zodat gemotiveerde individuen hun eigen straat kunnen monitoren, maar ook kunnen samenwerken in een netwerk om met de hele buurt samen te werken.</p>
+    
+    <p>Lees alles over ons <a href="network">Netwerkabonnement en -tools</a> en ontdek hoe je zelf een kan opzetten.</p>',
 
 
-    // The Telraam Methodology
+    // use cases
+    'use-cases-title' => 'Toepassingen',
+
+    'use-cases-case-1-title' => 'Verkeersmodellen',
+    'use-cases-case-1-text' => 'Gebruik Telraam om verkeersmodellen te kalibreren en inzicht te geven in verkeersvolumes op lokaal niveau.<br><br>
+<div class="tiny">Bekijk bijvoorbeeld <a href="https://traffic-scout.net/" target="_blank">Traffic-scout</a> voor een kant-en-klare applicatie gebouwd bovenop onze api.</div>' ,
+
+    'use-cases-case-2-title' => 'Veiligere straten',
+    'use-cases-case-2-text' => 'De belangrijkste oorzaken van ongevallen zijn motorvoertuigen, dus het spreekt voor zich dat we moeten meten hoe deze de straat gebruiken, in termen van modal share,
+    volume en snelheid.' ,
+
+    'use-cases-case-3-title' => 'Schone lucht',
+    'use-cases-case-3-text' => 'Kaarten van de luchtkwaliteit kunnen een verband tussen een slechte luchtkwaliteit en veel verkeer aan het licht brengen, maar om het aantal autoritten te verminderen,
+    moet je weten hoeveel auto\'s er werkelijk over de weg rijden, en wanneer.',
+
+     'use-cases-case-4-title' => 'Schoolstraten',
+     'use-cases-case-4-text' => 'Een school binnenkomen en verlaten moet een veilige, gezonde en plezierige ervaring zijn voor kinderen, ouders en buurtbewoners. Meet de implementatie en het succes van aanpassingen.',
+
+     'read-more' => 'Lees meer',
+
+// block start counting
+     'start-counting-section-1-title' => 'Want to make your view count?',
+     'start-counting-section-1-text' => '<p>Is uw straat te druk, ontsierd door auto\'s en bestelwagens die te hard rijden? Willen mensen meer lopen, fietsen en spelen in de straat, maar vinden ze het onveilig?</p>
+     
+     <p>De stijgende verkeersdrukte, vooral in woonstraten met in principe enkel lokaal verkeer, zorgt ervoor dat bewoners de verkeersleefbaarheid in vraag stellen.</p>
+     
+     <p>Verkeerstellingen op zich zijn geen oplossing, maar in bekwame handen kan het een krachtig, kwantitatief instrument zijn dat een solide basis vormt voor zinvolle veranderingen, ten voordele van de leefbaarheid.</p>
+     
+     <p>Steeds meer lokale besturen vinden manieren om deze verkeers- en mobiliteitskwesties aan te pakken, om onze woonwijken veiliger en gezonder te maken, maar daarvoor hebben ze cijfermateriaal nodig.</p>
+     
+     <p>Daarom werkt Telraam samen met burgers en mobiliteitsprofessionals: om de data te verzamelen die nodig zijn om de straten meer leefbaar te maken.</p>
+     
+     <p>Lees meer over onez <a href="S2">Sensoren</a>, onze <a href="data-subscription">Data</a> en onze 
+     <a href="network">Netwerk aanbod</a> en ontdekt hoe je aan de slag kan.</p>',
+
+// The Telraam Methodology
     'methodology-title' => 'De Telraam-methode',
     'methodology-part-1' => '<p>Telraam biedt speciaal gebouwde, betaalbare, door AI aangedreven verkeerstellende sensoren, een framework voor netwerkbeheer en een complete architectuur voor het opslaan, analyseren, visualiseren en delen van verkeersdata.</p>
 <p> In deze set-up worden de Telraam-sensoren gehost door burgerwetenschappers, waardoor een brug wordt geslagen tussen hun buurt, lokale overheden en mobiliteitsprofessionals.
@@ -100,43 +135,39 @@ Deze werkwijze en de open toegang tot de verzamelde verkeersgegevens, democratis
     <p>Burgerwetenschapsprojecten kunnen een manier zijn om leden van de gemeenschap bij het besluitvormingsproces te betrekken en om hen grondiger te betrekken bij het vinden van oplossingen voor de lokale uitdagingen.</p>',
     'cit-science-item-4' => '<strong  class="green">Breder effect</strong><br>
     <p>Door burgers bij het gegevensverzamelingsproces te betrekken, kunnen lokale autoriteiten ook een groter gevoel van eigenaarschap creŽren voor oplossingen die uit proces komen. Dit zal leiden tot een bredere toepassing en een grotere positieve impact en ontvangst in de lokale gemeenschap.</p>',
+    
+        // What does Telraam Count?
+    'what-title' => 'Wat telt Telraam?',
+    'what-text' => '<p>De sensoren van Telraam tellen de weggebruikers die in verschillende categorieŽn zijn ingedeeld.</p>
+<p>Momenteel (Q1 2023) omvatten de gegevens die worden weergegeven op de Telraam-website (en beschikbaar worden gesteld via de Telraam API) vier categorieŽn.</p>
+<p>Het nieuwe Telraam S2-toestel kan een nog bredere groep weggebruikers onderscheiden. Nieuwe voertuigklassen zullen (na een testperiode) beschikbaar worden gesteld via de API, en vervolgens via de rapportage (maandrapport) en website.</p>',
 
-     // Make your view count
-     'make-view-count-title' => 'Want to make your view count?',
-     'make-view-count-text' => '<p>Is your street too busy, marred by cars and vans driving too fast? Do people want to walk, cycle, and play more in the street, but consider it unsafe?</p>
-     
-     <p>Heavy traffic, especially on residential streets designed only for local traffic, can cause residents to question traffic flows as they impact livability.</p>
-     
-     <p>Traffic counting in itself is not the solution, but it can be a powerful, quantitative tool in capable hands, forming a solid basis for meaningful discussions and reforms.</p>
-     
-     <p>Forward-thinking local authorities are finding ways to address these social issues, to make our communities cleaner, safer, and healthier, but to do this they need supporting data.</p>
-     
-     <p>That is why Telraam works with citizens and mobility professionals together: to gather the data needed to make the streets a better place.</p>
-     
-     <p>Read about our <a href="S2">Devices</a>, our <a href="data-subscription">Data</a> and our 
-     <a href="network">Network solutions</a> and see how you could get involved.</p>',
-
-    // use cases
-    'use-cases-title' => 'Toepassingen',
-
-    'use-cases-case-1-title' => 'Verkeersmodellen',
-    'use-cases-case-1-text' => 'Gebruik Telraam om verkeersmodellen te kalibreren en inzicht te geven in verkeersvolumes op lokaal niveau.<br><br>
-<div class="tiny">Bekijk bijvoorbeeld <a href="https://traffic-scout.net/" target="_blank">Traffic-scout</a> voor een kant-en-klare applicatie gebouwd bovenop onze api.</div>' ,
-
-    'use-cases-case-2-title' => 'Veiligere straten',
-    'use-cases-case-2-text' => 'De belangrijkste oorzaken van ongevallen zijn motorvoertuigen, dus het spreekt voor zich dat we moeten meten hoe deze de straat gebruiken, in termen van modal share,
-    volume en snelheid.' ,
-
-    'use-cases-case-3-title' => 'Schone lucht',
-    'use-cases-case-3-text' => 'Kaarten van de luchtkwaliteit kunnen een verband tussen een slechte luchtkwaliteit en veel verkeer aan het licht brengen, maar om het aantal autoritten te verminderen,
-    moet je weten hoeveel auto\'s er werkelijk over de weg rijden, en wanneer.',
-
-     'use-cases-case-4-title' => 'Schoolstraten',
-     'use-cases-case-4-text' => 'Een school binnenkomen en verlaten moet een veilige, gezonde en plezierige ervaring zijn voor kinderen, ouders en buurtbewoners. Meet de implementatie en het succes van aanpassingen.',
-
-     'read-more' => 'Lees meer',
-
-    // How to start counting
+    'what-table' => '<table class="categories">
+<thead>
+    <tr>
+        <td>V1 categorieën</td><td>S2 categorieŽn</td>
+    </tr>
+    </thead>
+<tbody>
+<tr>
+        <td>Voetgangers</td><td>Voetgangers<br>Kinderwagens</td>
+</tr>
+<tr>
+        <td>Tweewielers</td>
+        <td>Fietsen<br>Motorfietsen</td>
+</tr>
+<tr>
+        <td>Auto\'s</td><td>Auto\'s</td>
+</tr>
+<tr>
+            <td>Zware voertuigen</td><td>Bestelwagens<br>Vrachtwagens<br>Bussen<br>Aanhangwagens<br>Tractoren</td>
+</tr>
+</tbody></table>',
+    
+        // use cases
+    'read-more' => 'Lees meer',
+    
+        // How to start counting
       'how-to-start-title' => 'Hoe begin je met tellen?',
       'how-to-start-option-A-title' => 'Een apparaat kopen',
       'how-to-start-option-A-text' => '<p>Als individuele burger kunt u uw eigen Telraam-toestel kopen en zelf het verkeer in uw straat tellen via het Telraam-platform..</p>',
@@ -155,5 +186,5 @@ Deze werkwijze en de open toegang tot de verzamelde verkeersgegevens, democratis
     'section4-cta-text' => 'Aarzel niet om ons een bericht te sturen. We horen graag van je.',
     'section4-cta-btn' => 'Neem contact op',
 
-
+     
 ];

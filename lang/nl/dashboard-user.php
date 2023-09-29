@@ -17,7 +17,7 @@ return [
     'som-main-title' => 'Hoe krijg ik een Telraam en begin ik met tellen?',
 
     'som-default-title' => 'Workshop, stad of derde partij',
-    'som-default-text' => 'Moedig uw lokale en regionale overheden aan om een kleinschalig telnetwerk uit te rollen. <a href="https://telraam.net/en/governments" target="blank">Meer info</a>',
+    'som-default-text' => 'Moedig uw lokale en regionale overheden aan om een kleinschalig telnetwerk uit te rollen. <a href="https://telraam.net/nl/governments" target="blank">Meer info</a>',
 
     'som-gotron-title' => 'Bestel een Telraam online',
     'som-gotron-text' => 'Ik wil het Telraam-apparaat bestellen bij <a href="https://telraam.net/nl/shop" target="blanco">de Telraam shop</a>',
@@ -39,6 +39,6 @@ return [
 
     'title-S2' => 'S2',
     'description-S2' => 'Aangepaste en nieuw gebouwde hardware voor verkeerstelling. Geen wifi nodig, maar wel goed zicht op de straat. ',
-    'start-btn-S2' => 'I heb de S2',
+    'start-btn-S2' => 'Ik heb de S2',
 ];
 

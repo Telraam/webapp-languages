@@ -10,11 +10,7 @@ return [
 
     'no-data'                   => 'Nog geen gegevens beschikbaar',
     'camera-position'           => 'Camerapositie',
-    'address'                   => 'Adres',
-    'my-setup'                  => 'Mijn setup',
-
     'network'                   => 'Netwerk',
-    'member-since'            => 'Aan het tellen sinds',
     'visualisation-more'        => 'Vind meer visualisaties op de ',
     'visualisation-info-1'    => 'De telgegevens van jouw straat worden overzichtelijk gepubliceerd op ',
     'visualisation-info-2'    => 'Aarzal niet om ze te delen!',
@@ -29,7 +25,9 @@ return [
      'support-mail'             => 'Je kan ons mailen op <a href="mailto:support@telraam.net">support@telraam.net</a>',
      'photo-street'              => 'Foto van je straat',
      'upload-note'              => 'Upload hier een foto van je straat. Bij voorkeur een horizontale foto.',
-
+    'address'                   => 'Adres',
+    'my-setup'                  => 'Mijn setup',
+    
      'is-counting'               => 'Telraam is aan het tellen',
      'was-counting'             => 'Telraam telt niet meer',
      'was-counting-link-v1'        => '<a href="https://faq-nl.helpspace-docs.io/article/111/mijn-telraam-telt-niet-meer" target="_blank">Troubleshooting</a>',
@@ -44,6 +42,7 @@ return [
     'software-up-to-date'           => 'Je telraam software is up to date. Je telraam beschikt over versie 10.' ,
     'software-not-up-to-date'        => 'Er is een update (V10) beschikbaar voor uw telraam',
     'software-might-not-up-to-date'  => 'We konden nog niet verifiëren of je Telraam over de laatste software versie (V10) beschikt.',
+    
     'software-update-read-more'     => '<a href="https://faq-nl.helpspace-docs.io/article/136/de-telraam-software-zelf-updaten">Telraam zelf updaten</a>',
 
 

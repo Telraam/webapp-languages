@@ -54,7 +54,7 @@ return [
     <strong>Typical traffic data</strong><br>
     <br>
     Typical traffic is the foundation of many of the analytical tools and data products that we offer to our subscribers.
-    As an example, typicala data includes the typical (average) counts (and the most likely range) for the expected car traffic for a Monday morning
+    As an example, typical data includes the typical (average) counts (and the most likely range) for the expected car traffic for a Monday morning
     between 08:00 and 08:15 based on the last 12 months\' actual traffic - but you can choose a different mode, day of week, time of day, and baseline
     period as you wish. How does this work in practice?
     <ul class="jump-in">
@@ -95,7 +95,7 @@ return [
     'features-3-title' => '15 minute data',
     'features-3-text' => 'Similar to the Segments tab, but here you can monitor data with a higher temporal resolution. Some effects are very short-lived,
     for example the morning rush near schools, or a temporary road block caused by an accident. Quarterly live data is also much more real time, as new datapoints
-    are added evey fifteen minutes, which is great for real-time applications.',
+    are added every fifteen minutes, which is great for real-time applications.',
 
     'features-4-title' => 'Installations',
     'features-4-text' => 'A road segment may have more than one Telraam sensor installed. In this case the segment page shows the (smartly weighted)

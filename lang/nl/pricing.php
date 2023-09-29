@@ -41,7 +41,7 @@ return [
     'get-started' => 'Aan de slag',
     'get-in-touch' => 'Neem contact op',
     'order' => 'Bestel',
-    'order-note' => 'Enkel levering binnen Europa en US op dit moment',
+    'order-note' => 'Enkel levering binnen Europa, UK en US op dit moment',
 
     // includes
     'include-title' => 'Inclusief:',
@@ -66,7 +66,7 @@ return [
     // ------------------- block #2
     // ------------------------------------------------------
     'title-block-2' => 'Welke functionaliteiten krijg je in elk pakket?',
-    'more-btn' => 'Toon gedetaileerde info',
+    'more-btn' => 'Toon gedetaileerde prijsinfo',
 
     'pricing-per-device' => 'Prijs per toestel',
     'subscription-software' => 'Abonnement op software',
@@ -82,7 +82,7 @@ return [
     'features' => 'Kenmerken',
     'personal-dashboard' => 'Persoonlijk dashboard',
     'network-dashboard' => 'Netwerk dashboard',
-    'network-dashboard-feature-1'  => 'Manage netwerk settings',
+    'network-dashboard-feature-1'  => 'Beheer netwerkinstellingen',
     'network-dashboard-feature-2' => 'Selectie van kandidaten',
     'network-dashboard-feature-3' => 'Geautomatiseerde emails ',
     'network-dashboard-feature-4' => 'Basis analytische tools',
@@ -91,12 +91,12 @@ return [
     'network-dashboard-feature-7' => 'Meerdere trajecten',
 
     'api-access' => 'API toegang',
-    'api-for-one-hour' => 'Basic API toegang voor 1u data',
-    'api-15min' => 'Geavanceerd API toegang: 15min data, typische verkeersdata',
-    'api-custom'  => 'Custom: API-opties op aanvraag, aangepaste tariefgrenzen',
+    'api-for-one-hour' => 'Basis API toegang voor data op uurniveau',
+    'api-15min' => 'Geavanceerde API toegang: 15min data, typische verkeersdata',
+    'api-custom'  => 'Op maat: API-opties op aanvraag, aangepaste tariefgrenzen',
 
     'support' => 'Support',
-    'support-faq' => 'FAQ support artikels',
+    'support-faq' => 'FAQ & support artikels',
     'support-tt' => 'Peer-to-peer ondersteuning via Telraam Talks',
     'support-mail-low' => 'Mail support<br> (antwoord binnnen 3-5 werkdagen)',
     'support-mail-high' => 'Priority mail support <br>(antwoord binnen 1 werkdag)',
@@ -115,6 +115,7 @@ return [
 
     // table buttons
     'contact-schedule-talk' => 'Plan een gesprek in',
+    
     'individual' => 'Persoonlijk',
     'professional' => 'Professioneel',
 ];
