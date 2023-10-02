@@ -3,98 +3,71 @@
 return [
 
     'title'           => 'Telraam V1',
-    'subtitle'          => 'Our first sensor<br>
-Raspberry Pi turned traffic counter<br>
-You source the parts, we provide the software and the data platform<br>',
+    'subtitle'          => 'Onze allereerste sensor<br>
+Een Raspberry Pi omgevormd naar verkeersteller<br>
+U haalt de onderdelen, wij de software en het dataplatform<br>',
 
-    'warning' => ' <p>Telraam V1 was Telraam\'s first concept sensor, and it started a traffic-counting revolution which has now
-been taken to the next level thanks to our purpose-built Telraam S2 device.</p>
+    'warning' => ' <p>Het Telraam V1 was de eerste concept-sensor van Telraam en startte een revolutie op het gebied van verkeerstellen. Deze hebben we nu naar een hoger niveau getild dankzij onze speciaal gebouwde Telraam S2 sensor.</p>
 <p>
-While we believe that the Telraam S2 offers better accuracy, precision, and an improved user experience for citizen science,
- we will keep supporting Telraam V1 devices over the coming years.</p>',
+Hoewel we geloven dat de Telraam S2 sensor meer nauwkeurigheid en precisie biedt alsook een sterk verbeterde gebruikerservaring biedt voor citizen science, zullen we de komende jaren ook de bestaande Telraam V1-apparaten blijven ondersteunen.</p>',
 
 
-    'section1-title'        => 'History',
-    'section1-subtitle'     => 'An origin(al) story',
+    'section1-title'        => 'Achtergrond',
+    'section1-subtitle'     => 'Een unieke ontstaansgeschiedenis',
 
-    'section1-text'        => '<p>During the summer of 2018 a mix of transport engineers, data scientists, and developers sat
-together at <a href="https://www.tmleuven.be/" target="_blank">TML</a>
- to come up with a method that could provide traffic data on a previously unprecedented local scale, operating continuously
- for a fraction of the cost of existing traffic monitoring systems.</p>
+    'section1-text'        => '<p>Tijdens de zomer van 2018 zat een groepje transportingenieurs, datawetenschappers en ontwikkelaars samen bij <a href="https://www.tmleuven.be/" target="_blank">TML</a>
+ om een nieuwe methode te bedenken voor het aanleveren van verkeersgegevens: een focus op het voorheen onontdekte lokale schaal, met continuë gegevens én voor een fractie van de kosten van bestaande verkeersmonitoringsystemen.</p>
 
-<p>The experience of the team led them to focus on building something small, simple and affordable, but still fit for purpose.
-The final device would need be able to live in citizens’ windows, so that it would represent their actual ‘view’ of the street,
- but without being intrusive. This way it could be deployed in large numbers to get a complete picture of a wide range of streets,
- including minor and residential ones, not often covered by traditional counting setups.</p>
+<p>De ervaring van het team leidde hen ertoe zich te focussen op het bouwen van iets kleins, eenvoudigs en betaalbaars, maar nog steeds geschikt voor het beoogde doel. Het uiteindelijke toestel zou bij de burgers op de ramen moeten kunnen leven, om daar dan het werkelijke \'uitzicht\' op de straat weer te kunnen geven, en dit zonder als indringer over te komen. Op deze manier zou het in grote aantallen kunnen worden ingezet om een voleldig beeld te krijgen in een breed scala aan straten, inclusief kleine straten en woonwijken, die vaak niet door traditionele telopstellingen gedekt worden.</p>
 
-<p>The prototype was built using off-the shelf components such as a miniature Raspberry Pi computer and a camera that met the
-above criteria, but the detection algorithm was developed in house. The development of the sensor was finished before the end
-of the summer, then a basic back-end and front-end were built from scratch, with the initial batch of 50 devices being distributed
-in Leuven during early 2019. By the time the Telraam S2 was launched in 2023, more than 5000 Telraam V1 devices had been sold
- around the world.</p>',
+<p>Het prototype werd gebouwd met kant-en-klare componenten zoals een Raspberry Pi microcomputer en een camera die aan de bovenvermelde criteria voldeed, het detectiealgoritme werd daarentegen wel intern ontwikkeld. De ontwikkeling van de sensor was klaar voor het einde van de zomer (2018), waarna een basis back-end en front-end vanaf nul werden opgebouwd en de eerste batch van 50 sensoren begin 2019 in Leuven werd uitgerold. Tegen de tijd dat de Telraam S2 in maart 2023 werd gelanceerd, waren er wereldwijd al meer dan 5000 Telraam V1-apparaten verkocht.</p>',
 
-    'section1-text-extra'        => 'Because most of our users just want to count traffic and aren\'t necessarily technically skilled 
-    to work with Raspberry Pi\'s, we only sell the Telraam S2 since its release in spring 2023. However, we know that there are plenty of techies 
-    out there who would love to get started, and for them the Raspberry Pi based V1 sensors is still a great tool to play with. 
-    That is why we are not only still supporting the old V1 sensors in the field, but also installations of new self-built Telraam V1 devices. 
-    If you want to count traffic and you’re not scared of a Raspberry Pi project, read on!',
+    'section1-text-extra'        => 'Omdat de meeste van de Telraam gebruikers enkel verkeer willen tellen en niet noodzakelijkerwijs technisch onderlegd zijn om met Raspberry Pi\'s te werken, verkopen we sinds de release in het voorjaar van 2023 alleen nog de Telraam S2. We weten echter dat er ook nog genoeg techneuten zijn die graag aan de slag willen, en voor hen blijft de V1-sensor met Raspberry Pi een geweldig hulpmiddel om mee te spelen. Daarom ondersteunen blijven we niet alleen de bestaande V1-sensoren op het terrein ondersteunen, maar ook de nieuwe installaties met zelfgebouwde Telraam V1-apparaten. Als je verkeer wilt tellen en niet bang bent voor een Raspberry Pi-project, lees dan verder!',
 
-    'section2-title'        => 'DIY',
-    'section2-subtitle'     => 'What is required for a Telraam V1?',
-    'section2-text'        => 'The kit required for a Telraam V1 consists of the following components (please note the specific models required):<br>
+    'section2-title'        => 'Doe-het-zelf',
+    'section2-subtitle'     => 'Wat heb ik nodig voor een Telraam V1 project?',
+    'section2-text'        => 'Het zelfbouwpakket voor een Telraam V1 bestaat uit de volgende onderdelen (let op de specifieke modellen die nodig zijn):<br>
             <ul class="jump-in">
                 <li>Raspberry Pi 3A+</li>
                 <li>Raspberry Pi Camera Module 2</li>
-                <li>Camera mount (you can buy any available RPI camera holder, but we have also made a 3D-printed bracket ourselves, that you can still buy in our <a href="https://buy.stripe.com/4gw4jXeOv3G8ePucMP">
-                shop</a>, or you can print it yourself using the files on <a href="https://github.com/Telraam/camera-mount">
+                <li>Camerahouder (je kan elke beschikbare RPI camerahouder gebruiken, maar we maakten ook zelf een ge-3D-printe houder, die nog steeds kan kopen in onze <a href="https://buy.stripe.com/4gw4jXeOv3G8ePucMP">
+                shop</a>, of zelf kan printen gebruikmakend van de bestanden op <a href="https://github.com/Telraam/camera-mount">
                 GitHub</a>)</li>
-                <li>16 GB SD card with the Telraam image flashed (you can find
-                <a href="https://github.com/Telraam/Telraam-RPi">the software on GitHub here</a>)</li>
-                <li>Power adapter</li>
-                <li>Recommended: a black foldable cover to serve as a sun-shade for the camera module (against internal reflections on the window)</li>
-                <li>Optional: casing for the Raspberry Pi to make it look pretty</li>
+                <li>16 GB SD-kaart met de Telraam image erop geflasht (je vindt                <a href="https://github.com/Telraam/Telraam-RPi"> de software op GitHub hier </a>)</li>
+                <li>Stroomadapter</li>
+                <li>Aanbevolen: een zwart plooibare afdekhoes dat dient als een zonnewering voor de camera moduel (tegen de refelecties aan de binnenkant van het raam)</li>
+                <li>Optioneel: een casing om de Raspberry Pi er mooier te laten uitzien</li>
             </ul>
         <br>
-        Please consult our FAQ for more information on
-            <a href="https://telraam.helpspace-docs.io/article/36/do-it-yourself-assemble-telraam-by-yourself">how to assemble your device</a>.</p>
+        Raadpleeg onze FAQ voor meer meer info over
+            <a href="https://faq-nl.helpspace-docs.io/article/135/do-it-yourself-je-telraam-v1-zelf-assembleren">hoe een v1-toestel zelf te assembleren</a>.</p>
 ',
 
-    'section2-text-extra'        => '<b> The software and firmware included in the offered SD card image were created for
-    these specific components and may not work with a different configuration, so please make sure you source the correct hardware.</b> Some community efforts
-    have been made to set up V1 devices using different RPi versions (see entries on our GitHub), but we are unable to provide support for such endevours.',
+    'section2-text-extra'        => '<b> De software en firmware die wordt aangeboden op SD-kaartimage zijn ontwikkeld voor deze specifieke componenten en werken mogelijk niet met een andere configuratie, dus zorg ervoor dat je de juiste hardware gebruikt.</b> Er zijn door de online community pogingen gedaan om V1-toestellen te gebruiken met verschillende RPi versies (lees meer op GitHub), maar we kunnen geen ondersteuning bieden voor zulke pogingen.',
 
     'section3-title'        => 'Telraam V1 FAQ',
-    'section3-subtitle'     => 'What and how does Telraam V1 count?',
+    'section3-subtitle'     => 'Wat en hoe telt het Telraam V1?',
 
-    'section3-text'        => 'Telraam V1 uses computer vision (OpenCV) to detect objects in front of a constant (periodically
-     recalculated median) background. Objects are detected in real time on each low-resolution frame that is sent by the camera.
-     Some basic parameters (such as position in the frame, width, height, area, etc.) of the objects\' contours are stored in
-     the memory every couple of minutes until an algorithm processes (and later deletes) them in order to identify and
-     track objects moving across the image frame (therefore along the street). At the end of each cycle the average
-     parameters of the objects that were successfully tracked are sent to the Telraam servers, where they later get classified
-     into road users based on their observed parameters, before being aggregated into quarterly and hourly count totals
-     per mode and direction of travel.<br>
+    'section3-text'        => 'Telraam V1 gebruikt computer vision (OpenCV) om objecten te detecteren met een constante (periodiek herberekende mediaan) achtergrond. Objecten worden in realtime gedetecteerd op elk frame met een lage resolutie dat vanuit de camera worden doorgestuurd. Enkele basisparameters (zoals positie in het frame, breedte, hoogte, oppervlakte, enz.) van de contouren van de objecten worden om de paar minuten opgeslagen in het geheugen totdat een algoritme ze verwerkt (en later verwijdert) om zo objecten die over het beeldframe bewegen (dus langs de straat) te identificeren en te volgen. Aan het einde van elke cyclus worden de gemiddelde parameters van de objecten die met succes zijn getraceerd naar de Telraam-servers gestuurd, waar ze later worden ingedeeld in weggebruikers op basis van hun waargenomen parameters, voordat ze worden samengevoegd tot kwartier- en uurtotalen per vervoerswijze en rijrichting.<br>
 <br>
 
-The Telraam server classifies objects originating from Telraam V1 devices into four types of modes:
+De Telraam server classificeert objecten die afkomstig zijn van Telraam V1 apparaten in vier soorten modi:
     <ul class="jump-in">
-        <li>pedestrians</li>
-        <li>two-wheelers (cyclists and motorbikes)</li>
-        <li>cars </li>
-        <li>heavy vehicles (anything bigger than a passenger vehicle)</li>
+        <li>voetgangers</li>
+        <li>tweewielers (fietsers en bromfietsen)</li>
+        <li>auto\'s </li>
+        <li>zwaar verkeer (alles groter dan een personenwagen)</li>
     </ul>
 <br>
-    What Telraam does not count:<br>
-    <span class="cross">×</span> Telraam does not count when it is dark.<br>
-    <span class="cross">×</span> Telraam does not recognise individual vehicles (nor number plates).<br>
-    <span class="cross">×</span> Telraam does not recognise individual people (nor faces).<br>
-    <span class="cross">×</span> Telraam V1 cannot reliably count the exact number of vehicles over a
-    very short (few minutes long) time period<br>
-    <span class="cross">×</span> Telraam V1 is not a speed camera, and it cannot provide precise speed measurements.<br>
+    Wat telt Telraam niet:<br>
+    <span class="cross">×</span> Telraam telt niet bij duisternis.<br>
+    <span class="cross">×</span> Telraam herkent geen individuele voertuigen (nog nummerplaten).<br>
+    <span class="cross">×</span> Telraam herkent geen individuën (noch gezichten).<br>
+    <span class="cross">×</span> Het Telraam V1 kan niet betrouwbaar het exacte aantal voertuigen tellen over een zeer korte (enkele minuten) tijdsperiode<br>
+    <span class="cross">×</span> Telraam V1 is geen flitspaal en kan geen nauwkeurige snelheidsmetingen uitvoeren.<br>
 
-<p>For more information on the technical requirements, object classification, accuracy and potential limitations, data
-calibration, and questions regarding the speed data, please
-<a href="https://telraam.helpspace-docs.io/category/5/telraam-v1">visit our FAQ</a>.</p>',
+<p>Voor meer informatie over de technische vereisten, objectclassificatie, nauwkeurigheid en mogelijke beperkingen, gegevenskalibratie en vragen over de snelheidsgegevens kunt u terecht op
+<a href="https://faq-nl.helpspace-docs.io/category/17/telraam-v1">onze FAQ</a>.</p>',
 
 
 ];
