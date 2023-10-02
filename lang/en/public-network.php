@@ -18,7 +18,7 @@ return [
 
     // web page  ----
     'title' => 'Build a Network',
-    'subtitle' => 'Deploy and manage Telraam at a local, municipal, or regional level with a network of Telraam devices hosted by citizens. The Network subscription provides all the management and data analytic tools that you need',
+    'subtitle' => 'Deploy and manage Telraam at a local, municipal, or regional level with a network of Telraam devices hosted by citizens. The Network subscription provides all the management and data analytic tools that you need.',
 
      // pricing
      'pricing-title' => 'Network subscription',
@@ -60,7 +60,7 @@ return [
     <br>The Dashboard is a central hub that provides a quick, general overview of the status of the network, and access to a rich set of communication and reporting tools. It gives you an at-a-glance summary of active devices on a map, including key performance indicators, and a notification stream of any activity or warning from participating devices.</p>',
 
     'features-2-title' => 'Network administration',
-    'features-2-text' => '<p>Personalise and maintain your network, using network settings options, content management tools, and branding opportunities<br>
+    'features-2-text' => '<p>Personalise and maintain your network, using network settings options, content management tools, and branding opportunities.<br>
     <br>You can decide whether and when to make the content public, or keep it restricted to a select group. You can also create multiple ‘tracks’ to segment your data gathering by time or by location.<br>
     <br>Provide support, improve data collection, and diagnose and fix issues through remote device management, or get expert assistance from the Telraam team.</p>',
 
