@@ -10,7 +10,7 @@ return [
     'pricing-1-subtitle' => 'Comprend les 10 catégories d\'usagers de la route, une résolution de données de 15 minutes, plus d\'outils et de meilleurs rapports',
     'pricing-1-info' => 'Plusieurs dispositifs dans votre quartier en tant qu\'organisation ou ville ?
                             <div style="padding-left: 20px">
-                                Considérez le <a href="../reseau">Réseau</a> à la place.
+                                Considérez le <a href="../network">Réseau</a> à la place.
                                 Celui-ci inclut un abonnement aux données pour tous les dispositifs, ainsi qu\'un ensemble d\'outils de gestion de réseau.
                             </div>',
 
