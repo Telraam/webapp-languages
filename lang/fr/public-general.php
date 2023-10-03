@@ -4,13 +4,17 @@ return [
 
     'nav-map' => 'Carte',
     'nav-what-is' => 'Qu’est-ce que Telraam',
-    'nav-self-measure' => 'Compter soi-même',
-    'nav-shop' => 'Shop',
-    'nav-press-kit' => 'Press Kit',
-    'nav-professionals' => 'Professionnels',
-    'nav-faq-support' => 'FAQ & Support',
+    'nav-device' => 'Dispositif',
+    'nav-data' => 'Données',
+    'nav-network' => 'Réseau',
+    'nav-shop' => 'Boutique',
+    'nav-press-kit' => 'Kit Presse',
+    'nav-blog' => 'Blog',
+    'nav-talks' => 'Telraam Talks',
+
+    'nav-faq-support' => 'FAQ et support',
     'nav-login' => 'Se connecter',
-    'nav-registrer' => 'S’enregistrer',
+    'nav-registrer' => 'S\'enregistrer',
 
     'footer-follow-us' => 'Suivez-nous',
     'footer-what-is' => 'Telraam est une initiative de <a href="https://tmleuven.be">TML</a>, <a href="https://www.mobiel21.be/">Mobiel 21</a> et
@@ -27,6 +31,8 @@ return [
     /* 18 maa */
     'footer-info-mail' => 'Questions d\'ordre général',
     'footer-support-mail' => 'Questions techniques',
+
+    'telraam-devices-counting-now' => 'Dispositifs Telraam en cours de comptage',
 
     /* 25 aug */
     'privacy-policy' => 'Politique de confidentialité',

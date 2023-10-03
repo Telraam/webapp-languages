@@ -115,6 +115,7 @@ return [
 
     // table buttons
     'contact-schedule-talk' => 'Contactez-nous',
+    
     'individual' => 'Personnel',
     'professional' => 'Professionnel',
 ];
