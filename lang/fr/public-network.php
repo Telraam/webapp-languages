@@ -1,201 +1,145 @@
+
 <?php
 
 return [
 
     // onglets
-    'header-general' => 'Informations générales',
-    'header-timeline' => 'Ce qui se passe',
-    'header-apply' => 'Postuler comme candidat',
+    'header-general' => 'Informations Générales',
+    'header-timeline' => 'Événements',
+    'header-apply' => 'Postuler en tant que candidat',
 
     // chronologie
-    'closing-track' => 'Fermer la trajectoire',
-    'opening-track' => 'Coup d\'envoi!',
-    'candidate-form-closed' => 'Le formulaire de candidature est fermé',
-    'candidate-form-opened' => 'Accepter des candidats!',
+    'closing-track' => 'Fermeture de la Piste',
+    'opening-track' => 'Coup d\'envoi !',
+    'candidate-form-closed' => 'Le formulaire du candidat sera fermé',
+    'candidate-form-opened' => 'Acceptation des candidats !',
 
-    // Postuler comme candidat
-    // -> fichiers candidats
+    // Postuler en tant que candidat
+    // -> candidats au fichier
 
-    // page web
+    // page web ----
     'title' => 'Construire un Réseau',
-    'subtitle' => 'Déployez et gérez Telraam à un niveau local, municipal ou régional avec un réseau de dispositifs Telraam hébergés par des citoyens. L'abonnement au Réseau offre tous les outils de gestion et d'analyse de données dont vous avez besoin.',
+    'subtitle' => 'Déployez et gérez Telraam à un niveau local, municipal ou régional avec un réseau de dispositifs Telraam hébergés par les citoyens. L\'abonnement au Réseau fournit tous les outils de gestion et d\'analyse nécessaires.',
 
     // tarification
     'pricing-title' => 'Abonnement au Réseau',
     'month' => 'mois',
     'pricing-box-line1' => 'Outils administratifs et de recrutement',
-    'pricing-box-line2' => 'Outils d'analyse de données réseau et diverses options de rapports et d'exportation de données',
-    'pricing-box-line3' => '
+    'pricing-box-line2' => 'Outils d\'analyse de données du réseau et diverses options d\'exportation de données',
+    'pricing-box-line3' => 'Inclut toutes les fonctionnalités de l\'<a href="../fr/abonnement-aux-donnees">Abonnement aux Données</a> pour tous les capteurs et segments du réseau',
 
+    // contenu principal
+    'section1-block1-title' => 'Un réseau d\'opportunités',
+    'section1-block1-text' => 'Les études de génie de la circulation et l\'urbanisme à un niveau local et régional nécessitent la collecte de comptages de trafic à partir de plusieurs endroits, et traditionnellement, cela a été un processus coûteux et chronophage.<br>
+    <br>Grâce à la technologie basée sur l\'IA et au modèle de déploiement unique des <a href="https://www.telraam.net/fr/S2">dispositifs Telraam</a>, nous offrons une méthode de comptage alternative, rentable et multi-modale qui a fait ses preuves en termes de précision dans une grande variété de conditions.<br>
+    <br>Telraam propose un abonnement au Réseau pour les organisations exploitant plusieurs dispositifs, tels que les gouvernements et les autorités du niveau local au national, ainsi que les groupes militants. En déployant un réseau finement maillé de dispositifs Telraam alimentés par la science citoyenne, le processus de comptage du trafic peut être considérablement amélioré, permettant de recueillir des données multi-modales de manière continue, tout en réduisant les coûts.',
 
+    'section2-small-title' => 'Comment ça marche ?',
+    'section2-block1-title' => 'Une solution de projet complète',
+    'section2-block1-text' => 'Un abonnement au Réseau fournit les outils de gestion et d\'analyse de données nécessaires tout au long de la durée de vie d\'un projet. Il comprend des outils administratifs pour planifier, déployer et gérer un réseau de dispositifs Telraam hébergés par des citoyens privés sur de plus longues périodes (généralement de 6 à 12 mois), et des outils d\'analyse de données pour surveiller et analyser le trafic à la fois au niveau du segment de rue et du réseau. <br>
+    <br>Les données en temps réel et historiques peuvent être consultées et analysées à tout moment, ou exportées pour une analyse hors ligne. Le soutien est assuré par l\'équipe Telraam tout au long du processus, du début à la fin.',
 
-User
-Take into account earlier requests
+    'section2-block2-title' => 'Engagement citoyen et opérations transparentes',
+    'section2-block2-text' => 'Étant donné que les dispositifs Telraam sont hébergés par des citoyens individuels, un réseau Telraam offre une opportunité unique de s\'engager avec les habitants, de renforcer la confiance et d\'échanger des connaissances avec les personnes qui vivent les effets de la circulation dans leurs rues au quotidien. Ainsi, les résidents motivés ont une implication plus directe et personnelle dans la politique de mobilité locale.<br>
+    <br>Les outils d\'abonnement au réseau rationalisent le processus de recrutement, de candidature et de sélection des citoyens. Ils apprennent à configurer leur propre compteur de trafic entièrement automatisé et à mieux comprendre les données. Les participants deviennent des citoyens scientifiques capables de faire des contributions constructives, objectives et basées sur les données au processus de prise de décision politique local.<br>
+    <br>Les données Telraam peuvent également être utilisées par les chercheurs, les résidents et les parties intéressées pour, par exemple, valider leurs demandes de modifications des plans de circulation locaux, apportant ainsi des contributions objectives et basées sur les données aux discussions.',
 
-ChatGPT
-Certainly! Here is the translated content in French, taking into account the earlier requests:
-
-php
-Copy code
-<?php
-
-return [
-
-    'title' => 'Données',
-    'sub-title' => 'Les applications professionnelles nécessitent des produits de données avancés. Approfondissez vos analyses avec l\'abonnement aux données Telraam et exploitez pleinement le potentiel du dispositif Telraam S2 : accédez aux comptages au niveau des segments et des dispositifs avec une résolution temporelle plus fine, davantage de modes de trafic, des API avancées et un large éventail de visualisations et d\'outils analytiques.',
-
-    // Boîte de tarification
-    'pricing-1-title' => 'Abonnement aux données <span class="green">15 € <span class="month">/ mois</span></span>',
-    'pricing-1-subtitle' => 'Inclut les 10 classes d\'utilisateurs de la route, une résolution de données de 15 minutes, plus d\'outils et de meilleurs rapports',
-    'pricing-1-info' => '(Multiples) dispositifs dans votre quartier en tant qu\'organisation ou ville ? 
-                            <div style="padding-left: 20px">
-                                Considérez le <a href="../network">Réseau</a> à la place.
-                                Cela inclut un abonnement aux données pour tous les dispositifs, ainsi qu\'un ensemble riche d\'outils de gestion de réseau.
-                            </div>',
-
-    'pricing-2-title' => 'Données de base <span class="green">Gratuites pour un usage personnel uniquement</span>',
-    'pricing-2-subtitle' => 'Limitées aux 4 modes par défaut et aux données horaires.',
-
-    // Titres des onglets
-    'tab-1-title' => 'Abonnement aux données',
-    'tab-2-title' => 'Données de base',
-
-    // Informations
-    'section-1-title' => 'Plus de détails',
-    'section-1-intro' => 'Les abonnés aux données ont accès à des données de comptage avec une résolution temporelle quatre fois supérieure à notre ensemble de données de base, ainsi qu\'à un ensemble étendu de classes d\'utilisateurs de la route lors de l\'examen des parts modales. Cette résolution plus élevée signifie également un délai considérablement réduit, ce qui permet aux utilisateurs professionnels de suivre les données de trafic en temps réel beaucoup plus rapidement.',
-
-    'section-1-block1' => '<strong>Résolution de 15 minutes</strong><br>
-    <br>
-    Résolution temporelle de 15 minutes pour tous les produits de données, y compris les données de comptage, les données de tendance typiques, et pour tous les outils et API d\'analyse, de visualisation et d\'exportation.
-    <ul class="jump-in">
-        <li>Découvrez, suivez et analysez les modèles de trafic et les anomalies avec plus de clarté.</li>
-        <li>Idéal pour l\'étude d\'événements de courte durée (utilisation de rues scolaires, congestions, accidents).</li>
-        <li>Trafic en direct avec un affichage beaucoup plus en temps réel (retard de seulement 15 minutes au niveau du dispositif, par rapport à un peu plus d\'une heure pour les utilisateurs non abonnés avec uniquement des données de niveau de segment).</li>
-    </ul>
-    <br>
-    <p><strong>10 modes différents</strong><br>
-     <br>
-     Comptages de trafic par direction de déplacement pour 10 classes différentes d\'utilisateurs de la route (les utilisateurs non abonnés reçoivent des comptages agrégés sur les quatre principales classes).<br>
-     Les classes différenciées sont les vélos, les bus, les voitures, les camions légers, les motos, les piétons, les poussettes, les tracteurs, les remorques et les camions.</p>
-     <br>',
-
-    'section-1-block2' => '
-    <strong>Données de trafic typiques</strong><br>
-    <br>
-    Les données de trafic typiques sont à la base de nombreux outils analytiques et produits de données que nous proposons à nos abonnés. Par exemple, les données typiques comprennent les comptages typiques (moyens) (et la plage la plus probable) pour le trafic automobile attendu pour un lundi matin entre 08h00 et 08h15 sur la base des 12 derniers mois de trafic réel - mais vous pouvez choisir un mode, un jour de la semaine, une heure de la journée et une période de référence différente à votre guise. Comment cela fonctionne-t-il en pratique?
-    <ul class="jump-in">
-        <li>Nous fournissons des volumes de trafic typiques calculés comme la moyenne (et l\'écart type) des comptages de trafic historiques sur des périodes d\'une année, d\'une saison et d\'un mois précédant la date du calcul (appelée l\'époque).</li>
-        <li>Chaque produit typique est calculé à intervalles réguliers pour fournir un ensemble croissant continu de moyennes historiques correspondant à diverses époques. Les données sont mises à disposition avec une résolution trimestrielle et horaire,
-        pour chaque mode, jusqu\'à chaque jour de la semaine (y compris une option plus générale pour les jours de semaine et les week-ends).</li>
+    'section2-block3-title' => 'Données ouvertes et confiance',
+    'section2-block3-text' => 'Les organisations peuvent établir la confiance avec les citoyens en s\'engageant via Telraam. Une grande partie des données de comptage est librement disponible en tant que données ouvertes, et la technologie ainsi que les performances des capteurs Telraam sont bien documentées.<br>
+    <br>Les tiers peuvent également ajouter de la valeur aux ensembles de données. Il existe de nombreuses façons pour les parties à l\'intérieur et à l\'extérieur d\'un réseau de parcourir et d\'interagir avec vos données, allant de la carte Telraam en direct entièrement ouverte, aux API publiques et avancées, en passant par les tableaux de bord spécifiques aux données de segment et de réseau.<br>
+<ul class="text-list">
+    <li>Toutes les données de base sur la circulation collectées sont disponibles au public via la carte interactive et les pages de segment sur le site Web de Telraam, ou directement via l\'API publique de Telraam sous une licence de données ouvertes, non commerciales.</li>
+    <li>Les propriétaires et les participants du réseau ont un accès supplémentaire aux données complètes de leurs dispositifs Telraam S2 via leurs tableaux de bord et leurs points d\'API exclusifs.</li>
+    <li>Le tableau de bord du Réseau Telraam permet aux autorités locales de surveiller les dispositifs Telraam dans leur zone de projet, d\'exporter leurs données et d\'effectuer diverses analyses en direct.</li>
     </ul>',
 
-    'section-2-title' => 'Plus d\'outils, de meilleures informations et un contrôle complet',
+    // fonctionnalités en vedette
+    'features-title' => 'Fonctionnalités',
+    'features-1-title' => 'Tableau de bord du Réseau',
+    'features-1-text' => '<p>Accédez à vos données et informations utilisateur via le tableau de bord du Réseau, exclusivement réservé aux administrateurs d\'un réseau Telraam.<br>
+    <br>Le tableau de bord est un hub central qui fournit un aperçu rapide et général de l\'état du réseau, ainsi que l\'accès à un ensemble riche d\'outils de communication et de rapports. Il vous donne un résumé en un coup d\'œil des dispositifs actifs sur une carte, y compris les indicateurs clés de performance, et un flux de notification de toute activité ou avertissement des dispositifs participants.</p>',
 
-    'section-2-intro-text' => 'Bénéficiez de l\'expérience de l\'équipe derrière Telraam. Accédez à un
-     éventail d\'outils avancés et spécialement conçus pour explorer et comprendre vos données, facilitant et accélérant votre recherche.<br>
-      <br>
-      L\'abonnement aux données inclut l\'accès au tableau de bord des données, aux API avancées, aux fiches de rue,
-       et à d\'autres options d\'exportation de données personnalisées.',
+    'features-2-title' => 'Administration du Réseau',
+    'features-2-text' => '<p>Personnalisez et maintenez votre réseau en utilisant les options de paramètres du réseau, les outils de gestion de contenu et les opportunités de branding.<br>
+    <br>Vous pouvez décider si et quand rendre le contenu public, ou le restreindre à un groupe sélectionné. Vous pouvez également créer plusieurs "pistes" pour segmenter la collecte de données par temps ou par lieu.<br>
+    <br>Fournissez un soutien, améliorez la collecte de données, diagnostiquez et corrigez les problèmes grâce à la gestion à distance des dispositifs, ou obtenez de l\'aide experte de l\'équipe Telraam.</p>',
+
+    'features-3-title' => 'Recrutement et gestion des utilisateurs',
+    'features-3-text' => '<p>Un réseau nécessite la participation des citoyens. Maintenez la chronologie de votre réseau ! Recrutez et sélectionnez des utilisateurs, gérez les candidatures et interagissez avec les parties intéressées pendant la progression de votre projet en utilisant nos outils de communication.<br>',
+
+    'features-3-recruit-title' => 'Recruter des candidats :',
+    'features-3-recruit-list' => '
+    <ul class="text-list small">
+    <li>Définissez quelles données sont collectées auprès des candidats via le formulaire de candidature.</li>
+    <li>Examinez les candidats en fonction de leur emplacement sur la carte et de la qualité de leur vue de la rue à partir de leurs photos, et collaborez avec d\'autres administrateurs en ajoutant des notes et des avis.</li>
+    <li>Évaluez les candidatures pour un examen ultérieur, et sélectionnez-les ou mettez-les en liste d\'attente.</li>
+    <li>Personnalisez toute correspondance par e-mail pour des communications automatisées ou ad hoc.</li>
+    </ul>',
+
+    'features-3-interact-title' => 'Interagir avec les utilisateurs :',
+ 'features-3-interact-list' => '<ul class="text-list small">
+    <li>Parcourez un aperçu détaillé des utilisateurs actifs.</li>
+    <li>Filtrez les utilisateurs selon des critères spécifiques, idéal pour la gestion de réseaux plus importants.</li>
+    <li>Envoyez des e-mails groupés à des sous-groupes spécifiques d\'utilisateurs pour les tenir informés et engagés.</li>
+    <li>Obtenez des statistiques opérationnelles (par exemple, l\'état du dispositif, le temps de fonctionnement sur le dernier mois) pour le réseau à partir de nos rapports.</li>
+    </ul>',
+
+    'features-4-title' => 'Analyse de données avancée',
+    'features-4-text' => '<p>L\'abonnement au Réseau comprend toutes les fonctionnalités de l\'Abonnement aux Données, et bien plus encore. Les administrateurs du réseau ont accès aux tableaux de bord de données de tous les segments (et dispositifs) de leur réseau, tandis que les utilisateurs participants ont accès aux tableaux de bord de données de leurs propres segments.<br>
+    <br>Des fonctionnalités d\'analyse de données supplémentaires uniquement disponibles avec l\'abonnement au Réseau :</p>',
+
+    'features-4-reports-title' => 'Rapports de données :',
+    'features-4-reports-list' => '
+    <ul class="text-list small">
+    <li>Accès en un clic aux tableaux de bord de données pour chaque segment individuel du réseau.</li>
+    <li>Aperçu du trafic au niveau du réseau par heure ou par jour comparé au trafic typique, ce qui peut être utile pour repérer les changements ou les irrégularités au niveau du réseau.</li>
+    <li>Comparez les données de deux périodes, soit pour l\'ensemble du réseau, soit pour des segments sélectionnés, pour examiner les niveaux de trafic, les schémas de trafic quotidiens ou les vitesses des voitures. </li></ul>',
+
+    'features-4-exports-title' => 'Exportations de données :',
+    'features-4-exports-list' => '<ul class="text-list small">
+    <li>Les options d\'exportation comprennent des rapports mensuels, des ensembles de données brutes mensuelles ou complètes, et le trafic typique (pour deux périodes définies par l\'utilisateur).</li>
+    <li>Créez des "feuilles de rue", nos fichiers Excel préconfigurés populaires qui vous permettent de travailler avec des données de comptage et des données typiques sans avoir à traiter les données brutes ou à accéder à nos API.</li></ul>',
 
 
-    // les 4 sections de données
-    'features-title' => 'Tableau de bord des données',
+    // fonctionnalités en liste simple
+    'extra-features-1' => 'Tableau de bord du Réseau',
+    'extra-features-2' => 'Gérer le branding et le contenu du réseau',
+    'extra-features-3' => 'Recrutement et sélection des candidats',
+    'extra-features-4' => 'E-mails automatisés et modèles',
 
-    'features-1-title' => 'Segments',
-    'features-1-text' => 'Surveillez le trafic en direct ou historique (et la répartition modale globale) sur un segment et comparez-le aux niveaux attendus pour identifier le trafic atypique.<br> Par exemple : si le trafic en direct se situe en dehors de l\'intervalle défini par la moyenne plus et moins trois fois l\'écart type du trafic historique, cela signifie que le trafic observé est inattendu par rapport à la moyenne du mois dernier, de la saison dernière ou de l\'année dernière, en fonction du produit de données typiques utilisé. L\'anomalie est-elle de courte ou de longue durée, est-elle due à un événement spécial, à la météo ou à un changement dans le plan de circulation ? Allez et explorez !',
+    'extra-features-5' => 'Résumés d\'analyse de base',
+    'extra-features-6' => 'Analyse avancée pour l\'analyse',
+    'extra-features-7' => 'Gestion des dispositifs',
+    'extra-features-8' => 'Plusieurs pistes',
 
-    'features-2-title' => 'Tendances',
-    'features-2-text' => 'Surveillez l\'évolution des tendances de trafic au fil du temps. Par exemple, vous pouvez visualiser le trafic automobile moyen du lundi de l\'année dernière, en utilisant des moyennes saisonnières (trimestrielles) calculées toutes les deux semaines, fournissant un motif de trafic moyen en moyenne mobile au fil du temps. L\'examen des moyennes mobiles aide à filtrer les anomalies de courte durée tout en mettant en lumière les changements à long terme. L\'histogramme 3D est un outil de visualisation très puissant, mais si vous voulez simplement comparer les niveaux de trafic de quelques époques sélectionnées entre elles, vous pouvez utiliser notre graphique interactif 2D traditionnel à cet effet. Avec le nombre de modes, de jours de la semaine, d\'intervalles typiques et d\'époques de calcul disponibles, les options sont très vastes.',
+    'extra-features-9' => 'Accès avancé à l\'API',
+    'extra-features-10' => 'Support entre pairs',
+    'extra-features-11' => 'Prise en charge prioritaire par e-mail',
+    'extra-features-12' => 'Sessions de formation',
 
-    'features-3-title' => 'Données de 15 minutes',
-    'features-3-text' => 'Similaire à l\'onglet Segments, mais ici vous pouvez surveiller les données avec une résolution temporelle plus élevée. Certains effets sont de très courte durée,
-    par exemple l\'affluence du matin près des écoles, ou un blocage temporaire de la route causé par un accident. Les données trimestrielles en direct sont également beaucoup plus en temps réel, car de nouveaux points de données sont ajoutés toutes les quinze minutes, ce qui est idéal pour les applications en temps réel.',
-
-    'features-4-title' => 'Installations',
-    'features-4-text' => 'Un segment de route peut avoir plus d\'un capteur Telraam installé. Dans ce cas, la page du segment affiche les métriques moyennes (pondérées de manière intelligente)
-    provenant des installations correspondantes (également appelées instances Telraam). En tant qu\'abonné aux données, vous pouvez consulter les données d\'origine de chaque instance individuelle de Telraam, ce qui peut être utile dans de nombreuses situations, notamment pour la validation des données, la séparation des données provenant de différentes versions de capteurs
-    (par exemple, dispositifs Telraam V1 et S2 sur le même segment), ou simplement pour consulter les données de votre propre dispositif.',
-
-    // 3e section
-    'features-3-title' => 'Fonctionnalités supplémentaires',
-
-    'features-3-1-title' => 'Tous les utilisateurs, toutes les classes',
-    'features-3-1-text' => 'Les abonnés aux données ont accès à 10 classes de comptages, tandis que les utilisateurs gratuits sont limités à 4 classes de comptages.<br> Si vous vous concentrez uniquement sur un mode (par exemple, uniquement les vélos ou uniquement les bus), cela vous aidera à suivre le trafic spécifique plus précisément.',
-
-    'features-3-2-title' => 'Plus d\'outils de comparaison',
-    'features-3-2-text' => 'Les outils d\'analyse de données (tels que les rapports et les fiches de rue) que nous fournissons aux abonnés aux données offrent davantage de fonctionnalités par rapport à ceux des utilisateurs gratuits.',
-
-    'features-3-3-title' => 'Vue d\'ensemble des utilisateurs',
-    'features-3-3-text' => 'Les abonnés aux données ont une vue d\'ensemble des utilisateurs actifs. Ils peuvent filtrer les utilisateurs en fonction de critères spécifiques, ce qui est idéal pour la gestion de réseaux plus importants.',
-
-    'features-3-4-title' => 'Accès prioritaire au support',
-    'features-3-4-text' => 'Les abonnés aux données obtiennent une réponse prioritaire lorsqu\'ils demandent de l\'aide à notre équipe de support.',
-
-    'features-3-5-title' => 'Exportations de données avancées',
-    'features-3-5-text' => 'Les abonnés aux données ont accès à des options d\'exportation de données avancées, notamment des rapports mensuels, des ensembles de données brutes mensuelles ou complètes, et des données typiques.',
-
-    // 4e section
-    'features-4-title' => 'Données typiques',
-
-    'features-4-1-title' => 'Plus de périodes typiques',
-    'features-4-1-text' => 'Les abonnés aux données ont accès à davantage de périodes typiques par rapport aux utilisateurs gratuits.',
-
-    'features-4-2-title' => 'Accès aux périodes typiques par heure',
-    'features-4-2-text' => 'Les abonnés aux données peuvent sélectionner une période typique spécifique en fonction de l\'heure de la journée.',
-
-    'features-4-3-title' => 'Personnalisation des périodes typiques',
-    'features-4-3-text' => 'Les abonnés aux données peuvent personnaliser les périodes typiques en fonction de leurs besoins spécifiques.',
-
-    'features-4-4-title' => 'Données typiques plus récentes',
-    'features-4-4-text' => 'Les abonnés aux données ont accès à des données typiques calculées plus récentes par rapport aux utilisateurs gratuits.',
-
-    'features-4-5-title' => 'Graphiques et visualisations',
-    'features-4-5-text' => 'Les abonnés aux données ont accès à un éventail de graphiques et de visualisations pour explorer les données typiques.',
-
-    // tabulation de prix
-    'pricing-title' => 'Tarification',
-
-    'pricing-1-title' => 'Abonnement aux données',
-    'pricing-1-subtitle' => 'Accès aux données de comptage à une résolution temporelle de 15 minutes et à un ensemble complet de classes d\'utilisateurs de la route pour une analyse avancée.',
-    'pricing-1-info' => '(Multiples) dispositifs dans votre quartier en tant qu\'organisation ou ville ? 
-                            <div style="padding-left: 20px">
-                                Considérez le <a href="../network">Réseau</a> à la place.
-                                Cela inclut un abonnement aux données pour tous les dispositifs, ainsi qu\'un ensemble riche d\'outils de gestion de réseau.
-                            </div>',
-
-    'pricing-2-title' => 'Données de base',
-    'pricing-2-subtitle' => 'Accès limité aux 4 classes de comptages principales et aux données horaires.',
-
-    'month' => 'par mois',
-
-    // Accents pour les onglets
-    'data-subscription' => 'Abonnement aux données',
-    'basic-data' => 'Données de base',
-
-    // Témoignages
+    // citations
     'testimonials' => 'Témoignages',
 
-    'quote1' => 'Le conseil municipal de Courtrai souhaite prendre des décisions basées sur les données. Nous le faisons déjà avec nos propres équipements de mesure, mais avec des techniques innovantes, telles que Telraam, nous pouvons mesurer pendant longtemps à plusieurs endroits en même temps.',
+    'quote1' => 'Le conseil municipal de Courtrai souhaite prendre des décisions plus basées sur les données. Nous le faisons déjà avec notre propre équipement de mesure, mais avec des techniques innovantes, comme Telraam, nous pouvons mesurer longtemps et à plusieurs endroits en même temps.',
     'quote1-author' => 'Lotte Demeestere',
     'quote1-function' => 'Experte en mobilité pour la ville de Courtrai',
 
-    'quote2' => 'En analysant la norme V85, nous obtenons une indication du meilleur moment pour utiliser le dispositif pour les contrôles de vitesse. Les contrôles de vitesse sont les plus efficaces pour obtenir un effet maximal en vue de modifier le comportement des usagers de la route.',
+    'quote2' => 'En analysant la norme V85, nous obtenons une indication du meilleur moment pour utiliser l\'appareil pour les contrôles de vitesse. Les contrôles de vitesse sont mieux utilisés pour obtenir un effet maximal en vue de modifier le comportement des usagers de la route.',
     'quote2-author' => 'David Tailleur',
     'quote2-function' => 'Entraîneur de l\'équipe de police de quartier, Lubbeek',
 
-    'quote3' => 'Telraam offre non seulement des insights à travers les données, mais aussi une compréhension à travers l\'interaction avec les résidents, les autorités locales et provinciales.',
+    'quote3' => 'Telraam fournit non seulement des informations grâce aux données, mais aussi une compréhension grâce à l\'interaction avec les résidents, les gouvernements locaux et provinciaux.',
     'quote3-author' => 'Eric van Dijk',
-    'quote3-function' => 'Expert en politiques de mobilité intelligente, Province d\'Utrecht',
+    'quote3-function' => 'Expert en politique de mobilité intelligente, Province d\'Utrecht',
 
-    'quote4' => 'Telraam fournit aux citoyens les données de trafic dont ils ont besoin pour amplifier leur voix, garantissant que les décideurs écoutent leurs préoccupations et que les discussions vont au-delà des preuves subjectives et anecdotiques.',
+    'quote4' => 'Telraam donne aux citoyens les données de trafic dont ils ont besoin pour amplifier leur voix, garantissant que les décideurs écoutent leurs préoccupations et que les conversations vont au-delà des preuves subjectives et anecdotiques.',
     'quote4-author' => 'Professeur Enda Hayes',
     'quote4-function' => 'Université de l\'Ouest de l\'Angleterre',
 
-    // Dernier paragraphe
-    'section4-block1-title' => 'Voulez-vous un réseau Telraam dans votre ville ?',
-    'section4-block1-text' => 'Telraam possède de l\'expérience avec des dizaines de projets Telraam pour les autorités locales dans de nombreux pays différents, et nous avons acquis l\'expertise pour développer un projet Telraam réussi pour votre quartier, votre municipalité ou votre région.<br>
-    <br>Parlez-nous de la mise en place d\'un projet Telraam adapté à vos besoins et adapté à votre contexte politique local. <br>
-    <br>Si vous souhaitez plus d\'informations ou un devis, visitez notre <a href="https://staging.telraam.net/en/contact-us">page Contactez-nous</a>, et nous serons heureux de vous aider.',
+    // final
+    'section4-block1-title' => 'Vous souhaitez un réseau Telraam dans votre ville ?',
+    'section4-block1-text' => 'Telraam a de l\'expérience avec des dizaines de projets Telraam pour les autorités locales dans de nombreux pays différents, et nous avons acquis l\'expertise pour développer un projet Telraam réussi pour votre quartier, votre municipalité ou votre région.<br>
+    <br>Parlez-nous de la mise en place d\'un projet Telraam adapté à vos besoins et à votre contexte politique local. <br>
+    <br>Si vous souhaitez plus d\'informations ou un devis, visitez notre <a href="https://staging.telraam.net/fr/contactez-nous">page Contactez-nous</a>, et nous serons heureux de vous aider.',
 
 ];
-
