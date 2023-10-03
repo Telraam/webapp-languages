@@ -9,13 +9,13 @@ Vous fournissez les composants, nous fournissons le logiciel et la plateforme de
 
     'warning' => ' <p>Le Telraam V1 était le premier capteur conceptuel de Telraam, et il a lancé une révolution dans le comptage du trafic qui a maintenant été portée au niveau supérieur grâce à notre appareil Telraam S2 spécialement conçu.</p>
 <p>
-Bien que nous croyions que le Telraam S2 offre une meilleure précision, une meilleure précision et une meilleure expérience utilisateur pour la science citoyenne, nous continuerons à soutenir les appareils Telraam V1 au cours des prochaines années.</p>',
+Bien que nous croyions que le Telraam S2 offre une meilleure précision, une meilleure exactitude et une meilleure expérience utilisateur pour la science citoyenne, nous continuerons à soutenir les appareils Telraam V1 au cours des prochaines années.</p>',
 
 
     'section1-title'        => 'Histoire',
     'section1-subtitle'     => 'Une histoire originale',
 
-    'section1-text'        => '<p>Pendant l\'été 2018, un mélange d\'ingénieurs en transport, de scientifiques des données et de développeurs se sont réunis chez <a href="https://www.tmleuven.be/" target="_blank">TML</a> pour trouver une méthode pouvant fournir des données sur le trafic à une échelle locale jamais atteinte auparavant, fonctionnant en continu pour une fraction du coût des systèmes de surveillance de la circulation existants.</p>
+    'section1-text'        => '<p>Pendant l\'été 2018, un groupe d\'ingénieurs en transport, de scientifiques des données et de développeurs se sont réunis chez <a href="https://www.tmleuven.be/" target="_blank">TML</a> pour trouver une méthode pouvant fournir des données sur le trafic à une échelle locale jamais atteinte auparavant, fonctionnant en continu pour une fraction du coût des systèmes de surveillance de la circulation existants.</p>
 
 <p>L\'expérience de l\'équipe les a amenés à se concentrer sur la construction de quelque chose de petit, de simple et d\'abordable, mais toujours adapté à l\'usage. Le dispositif final devrait pouvoir être installé dans les fenêtres des citoyens, de sorte qu\'il représente leur vue réelle de la rue, mais sans être intrusif. De cette façon, il pourrait être déployé en grand nombre pour obtenir une image complète d\'une large gamme de rues, y compris celles qui sont moins fréquentées et résidentielles, rarement couvertes par les installations de comptage traditionnelles.</p>
 
@@ -28,14 +28,14 @@ Bien que nous croyions que le Telraam S2 offre une meilleure précision, une mei
     'section2-text'        => 'Le kit requis pour un Telraam V1 se compose des composants suivants (veuillez noter les modèles spécifiques requis) :<br>
             <ul class="jump-in">
                 <li>Raspberry Pi 3A+</li>
-                <li>Module de caméra Raspberry Pi 2</li>
+                <li>Module de caméra 2 pour Raspberry Pi</li>
                 <li>Système de fixation de la caméra (vous pouvez acheter n\'importe quel support de caméra RPI disponible, mais nous avons également fabriqué un support imprimé en 3D nous-mêmes, que vous pouvez toujours acheter dans notre <a href="https://buy.stripe.com/4gw4jXeOv3G8ePucMP">
                 boutique</a>, ou vous pouvez l\'imprimer vous-même en utilisant les fichiers sur <a href="https://github.com/Telraam/camera-mount">
                 GitHub</a>)</li>
                 <li>Carte SD de 16 Go avec l\'image Telraam flashée (vous pouvez trouver
                 <a href="https://github.com/Telraam/Telraam-RPi">le logiciel sur GitHub ici</a>)</li>
-                <li>Adaptateur secteur</li>
-                <li>Recommandé : un cache pliable noir pour servir de pare-soleil pour le module caméra (contre les réflexions internes sur la fenêtre)</li>
+                <li>Adaptateur d\'alimentation</li>
+                <li>Recommandé : une housse pliable noir pour servir de pare-soleil pour le module caméra (contre les réflexions internes sur la fenêtre)</li>
                 <li>Facultatif : boîtier pour le Raspberry Pi pour le rendre esthétique</li>
             </ul>
         <br>
@@ -43,7 +43,7 @@ Bien que nous croyions que le Telraam S2 offre une meilleure précision, une mei
             <a href="https://telraam.helpspace-docs.io/article/36/do-it-yourself-assemble-telraam-by-yourself">comment assembler votre appareil</a>.</p>
 ',
 
-    'section2-text-extra'        => '<b>Le logiciel et le micrologiciel inclus dans l\'image de carte SD offerte ont été créés pour
+    'section2-text-extra'        => '<b>Le logiciel et le firmware inclus dans l\'image de carte SD offerte ont été créés pour
     ces composants spécifiques et peuvent ne pas fonctionner avec une configuration différente, alors assurez-vous de choisir les bons composants.</b> Certains efforts communautaires ont été faits pour configurer des appareils V1 en utilisant différentes versions de RPi (voir les entrées sur notre GitHub), mais nous ne sommes pas en mesure de fournir un soutien pour de telles initiatives.',
 
     'section3-title'        => 'FAQ sur Telraam V1',
@@ -65,13 +65,13 @@ Le serveur Telraam classe les objets provenant des appareils Telraam V1 en quatr
         <li>véhicules lourds (plus gros qu\'un véhicule de tourisme)</li>
     </ul>
 <br>
-    Ce que Telraam ne compte pas :
-    <span class="cross">×</span> Telraam ne compte pas lorsqu\'il fait noir.
-    <span class="cross">×</span> Telraam ne reconnaît pas les véhicules individuels (ni les plaques d\'immatriculation).
-    <span class="cross">×</span> Telraam ne reconnaît pas les personnes individuelles (ni les visages).
+    Ce que Telraam ne compte pas :<br>
+    <span class="cross">×</span> Telraam ne compte pas lorsqu\'il fait noir.<br>
+    <span class="cross">×</span> Telraam ne reconnaît pas les véhicules individuels (ni les plaques d\'immatriculation).<br>
+    <span class="cross">×</span> Telraam ne reconnaît pas les personnes individuelles (ni les visages).<br>
     <span class="cross">×</span> Le Telraam V1 ne peut pas compter de manière fiable le nombre exact de véhicules sur une période de
-    très courte durée (quelques minutes).
-    <span class="cross">×</span> Le Telraam V1 n\'est pas un radar de vitesse et il ne peut pas fournir de mesures de vitesse précises.
+    très courte durée (quelques minutes).<br>
+    <span class="cross">×</span> Le Telraam V1 n\'est pas un radar de vitesse et il ne peut pas fournir de mesures de vitesse précises.<br>
 
 <p>Pour plus d\'informations sur les exigences techniques, la classification des objets, la précision et les limitations potentielles, l\'étalonnage des données et les questions concernant les données de vitesse, veuillez consulter notre <a href="https://telraam.helpspace-docs.io/category/5/telraam-v1">FAQ</a>.</p>',
 

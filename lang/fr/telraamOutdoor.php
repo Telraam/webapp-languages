@@ -5,11 +5,11 @@ return [
     'title'           => 'Telraam Outdoor',
     'nav-title'         => 'Extérieur',
 
-    'subtitle'          => 'Telraam S2 entièrement autonome pour un déploiement en extérieur',
+    'subtitle'          => 'Telraam S2 entièrement autonome pour le déploiement en extérieur',
 
-    'section1-block1-text'        => '<p>Vous souhaitez installer un appareil Telraam pour compter la circulation dans votre rue, mais la vue est obstruée par cet arbre maudit ? Évidemment, vous ne voulez pas abattre l\'arbre, mais vous voulez quand même compter la circulation, donc pour vous, il serait préférable d\'avoir un Telraam réellement à l\'extérieur, peut-être fixé à l\'arbre.</p>
+    'section1-block1-text'        => '<p>Vous souhaitez installer un appareil Telraam pour compter la circulation dans votre rue, mais la vue est obstruée par un certain arbre ? Évidemment, vous ne voulez pas abattre l\'arbre, mais vous voulez quand même compter la circulation, donc pour vous, il serait préférable d\'avoir un Telraam réellement à l\'extérieur, peut-être fixé à l\'arbre.</p>
 
-<p>Vous n\'êtes pas le seul et nous avons entendu votre appel. Pour répondre à ce besoin, nous nous sommes lancés dans un nouveau projet de développement pour concevoir un appareil Telraam S2 autonome que vous pouvez installer à l\'extérieur. Nous voulons conserver la simplicité de l\'installation, donc ne manipulez pas de câbles d\'alimentation ou de connexions Wi-Fi, notre approche consiste à intégrer notre appareil S2 existant dans un boîtier sécurisé et à le combiner avec un petit panneau solaire et une batterie interne. Comme notre appareil consomme très peu d\'énergie, nous nous attendons à nous en sortir avec un petit panneau solaire et une batterie.</p>',
+<p>Vous n\'êtes pas le seul et nous avons entendu votre appel. Pour répondre à ce besoin, nous nous sommes lancés dans un nouveau projet de développement pour concevoir un appareil Telraam S2 autonome que vous pourriez installer à l\'extérieur. Nous voulons conserver la simplicité de l\'installation, donc sans manipuler des câbles d\'alimentation ou des connexions Wi-Fi. Notre approche consiste à intégrer notre appareil S2 existant dans un boîtier sécurisé et à le combiner avec un petit panneau solaire et une batterie interne. Comme notre appareil consomme très peu d\'énergie, nous nous attendons à nous en sortir avec un petit panneau solaire et une batterie.</p>',
 
     // chronologie
     'timeline-step1-title'        => 'Conception et développement',
