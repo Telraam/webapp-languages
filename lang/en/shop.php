@@ -15,7 +15,7 @@ return [
     'data-features'       => '<p><strong>Includes:</strong></p><ul class="pricing-checklist">
                             <li>10 road user classes</li>
                             <li>15 minute data resolution</li>
-                            <li>Data dashbpoard</li>
+                            <li>Data dashboard</li>
                             <li>Advanced APIs</li>
                             <li>Street sheet</li>
                             <li>Data export options</li>
@@ -51,14 +51,14 @@ reach out to us <a href=mailto:support@telraam.net?body=coverage class="grey">vi
     'product-1-link' => 'Buy',
 
     'product-2-title' => 'The First Four',
-    'product-2-description' => 'Four Telraam S2 devices with 12 month Data subscriptions',
+    'product-2-description' => 'Four Telraam S2 devices with 12 month Data subscriptions. Limit of 4 devices.',
     'product-2-price' => '€1,360',
     'product-2-note' => 'excl. VAT',
     'product-2-link' => 'Buy',
 
     'product-3-title' => 'The Small Network',
     'product-3-description' => 'Ten Telraam S2 devices with 12 month Network plans',
-    'product-3-price' => '€3,990',
+    'product-3-price' => '€4,600',
     'product-3-note' => 'excl. VAT',
     'product-3-link' => 'Buy',
 

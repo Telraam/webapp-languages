@@ -4,15 +4,17 @@ return [
 
     'nav-map' => 'Kaart',
     'nav-what-is' => 'Wat is Telraam',
-    'nav-device' => 'Device',
+    'nav-device' => 'Toestel',
     'nav-data' => 'Data',
     'nav-network' => 'Netwerk',
     'nav-shop' => 'Shop',
     'nav-press-kit' => 'Pers',
     'nav-blog' => 'Blog',
-    'nav-talks' => 'Telraam Talks'
-    
-
+    'nav-talks' => 'Telraam Talks',
+    'nav-browse-networks' => 'Bekijk netwerken',
+    'nav-jobs' => 'Jobs', 
+    'nav-about-us' => 'Over ons', 
+    'nav-contact-us' => 'Contacteer Ons',
     'nav-faq-support' => 'Faq & Support',
     'nav-login' => 'Login',
     'nav-registrer' => 'Registreer',

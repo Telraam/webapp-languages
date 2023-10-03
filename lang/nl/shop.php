@@ -14,7 +14,7 @@ return [
     'data-features'       => '<p><strong>Includes:</strong></p><ul class="pricing-checklist">
                             <li>10 vervoersmodi</li>
                             <li>15 minuten dataresolutie</li>
-                            <li>Data dashbpoard</li>
+                            <li>Data dashboard</li>
                             <li>Geavanceerde API\'s</li>
                             <li>Straatfiches</li>
                             <li>Opties voor Data export</li>
@@ -49,14 +49,14 @@ Bekijk de  <a href="https://faq-nl.helpspace-docs.io/article/75/vereisten-voor-d
     'product-1-link' => 'Koop',
 
     'product-2-title' => 'De eerste vier',
-    'product-2-description' => 'Vier Telraam S2 sensoren met 12 maand Data abonnement',
+    'product-2-description' => 'Vier Telraam S2 sensoren met 12 maand Data abonnement. Limiet van 4 toestellen.',
     'product-2-price' => '€1,360',
-    'product-2-note' => 'excl. BTW'
+    'product-2-note' => 'excl. BTW',
     'product-2-link' => 'Koop',
 
     'product-3-title' => 'Het kleine netwerk',
     'product-3-description' => 'Tien Telraam S2 sensoren met 12 maand Netwerk abonnement',
-    'product-3-price' => '€3,990',
+    'product-3-price' => '€4,600',
     'product-3-note' => 'excl. BTW',
     'product-3-link' => 'Koop',
 
