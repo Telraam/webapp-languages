@@ -53,7 +53,3 @@ return [
                 une organisation impliquée dans la campagne, la consultation ou la gestion de projets locaux de transport et de mobilité, alors veuillez consulter notre <a href="/fr/reseau">forfait "Réseau"</a>.'
 
 ];
-
-
-
-];
