@@ -11,13 +11,14 @@ return [
     'nav-press-kit' => 'Press Kit',
     'nav-blog' => 'Blog',
     'nav-talks' => 'Telraam Talks',
-    'nav-browse-networks' => 'Browse networks'
+    'nav-browse-networks' => 'Browse networks',
      'nav-jobs' => 'Jobs', 
      'nav-about-us' => 'About Us', 
      'nav-faq-support' => 'Faq & Support',
+     'nav-contact-us' => 'Contact Us',
      'nav-login' => 'Login',
      'nav-registrer' => 'Registreer',
-     
+
     'nav-faq-support' => 'FAQ and support',
     'nav-login' => 'Log in',
     'nav-registrer' => 'Register',

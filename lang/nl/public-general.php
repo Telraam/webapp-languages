@@ -14,6 +14,7 @@ return [
     'nav-browse-networks' => 'Bekijk netwerken',
     'nav-jobs' => 'Jobs', 
     'nav-about-us' => 'Over ons', 
+    'nav-contact-us' => 'Contacteer Ons',
     'nav-faq-support' => 'Faq & Support',
     'nav-login' => 'Login',
     'nav-registrer' => 'Registreer',
