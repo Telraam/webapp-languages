@@ -142,7 +142,7 @@ having to process raw data or access our APIs.</li></ul>',
     'section4-block1-title' => 'Want a Telraam network in your city?',
     'section4-block1-text' => 'Telraam has experience with dozens of Telraam projects for local authorities in many different countries, and we have built the expertise to develop a successful Telraam project for your neighbourhood, municipality, or region.<br>
     <br>Talk to us about setting up a Telraam project tailored to your needs and fitting your local policy context. <br>
-    <br>If you would like more information or a quotation, visit our <a href="https://staging.telraam.net/en/contact-us">Contact Us page</a>, and we will be pleased to help you.',
+    <br>If you would like more information or a quotation, visit our <a href="https://www.telraam.net/en/contact-us">Contact Us page</a>, and we will be pleased to help you.',
 
 
 ];
