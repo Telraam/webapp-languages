@@ -2,21 +2,21 @@
 
 return [
     'title' => 'Votre fenêtre sur le trafic local',
-    'sub-title' => 'Des données de trafic pour de meilleures rues.<br> Obtenez des données de haute qualité, continues et en temps réel, en collaboration avec les citoyens locaux',
+    'sub-title' => 'Des données de trafic pour des meilleures rues.<br> Obtenez des données de haute qualité, continues et en temps réel, en collaboration avec les citoyens locaux',
 
     'section1-block1-title' => 'Qu\'est-ce que Telraam?',
     'section1-block1-text' => 'Telraam est votre solution citoyenne pour la collecte de données de trafic multimodal avec un appareil spécialement conçu, abordable et convivial.<br>
     <br>Notre capteur Telraam surveille en permanence une rue depuis la fenêtre d\'un citoyen, fournissant des données cruciales sur divers modes de transport, y compris les véhicules motorisés, les cyclistes, les piétons, etc. Les réseaux Telraam créent également l\'opportunité d\'un dialogue entre les planificateurs de trafic, les autorités locales et leurs communautés les plus concernées: les citoyens qui vivent - et utilisent - ces rues, en transformant le comptage du trafic en un projet de science citoyenne ouvert et accessible.<br><br>',
     
-    'section1-block1-extra' => 'Que vous soyez un riverain, un militant, un employé d\'une administration publique ou privée ou travailler pour une agence gouvernementale, un projet Telraam fournit des données fiables pour vous aider à atteindre vos objectifs.',
+    'section1-block1-extra' => 'Que vous soyez un riverain, un militant, un employé d\'une administration publique ou privée ou vous travaillez pour une agence gouvernementale, un projet Telraam fournit des données fiables pour vous aider à atteindre vos objectifs.',
 
     // des questions
-    'section2-intro-question' => 'Circulation de fuite. Conduire les enfants à l’école. Sécurité routière. La pollution de l\'air. Modes actif. Des questions complexes demandent des données de la circulation quantitatives. Comment les recueillir?',
+    'section2-intro-question' => 'Circulation de fuite. Trajet des enfants à l’école. Sécurité routière. La pollution de l\'air. Modes actif. Des questions complexes demandent des données de la circulation quantitatives. Comment les recueillir?',
     'section2-intro-answer' => 'Telraam est votre solution de science citoyenne. Nous fournissons un outil Web convivial, les meilleures pratiques de recrutement et une API primée.',
 
     // fond gris
     'section2-block1-title' => 'Instruire le débat',
-    'section2-block1-text' => 'Les problèmes complexes nécessitent des données de trafic quantitatives pour améliorer notre compréhension et trouver de meilleures solutions.<br> La collecte de données pour obtenir une image complète des transports, des loisirs et de l\'activité sociale pour un réseau de rues est souvent impossible ou très coûteuse avec des outils traditionnels comme les tubes pneumatiques ou les comptages manuels.<br><br> Les capteurs et réseaux Telraam apportent une solution aux citoyens et à leurs élus locaux.',
+    'section2-block1-text' => 'Les problèmes complexes nécessitent des données de trafic quantitatives pour améliorer notre compréhension et trouver de meilleures solutions.<br><br> La collecte de données pour obtenir une image complète des transports, des loisirs et de l\'activité sociale pour un réseau de rues est souvent impossible ou très coûteuse avec des outils traditionnels comme les tubes pneumatiques ou les comptages manuels.<br><br> Les capteurs et réseaux Telraam apportent une solution aux citoyens et à leurs élus locaux.',
 
     'section2-block2-title' => 'Des données de trafic pour de meilleures rues',
     'section2-block2-text' => 'Telraam crée des réseaux personnalisés de capteurs qui exploitent les connaissances et l\'accès des résidents locaux, en utilisant la technologie de l\'intelligence artificielle (IA) pour fournir des données cohérentes, opportunes et de qualité pour des plans d\'infrastructure, de flux de trafic et de gestion du trafic plus efficients et efficaces.<br><br> Impliquer les citoyens et publier des données ouvertes met les chercheurs et les décideurs politiques en contact avec les résidents locaux, créant ainsi un potentiel d\'interaction, de dialogue, de co-création et d\'autres formes de participation.',
@@ -33,7 +33,7 @@ return [
     'quote2-function' => 'Beleidsmedewerker mobilité intelligente, Province d\'Utrecht',
 
     'section3-block1-title' => 'Comment fonctionne l\'appareil Telraam S2 ?',
-    'section3-block1-text' => 'Telraam S2 est notre tout dernier appareil. Il compte et classe les usagers de la route, fournissant des données anonymes et agrégées par mode de circulation et par sens avec une résolution de 15 minutes. En outre, il dérive une distribution de vitesse estimée (et la vitesse V85) pour les voitures.<br><br> Telraam S2 utilise une IA spécialement formée et un algorithme de suivi propriétaire pour détecter, classer et compter les usagers de la route avec une grande précision dans un large éventail d\'environnements de rue typiques. Les citoyens placent un capteur Telraam dans leur fenêtre, et les données collectées peuvent être partagées avec les autorités locales et les décideurs politiques sous forme de données ouvertes.<br><br> Les appareils Telraam peuvent être installés par des citoyens dans leurs rues individuelles, ou par des groupes de campagne locaux et des autorités gouvernementales qui financent des réseaux de citoyens pour recueillir des données sur le trafic local.<br><br> <a href="/fr/S2">En savoir plus sur l\'appareil S2</a>',
+    'section3-block1-text' => 'Le Telraam S2 est notre tout dernier appareil. Il compte et classe les usagers de la route, fournissant des données anonymes et agrégées par mode de circulation et par sens avec une résolution de 15 minutes. En outre, il dérive une distribution de vitesse estimée (et la vitesse V85) pour les voitures.<br><br> Telraam S2 utilise une IA spécialement formée et un algorithme de suivi propriétaire pour détecter, classer et compter les usagers de la route avec une grande précision dans un large éventail d\'environnements de rue typiques. Les citoyens placent un capteur Telraam dans leur fenêtre, et les données collectées peuvent être partagées avec les autorités locales et les décideurs politiques sous forme de données ouvertes.<br><br> Les appareils Telraam peuvent être installés par des citoyens dans leurs rues individuelles, ou par des groupes de campagne locaux et des autorités gouvernementales qui financent des réseaux de citoyens pour recueillir des données sur le trafic local.<br><br> <a href="/fr/S2">En savoir plus sur l\'appareil S2</a>',
 
     'section3-block2-title' => 'Que fait un appareil Telraam S2?',
     'section3-block2-text' => 'Le Telraam S2 est un appareil personnalisé qui se trouve dans votre fenêtre. Une fois connecté, vous n\'avez rien à faire, il vous suffit de regarder les décomptes au fur et à mesure qu\'ils se produisent.<br><br> Le Telraam S2 dispose d\'une caméra basse résolution (pour la confidentialité), d\'une puce AI pour détecter et catégoriser les usagers de la rue, et d\'une connexion de données mobile intégrée qui relaie les données agrégées et anonymes vers les serveurs Telraam. L\'appareil doit simplement être alimenté et monté à l\'intérieur d\'une fenêtre de l\'étage supérieur avec une vue dégagée sur la rue.',
@@ -80,7 +80,7 @@ return [
     'methodology-title' => 'La méthodologie Telraam',
     'methodology-part-1' => '<p>Telraam propose des capteurs de comptage du trafic, basés sur l\'intelligence artificielle, conçus à cet effet et abordables, un cadre de gestion de réseau et une architecture complète pour le classement, l\'analyse, la visualisation et la distribution des données relatives au trafic. Dans cette configuration, les capteurs Telraam sont hébergés par des scientifiques citoyens, établissant ainsi un pont précieux entre leur communauté, les autorités locales et les professionnels de la mobilité. Cette connexion et l\'accès libre aux données collectées sur le trafic démocratisent la planification du trafic local et ouvrent de nouvelles perspectives à toutes les parties concernées.</p>',
 
-    'methodology-part-2' => "<p>L\'approche Telraam:</p>",
+    'methodology-part-2' => "<p>L'approche Telraam:</p>",
 
     'methodology-item-A' => 'Les citoyens collectent des données sur le trafic depuis leurs fenêtres à l\'aide de capteurs Telraam. Ceux-ci comptent généralement en continu sur une longue période (généralement 12 mois), envoyant des données toutes les 15 minutes (pendant les heures de clarté).',
     'methodology-item-B' => 'Les professionnels de la mobilité et les autorités locales analysent les données pour comprendre le trafic local et proposer des solutions à des problèmes spécifiques.',
@@ -104,11 +104,10 @@ return [
     <p>En impliquant les citoyens dans le processus de collecte des données, les autorités locales peuvent également créer un plus grand sentiment d\'appropriation et d\'adhésion pour les solutions qui sont développées à la suite de ces collaborations, ce qui conduira à une adoption plus répandue et à un impact et une réception plus positifs dans la communauté.</p>',
 
     // What does Telraam Count?
-    'what-title' => 'Que compte Telraam ?',
+    'what-title' => 'Quoi compte Telraam ?',
     'what-text' => '<p>Les capteurs Telraam comptent les usagers de la route classés en différentes catégories. </p>
-<p>Actuellement (T1 2023), les données affichées sur le site web de Telraam (et mises à disposition via l\'API Telraam) comprennent quatre catégories.</p>
-<p>Le nouveau dispositif Telraam S2 est capable de différencier un ensemble encore plus large d\'usagers de la route. Ces nouvelles classes seront également mises à
- la disposition du public (après une période initiale de test et de mise au point), d\'abord via l\'API, puis sur les rapports du site web.</p>',
+<p>Les données de base affichées sur le site web de Telraam (et mises à disposition via l\'API Telraam) comprennent quatre catégories.</p>
+<p>Le nouveau dispositif Telraam S2 est capable de différencier un ensemble encore plus large d\'usagers de la route. Ces nouvelles classes sont également mises à la disposition des abbonnées sur les rapports du site web et sur l\'API.</p>',
 
     'what-table' => '<table class="categories">
 <thead>
@@ -128,7 +127,7 @@ return [
         <td>Voitures</td><td>Voitures</td>
 </tr>
 <tr>
-            <td>Véhicules lourds</td><td>Camionnettes<br>Camions<br>Buses<br>Bandes-annonces<br>Tracteurs</td>
+            <td>Véhicules lourds</td><td>Camionnettes<br>Camions<br>Buses<br>Remorques<br>Tracteurs</td>
 </tr>
 </tbody></table>',
 
