@@ -3,6 +3,6 @@
 return [
 
     'title' => 'Browse Networks',
-    'sub-title' => 'Take a journey through the many Telraam networks gathering traffic data across the world, and maybe discover a local network seeking candidates.',
+    'sub-title' => 'Voyagez à travers les nombreux réseaux Telraam qui récoltent des données sur le trafic à travers le monde, et découvrez peut-être un réseau local à la recherche de candidats.',
 
 ];
