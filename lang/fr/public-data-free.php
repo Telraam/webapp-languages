@@ -8,7 +8,7 @@ return [
     'section-1-title' => 'Données ouvertes pour tous les utilisateurs et les militants',
     'section-1-text' => 'Tous les dispositifs Telraam sont livrés avec les résumés de données suivants en standard :<br>
                 <br>
-                <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Comptage & direction de déplacement pour 4 modes regroupés différents
+                <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Comptage & direction de déplacement pour 4 modes regroupés 
                 <ul class="jump-in" style="padding-left: 40px;">
                     <li>Piétons</li>
                     <li>Deux-roues (vélos et motos)</li>
@@ -30,7 +30,7 @@ return [
                 pour cette rue.<br>
                 <br>
                 Ces mêmes informations sont disponibles pour le propriétaire de l\'appareil, qui recevra également un rapport mensuel par e-mail et aura la possibilité d\'exporter ses données dans une feuille de calcul pour effectuer une analyse supplémentaire.
-                Des données supplémentaires, des informations, des rapports et des exportations sont disponibles via notre <a href="/fr/abonnement-aux-donnees">abonnement payant aux données</a>.',
+                Des données supplémentaires, des informations, des rapports et des exportations sont disponibles via notre <a href="/fr/data-subscription">abonnement payant aux données</a>.',
 
 
     'section-2-title' => 'Quelle est la différence entre gratuit et un abonnement aux données ?',
@@ -50,10 +50,6 @@ return [
                 vous pouvez toujours acheter un seul appareil et recueillir les données aussi longtemps que vous le souhaitez
                 pour les utiliser dans vos propres projets.<br><br>
                 En raison de cette subvention et de ce soutien, cela concerne strictement les citoyens privés. Si vous êtes
-                une organisation impliquée dans la campagne, la consultation ou la gestion de projets locaux de transport et de mobilité, alors veuillez consulter notre <a href="/fr/reseau">forfait "Réseau"</a>.'
-
-];
-
-
+                une organisation impliquée dans la campagne, la consultation ou la gestion de projets locaux de transport et de mobilité, alors veuillez consulter notre <a href="/fr/network">forfait "Réseau"</a>.'
 
 ];
