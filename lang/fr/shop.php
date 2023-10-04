@@ -48,7 +48,7 @@ return [
 
     'product-3-title' => 'Le Petit Réseau',
     'product-3-description' => 'Dix appareils Telraam S2 avec des abonnements Réseau de 12 mois',
-    'product-3-price' => '€3,990',
+    'product-3-price' => '€4,600',
     'product-3-note' => 'hors TVA',
     'product-3-link' => 'Acheter',
 
