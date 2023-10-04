@@ -2,7 +2,7 @@
 
 return [
 
-    'title' => 'Browse Networks',
-    'sub-title' => 'Take a journey through the many Telraam networks gathering traffic data across the world, and maybe discover a local network seeking candidates.',
+    'title' => 'Bekijk Networken',
+    'sub-title' => 'Ontdek de Telraam-netwerken die verkeersgegevens over de hele wereld verzamelen en misschien kom je wel een lokaal netwerk tegen dat kandidaten zoekt.',
 
 ];
