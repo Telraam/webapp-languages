@@ -145,11 +145,10 @@ It’s your view. Make it count! <br>
     // What does Telraam Count?
         'what-title' => 'What does Telraam Count?',
         'what-text' => '<p>Telraam sensors count road users classified into various categories. </p>
-    <p>Currently (Q1 2023) the data that is displayed on the Telraam website (and made available via the
+    <p>The data that is displayed on the Telraam website (and made available via the
     Telraam API) includes four categories.</p>
     <p>The new Telraam S2 device is capable of differentiating between an even broader set of road user. These new classes
-      will also be available to the public (after an initial testing and fine-tuning period)
-      first via the API, and then on the website reports.</p>',
+      are available to Data subscribers on the website reports and via the API.</p>',
     
         'what-table' => '<table class="categories">
     <thead>
