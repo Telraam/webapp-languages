@@ -59,7 +59,7 @@ Telraam-apparaten kunnen worden ingesteld door burgers in hun individuele strate
 <a href="/nl/S2">Lees meer over de S2</a>',
 
     'section3-block2-title' => 'Wat doet een Telraam S2 toestel?',
-    'section3-block2-text' => 'De Telraam S2 is een toestel op maat dat in je raam zit.
+    'section3-block2-text' => 'De Telraam S2 is een toestel op maat dat op je raam hangt.
 Als je eenmaal bent verbonden, hoef je niets te doen, je hoeft alleen maar de tellingen te bekijken terwijl ze plaatsvinden.<br>
 <br>
 De Telraam S2 heeft een lage resolutie camera (voor privacy), een AI-chip voor het detecteren en categoriseren van straatgebruikers, en een ingebouwde mobiele dataverbinding die geaggregeerde, anonieme data doorstuurt naar de Telraam-servers.

@@ -18,33 +18,33 @@ return [
     // -> candidats au fichier
 
     // page web ----
-    'title' => 'Construire un Réseau',
-    'subtitle' => 'Déployez et gérez Telraam à un niveau local, municipal ou régional avec un réseau de dispositifs Telraam hébergés par les citoyens. L\'abonnement au Réseau fournit tous les outils de gestion et d\'analyse nécessaires.',
+    'title' => 'Créer un Réseau',
+    'subtitle' => 'Déployez et gérez Telraam à niveau local, municipal ou régional avec un réseau de dispositifs Telraam hébergés par des citoyens. L\'abonnement au Réseau fournit tous les outils de gestion et d\'analyse nécessaires.',
 
     // tarification
-    'pricing-title' => 'Abonnement au Réseau',
+    'pricing-title' => 'Abonnement Réseau',
     'month' => 'mois',
     'pricing-box-line1' => 'Outils administratifs et de recrutement',
     'pricing-box-line2' => 'Outils d\'analyse de données du réseau et diverses options d\'exportation de données',
-    'pricing-box-line3' => 'Inclut toutes les fonctionnalités de l\'<a href="../fr/abonnement-aux-donnees">Abonnement aux Données</a> pour tous les capteurs et segments du réseau',
+    'pricing-box-line3' => 'Inclut toutes les fonctionnalités de l\'<a href="../fr/data-subscription">Abonnement Données</a> pour tous les capteurs et segments du réseau',
 
     // contenu principal
     'section1-block1-title' => 'Un réseau d\'opportunités',
-    'section1-block1-text' => 'Les études de génie de la circulation et l\'urbanisme à un niveau local et régional nécessitent la collecte de comptages de trafic à partir de plusieurs endroits, et traditionnellement, cela a été un processus coûteux et chronophage.<br>
+    'section1-block1-text' => 'Les études de circulation et l\'urbanisme au niveau local et régional nécessitent la collecte de comptages de trafic en plusieurs endroits, et traditionnellement, cela a été un processus coûteux et fastidieux.<br>
     <br>Grâce à la technologie basée sur l\'IA et au modèle de déploiement unique des <a href="https://www.telraam.net/fr/S2">dispositifs Telraam</a>, nous offrons une méthode de comptage alternative, rentable et multi-modale qui a fait ses preuves en termes de précision dans une grande variété de conditions.<br>
-    <br>Telraam propose un abonnement au Réseau pour les organisations exploitant plusieurs dispositifs, tels que les gouvernements et les autorités du niveau local au national, ainsi que les groupes militants. En déployant un réseau finement maillé de dispositifs Telraam alimentés par la science citoyenne, le processus de comptage du trafic peut être considérablement amélioré, permettant de recueillir des données multi-modales de manière continue, tout en réduisant les coûts.',
+    <br>Telraam propose un abonnement Réseau pour les organisations exploitant plusieurs dispositifs, tels que les gouvernements et les autorités du niveau local au national, ainsi que les groupes militants. En déployant un réseau finement maillé de dispositifs Telraam alimentés par la science citoyenne, le processus de comptage du trafic peut être considérablement amélioré, permettant de recueillir des données multi-modales de manière continue, tout en réduisant les coûts.',
 
     'section2-small-title' => 'Comment ça marche ?',
     'section2-block1-title' => 'Une solution de projet complète',
-    'section2-block1-text' => 'Un abonnement au Réseau fournit les outils de gestion et d\'analyse de données nécessaires tout au long de la durée de vie d\'un projet. Il comprend des outils administratifs pour planifier, déployer et gérer un réseau de dispositifs Telraam hébergés par des citoyens privés sur de plus longues périodes (généralement de 6 à 12 mois), et des outils d\'analyse de données pour surveiller et analyser le trafic à la fois au niveau du segment de rue et du réseau. <br>
+    'section2-block1-text' => 'Un abonnement Réseau fournit les outils de gestion et d\'analyse de données nécessaires tout au long de la durée de vie d\'un projet. Il comprend des outils administratifs pour planifier, déployer et gérer un réseau de dispositifs Telraam hébergés par des citoyens privés sur de plus longues périodes (généralement de 6 à 12 mois), et des outils d\'analyse de données pour surveiller et analyser le trafic à la fois au niveau du segment de rue et du réseau. <br>
     <br>Les données en temps réel et historiques peuvent être consultées et analysées à tout moment, ou exportées pour une analyse hors ligne. Le soutien est assuré par l\'équipe Telraam tout au long du processus, du début à la fin.',
 
     'section2-block2-title' => 'Engagement citoyen et opérations transparentes',
-    'section2-block2-text' => 'Étant donné que les dispositifs Telraam sont hébergés par des citoyens individuels, un réseau Telraam offre une opportunité unique de s\'engager avec les habitants, de renforcer la confiance et d\'échanger des connaissances avec les personnes qui vivent les effets de la circulation dans leurs rues au quotidien. Ainsi, les résidents motivés ont une implication plus directe et personnelle dans la politique de mobilité locale.<br>
-    <br>Les outils d\'abonnement au réseau rationalisent le processus de recrutement, de candidature et de sélection des citoyens. Ils apprennent à configurer leur propre compteur de trafic entièrement automatisé et à mieux comprendre les données. Les participants deviennent des citoyens scientifiques capables de faire des contributions constructives, objectives et basées sur les données au processus de prise de décision politique local.<br>
-    <br>Les données Telraam peuvent également être utilisées par les chercheurs, les résidents et les parties intéressées pour, par exemple, valider leurs demandes de modifications des plans de circulation locaux, apportant ainsi des contributions objectives et basées sur les données aux discussions.',
+    'section2-block2-text' => 'Comme les dispositifs Telraam sont hébergés par des citoyens individuels, un réseau Telraam offre une opportunité unique de s\'engager avec les habitants, de renforcer la confiance et d\'échanger des connaissances avec les personnes qui vivent les effets de la circulation dans leurs rues au quotidien. Ainsi, les résidents motivés ont une implication plus directe et personnelle dans la politique de mobilité locale.<br>
+    <br>Les outils de l\'abonnement Réseau rationalisent le processus de recrutement, de candidature et de sélection des citoyens. Ils apprennent à configurer leur propre compteur de trafic entièrement automatisé et à mieux comprendre les données. Les participants deviennent des citoyens scientifiques capables de faire des contributions constructives, objectives et basées sur les données au processus de prise de décision politique local.<br>
+    <br>Les données Telraam peuvent également être utilisées par les chercheurs, les résidents et les parties intéressées pour, par exemple, valider leurs demandes de modifications des plans de circulation locaux, apportant ainsi aux discussions des contributions objectives et basées sur les données.',
 
-    'section2-block3-title' => 'Données ouvertes et confiance',
+    'section2-block3-title' => 'Données ouvertes et la confiance',
     'section2-block3-text' => 'Les organisations peuvent établir la confiance avec les citoyens en s\'engageant via Telraam. Une grande partie des données de comptage est librement disponible en tant que données ouvertes, et la technologie ainsi que les performances des capteurs Telraam sont bien documentées.<br>
     <br>Les tiers peuvent également ajouter de la valeur aux ensembles de données. Il existe de nombreuses façons pour les parties à l\'intérieur et à l\'extérieur d\'un réseau de parcourir et d\'interagir avec vos données, allant de la carte Telraam en direct entièrement ouverte, aux API publiques et avancées, en passant par les tableaux de bord spécifiques aux données de segment et de réseau.<br>
 <ul class="text-list">
@@ -85,7 +85,7 @@ return [
     </ul>',
 
     'features-4-title' => 'Analyse de données avancée',
-    'features-4-text' => '<p>L\'abonnement au Réseau comprend toutes les fonctionnalités de l\'Abonnement aux Données, et bien plus encore. Les administrateurs du réseau ont accès aux tableaux de bord de données de tous les segments (et dispositifs) de leur réseau, tandis que les utilisateurs participants ont accès aux tableaux de bord de données de leurs propres segments.<br>
+    'features-4-text' => '<p>L\'abonnement Réseau comprend toutes les fonctionnalités de l\'abonnement Données, et bien plus encore. Les administrateurs du réseau ont accès aux tableaux de bord de données de tous les segments (et dispositifs) de leur réseau, tandis que les utilisateurs participants ont accès aux tableaux de bord de données de leurs propres segments.<br>
     <br>Des fonctionnalités d\'analyse de données supplémentaires uniquement disponibles avec l\'abonnement au Réseau :</p>',
 
     'features-4-reports-title' => 'Rapports de données :',
@@ -108,13 +108,13 @@ return [
     'extra-features-4' => 'E-mails automatisés et modèles',
 
     'extra-features-5' => 'Résumés d\'analyse de base',
-    'extra-features-6' => 'Analyse avancée pour l\'analyse',
+    'extra-features-6' => 'Outils d\'analyse avancée',
     'extra-features-7' => 'Gestion des dispositifs',
     'extra-features-8' => 'Plusieurs pistes',
 
     'extra-features-9' => 'Accès avancé à l\'API',
     'extra-features-10' => 'Support entre pairs',
-    'extra-features-11' => 'Prise en charge prioritaire par e-mail',
+    'extra-features-11' => 'Soutien prioritaire par e-mail',
     'extra-features-12' => 'Sessions de formation',
 
     // citations
@@ -140,6 +140,6 @@ return [
     'section4-block1-title' => 'Vous souhaitez un réseau Telraam dans votre ville ?',
     'section4-block1-text' => 'Telraam a de l\'expérience avec des dizaines de projets Telraam pour les autorités locales dans de nombreux pays différents, et nous avons acquis l\'expertise pour développer un projet Telraam réussi pour votre quartier, votre municipalité ou votre région.<br>
     <br>Parlez-nous de la mise en place d\'un projet Telraam adapté à vos besoins et à votre contexte politique local. <br>
-    <br>Si vous souhaitez plus d\'informations ou un devis, visitez notre <a href="https://staging.telraam.net/fr/contactez-nous">page Contactez-nous</a>, et nous serons heureux de vous aider.',
+    <br>Si vous souhaitez plus d\'informations ou un devis, visitez notre <a href="https://www.telraam.net/fr/contact-us">page Contactez-nous</a>, et nous serons heureux de vous aider.',
 
 ];

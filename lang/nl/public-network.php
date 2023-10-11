@@ -22,7 +22,7 @@ return [
 
      // pricing
      'pricing-title' => 'Netwerk abonnement',
-     'month' => 'month',
+     'month' => 'maand',
      'pricing-box-line1' => 'Administratieve en wervingstools',
      'pricing-box-line2' => 'Tools voor het analyseren van netwerkgegevens en verschillende opties voor rapportage en gegevensexport',
      'pricing-box-line3' => 'Omvat alle functies van het Data abonnement voor alle sensoren en wegsegmenten in het netwerk',
