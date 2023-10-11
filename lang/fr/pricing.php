@@ -2,7 +2,7 @@
 
 return [
 
-    'title' => 'Pris',
+    'title' => 'Nos prix',
     'subtitle' => 'Permettre aux citoyens ou aux professionnels de piloter des projets de mobilité.',
 
     // ------------------------------------------------------
