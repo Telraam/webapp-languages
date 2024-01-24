@@ -2,7 +2,7 @@
 
 return [
 
-    'title'             => 'Cloud DevOps Engineer',
+    'title'             => 'Junior Cloud DevOps Engineer',
 
     'responsibilities-title' => 'Verantwoordelijkheden:',
     'responsibilities-text' => '<ul>
@@ -16,11 +16,12 @@ beveiliging, load management, enz.)</li>
     'profile-title' => 'Profiel',
     'profile-text' => '<ul>
 <li>Minimaal bachelor ICT</li>
-<li>Minstens 2 jaar ervaring met het beheren/onderhouden van cloud infrastructuur (Azure, AWS,...) is een vereiste.</li>
-<li>Aangezien de infrastructuur van Telraam in AWS is opgebouwd, is eerdere ervaring met AWS een groot pluspunt.</li>
-<li>Vloeiend python programmeur. Kennis van C++ is een groot pluspunt.</li>
+<li>Minstens 2 jaar ervaring met het beheren/onderhouden van cloud infrastructuur (Azure, AWS,...) is een vereiste</li>
+<li>Aangezien de infrastructuur van Telraam in AWS is opgebouwd, is eerdere ervaring met AWS een groot pluspunt</li>
+<li>Vloeiend python programmeur. Kennis van C++ is een groot pluspunt</li>
 <li>Je voelt je op je gemak in een snelle startup-omgeving </li>
 <li>Rapporteren aan data scientist</li>
+<li>Minimaal vloeiend Nederlands- of Engelstalig</li>
 </li>
 </ul>',
 

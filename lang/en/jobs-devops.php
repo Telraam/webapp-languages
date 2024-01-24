@@ -2,7 +2,7 @@
 
 return [
 
-    'title'             => 'Cloud DevOps Engineer',
+    'title'             => 'Junior Cloud DevOps Engineer',
 
     'responsibilities-title' => 'Your mission & key responsibilities, should you choose to accept it:',
     'responsibilities-text' => '<ul>
@@ -18,8 +18,9 @@ scheduled and conditional services, security, load management, etc.)</li>
 <li>At least bachelor ICT - Recent graduates are encouraged to apply!</li>
 <li>Eager to learn how to operate/maintain cloud infrastructure (Azure, AWS,...). Any prior experience with cloud infrastructure, in particular AWS, is a bonus.</li>
 <li>You have programming in your DNA: Knowledge of Python is essential. Knowledge of programming in the Zephyr framework and C++ is a big plus (embedded software).</li>
-<li>You are comfortable operating in a fast-paced startup environment </li>
+<li>You are comfortable operating in a fast-paced startup environment</li>
 <li>Report to data scientist</li>
+<li>Minimal fluent in NL or EN</li>
 </li>
 </ul>',
 
