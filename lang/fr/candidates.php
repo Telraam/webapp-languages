@@ -3,6 +3,9 @@
 return [
 
     'title'         => 'Présélection',
+    'title-form' => 'Votre Candidature',
+
+    
      'intro'        => '<strong>Pour pouvoir compter avec Telraam, vous devez satisfaire à ces conditions :</strong>',
      'register-list' => '<li>Vous habitez un logement doté d’une fenêtre côté rue </li>
 <li>Cette fenêtre doit offrir une vue complète et libre sur la rue (ou bande de circulation) : pas de lampadaires, arbres, constructions qui bloquent la vue dans un sens </li>
@@ -68,8 +71,7 @@ return [
     'confirm'         => 'Confirmer',
     'thanks'         => 'Merci. Nous reviendrons bientôt vers vous.',
 
-    'image_street'  => 'Prenez une photo depuis la fenêtre du 1er ou du 2e étage où vous placerez votre Telraam. Prenez la photo perpendiculairement,
-à vol d\'oiseau, face à la rue. <a href="https://faq-fr.helpspace-docs.io/article/147/conditions-a-respecter-pour-lemplacement-de-ma-fenetre-photo-a-uploader-lors-de-lenregistrement" target="_blank">Voir aussi les exemples</a>.<br> Limit file size and upload as jpg or png.',
+    'image_street'  => 'Prenez une photo depuis la fenêtre du 1er ou du 2e étage où vous placerez votre capteur Telraam. Prenez la photo perpendiculairement, face à la rue. <a href="https://faq-fr.helpspace-docs.io/article/147/conditions-a-respecter-pour-lemplacement-de-ma-fenetre-photo-a-uploader-lors-de-lenregistrement" target="_blank">Voir aussi les exemples</a>.<br> Limitez la taille des fichiers à 6MB ou moins, et téléchargez-les au format jpg ou png.',
 
 
 
