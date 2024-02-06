@@ -31,6 +31,15 @@ Enkele voorbeelden van goede en slechte locaties staan in ons FAQ-artikel: <a hr
  	'answer-9' 			=> 'Ja! Druk op de knop voor enkele seconden en het scherm zal donker worden. Het toestel blijft wel tellen, maar zal de tellingen niet visualiseren op het scherm. Je kan het scherm heractiveren door opnieuw op de knop te drukken.',
  		 	'question-10'           => 'Mijn Telraam S2 lijkt wat verkeer te missen. Wat kan ik doen?',
  	'answer-10' 			=> 'Controleer allereerst of uw Telraam correct is geïnstalleerd en stel <a href="https://faq-nl.helpspace-docs.io/article/104/interessegebied-roi-en-roi-selectie-met-telraam-s2">het interessegebied (ROI)</a> in als u dat tijdens de installatie nog niet hebt gedaan. Als u dat al hebt gedaan, controleer dan of het gekozen interessegebied daadwerkelijk de hele breedte van de weg bestrijkt zoals het hoort. Zelfs met de beste instelling is het vaak onmogelijk voor het apparaat om voetgangers te zien die vlak onder het raam lopen, dus verwacht niet dat die weggebruikers door de Telraam S2 worden geteld. Als een deel van de weg niet zichtbaar is op het beeld van het interessegebied, dan worden voorbijrijdende weggebruikers daar niet geteld. Ook als het trottoir aan de andere kant van de weg gedeeltelijk wordt bedekt door een rij bomen of geparkeerde auto\'s, zal uw Telraam waarschijnlijk moeite hebben om elke passerende voetganger te tellen die daar gedeeltelijk door wordt verborgen. Zeer dichte, grote groepen voetgangers en fietsers zullen ook zeer moeilijk nauwkeurig te tellen zijn, eenvoudigweg vanwege de technologische beperkingen van zo\'n klein apparaat. Als u denkt dat uw Telraam nauwkeuriger zou moeten tellen, zelfs na het overwegen van alle bovengenoemde factoren, dan kunt u altijd een stabiele (niet-handheld), hoge resolutie (minimaal 1080p), groothoek (zodat het hele straatoppervlak zichtbaar is) video opnemen met uw smartphone of een GoPro camera met 15 minuten verkeer vanuit het raam waar uw Telraam S2 is geïnstalleerd en deze naar ons sturen. We kunnen deze video gebruiken om te zien waarom uw apparaat ondermaats presteert, en we kunnen het misschien gebruiken om ons detectie algoritme in de toekomst te verbeteren.',
- 	
- 	'text-final' 			=>'Indien er toch specifieke vragen blijven, gelieve ons te contacteren via mail op <a href="mailto:support@telraam.net"  target="_blank">support@telraam.net</a>'
+
+ 	'text-final' 			=>'Indien er toch specifieke vragen blijven, gelieve ons te contacteren via mail op <a href="mailto:support@telraam.net"  target="_blank">support@telraam.net</a>',
+
+        'disclaimer' => 'Het toestel wordt geleverd inclusief simkaart en data-abonnement die verbinding maakt met LTE-m of NB-iot mobiel netwerk. In sommige
+    landen is deze communicatietechnologie nog niet beschikbaar. Contacteer je lokale provider bij onzekerheid.<br>
+<br>
+Het toestel bevat een CE-keuring alsook een <a href="/downloads/FCC-certificate.pdf" target="_blank">FCC-keuring</a>.<br>
+<br>
+Het toestel wordt geleverd met een kleine houder te monteren op het raam. Lijmresten zijn verwijderbaar.<br>',
+
+
 ];

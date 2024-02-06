@@ -53,5 +53,16 @@ une rangée d\'arbres ou de voitures garées, votre Telraam aura probablement de
   votre Telraam S2 est installé et nous l\'envoyer. Nous pourrons utiliser cette vidéo pour comprendre pourquoi votre appareil n\'est pas performant, et nous
   pourrons peut-être l\'utiliser pour améliorer notre algorithme de détection à l\'avenir.',
 
- 	'text-final' 			=>'Si vous avez encore des questions spécifiques, n\'hésitez pas à nous envoyer un courriel à l\'adresse suivante: <a href="mailto:support@telraam.net"  target="_blank">support@telraam.net</a>'
+ 	'text-final' 			=>'Si vous avez encore des questions spécifiques, n\'hésitez pas à nous envoyer un courriel à l\'adresse
+suivante: <a href="mailto:support@telraam.net"  target="_blank">support@telraam.net</a>',
+
+
+     'disclaimer' => 'L\'appareil est livré avec une carte SIM et un plan de données qui se connecte au réseau mobile LTE-m ou NB-iot.
+     Dans certains pays, cette technologie de communication n\'est pas encore disponible. Contactez votre opérateur local en cas d\'incertitude.
+      <br>
+<br>
+L\'appareil est homologué CE et <a href="/downloads/FCC-certificate.pdf" target="_blank">FCC</a>.<br>
+<br>
+L\'appareil est livré avec un petit support à fixer sur la fenêtre. Les résidus de colle peuvent être enlevés.<br>',
+
 ];
