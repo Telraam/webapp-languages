@@ -17,12 +17,12 @@ return [
  	 	'question-6'           => 'How does the Telraam S2 perform at night?',
  	'answer-6' 			=> 'While the design and hardware setup of Telraam S2 makes it possible for our new sensor to count motorised vehicles (mainly cars) at night, this functionality is currently not fully developed yet. While you might see some counts on your Telraam S2 during the night hours already, these counts are not yet calibrated or validated, and they will likely be very far from reality for the time being. We have a strong ambition to fully develop the night counting functionality before the end of 2023, and then parallel with the deployment of this feature we will publish validation documentation just like we did for the daytime counts to illustrate the typical accuracy and precision of our device.',
  	 	'question-7'           => 'Where can I install a Telraam S2?',
- 	'answer-7' 			=> 'Telraam S2 devices should be installed 
+ 	'answer-7' 			=> 'Telraam S2 devices should be installed
 <ul class="jump-in">
 <li>in a window which provides a clear, unobstructed view onto the whole width of the street below (no large trees, no wide poles or railings, no extensive street furniture in the field of view)</li>
-<li>along a road that runs parallel to the window, with no crossroads (corners, turns) in sight</li> 
+<li>along a road that runs parallel to the window, with no crossroads (corners, turns) in sight</li>
 <li>not on the ground floor so that the device can look at the traffic at a somewhat downwards angle (the first floor - a.k.a. the second floor by our American friends - will be optimal in most cases, while higher floors might work for very wide roads with multiple lanes, so that the traffic is seen at a 30-45 degrees angle).</li>
-</ul> 
+</ul>
 <br>
 Some examples of good and bad locations are shown in our FAQ article <a href="https://telraam.helpspace-docs.io/article/3/requirements-for-the-installation-of-a-telraam-in-my-window"  target="_blank">Requirements for the installation of Telraam on my window</a>.',
  	 	'question-8'           => 'What is the difference between personal and professional Telraam S2 devices?',
@@ -31,6 +31,16 @@ Some examples of good and bad locations are shown in our FAQ article <a href="ht
  	'answer-9' 			=> 'Yes! Simply press the button until the screen goes dark. Don’t worry, the device will keep counting with the screen off too. You can re-activate the screen by pushing the button again.',
  	 	'question-10'           => 'My Telraam S2 seems to miss some traffic. What can I do?',
  	'answer-10' 			=> 'First of all, make sure that your Telraam is installed correctly, and fix its region of interest if you had not done so during installation. If you have already done that, please check if the region of interest that was chosen actually covers the whole width of the road as it should. Even with the best setting it is often not possible for the device to see pedestrians walking right under the window, so don’t expect those road users to be counted by the Telraam S2. If an area of the road is not visible on the region of interest image, then road users passing by there will not be counted. Similarly if the sidewalk on the other side of the road is partially covered by a row of trees or parked cars, your Telraam will likely have trouble counting each pedestrian passing partially hidden by them. Very dense, large groups of pedestrians and cyclists will also prove to be very challenging to be counted accurately, simply due to the technological limitations of such a small device. If you think your Telraam should be counting more accurately even after considering all the aforementioned factors, then you can always record a stable (non-handheld), high resolution (minimum 1080p), wide angle (so that the whole street surface is visible) video with your smartphone or a GoPro camera containing 15 minutes of traffic from the window where your Telraam S2 is installed and send it to us. We can use this video to see why your device is underperforming, and we might be able to use it to improve our detection algorithm in the future.',
-     
- 	'text-final' 			=>'If you still have specific questions feel free to email us on <a href="mailto:support@telraam.net"  target="_blank">support@telraam.net</a>'
+
+ 	'text-final' 			=>'If you still have specific questions feel free to email us on <a href="mailto:support@telraam.net"  target="_blank">support@telraam.net</a>',
+
+    'disclaimer' => 'The device comes with a SIM card and data subscription that connects to LTE-m or NB-iot mobile network. In some countries this communication technology
+is not yet available. If you are unsure, please contact your local provider.<br>
+<br>
+The device contains a CE approval as well as a <a href="/downloads/FCC-certificate.pdf" target="_blank">FCC approval</a>.<br>
+<br>
+The device comes with a small holder to mount on the window. Glue residue is removable.<br>',
+
+
+
 ];

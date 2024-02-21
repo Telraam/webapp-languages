@@ -34,7 +34,7 @@ return [
     'example-2-link' => 'https://www.beliris.be/nl/nieuws/het-verkeer-analyseren-om-toekomstige-werven-beter-te-coordineren.html',
 
 
-    'example-3-title' => 'Metroline with Beliris',
+    'example-3-title' => 'Road works in Ranst',
     'example-3-body' => 'In the Belgian municipality of Ranst, construction works on the main road through the village led to multiple diversions for transit and local traffic. About 40 Telraam devices were deployed to first establish a baseline before construction works started. Later on, Telraam data was used throughout to monitor changes to the traffic, allowing city planners to make changes to the diversion plans. ',
     'example-3-location' => 'Ranst (BE)',
     'example-3-number' => '40 devices',

@@ -33,7 +33,7 @@ return [
 
     // webhook / mail checks
     'automatic-mails' => 'Automatic mails',
-    'automatic-mails-note' => 'Define when you want to get a notification about your sensor (in)activity',
+    'automatic-mails-note' => 'Define when you want to get a notification about your own sensor (in)activity',
     'mail_non_active_1day' => 'Mail sent after one day of non activity',
     'mail_non_active_1week' => 'Mail sent after one week of non activity',
     'mail_non_active_2weeks' => 'Mail sent after two weeks of non activity',
