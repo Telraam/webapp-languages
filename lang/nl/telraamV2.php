@@ -7,16 +7,16 @@ return [
     'subtitle'          => 'Onze nieuwe sensor<br>Subtiel, slim, and doeltreffend<br>Moeiteloos verkeer tellen in elke straat',
 
     'section1-block1-text'        => '<p><strong>De ideale oplossing om gedetailleerde informatie over het verkeer te verzamelen</strong> op iedere straat, zowel voor particulieren en campagnevoerders als voor lokale overheden en mobiliteitsprofessionals in SMART-steden. </p>
-    <p><strong>Volg meerdere modaliteiten tegelijk</strong> met de S2 om het effect te zien van eventuele ingrepen of veranderingen in lokale gewoonten.</p>',
-    'section1-block2-text'        => '<p>Lees hieronder meer over de functies van de Telraam S2, bekijk de beschikbare opties en neem contact op met ons. Wij helpen je om de geschikte oplossing voor jouw behoeften te kiezen.</p>',
+    <p><strong>Tel meerdere (10) modaliteiten tegelijk</strong> met Telraam S2 om het effect te zien van eventuele ingrepen of veranderingen in lokale gewoonten.</p>',
+    'section1-block2-text'        => '<p>Lees hieronder meer over de functies van Telraam S2, bekijk de beschikbare opties en neem contact op met ons. Wij helpen je om de geschikte oplossing voor jouw behoeften te kiezen.</p>',
 
     'section-features-title'       => 'Kenmerken',
 
     'section-features-block1-title'  => 'Multimodaal',
     'section-features-block1-subtitle'     => 'Straten zijn er niet enkel voor auto\'s',
-    'section-features-block1-body'     => '<p>Het Telraam S2-apparaat telt, categoriseert en geeft de drukte op straat weer: het aantal auto\'s, fietsen, voetgangers, bussen, vrachtwagens en meer.</p><p> Krijg een nauwkeurig beeld van wie de straat gebruikt, ontdek patronen en anomalieën en start zinvolle datagestuurde gesprekken over lokale verkeers- en mobiliteitsplannen.',
+    'section-features-block1-body'     => '<p>Het Telraam S2 toestel telt, categoriseert en geeft de drukte op straat weer: het aantal auto\'s, fietsen, voetgangers, bussen, vrachtwagens en meer.</p><p> Krijg een nauwkeurig beeld van wie de straat gebruikt, ontdek patronen en anomalieën en start zinvolle datagestuurde gesprekken over lokale verkeers- en mobiliteitsplannen.',
 
-    'section-features-block2-title'  => 'Speciaal voor ons gebouwd',
+    'section-features-block2-title'  => 'Custom-build voor ons',
     'section-features-block2-subtitle'     => 'Een toestel voor volledige autonomie',
     'section-features-block2-body'     => '<p>Telraam S2 is volledig nieuw ontworpen en gebouwd met het specifieke doel om verkeer te tellen. Het is robuust, betrouwbaar en werkt volledig autonoom dankzij de ingebouwde mobiele dataverbinding en de tools voor toestelbeheer op afstand.</p>
         <p><ul class="jump-in">
@@ -30,15 +30,15 @@ return [
 
     'section-features-block3-title' => 'Simpel',
     'section-features-block3-subtitle'     => 'Vijf minuten installation',
-    'section-features-block3-body' => '<p>Na een eenvoudige set-up werkt het toestel, verstuurt het gegevens zonder dat wifi nodig is, en kan het op afstand worden geüpdated.</p>
+    'section-features-block3-body' => '<p>Na een eenvoudige installatie werkt het toestel, verstuurt het gegevens zonder dat wifi nodig is, en kan het op afstand worden geüpdated.</p>
         <p>Plaats je Telraam S2 aan de binnenkant van je raam met de meegeleverde zelfklevende houder, sluit de USB-C-kabel aan, scan een code met je smartphone* en voltooi de registratie op je scherm. Geen gedoe met wifi-wachtwoorden, of het aanpassen en regelen van de camerahoek. Binnen 15 minuten na registratie staat je Telraam S2 live op de kaart!</p>
         <p>Het LCD-scherm helpt bovendien niet alleen bij de installatie, maar geeft ook een overzicht van het actuele verkeer van de dag en het afgelopen kwartier.</p>
         <p class=tiny>* Scan de meegeleverde QR-code of voer een code in in eender welke browser</p>',
 
     'section-features-block4-title' => 'Elegant',
     'section-features-block4-subtitle'     => 'Functionaliteit en gebruiksvriendelijkheid als leidraad',
-    'section-features-block4-body' => '<p>Een ontwerp dat in je dagelijks leven, omgeving en meer specifiek op het uitzicht op je raam goed staat.</p>
-        <p>Het apparaat wordt gevoed via een USB-C-poort, heeft één knop voor gebruikersinteractie en wordt geleverd met een LCD-kleurenscherm. Het scherm kan volledig worden uitgeschakeld, wat energie bespaart en voorkomt dat er mogelijk ongewenst licht van je Telraam S2 komt, of het nu in een woonkamer of slaapkamer is.</p>
+    'section-features-block4-body' => '<p>Een ontwerp dat in je dagelijks leven, omgeving en meer specifiek op je raam goed staat.</p>
+        <p>Het toestel wordt gevoed via een USB-C-poort, heeft één knop voor gebruikersinteractie en wordt geleverd met een LCD-kleurenscherm. Het scherm kan volledig worden uitgeschakeld, wat energie bespaart en voorkomt dat er mogelijk ongewenst licht van je Telraam S2 komt, of het nu in een woonkamer of slaapkamer is.</p>
         <p>Telraam S2 wordt verkocht in 100% recycleerbare papieren verpakkingen, zonder plastic afval.</p>',
 
     'section-features-block5-title' => 'Nauwkeurigheid',
@@ -51,13 +51,13 @@ return [
 
     'section-features-block-title' => 'S2 firmware evolutie!',
     'section-features-block7-subtitle'     => 'Over the air updates',
-    'section-features-block7-body' => '<p>De firmware van Telraam S2 evolueert voortdurend om de gebruikers de best mogelijke ervaring te bieden. Updates worden autonoom over the air (OTA) uitgevoerd om ervoor te zorgen dat het apparaat altijd de laatste versie heeft. Momenteel ligt onze focus op het implementeren van nachttellingen voor gemotoriseerd verkeer, een functie waar onze gebruikers veel om vragen, en op het verder verbeteren van onze precisie en nauwkeurigheid.</p>',
+    'section-features-block7-body' => '<p>De firmware van Telraam S2 evolueert voortdurend om de gebruikers de best mogelijke ervaring te bieden. Updates worden autonoom 'over the air' (OTA) uitgevoerd om ervoor te zorgen dat het apparaat altijd de laatste versie heeft. Momenteel ligt onze focus op het implementeren van nachttellingen voor gemotoriseerd verkeer, een functie waar onze gebruikers veel om vragen, en op het verder verbeteren van onze precisie en nauwkeurigheid.</p>',
     'section-features-block7-body-extra' => 'Voor een volledige geschiedenis van firmware-updates zie de <a href="https://github.com/Telraam/Telraam-S2/blob/main/changelog_NRF.md" target="_blank">NRF changelog</a> en de
 <a href="https://github.com/Telraam/Telraam-S2/blob/main/changelog_K210.md"  target="_blank">K210 changelog</a>.',
 
     'section-features-block8-title' => 'Tel mee!',
     'section-features-block8-subtitle'     => 'Een oplossing voor elke straat',
-    'section-features-block8-body' => '<p>Of je nu een particulier bent die een enkel toestel nodig heeft voor in je straat, of een professional die een heel netwerk in je stad wil opzetten, Telraam is er om je te helpen. Je kan ook kiezen voor hulpmiddelen voor het bouwen en beheren van lokale netwerken, of het nu gaat om een kleine wijk of een metropool. Bekijk hieronder de optie die het beste bij jou past om aan de slag te gaan.</p>',
+    'section-features-block8-body' => '<p>Of je nu een particulier bent die één toestel nodig heeft om het verkeer in eigen straat te meten, of een professional die een heel netwerk in zijn stad wil opzetten, Telraam is er om je te helpen. Je kan ook kiezen voor hulpmiddelen voor het bouwen en beheren van lokale netwerken, of het nu gaat om een kleine wijk of een metropool. Bekijk hieronder de optie die het beste bij jou past om aan de slag te gaan.</p>',
 
     // tech table
     'spec-table-title' => 'Technische specificaties',
@@ -93,7 +93,7 @@ return [
 
     // modal
     'modal-title'    => 'Meld je aan om de nieuwste Telraam S2 updates te ontvangen',
-    'modal-body'    => 'Vul dit korte formulier in en iemand van Telraam zal contact met je opnemen',
+    'modal-body'    => 'Vul dit formulier in en iemand van Telraam zal contact met je opnemen',
 
     // individual package promo
     'section-package-title' => 'Verkeersgegevens nodig voor jouw straat?',
