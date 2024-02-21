@@ -26,7 +26,7 @@ return [
                             <li>Outils de support réseau</li>
                         </ul>',
 
-    'packages-title' => 'Paquets pré-configurés',
+    'packages-title' => 'Forfaits pré-configurés',
     'intro-packages' => 'Commencez avec Telraam dès aujourd\'hui. Pour vous permettre de compter rapidement, nous proposons quelques forfaits prêts à l\'emploi dans la boutique.',
 
     'warning-professional' => 'La deuxième production est entièrement épuisée. Date d\'expédition estimée pour les commandes actuelles : mi-juillet 2023.',

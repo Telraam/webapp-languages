@@ -7,9 +7,9 @@ return [
 
     'subtitle'          => 'Volledig autonoom Telraam S2 voor outdoor gebruik',
 
-    'section1-block1-text'        => '<p>Wil je ook een Telraam-sensor installeren om het verkeer in je straat te tellen, maar wordt het zicht geblokkeerd door die verdomde boom? Natuurlijk wil je deze boom niet omhakken, maar wil je wel het verkeer tellen. Voor jou wordt het Telraam dus best effectief in de buitenlucht geplaatst.</p>
+    'section1-block1-text'        => '<p>Wil je ook een Telraam-sensor installeren om het verkeer in je straat te tellen, maar wordt het zicht geblokkeerd door die verdomde boom? Natuurlijk wil je deze boom niet omhakken, maar wil je wel het verkeer tellen. Voor jou wordt het Telraam dus best effectief in de buitenlucht geplaatst, eventueel dan bevestigd aan deze boom.</p>
 
-<p>Je bent hierin alleszins niet de enige, en we hebben jullie oproep gehoord. Om in deze nood te kunnen voorzien, hebben we een nieuw ontwikkelingstraject opgestart om een autonome Telraam S2-sensor voor installatie buitenshuis, te ontwikkelen. We willen de eenvoud van installatie behouden, dus geen geknoei met stroomkabels of wifi-verbindingen.  Onze aanpak bestaat er dus in om de bestaande S2-sensor in een waterdichte behuizing te plaatsen en dit te combineren met een klein zonnepaneel en een interne batterij. Omdat onze sensor heel weinig stroom verbruikt, verwachten we dat we een klein zonnepaneel en een kleine batterij kunnen volstaan. Verder voorzien we ook nog een veilige en stabiele bevestiging om het toestel gedurende lange tijd onbezorgd te kunnen laten hangen.</p>',
+<p>Je bent hierin alleszins niet de enige, en we hebben jullie oproep gehoord. Om in deze nood te kunnen voorzien, hebben we een nieuw ontwikkelingstraject opgestart om een autonome Telraam S2-sensor voor buitenshuis instalatie, te ontwikkelen. We willen de eenvoud van installatie behouden, dus geen geknoei met stroomkabels of wifi-verbindingen.  Onze aanpak is dus om de bestaande S2-sensor in een waterdichte behuizing te plaatsen en dit te combineren met een klein zonnepaneel en een interne batterij. Omdat onze sensor heel weinig stroom verbruikt, verwachten we dat we een klein zonnepaneel en een kleine batterij kunnen volstaan.</p>',
 
     // timeline
     'timeline-step1-title'        => 'Design & ontwikkeling',

@@ -20,7 +20,7 @@ return [
                             <li>Opties voor Data export</li>
                         </ul>',
     'network-features'       => '<p><strong>Includes:</strong></p><ul class="pricing-checklist">
-                            <li>Alle functionaliteiten uit Data</li>
+                            <li>Compleet dataoverzicht</li>
                             <li>Premium analyse tools</li>
                             <li>Premium rapporten</li>
                             <li>Beheren van meerdere tracks</li>

@@ -3,14 +3,14 @@
 return [
     'title' => 'Uw venster op lokaal verkeer',
     'sub-title' => 'Verkeersgegevens voor betere straten.<br>
-Ontvang continue en real-time gegevens van hoge kwaliteit, in samenwerking met lokale burgers.',
+Ontvang, in samenwerking met lokale burgers, continue en real-time gegevens van hoge kwaliteit.',
 
     'section1-block1-title' => 'Wat is Telraam?',
-    'section1-block1-text' => 'Telraam is een oplossing (met burgers) voor het verzamelen van multimodale verkeersgegevens met een speciaal gebouwd, betaalbaar en gebruiksvriendelijk toestel.<br>
+    'section1-block1-text' => 'Telraam is een manier om (samen met burgers) multimodale verkeersgegevens te verzamelen met een custom-build, gebruiksvriendelijk en betaalbaar toestel.<br>
 <br>
-Onze Telraam-toestel scant voortdurend een straat vanuit het raam van een burger en biedt cruciale gegevens over verschillende vervoerswijzen, waaronder
-gemotoriseerde voertuigen, fietsers, voetgangers en meer. Telraam netwerken creëren ook de mogelijkheid voor dialoog tussen verkeersplanners, lokale autoriteiten en hun communities:
-de burgers die leven door - en gebruiken - deze straten, door verkeer te omzetten in een open en toegankelijk Citizen Science-project.<br><br>',
+Het Telraam toestel scant voortdurend de straat vanuit het raam van een burger en biedt cruciale gegevens over verschillende vervoerswijzen, waaronder
+gemotoriseerde voertuigen, fietsers, voetgangers en meer. Telraam netwerken creëren ook de mogelijkheid om de dialoog te openen tussen verkeersplanners, lokale autoriteiten en hun communitie:
+de burgers die leven in deze straten. Dit door verkeer om te zetten in een open en toegankelijk Citizen Science-project.<br><br>',
 
     'section1-block1-extra' => 'Of u nu een lokale bewoner bent, een campagnevoerder, een werknemer van een publieke of particuliere
      organisatie of werkt voor een overheidsinstantie, een Telraam-project levert betrouwbare gegevens om u te helpen uw doelen te bereiken.',
@@ -30,7 +30,7 @@ Toestellen en netwerken van Telraam bieden een oplossing voor burgers en hun lok
 
 
     'section2-block2-title' => 'Verkeersdata voor betere straten',
-    'section2-block2-text' => 'Telraam creëert aangepaste netwerken van sensoren die gebruikmaken van de kennis en toegang van lokale bewoners, met behulp van kunstmatige intelligentie (AI) technologie om consistente, tijdige en kwalitatieve gegevens te leveren voor efficiëntere en effectievere plannen voor infrastructuur, verkeersstromen en verkeersbeheer.<br>
+    'section2-block2-text' => 'Telraam creëert aangepaste netwerken van sensoren die gebruikmaken van de kennis en toegang van lokale bewoners. Met behulp van kunstmatige intelligentie (AI) technologie levert het consistente, tijdige en kwalitatieve gegevens om zo efficiëntere en effectievere plannen op te stellen voor infrastructuur, verkeersstromen en verkeersbeheer.<br>
     <br>
 Het betrekken van burgers en het publiceren van open data brengt onderzoekers en beleidsmakers in contact met de plaatselijke bewoners, waardoor mogelijkheden ontstaan voor interactie, dialoog, co-creatie en andere vormen van participatie..',
 
@@ -54,20 +54,19 @@ Het betrekken van burgers en het publiceren van open data brengt onderzoekers en
 Telraam S2 maakt gebruik van een speciaal getrainde AI en een eigen volgalgoritme om weggebruikers met hoge precisie te detecteren, classificeren en tellen in een breed scala van typische straatomgevingen.
 Burgers plaatsen een Telraam-sensor in hun raam en de verzamelde gegevens kunnen als Open Data worden gedeeld met lokale autoriteiten en beleidsmakers.<br>
 <br>
-Telraam-apparaten kunnen worden ingesteld door burgers in hun individuele straten, of door lokale actiegroepen en overheidsinstanties die burgernetwerken financieren om lokale verkeersgegevens te verzamelen.<br>
+Burgers kunnen op eigen intiatief een Telraam toestel in hun eigen straat installeren. Een andere optie is dat lokale actiegroepen en overheidsinstanties burgernetwerken financieren om lokale verkeersgegevens te verzamelen.<br>
  <br>
 <a href="/nl/S2">Lees meer over de S2</a>',
 
     'section3-block2-title' => 'Wat doet een Telraam S2 toestel?',
-    'section3-block2-text' => 'De Telraam S2 is een toestel op maat dat op je raam hangt.
-Als je eenmaal bent verbonden, hoef je niets te doen, je hoeft alleen maar de tellingen te bekijken terwijl ze plaatsvinden.<br>
+    'section3-block2-text' => 'Je hangt het toestel omhoog op het juiste raam en eenmaal het geïnstalleerd is, hoef je niets meer te doen. Je kan de tellingen van het afgelopen kwartier, uur en dag op het Telraam zelf bekijken of op de website de data van de hele telperiode raadplegen<br>
 <br>
-De Telraam S2 heeft een lage resolutie camera (voor privacy), een AI-chip voor het detecteren en categoriseren van straatgebruikers, en een ingebouwde mobiele dataverbinding die geaggregeerde, anonieme data doorstuurt naar de Telraam-servers.
-Het apparaat hoeft alleen maar van stroom te worden voorzien en aan de binnenkant van een raam op de bovenverdieping te worden gemonteerd met vrij uitzicht over de straat.',
+De Telraam S2 heeft een lage resolutie camera (omwille van privacyredenen), een AI-chip voor het detecteren en categoriseren van straatgebruikers en een ingebouwde mobiele dataverbinding die geaggregeerde, anonieme data doorstuurt naar de Telraam-servers.
+Het apparaat hoeft alleen maar van stroom te worden voorzien en aan de binnenkant van een raam te worden geplaatst op een minimumhoogte van 3 meter, met vrij uitzicht over de straat.',
 
  // Make your view count
-    'make-view-count-title' => 'Hoe start ik met Telraam sensoren in mijn buurt?',
-    'make-view-count-text' => '<p>Je kunt ervoor kiezen om een individuele Telraam sensor in je straat te hosten, of samen te werken met de lokale overheid of een actiegroep om een breder netwerk voor een hele groep straten op te zetten.</p>
+    'make-view-count-title' => 'Hoe start ik met Telraam in mijn buurt?',
+    'make-view-count-text' => '<p>Je kunt ervoor kiezen om een individueel Telraam toestel in je straat te hosten door het zelf aan te kopen, of om samen te werken met de lokale overheid of een actiegroep om een breder netwerk voor een hele groep straten op te zetten.</p>
     <p>Hieronder lees je meer over de Telraammethodologie en waarom burgerwetenschap uniek en waardevol is. Maar het werkt natuurlijk alleen als je ook meedoet.</p>
     <p>Telraam levert de tools zodat gemotiveerde individuen hun eigen straat kunnen monitoren, maar ook kunnen samenwerken in een netwerk om met de hele buurt samen te werken.</p>
     
@@ -85,7 +84,7 @@ Het apparaat hoeft alleen maar van stroom te worden voorzien en aan de binnenkan
     'use-cases-case-2-text' => 'De belangrijkste oorzaken van ongevallen zijn motorvoertuigen, dus het spreekt voor zich dat we moeten meten hoe deze de straat gebruiken, in termen van modal share,
     volume en snelheid.' ,
 
-    'use-cases-case-3-title' => 'Schone lucht',
+    'use-cases-case-3-title' => 'Betere luchtkwaliteit',
     'use-cases-case-3-text' => 'Kaarten van de luchtkwaliteit kunnen een verband tussen een slechte luchtkwaliteit en veel verkeer aan het licht brengen, maar om het aantal autoritten te verminderen,
     moet je weten hoeveel auto\'s er werkelijk over de weg rijden, en wanneer.',
 
@@ -95,8 +94,8 @@ Het apparaat hoeft alleen maar van stroom te worden voorzien en aan de binnenkan
      'read-more' => 'Lees meer',
 
 // block start counting
-     'start-counting-section-1-title' => 'Want to make your view count?',
-     'start-counting-section-1-text' => '<p>Is uw straat te druk, ontsierd door auto\'s en bestelwagens die te hard rijden? Willen mensen meer lopen, fietsen en spelen in de straat, maar vinden ze het onveilig?</p>
+     'start-counting-section-1-title' => 'Starten met tellen?',
+     'start-counting-section-1-text' => '<p>Is uw straat te druk, zijn er auto\'s en bestelwagens die te hard rijden? Willen mensen meer lopen, fietsen en spelen in de straat, maar vinden ze het onveilig?</p>
      
      <p>De stijgende verkeersdrukte, vooral in woonstraten met in principe enkel lokaal verkeer, zorgt ervoor dat bewoners de verkeersleefbaarheid in vraag stellen.</p>
      
@@ -106,7 +105,7 @@ Het apparaat hoeft alleen maar van stroom te worden voorzien en aan de binnenkan
      
      <p>Daarom werkt Telraam samen met burgers en mobiliteitsprofessionals: om de data te verzamelen die nodig zijn om de straten meer leefbaar te maken.</p>
      
-     <p>Lees meer over onez <a href="S2">Sensoren</a>, onze <a href="data-subscription">Data</a> en onze 
+     <p>Lees meer over onze <a href="S2">toestellen</a>, onze <a href="data-subscription">Data</a> en onze 
      <a href="network">Netwerk aanbod</a> en ontdekt hoe je aan de slag kan.</p>',
 
 // The Telraam Methodology
@@ -120,9 +119,9 @@ Deze werkwijze en de open toegang tot de verzamelde verkeersgegevens, democratis
     'methodology-item-A' => 'Burgers verzamelen verkeersgegevens uit hun ramen met behulp van Telraam-sensoren. Deze blijven doorgaans continu tellen over een langere periode (meestal 12 maanden) en verzenden elke 15 minuten gegevens.',
     'methodology-item-B' => 'Mobiliteitsprofessionals en lokale overheden analyseren de gegevens om inzicht te krijgen in het lokale verkeer en oplossingen voor te stellen voor specifieke problemen.',
     'methodology-item-C' => 'Burgers en professionals werken samen om de gegevens te bekijken, te doorgronden en samen manieren te bedenken om betere verkeersplannen uit te voeren.',
-    'methodology-item-D' => 'De sensoren van Telraam kunnen na de implementatie van de verkeersmaatregelen worden gebruikt om de doorgevoerde veranderingen te controleren, te evalueren en Ė waar nodig Ė bij te sturen.',
+    'methodology-item-D' => 'De Telraam toestellen kunnen na de implementatie van de verkeersmaatregelen worden gebruikt om de doorgevoerde veranderingen te controleren, te evalueren en waar nodig bij te sturen.',
 
-    'methodology-part-3' => '<p>Als geÔnteresseerde kunt u uw eigen persoonlijke Telraam-sensor aankopen, installeren en uw eigen gegevens analyseren. De gegevens die uw sensor verzamelt worden ook voor iedereen als Open Data beschikbaar gesteld via de Telraam API.</p>',
+    'methodology-part-3' => '<p>Als geëngageerde burger kunt u uw eigen persoonlijke Telraam toestel aankopen, installeren en uw eigen gegevens analyseren. De gegevens die uw Telraam verzamelt worden ook voor iedereen als Open Data beschikbaar gesteld via de Telraam API.</p>',
 
     // Why Citizen Science?
     'cit-science-title' => 'Waarom burgerwetenschap?',
@@ -134,13 +133,13 @@ Deze werkwijze en de open toegang tot de verzamelde verkeersgegevens, democratis
     'cit-science-item-3' => '<strong  class="green">De gemeenschap betrekken</strong><br>
     <p>Burgerwetenschapsprojecten kunnen een manier zijn om leden van de gemeenschap bij het besluitvormingsproces te betrekken en om hen grondiger te betrekken bij het vinden van oplossingen voor de lokale uitdagingen.</p>',
     'cit-science-item-4' => '<strong  class="green">Breder effect</strong><br>
-    <p>Door burgers bij het gegevensverzamelingsproces te betrekken, kunnen lokale autoriteiten ook een groter gevoel van eigenaarschap creŽren voor oplossingen die uit proces komen. Dit zal leiden tot een bredere toepassing en een grotere positieve impact en ontvangst in de lokale gemeenschap.</p>',
+    <p>Lokale autoriteiten kunnen ook een groter gevoel van zeggenschap creëren door burgers bij het gegevensverzamelingsproces te betrekken. Dit zal leiden tot een bredere toepassing en een grotere positieve impact en aanvaarding in de lokale gemeenschap.</p>',
     
         // What does Telraam Count?
     'what-title' => 'Wat telt Telraam?',
-    'what-text' => '<p>De sensoren van Telraam tellen de weggebruikers die in verschillende categorieŽn zijn ingedeeld.</p>
-<p>Momenteel (Q1 2023) omvatten de gegevens die worden weergegeven op de Telraam-website (en beschikbaar worden gesteld via de Telraam API) vier categorieŽn.</p>
-<p>Het nieuwe Telraam S2-toestel kan een nog bredere groep weggebruikers onderscheiden. Nieuwe voertuigklassen zullen (na een testperiode) beschikbaar worden gesteld via de API, en vervolgens via de rapportage (maandrapport) en website.</p>',
+    'what-text' => '<p>Telraam toestellen tellen de weggebruikers en deelt deze in in erschillende categoriën.</p>
+<p>Momenteel (Q1 2023) omvatten de gegevens die worden weergegeven op de Telraam-website (en beschikbaar worden gesteld via de Telraam API) vier categoriën.</p>
+<p>Het nieuwe Telraam S2 toestel kan nog meer types weggebruikers onderscheiden. Nieuwe voertuigklassen zullen (na een testperiode) beschikbaar worden gesteld via de API, en vervolgens via de rapportage (maandrapport) en website.</p>',
 
     'what-table' => '<table class="categories">
 <thead>
@@ -169,13 +168,13 @@ Deze werkwijze en de open toegang tot de verzamelde verkeersgegevens, democratis
     
         // How to start counting
       'how-to-start-title' => 'Hoe begin je met tellen?',
-      'how-to-start-option-A-title' => 'Een apparaat kopen',
-      'how-to-start-option-A-text' => '<p>Als individuele burger kunt u uw eigen Telraam-toestel kopen en zelf het verkeer in uw straat tellen via het Telraam-platform..</p>',
+      'how-to-start-option-A-title' => 'Een Telraam toestel kopen',
+      'how-to-start-option-A-text' => '<p>Als individuele burger kunt u uw eigen Telraam toestel kopen en zelf het verkeer in uw straat tellen via het Telraam-platform..</p>',
       'how-to-start-option-A-button' => '<a href="shop" class="button">Bezoek onze winkel</a></p>',
      
       'how-to-start-option-B-title' => 'Neem deel aan een netwerk',
-      'how-to-start-option-B-text' => '<p>U kunt zich ook aansluiten bij een van de vele netwerken die reeds tellen of werven</p>',
-      'how-to-start-option-B-button' => '<a href="browse-networks#joinlocalnetwork" class="button">Browse the network list</a></p>',
+      'how-to-start-option-B-text' => '<p>U kunt zich ook aansluiten bij een van de vele netwerken die reeds tellen of tellers zoeken</p>',
+      'how-to-start-option-B-button' => '<a href="browse-networks#joinlocalnetwork" class="button">Bekijk de netwerkenlijst</a></p>',
      
       'how-to-start-option-C-title' => 'Start een netwerk',
       'how-to-start-option-C-text' => '<p>Geen bestaande netwerken in uw omgeving?</p>',

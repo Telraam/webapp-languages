@@ -3,18 +3,19 @@
 return [
 
     // data dashboard
-    'title'        => 'Data',
-    'info'          => 'Dig deeper with the Telraam Data subscription',
+    'title'        => 'Données',
+    'info'          => 'Approfondissez avec l\'abonnement aux données Telraam',
 
-    'btn-open'      => 'Open',
-    'btn-not-ok'    => 'Only available for users with a data subscription',
-    'not-yet-available' => 'Not yet available',
-    'learn-more'       => 'Learn more',
-    'upgrade'          => 'Upgrade',
+    'btn-open'      => 'Ouvrir',
+    'btn-not-ok'    => 'Réservé aux utilisateurs ayant un abonnement aux données',
+    'not-yet-available' => 'Pas encore disponible',
+    'learn-more'       => 'En savoir plus',
+    'upgrade'          => 'Mettre à niveau',
 
     'tab-1'        => 'Segments',
-    'tab-2'        => 'Trends',
-    'tab-3'        => '15 minute data',
+    'tab-2'        => 'Tendances',
+    'tab-3'        => 'Données toutes les 15 minutes',
     'tab-4'        => 'Installations',
 
 ];
+
