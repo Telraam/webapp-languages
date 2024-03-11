@@ -3,11 +3,7 @@
 return [
 
     // data dashboard
-<<<<<<< HEAD
-    'title'        => 'Données',
-=======
      'title'        => 'Données',
->>>>>>> df4a17efcee5a1369115f38b971358b7671d7317
     'info'          => 'Approfondissez avec l\'abonnement aux données Telraam',
 
     'btn-open'      => 'Ouvrir',
