@@ -16,7 +16,7 @@ return [
     'section-features-block1-subtitle'     => 'Straten zijn er niet enkel voor auto\'s',
     'section-features-block1-body'     => '<p>Het Telraam S2 toestel telt, categoriseert en geeft de drukte op straat weer: het aantal auto\'s, fietsen, voetgangers, bussen, vrachtwagens en meer.</p><p> Krijg een nauwkeurig beeld van wie de straat gebruikt, ontdek patronen en anomalieën en start zinvolle datagestuurde gesprekken over lokale verkeers- en mobiliteitsplannen.',
 
-    'section-features-block2-title'  => 'Custom-build voor ons',
+    'section-features-block2-title'  => 'Custom-build door ons',
     'section-features-block2-subtitle'     => 'Een toestel voor volledige autonomie',
     'section-features-block2-body'     => '<p>Telraam S2 is volledig nieuw ontworpen en gebouwd met het specifieke doel om verkeer te tellen. Het is robuust, betrouwbaar en werkt volledig autonoom dankzij de ingebouwde mobiele dataverbinding en de tools voor toestelbeheer op afstand.</p>
         <p><ul class="jump-in">
@@ -43,16 +43,20 @@ return [
 
     'section-features-block5-title' => 'Nauwkeurigheid',
     'section-features-block5-subtitle'     => 'AI voor nauwkeurigheid, precisie, nachttellingen en anonieme data',
-    'section-features-block5-body' => '<p>Telraam S2 gebruikt een volledig nieuwe telmethode in vergelijking met onze eerste Raspberry Pi-gebaseerd toestel, dit met behulp van kunstmatige intelligentie (AI) en neurale netwerken. Dit resulteert in een verbeterde precisie en nauwkeurigheid. Bekijk het FAQ-artikel <a href="https://faq-nl.helpspace-docs.io/article/100/data-performance-en-validatie">Dataprestaties en validatie (van Telraam S2)</a> voor meer informatie en (regelmatige) updates over dit onderwerp.</p>',
+    'section-features-block5-body' => '<p>Telraam S2 werkt, in tegenstelling tot de V1, met kunstmatige intelligentie (AI) op het toestel. Dit resulteert in een verbeterde precisie en nauwkeurigheid.
+ Bekijk het FAQ-artikel <a href="https://faq-nl.helpspace-docs.io/article/100/data-performance-en-validatie">dataprestaties en validatie (van Telraam S2)</a> voor meer informatie en (regelmatige
+  updates over dit onderwerp.</p>',
 
     'section-features-block6-title' => 'Privacy',
     'section-features-block6-subtitle'     => 'Objectdetectie, geen identificatie',
-    'section-features-block6-body' => '<p>Privacy is erg belangrijk voor ons bij Telraam. Er worden geen identificeerbare beelden of video\'s opgeslagen of overgedragen vanaf onze apparaten. Met Telraam S2 gebeurt de classificatie van elk gedetecteerd object ter plaatse op de toestellen. Als gevolg daarvan worden alleen de geanonimiseerde 15-minuten tellingen overgebracht naar de Telraam database.</p>',
+    'section-features-block6-body' => '<p>Privacy is erg belangrijk voor ons bij Telraam. Er worden geen identificeerbare beelden of video\'s opgeslagen of overgedragen vanaf onze toestellen.
+Met Telraam S2 gebeurt de classificatie van elk gedetecteerd object ter plaatse op de toestellen. Als gevolg daarvan worden alleen de geanonimiseerde 15-minuten tellingen doorgestuurd
+ naar de Telraam database.</p>',
 
     'section-features-block-title' => 'S2 firmware evolutie!',
     'section-features-block7-subtitle'     => 'Over the air updates',
-    'section-features-block7-body' => '<p>De firmware van Telraam S2 evolueert voortdurend om de gebruikers de best mogelijke ervaring te bieden.
-Updates worden autonoom  \'over the air \' (OTA) uitgevoerd om ervoor te zorgen dat het apparaat altijd de laatste versie heeft. Momenteel ligt onze focus op het implementeren van nachttellingen voor gemotoriseerd verkeer, een functie waar onze gebruikers veel om vragen, en op het verder verbeteren van onze precisie en nauwkeurigheid.</p>',
+    'section-features-block7-body' => '<p>De firmware van Telraam S2 evolueert nog steeds.
+Updates worden autonoom  \'over the air \' (OTA) uitgevoerd om ervoor te zorgen dat op het toestel altijd de laatste versie draait. Momenteel ligt onze focus op het implementeren van nachttellingenvoor gemotoriseerd verkeer  (lancering april 2024) , een functie waar onze gebruikers veel om vragen, en op het verder verbeteren van onze precisie en nauwkeurigheid.</p>',
     'section-features-block7-body-extra' => 'Voor een volledige geschiedenis van firmware-updates zie de <a href="https://github.com/Telraam/Telraam-S2/blob/main/changelog_NRF.md" target="_blank">NRF changelog</a> en de
 <a href="https://github.com/Telraam/Telraam-S2/blob/main/changelog_K210.md"  target="_blank">K210 changelog</a>.',
 
@@ -79,7 +83,7 @@ Updates worden autonoom  \'over the air \' (OTA) uitgevoerd om ervoor te zorgen 
     'spec-table-row-5-details' => '< 1,5 W (0,8 W met scherm uitgeschakeld)',
 
     'spec-table-row-6-subject'     => 'Privacy',
-    'spec-table-row-6-details' => 'AI telt op het apparaat<br>Er worden geen video\'s of afbeeldingen opgeslagen<br>',
+    'spec-table-row-6-details' => 'AI telt op het toestel<br>Er worden geen video\'s of afbeeldingen opgeslagen<br>',
 
     'spec-table-row-7-subject'     => 'Security',
     'spec-table-row-7-details' => 'Read-only geheugen (OTP) <br>FW kan alleen worden gewijzigd met een beveiligde sleutel.',
@@ -106,7 +110,7 @@ deelnemen aan het lokale gesprek en je raam kan laten tellen!</p>
 <p>Terwijl Telraam zowel grote als kleine netwerken opzet om nuttige gegevens te verzamelen voor gebieden zoals een wijk of zelfs een stad, is er een belangrijke rol weggelegd voor individuele pioniers en burgerwetenschappers die lokale kwesties aan de orde kunnen stellen.</p>
 
 <p>Om deze reden gebruikt Telraam inkomsten uit onze contracten om de kosten van het beheer van jouw persoonlijk toestel te dekken - voor het leven!
-Als particulier kan je één apparaat kopen en de gegevens verzamelen zolang je wilt voor je eigen projecten.</p>
+Als particulier kan je één toestel kopen en de gegevens verzamelen zolang je wilt voor je eigen projecten.</p>
 
 <p>Vanwege deze subsidie en ondersteuning is dit strikt voor individuele, particuliere burgers. Als je een organisatie
 bent die zich bezighoudt met het voeren van campagnes voor, het adviseren over of het beheren van lokale transport- en

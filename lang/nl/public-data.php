@@ -3,7 +3,7 @@
 return [
 
     'title' => 'Data',
-    'sub-title' => 'Professionele toepassingen vereisen geavanceerde dataproducten. Dankzij het Telraam Data abonnement duikt men dieper in data, en ontgrendelt men het volledige potentieel van de Telraam S2-sensor: toegang tot tellingen op segment- en apparaatniveau met een fijnere tijdsresolutie, meer vervoersmodi, geavanceerde API\'s en een uitgebreide set visualisaties en analysetools.',
+    'sub-title' => 'Professionele toepassingen vereisen geavanceerde dataproducten. Dankzij het Telraam Data abonnement duikt men dieper in data, en ontgrendelt men het volledige potentieel van de Telraam S2-sensor: toegang tot tellingen op segment- en toestelniveau met een fijnere tijdsresolutie, meer vervoersmodi, geavanceerde API\'s en een uitgebreide set visualisaties en analysetools.',
 
     // pricing box
     'pricing-1-title' => 'Data abonnement <span class="green">€15 <span class="month">/ maand</span>',
@@ -24,7 +24,7 @@ return [
     // info
     'section-1-title' => 'Meer details',
     'section-1-intro' => 'Gebruikers van het Data abonnement krijgen toegang tot telgegevens met een vier keer hogere tijdsresolutie dan de basisdataset, en een modale verdeling met een meer uitgebreide set weggebruikerscategoriën. Deze hogere tijdsresolutie betekent ook een kleinere vertraging, waardoor professionele gebruikers de live verkeersgegevens effectief real-time kunnen opvolgen.',
-    
+
     'section-1-block1' => '<strong>15 minuten dataresolutie</strong><br>
     <br>
     15 minuten tijdsresolutie voor alle dataproducten, inclusief telgegevens, typische trendgegevens en voor alle analytische-, visualisatie- en exporttools en API\'s.
@@ -74,14 +74,17 @@ return [
     'features-3-text' => 'Vergelijkbaar met het tabblad Segmenten, maar hier kun je gegevens met een hogere tijdsresolutie bekijken. Sommige effecten zijn van korte duur,  bijvoorbeeld de ochtendspits bij scholen, of een tijdelijke wegblokkade door een ongeluk. Kwartaal live gegevens zijn ook veel realistischer, omdat er elk kwartier nieuwe datapunten worden toegevoegd, wat geweldig is voor real-time toepassingen.',
 
     'features-4-title' => 'Installaties',
-    'features-4-text' => 'Op een wegsegment kan meer dan één Telraam-sensor zijn geïnstalleerd. In dat geval toont de segmentpagina de (slim gewogen) gemiddelde meetgegevens van de corresponderende installaties (ook wel Telraam-instances genoemd). Als gebruiker van het Data abonnement kunt u de originele gegevens raadplegen van elk afzonderlijk Telraam-instance, wat handig kan zijn in veel situaties, waaronder gegevensvalidatie, het uitsplitsen van data afkomstig van verschillende types sensoren (bijv. Telraam V1 en S2 sensoren op hetzelfde segment), of gewoon om de gegevens van uw eigen apparaat te raadplegen.',
+    'features-4-text' => 'Op een wegsegment kan meer dan één Telraam-sensor zijn geïnstalleerd. In dat geval toont de segmentpagina de (slim gewogen) gemiddelde meetgegevens van de
+    corresponderende installaties (ook wel Telraam-instances genoemd). Als gebruiker van het Data abonnement kunt u de originele gegevens raadplegen van elk afzonderlijk Telraam-instance,
+     wat handig kan zijn in veel situaties, waaronder gegevensvalidatie,
+     het uitsplitsen van data afkomstig van verschillende types sensoren (bijv. Telraam V1 en S2 sensoren op hetzelfde segment), of gewoon om de gegevens van uw eigen toestel te raadplegen.',
 
 
 
 
     // 3 extra features
     'extra-features-1-title' => 'Straatfiche',
-    'extra-features-1-text' => 'Ons populairste dataproduct op aanvraag, maakt vanaf nu  deel uit van het Data abonnement. We bieden een compacte, diepgaande samenvatting in Excel-formaat voor een apparaat of segment, inclusief inzichten, berekeningen en ruwe gegevens voor verdere analyse. Deze rapporten leveren alle gebruikers, zowel experts als niet-experts, een overzicht van de meetgegevens van een apparaat of segment om trends en afwijkingen te helpen identificeren. Deze fiche geeft een gemakkelijk te begrijpen informatie over modal split, typische verkeerspatronen (voor dagen en weken) en ook snelheidspatronen.
+    'extra-features-1-text' => 'Ons populairste dataproduct op aanvraag, maakt vanaf nu  deel uit van het Data abonnement. We bieden een compacte, diepgaande samenvatting in Excel-formaat voor een toestel of segment, inclusief inzichten, berekeningen en ruwe gegevens voor verdere analyse. Deze rapporten leveren alle gebruikers, zowel experts als niet-experts, een overzicht van de meetgegevens van een apparaat of segment om trends en afwijkingen te helpen identificeren. Deze fiche geeft een gemakkelijk te begrijpen informatie over modal split, typische verkeerspatronen (voor dagen en weken) en ook snelheidspatronen.
 ',
 
     'extra-features-2-title' => 'Geavanceerde APIs',

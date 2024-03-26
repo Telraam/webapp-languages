@@ -3,7 +3,7 @@
 return [
 
     'title' => 'Wil je meewerken aan het telnetwerk?',
-    'title-form' => 'Jouw kandidatuur'
+    'title-form' => 'Jouw kandidatuur',
 
     'first-name'        => 'Voornaam',
     'last-name'         => 'Achternaam',
