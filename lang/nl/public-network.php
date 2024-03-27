@@ -15,10 +15,11 @@ return [
 
     // Apply as candidate
     // -> file candidates
-    
+
     // web page  ----
-    'title' => 'Een Netwerk opzetten',
-    'subtitle' => 'Rol Telraam uit op lokaal, gemeentelijk of regionaal niveau en beheer het netwerk van Telraam sensoren die door burgers worden gehost. Het netwerkabonnement biedt alle beheers- en gegevensanalysetools die u nodig hebt',
+    'title' => 'Een netwerk opzetten',
+    'subtitle' => 'Rol Telraam uit op lokaal, gemeentelijk of regionaal niveau en beheer een netwerk van Telraam toestellen die door burgers worden geïnstalleerd.
+    Het netwerkabonnement biedt alle beheers- en gegevensanalysetools die u nodig hebt',
 
      // pricing
      'pricing-title' => 'Netwerk abonnement',
@@ -31,13 +32,16 @@ return [
     // main content
     'section1-block1-title' => 'Netwerk van mogelijkheden',
     'section1-block1-text' => 'Verkeerskundige studies en stedelijke planning op lokaal en regionaal niveau vereisen het verzamelen van verkeerstellingen op meerdere locaties, en traditioneel is dit een duur en tijdrovend proces. <br>
-    <br>Dankzij AI-gestuurde technologie en het unieke inzetmodel van <a href="https://www.telraam.net/nl/S2">Telraam-sensoren</a>, bieden we een alternatieve, kostenefficiënte, multimodale telmethode die zowel <a href="https://github.com/Telraam/Telraam-S2/blob/main/count-performance-validation.md">nauwkeurig als precies</a> is gebleken onder uiteenlopende omstandigheden.<br>
-    <br>Telraam biedt een netwerkabonnement voor organisaties die meerdere apparaten gebruiken, zoals bovenlokale overheden, lokale besturen en burgergroeperingen. Door het inzetten van een fijnmazig netwerk van Telraam-sensoren, dankzij citizen science, kan het proces van verkeertellen sterk worden verbeterd, waarbij multimodale gegevens op een continue basis worden verzameld, terwijl de kost wordt gereduceerd.',
+    <br>Dankzij AI-gestuurde technologie en het unieke model van <a href="https://www.telraam.net/nl/S2">Telraam-sensoren</a>, bieden we een alternatieve, kostenefficiënte, multimodale telmethode die zowel <a href="https://github.com/Telraam/Telraam-S2/blob/main/count-performance-validation.md">nauwkeurig</a> als stabiel is gebleken onder uiteenlopende omstandigheden.<br>
+    <br>Telraam biedt een netwerkabonnement voor organisaties die meerdere apparaten gebruiken, zoals bovenlokale overheden, lokale besturen en burgergroeperingen. Door het inzetten van een fijnmazig netwerk van Telraam-sensoren, dankzij citizen science, kan het proces van verkeerstellingen sterk worden verbeterd, waarbij multimodale gegevens op een continue basis worden verzameld, terwijl de kost wordt gereduceerd.',
 
     'section2-small-title' => 'Hoe werkt het?',
     'section2-block1-title' => 'Een complete projectoplossing',
-    'section2-block1-text' => 'Een netwerkabonnement levert de nodige tools voor het beheer en de gegevensanalyse noodzakelijk tijdens de looptijd van een project. Het omvat administratieve tools voor het plannen, implementeren en beheren van een netwerk van Telraam-sensoren, die door particulieren voor langere perioden (meestal 6-12 maanden) worden gehost, en tools voor gegevensanalyse om het verkeer op zowel straatsegment- als netwerkniveau te monitoren en analyseren.<br>
-    <br>Realtime en historische meetgegevens kunnen op elk moment worden bekeken en geanalyseerd, of ze kunnen worden geëxporteerd voor offline analyse. Het Telraam-team biedt ondersteuning tijdens het hele proces, van begin tot eind.',
+    'section2-block1-text' => 'Een netwerkabonnement levert de nodige tools voor het beheer en de gegevensanalyse noodzakelijk tijdens de looptijd van een project.
+Het omvat administratieve tools voor het plannen, implementeren en beheren van een netwerk van Telraam-sensoren, die door particulieren voor langere perioden (meestal 6-12 maanden) worden geïnstalleeerd.
+Er zijn daarnaast ook tools voor gegevensanalyse om het verkeer op zowel straatsegment- als netwerkniveau te monitoren en analyseren.<br>
+    <br>Realtime en historische meetgegevens kunnen op elk moment worden bekeken en geanalyseerd, of ze kunnen worden geëxporteerd voor offline analyse.
+     Het Telraam-team biedt ondersteuning tijdens het hele proces, van begin tot eind.',
 
    'section2-block2-title' => 'Burgerbetrokkenheid en transparente operaties',
     'section2-block2-text' => 'Omdat Telraam-apparaten worden gehost door individuele burgers, biedt een Telraam-netwerk een unieke kans om contact te leggen met de lokale bewoners, vertrouwen op te bouwen en kennis uit te wisselen met de personen die elke dag de effecten van het verkeer in hun straat ervaren. Op deze manier hebben gemotiveerde bewoners een directere, persoonlijke betrokkenheid bij het lokale mobiliteitsbeleid.<br>
@@ -45,8 +49,10 @@ return [
     <br>De gegevens van Telraam kunnen ook worden gebruikt door onderzoekers, bewoners en geïnteresseerden om bijvoorbeeld hun verzoeken voor wijzigingen in de lokale mobiliteitsplannen te valideren, waardoor objectieve, data-gestuurde bijdragen aan de discussies worden geleverd.',
 
     'section2-block3-title' => 'Open data en vertrouwen',
-    'section2-block3-text' => 'Organisaties kunnen vertrouwen opbouwen bij burgers door Telraam te gebruiken. Een groot deel van de telgegevens is vrij beschikbaar als open data, en zowel de technologie als de performantie van Telraam-sensoren is goed gedocumenteerd.<br>
-    <br>Ook derden kunnen waarde toevoegen aan de datasets. Er zijn verscheidene manieren voor partijen, binnen en buiten een netwerk, om de meetgegevens te exploreren en ermee te interageren. Dit variërend van de volledig open, live Telraam-kaart tot de openbare en geavanceerde API\'s of de specifieke, geavanceerde datadashboards op segment- en netwerkniveau.<br>
+    'section2-block3-text' => 'Organisaties kunnen vertrouwen opbouwen bij burgers door Telraam te gebruiken. Een groot deel van de telgegevens is vrij
+beschikbaar als open data, en zowel de technologie als de performantie van Telraam-sensoren is goed gedocumenteerd.<br>
+    <br>Ook derden kunnen waarde toevoegen aan de datasets. Er zijn verscheidene manieren voor partijen, binnen en buiten een netwerk, om de meetgegevens
+     te exploreren en ermee te interageren. Dit variërend van de volledig open, live Telraam-kaart tot de openbare en geavanceerde API\'s of de specifieke, geavanceerde datadashboards op segment- en netwerkniveau.<br>
 <ul class="text-list">
     <li>Alle verzamelde basisverkeersgegevens zijn beschikbaar voor het publiek via de interactieve kaart en segmentpagina\'s op de Telraam-website, of rechtstreeks via de openbare Telraam API onder een open, niet-commerciële datalicentie.</li>
     <li>Netwerkeigenaars en deelnemers hebben extra toegang tot de volledige gegevens van hun Telraam S2-apparaten via hun netwerkdashboards en exclusieve API end-points.</li>
@@ -81,17 +87,18 @@ return [
     <li>Bekijk een gedetailleerd overzicht van actieve gebruikers.</li>
     <li>Filter gebruikers volgens specifieke criteria, ideaal bij het beheren van grotere netwerken.</li>
     <li>Verzend batch-e-mails naar specifieke subgroepen van gebruikers om ze op de hoogte te houden en te betrekken.</li>
-    <li>Verkrijg operationele statistieken (bijv. apparaatstatus, uptime over de afgelopen maand) voor het telnetwerk via de ingebouwde rapporten.</li>
+    <li>Verkrijg operationele statistieken (bijv. toestelstatus, uptime over de afgelopen maand) voor het telnetwerk via de ingebouwde rapporten.</li>
     </ul>',
 
     'features-4-title' => 'Geavanceerde data-analyse',
-    'features-4-text' => '<p>Het Netwerkabonnement bevat alle functies van het Data abonnement, en meer. Netwerkbeheerders hebben toegang tot de datadashboards van alle segmenten (en apparaten) in hun netwerk, terwijl deelnemende gebruikers toegang hebben tot de datadashboards van hun eigen segment.<br>
+    'features-4-text' => '<p>Het netwerkabonnement bevat alle functies van het data-abonnement, en meer. Netwerkbeheerders hebben toegang tot de
+datadashboards van alle segmenten (en apparaten) in hun netwerk, terwijl deelnemende gebruikers toegang hebben tot de datadashboards van hun eigen segment.<br>
     <br>Extra data-analyse functies die enkel beschikbaar zijn binnen het Netwerkabonnement:</p>',
 
     'features-4-reports-title' => 'Data Reports:',
     'features-4-reports-list' => '
     <ul class="text-list small">
-    <li>Met één klik toagang tot de datadashboards voor elk afzonderlijk segment in het netwerk.</li>
+    <li>Met één klik toegang tot de datadashboards voor elk afzonderlijk segment in het netwerk.</li>
     <li>Een overzicht van het verkeer per uur of per dag op netwerkniveau in vergelijking met het typische verkeer, wat nuttig kan zijn om veranderingen of onregelmatigheden op netwerkniveau op te sporen.</li>
     <li>Vergelijk gegevens uit twee periodes, voor het hele netwerk of voor geselecteerde segmenten, om de verkeersniveaus te bekijken, dagelijkse verkeerspatronen of snelheden voor auto\'s. </li></ul>',
 
@@ -126,9 +133,8 @@ ruwe gegevens te verwerken of via de API\'s te hoeven werken.</li></ul>',
     'quote1-author' => 'Lotte Demeestere',
     'quote1-function' => 'Mobiliteitsexpert Stad Kortrijk',
 
-    'quote2' => 'Door analyse van de V85 norm krijgen we een indicatie, op welk tijdstip, het dispositief voor
-    snelheidscontroles het best wordt ingezet om maximaal effect te ressorteren met het oog op gedragswijziging
-    van de weggebruikers.',
+    'quote2' => 'Door analyse van de V85 norm krijgen we een indicatie, op welk tijdstip, de snelheidscontroles het best worden ingezet
+    om maximaal effect te bekomen met het oog op gedragswijziging van de weggebruikers.',
     'quote2-author' => 'David Tailleur',
     'quote2-function' => 'Teamcoach wijkwerking Politiezone Lubbeek ',
 
@@ -142,9 +148,9 @@ ruwe gegevens te verwerken of via de API\'s te hoeven werken.</li></ul>',
 
     // final
     'section4-block1-title' => 'Een Telraam traject in uw stad of gemeente?',
-    'section4-block1-text' => 'Telraam heeft ervaring met tientallen Telraam-projecten voor lokale besturen in veel verschillende landen, met een sterke expertise om een succesvol Telraam-project voor uw buurt, gemeente of regio op poten te zetten.<br>
+    'section4-block1-text' => 'Telraam heeft ervaring met tientallen Telraam-netwerken voor lokale besturen in veel verschillende landen.<br>
     <br>Wij bespreken graag met u het opzetten van een Telraam-project in lijn met uw behoeften en passend bestaande de lokale beleidscontext. <br>
-    <br>Als je meer informatie of een offerte wilt, bezoek dan onze <a href="https://telraam.net/nl/contact-us">Contacteer ons page</a>, en we helpen je graag verder.',
+    <br>Als je meer informatie of een offerte wilt, aarzel niet om ons te <a href="https://telraam.net/nl/contact-us">contacteren</a>. We helpen je graag verder.',
 
 
 ];
