@@ -163,7 +163,7 @@ Deze extra voertuigklassen zijn beschikbaar voor alle gebruikers met een <a href
     'what-table' => '<table class="categories">
 <thead>
     <tr>
-        <td>V1 categorieën</td><td>S2 categorieŽn</td>
+        <td>V1 categorieën</td><td>S2 categorieën</td>
     </tr>
     </thead>
 <tbody>

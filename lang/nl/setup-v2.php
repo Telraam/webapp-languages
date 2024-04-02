@@ -10,7 +10,7 @@ return [
     'nav-step-6'        => 'Klaar',
 
     // Step 1: device code
-    'step-1-long-title' => 'Koppel het apparaat aan uw Telraam account',
+    'step-1-long-title' => 'Koppel het toestel aan uw Telraam account',
     'step-1-device-code' => 'De code van uw toestel',
     'step-1-description'  => 'Voer de 15 cijfers en 2 extra validatietekens van uw toestel in, die je onder de QR code op het Telraam ziet.',
 
@@ -32,7 +32,7 @@ return [
     'step-3-instructions-title-2-more' => 'Er mogen geen palen, bomen of hoge struiken voor het raam staan die het zicht op straat
 belemmeren.<br><br>Er mogen geen vliegenramen, gordijnen of rolluiken voor het raam hangen die het zicht van de camera blokkeren.',
 
-    'step-3-instructions-title-3' => '3. Stroomvoorziening van je apparaat',
+    'step-3-instructions-title-3' => '3. Stroomvoorziening van je toestel',
     'step-3-instructions-title-3-more' => 'Zorg dat er een stopcontact in de buurt van het raam is. <br><br> Een stroomkabel van 3m is voorzien. Als dit niet voldoende is kan je een verlengkabel gebruiken',
 
     'step-3-instructions-title-4' => '4. Zorg dat het venster proper is',
@@ -53,7 +53,7 @@ belemmeren.<br><br>Er mogen geen vliegenramen, gordijnen of rolluiken voor het r
     'step-4-instructions-title-3-more' => 'Druk met beide handen 30 seconden stevig op de beugel om hem te bevestigen op zijn plaats.',
 
     'step-4-instructions-title-4' => '4. Hang je Telraam aan de beugel',
-    'step-4-instructions-title-4-more' => 'Schuif het apparaat over de beugel door de gaten op het apparaat uit te lijnen met de haken.',
+    'step-4-instructions-title-4-more' => 'Schuif het toestel over de beugel door de gaten op het toestel uit te lijnen met de haken.',
 
     'step-4-instructions-title-5' => '5. Voorzie je Telraam van stroom',
     'step-4-instructions-title-5-more' => 'Steek de stroomkabel onderaan in je Telraam, dan in een stopcontact.',

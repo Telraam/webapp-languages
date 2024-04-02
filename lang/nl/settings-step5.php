@@ -8,7 +8,7 @@ return [
      brandt het rood lichtje doorlopend en begint het groene licht te knipperen. Na een tijdje blijft het groene lichtje uit. Het rode licht moet doorlopend blijven branden.',
     'to-do-2'         => 'Neem je mobiel toestel en open via je instellingen het wifinetwerk van dat toestel. Selecteer het wifinetwerk “Telraam”.<br> En geef het wachtwoord in: <br>
  <code>TelraamTelraam</code><br><br>Zodra je mobiele toestel met Telraam-wifi verbonden is, krijg je de melding dat je verbonden bent en geen internet hebt. Dit is geen probleem.',
-    'to-do-3'         =>  'Zodra je verbonden bent met het wifinetwerk “Telraam”, surf dan met dit apparaat via een internetbrowser (Chrome, Edge, Firefox,...) op het mobiele toestel naar <a href="http://my.telraam.net">my.telraam.net</a>.
+    'to-do-3'         =>  'Zodra je verbonden bent met het wifinetwerk “Telraam”, surf dan met dit toestel via een internetbrowser (Chrome, Edge, Firefox,...) op het mobiele toestel naar <a href="http://my.telraam.net">my.telraam.net</a>.
  Je belandt een pagina zoals rechts is aangeduid. Als my.telraam.net niet werkt, gebruik dan http://192.168.254.1. ',
     'to-do-4'           => 'Selecteer er je taal. Noteer of neem een screenshot van het serienummer  dat er onderaan verschijnt. Dit heb je pas aan het eind van de registratie opnieuw nodig.',
     'to-do-5'           => 'Op deze webpagina op je mobiele toestel, zie je het beeld van wat jouw Telraam op de straat ziet.',

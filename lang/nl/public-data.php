@@ -94,7 +94,7 @@ return [
     'extra-features-1-title' => 'Straatfiche',
     'extra-features-1-text' => 'Ons populairste dataproduct op aanvraag, maakt vanaf nu  deel uit van het data-abonnement. We bieden een compacte,
     diepgaande samenvatting in Excel-formaat voor een toestel of segment, inclusief inzichten, berekeningen en ruwe gegevens voor verdere analyse.
-     Deze rapporten leveren alle gebruikers, zowel experts als niet-experts, een overzicht van de meetgegevens van een apparaat of segment om
+     Deze rapporten leveren alle gebruikers, zowel experts als niet-experts, een overzicht van de meetgegevens van een toestel of segment om
      trends en afwijkingen te helpen identificeren. Deze fiche geeft een gemakkelijk te begrijpen informatie over modal split, typische verkeerspatronen (voor dagen en weken) en ook snelheidspatronen.',
 
     'extra-features-2-title' => 'Geavanceerde APIs',

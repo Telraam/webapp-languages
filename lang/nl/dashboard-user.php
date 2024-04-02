@@ -20,14 +20,14 @@ return [
     'som-default-text' => 'Moedig uw lokale en regionale overheden aan om een kleinschalig telnetwerk uit te rollen. <a href="https://telraam.net/nl/governments" target="blank">Meer info</a>',
 
     'som-gotron-title' => 'Bestel een Telraam online',
-    'som-gotron-text' => 'Ik wil het Telraam-apparaat bestellen bij <a href="https://telraam.net/nl/shop" target="blanco">de Telraam shop</a>',
+    'som-gotron-text' => 'Ik wil het Telraam-toestel bestellen bij <a href="https://telraam.net/nl/shop" target="blanco">de Telraam shop</a>',
     'som-gotron-order-link' => 'https://telraam.net/nl/shop',
 
 
      /* van instelling stap 1 met enkele updates*/
     'selection-selected' => 'Welkom bij de Telraam registratie! Gefeliciteerd, u bent geselecteerd. U heeft reeds uw toestel of ontvangt het binnenkort.',
     'selection-not-selected' => 'Welkom bij de Telraam-registratie! U had zich aangemeld voor deelname, maar helaas bent u niet geselecteerd.
-     U kunt nog steeds uw eigen apparaat kopen en aan de slag gaan.',
+     U kunt nog steeds uw eigen toestel kopen en aan de slag gaan.',
     'selection-not-reviewed' => 'Welkom bij de Telraam-registratie! U heeft zich aangemeld voor deelname, maar de selectie is nog niet afgerond, nog even geduld a.u.b.',
 
     /* select v1 or S2 */

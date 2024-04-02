@@ -19,11 +19,11 @@ return [
     <a href="https://telraam.helpspace-docs.io/article/30/background-image">Lees meer info op onze faq</a>',
     'not-receiving-data'         => 'Het lijkt erop dat we op dit moment (nog) geen gegevens van uw Telraam ontvangen.',
 
-    'software-version' => 'Softwareversie geïnstalleerd apparaat',
+    'software-version' => 'Softwareversie geïnstalleerd toestel',
 
     // S2 ROI
     'roi-loading-title' => 'Laden...',
-    'roi-loading-text' => 'We moeten eerst het groothoekbeeld laden van het S2-apparaat.<br>Aangezien het S2-apparaat een trage IoT-verbinding heeft, kan dit tot 30-60 seconden duren.',
+    'roi-loading-text' => 'We moeten eerst het groothoekbeeld laden van het S2-toestel.<br>Aangezien het S2-toestel een trage IoT-verbinding heeft, kan dit tot 30-60 seconden duren.',
 
     'roi-loaded-title' => 'Zoom selecteren',
     'roi-loaded-text' => 'In de meeste gevallen is het brede gezichtsveld niet nodig, omdat het verkeer zich in een veel beperkter gebied afspeelt,
