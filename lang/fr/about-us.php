@@ -66,8 +66,11 @@ human-focused, multimodal traffic culture. </p>',
     'sentence-peter'    => 'Peter has a PhD in Astronomy and Astrophysics (KU Leuven), and 5 years of experience in working with transport related data.
     After work he is a road cyclist, a private pilot, or a bass player. YNWA!',
 
-    'role-carl'     => 'Backend infrastruction and development',
-    'sentence-carl'    => 'Carl is an industrial engineer with a master\'s degree. He combines his expertise with a passion for Lierse and playing music as the bassist in a power metal band.',
+    'role-luc'     => 'Embedded software engineer',
+    'sentence-luc'    => 'A commencé à travailler sur des systèmes embarqués il y a plus de 20 ans et depuis lors
+    adore jouer avec le matériel, les débogueurs, les analyseurs logiques, l\'IoT, Zephyr RTOS, etc.
+Après le travail, il va régulièrement voir ses fils jouer au football, essaie de faire du sport lui-même,
+     et expérimente la domotique et l\'impression 3D.',
 
     'role-elke'     => 'Support, documentation and processes',
     'sentence-elke'    => 'Introducing Elke Verhoeven, Telraam\'s organizational guru, mastering support, operations, and a splash of product management.
@@ -83,4 +86,6 @@ human-focused, multimodal traffic culture. </p>',
     'sentence-laurens'    => 'Working at Telraam\'s front of the house, he supports future clients in finding tailored solutions for their use case. This while maintaining contact with the end-users. This polyglot helps you setting up projects in dutch, english, french and german.
     When not in the office you can find Laurens in his running shoes or in the kitchen, as an enthousiast amateur chef. ',
 
+    'role-ana'     => 'International sales manager',
+    'sentence-ana' => 'Très nouveau dans l\'équipe!',
 ];

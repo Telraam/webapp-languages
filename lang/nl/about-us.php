@@ -60,8 +60,10 @@ Bent u op zoek naar een betaalbare, multimodale oplossing voor de verkeersmonito
     'sentence-peter'    => 'Peter has a PhD in Astronomy and Astrophysics (KU Leuven), and 5 years of experience in working with transport related data.
     After work he is a road cyclist, a private pilot, or a bass player. YNWA!',
 
-    'role-carl'     => 'Backend infrastruction and development',
-    'sentence-carl'    => 'Carl is an industrial engineer with a master\'s degree. He combines his expertise with a passion for Lierse and playing music as the bassist in a power metal band.',
+    'role-luc'     => 'Embedded software engineer',
+    'sentence-luc'    => 'Begon 20+ jaar geleden te werken op embedded systemen en sindsdienspeelt hij graag met hardware, debuggers, logic analyzer,
+     IoT, Zephyr RTOS enz.     Na het werk gaat hij regelmatig kijken hoe zijn zonen voetballen, probeert hij zelf wat te sporten,
+     en experimenteert hij met domotica en 3D-printen.',
 
     'role-elke'     => 'Support, documentation and processes',
     'sentence-elke'    => 'Introducing Elke Verhoeven, Telraam\'s organizational guru, mastering support, operations, and a splash of product management.
@@ -77,4 +79,7 @@ Bent u op zoek naar een betaalbare, multimodale oplossing voor de verkeersmonito
     'sentence-laurens'    => 'Working at Telraam\'s front of the house, he supports future clients in finding tailored solutions for their use case. This while maintaining contact with the end-users. This polyglot helps you setting up projects in dutch, english, french and german.
     When not in the office you can find Laurens in his running shoes or in the kitchen, as an enthousiast amateur chef. ',
 
+
+    'role-ana'     => 'International sales manager',
+    'sentence-ana'    => 'Helemaal nieuw in het team!',
 ];
