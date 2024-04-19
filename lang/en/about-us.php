@@ -86,7 +86,9 @@ human-focused, multimodal traffic culture. </p>',
     'sentence-laurens'    => 'Working at Telraam\'s front of the house, he supports future clients in finding tailored solutions for their use case. This while maintaining contact with the end-users. This polyglot helps you setting up projects in dutch, english, french and german.
     When not in the office you can find Laurens in his running shoes or in the kitchen, as an enthousiast amateur chef. ',
 
-    'role-ana'     => 'International sales manager',
-    'sentence-ana'    => 'Very new to the team!',
-
+    'role-ana'     => 'International Growth',
+    'sentence-ana'    => 'Ana\'s mission is to introduce the world to Telraam\'s potential and make sustainable mobility a
+    global reality. Fluent in English, French, Portuguese, and Spanish, she\'s always up for a friendly chat about cultures,
+     cuisines, or scaling SaaS businesses. In her free time, you\'ll find her on the yoga mat, dance floor, or getting creative
+      in the kitchen!',
 ];

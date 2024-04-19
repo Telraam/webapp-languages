@@ -86,6 +86,9 @@ Après le travail, il va régulièrement voir ses fils jouer au football, essaie
     'sentence-laurens'    => 'Working at Telraam\'s front of the house, he supports future clients in finding tailored solutions for their use case. This while maintaining contact with the end-users. This polyglot helps you setting up projects in dutch, english, french and german.
     When not in the office you can find Laurens in his running shoes or in the kitchen, as an enthousiast amateur chef. ',
 
-    'role-ana'     => 'International sales manager',
-    'sentence-ana' => 'Très nouveau dans l\'équipe!',
+    'role-ana'     => 'International Growth',
+    'sentence-ana' => 'Ana est enthousiaste à l\'idée de faire découvrir au monde le potentiel de Telraam. Parlant couramment
+    l\'anglais, le français, le portugais et l\'espagnol, elle est toujours partante pour une discussion amicale sur les cultures,
+     les cuisines ou les entreprises SaaS. Pendant son temps libre, vous pouvez la trouver sur un tapis de yoga, une piste de
+     danse ou en train de faire preuve de créativité dans la cuisine!',
 ];

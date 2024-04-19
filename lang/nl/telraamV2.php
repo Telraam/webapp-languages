@@ -29,7 +29,7 @@ return [
         </ul></p>',
 
     'section-features-block3-title' => 'Simpel',
-    'section-features-block3-subtitle'     => 'Vijf minuten installation',
+    'section-features-block3-subtitle'     => 'Installatie duurt niet meer dan vijf minuten',
     'section-features-block3-body' => '<p>Na een eenvoudige installatie werkt het toestel, verstuurt het gegevens zonder dat wifi nodig is, en kan het op afstand worden geüpdated.</p>
         <p>Plaats je Telraam S2 aan de binnenkant van je raam met de meegeleverde zelfklevende houder, sluit de USB-C-kabel aan, scan een code met je smartphone* en voltooi de registratie op je scherm. Geen gedoe met wifi-wachtwoorden, of het aanpassen en regelen van de camerahoek. Binnen 15 minuten na registratie staat je Telraam S2 live op de kaart!</p>
         <p>Het LCD-scherm helpt bovendien niet alleen bij de installatie, maar geeft ook een overzicht van het actuele verkeer van de dag en het afgelopen kwartier.</p>

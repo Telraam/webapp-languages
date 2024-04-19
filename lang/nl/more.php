@@ -14,6 +14,8 @@ return [
     'bike' => 'Tweewielers',
     'car' => "Auto's",
     'lorry' => 'Grote voertuigen',
+    'night' => 'Nacht',
+
     'measurements-last-week' => 'Metingen laatste week',
     'more-data' => 'Meer gegevens...',
 

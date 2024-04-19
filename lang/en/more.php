@@ -12,6 +12,7 @@ return [
     'bike' => 'Two-wheelers',
     'car' => "Cars",
     'lorry' => 'Heavy vehicles ',
+    'night' => 'Night',
     'measurements-last-week' => 'Measurements last week',
     'more-data' => 'More data...',
     'received-last-data-package-on' => 'Last data',

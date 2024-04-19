@@ -10,7 +10,7 @@ Ontvang, in samenwerking met lokale burgers, multimodale en real-time gegevens.'
 op maat gemaakt, gebruiksvriendelijk en betaalbaar toestel.<br>
 <br>
 Het Telraam toestel scant voortdurend de straat vanuit het raam van een burger en biedt cruciale gegevens over verschillende vervoerswijzen, waaronder
-gemotoriseerde voertuigen, fietsers, voetgangers en meer. Telraam creërt daarnaast ook de mogelijkheid om makkelijk een positieve dialoog te openen tussen
+gemotoriseerde voertuigen, fietsers, voetgangers en meer. Telraam creëert daarnaast ook de mogelijkheid om makkelijk een positieve dialoog te openen tussen
 verkeersplanners, lokale autoriteiten en de burgers. Dit door verkeer om te zetten in een open en toegankelijk Citizen Science-project.<br><br>',
 
     'section1-block1-extra' => 'Of u nu een lokale bewoner bent, een onderzoeker, een werknemer van een publieke of particuliere

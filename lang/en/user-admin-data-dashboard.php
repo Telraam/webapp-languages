@@ -18,3 +18,4 @@ return [
     'tab-4'        => 'Installations',
 
 ];
+

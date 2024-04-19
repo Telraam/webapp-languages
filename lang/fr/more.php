@@ -12,6 +12,7 @@ return [
     'bike' => 'Deux-roues',
     'car' => "Voitures",
     'lorry' => 'Véhicules grands',
+    'night' => 'Nuit',
     'measurements-last-week' => 'Comptages de la semaine dernière',
     'more-data' => 'Plus de données...',
     'received-last-data-package-on' => 'Dernier données',

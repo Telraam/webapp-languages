@@ -28,7 +28,7 @@ return [
                 Open via de Telraam-kaart een willekeurige sensor en je krijgt de meetgegevens
                 voor die straat te zien.<br>
                 <br>
-                Dezelfde informatie is beschikbaar voor de eigenaar van de Telraam sensor, die ook een maandelijks rapport via mail ontvangt en de mogelijkheid heeft om de gegevens in een spreadsheet te exporteren voor verdere analyse. Aanvullende gegevens, inzichten, rapporten en exports zijn beschikbaar via ons betalende <a href="/en/data-subscription"> Data Abonnement</a>.',
+                Dezelfde informatie is beschikbaar voor de eigenaar van de Telraam sensor, die ook een maandelijks rapport via mail ontvangt en de mogelijkheid heeft om de gegevens in een spreadsheet te exporteren voor verdere analyse. Aanvullende gegevens, inzichten, rapporten en exports zijn beschikbaar via ons betalende <a href="/nl/data-subscription"> Data Abonnement</a>.',
 
 
     'section-2-title' => 'Waarin verschilt de gratis Basis data van een Data abonnement?',

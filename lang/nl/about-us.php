@@ -80,6 +80,8 @@ Bent u op zoek naar een betaalbare, multimodale oplossing voor de verkeersmonito
     When not in the office you can find Laurens in his running shoes or in the kitchen, as an enthousiast amateur chef. ',
 
 
-    'role-ana'     => 'International sales manager',
-    'sentence-ana'    => 'Helemaal nieuw in het team!',
+    'role-ana'     => 'International Growth',
+    'sentence-ana'    => 'Ana wil graag wereld kennis  laten maken met het potentieel van Telraam. Ze spreekt vloeiend Engels,
+    Frans, Portugees en Spaans en is altijd in voor een gezellig praatje over culturen, keukens of SaaS-bedrijven.
+In haar vrije tijd vindt u haar op de yogamat, dansvloer of creatief in de keuken!',
 ];
