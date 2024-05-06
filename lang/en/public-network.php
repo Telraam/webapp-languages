@@ -44,6 +44,7 @@ return [
     <br>Network subscription tools streamline the recruitment, application, and selection process of citizens. They learn how to set-up their own fully automated traffic counter and how to better understand the data. Participants become citizen scientists that can make constructive, objective, data-driven contributions to the local policy-making process.<br>
     <br>Telraam data can also be used by researchers, residents, and interested parties to, e.g., validate their requests for changes in the local circulation plans, making objective, data-driven contributions to the discussions.',
 
+    // can be removed
     'section2-block3-title' => 'Open data and trust',
     'section2-block3-text' => 'Organisations can build trust with citizens by engaging through Telraam. A large part of the count data is freely available as open data, and both the technology and performance of Telraam sensors are well documented.<br>
     <br>Third parties can also add value to the datasets. There are many ways for parties within and outside of a network to browse and interact with your data, ranging from the fully open, live Telraam map, to public and advanced APIs, or the specific, advanced segment- and network-level data dashboards.<br>
@@ -52,6 +53,23 @@ return [
     <li>Network owners and participants have additional access to the full data from their Telraam S2 devices through their dashboards and exclusive API endpoints.</li>
     <li>The Telraam Network dashboard allows local authorities to monitor the Telraam devices in their project area, export their data, and perform various live analyses.</li>
     </ul>',
+
+    // new 24 april 2024
+    'section2-opendata-title' => 'Open up the data',
+    'section2-opendata-text' => 'Telraam helps cities build trust by providing clear, understandable
+data and involving citizens in decision-making. We believe that counting data should be open and
+accessible, as mobility is a social challenge that requires transparency.  Even one data point can
+ make a big difference in managing traffic, planning cities, and having meaningful conversations
+ with citizens.<br><br>
+We share our data in a few different ways:
+ <ul>
+    <li>Basic traffic data is accessible through an interactive map on our website.</li>
+    <li>Most count data is freely available as open data, with a non-commercial licence.</li>
+    <li>The Telraam Network dashboard lets local authorities monitor their Telraam
+    devices in their project area, export data, and conduct live analyses.</li>
+    <li>We offer a data pool module for professionals, providing reporting, analytics, and access to the advanced API for specific locations outside of their own fleet.
+     This also opens up the API for broader use. Learn more on our <a href="/en/data-pool">the data pool</a> page.</li>
+ </ul>',
 
     // features in focus
     'features-title' => 'Features',
@@ -102,6 +120,10 @@ return [
     <li>Create “Street sheets”, our popular pre-configured Excel files that allow you to work with count and typical data without
 having to process raw data or access our APIs.</li></ul>',
 
+    'features-5-title' => 'Data Pool',
+    'features-5-text' => '<p>With the network dashboard you can roll out and monitor your own fleet of devices.
+    The Data Pool-module allows you to hook into external devices as well. <br><br>A citizen in the neighboorhood is counting already for a while?
+    Add them with one click to your pool and get all the insights and reporting as it was your own device.</p><p><a href="/en/data-pool">Read More</a></p>',
 
     // features simple list
     'extra-features-1' => 'Network dashboard',
@@ -115,7 +137,7 @@ having to process raw data or access our APIs.</li></ul>',
     'extra-features-8' => 'Multiple tracks',
 
     'extra-features-9' => 'Advanced API Access',
-    'extra-features-10' => 'Peer-to-peer support',
+    'extra-features-10' => 'Access to data outside your fleet',
     'extra-features-11' => 'Priority mail supports',
     'extra-features-12' => 'Training sessions',
 

@@ -10,10 +10,11 @@ return [
     // pricing box
     'pricing-1-title' => 'Data subscription <span class="green">€15 <span class="month">/ month</span>',
     'pricing-1-subtitle' => 'Includes the 10 road user classes, 15 minute data resolution, more tools, and better reports',
-    'pricing-1-info' => '(Multiple) devices in your neighborhood as an organisation or city?
+    'pricing-1-info' => 'You want to install multiple devices? Or get access to other fleet data?
                             <div style="padding-left: 20px">
-                                Consider the <a href="../network">Network</a> instead.
-                                This includes a Data subscription for all devices, and a rich set of network-management tools.
+                                Consider the <a href="../en/network">Network</a> subscription instead.
+                                It includes a Data subscription for all devices, a rich set of network-management tools,
+                                and access to the Data pool feature.
                             </div>',
 
     'pricing-2-title' => 'Basic data <span class="green">Free for personal use only</span>',
@@ -29,7 +30,7 @@ return [
     resolution than our basic dataset, and an extended set of road user
     classes when looking at modal shares. This higher resolution also means a much
     reduced delay which enables professional users to follow live traffic data much more real-time.',
-    
+
     'section-1-block1' => '<strong>15 minute resolution</strong><br>
     <br>
     15 minute temporal resolution for all data products, including count data, typical trend data, and for all analytic,
