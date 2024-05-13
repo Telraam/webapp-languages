@@ -3,18 +3,18 @@
 return [
 
     'title' => 'Data',
-    'sub-title' => 'Professional applications require advanced data products. Dig deeper with the Telraam Data subscription,
+    'sub-title' => 'Professional applications require advanced data products. Dig deeper with a Telraam Data subscription,
     and unlock the full potential of the Telraam S2 device: gain access to segment and device level counts on a finer temporal resolution,
     more modes of traffic, advanced APIs, and a broad set of visualisations and analytic tools.',
 
     // pricing box
     'pricing-1-title' => 'Data subscription <span class="green">€15 <span class="month">/ month</span>',
     'pricing-1-subtitle' => 'Includes the 10 road user classes, 15 minute data resolution, more tools, and better reports',
-    'pricing-1-info' => 'You want to install multiple devices? Or get access to other fleet data?
+    'pricing-1-info' => 'Want to install multiple devices? Or get access to data from existing devices?
                             <div style="padding-left: 20px">
-                                Consider the <a href="../en/network">Network</a> subscription instead.
-                                It includes a Data subscription for all devices, a rich set of network-management tools,
-                                and access to the Data pool feature.
+                                Consider the <a href="../en/network">Network</a> subscription.
+                                It includes a Data subscription for all owned devices, a rich set of network-management tools,
+                                and access to the <a href="../en/data-pool">Network</a>Data Pool</a> feature.
                             </div>',
 
     'pricing-2-title' => 'Basic data <span class="green">Free for personal use only</span>',
@@ -29,7 +29,7 @@ return [
     'section-1-intro' => 'Data subscribers get access to count data that has four times higher temporal
     resolution than our basic dataset, and an extended set of road user
     classes when looking at modal shares. This higher resolution also means a much
-    reduced delay which enables professional users to follow live traffic data much more real-time.',
+    reduced delay which enables professional users to follow live traffic data in much more real-time.',
 
     'section-1-block1' => '<strong>15 minute resolution</strong><br>
     <br>
