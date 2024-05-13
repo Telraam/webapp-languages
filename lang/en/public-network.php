@@ -68,7 +68,7 @@ We share our data in a few different ways:
     <li>The Telraam Network dashboard lets local authorities monitor their Telraam
     devices in their project area, export data, and conduct live analyses.</li>
     <li>We offer a data pool module for professionals, providing reporting, analytics, and access to the advanced API for specific locations outside of their own fleet.
-     This also opens up the API for broader use. Learn more on our <a href="/en/data-pool">the data pool</a> page.</li>
+     This also opens up the API for broader use. Learn more on our <a href="/en/data-pool">data pool</a> page.</li>
  </ul>',
 
     // features in focus
@@ -121,9 +121,7 @@ We share our data in a few different ways:
 having to process raw data or access our APIs.</li></ul>',
 
     'features-5-title' => 'Data Pool',
-    'features-5-text' => '<p>With the network dashboard you can roll out and monitor your own fleet of devices.
-    The Data Pool-module allows you to hook into external devices as well. <br><br>A citizen in the neighboorhood is counting already for a while?
-    Add them with one click to your pool and get all the insights and reporting as it was your own device.</p><p><a href="/en/data-pool">Read More</a></p>',
+    'features-5-text' => '<p>In addition to rolling out and monitoring your own fleet of devices, the Data Pool module allows you to tap into data from external devices as well. <br><br>If a citizen in the neighbourhood is counting already, add them with just a couple of clicks to your pool and get all the insights and reporting as if it was your own device.</p><p><a href="/en/data-pool">Read More</a></p>',
 
     // features simple list
     'extra-features-1' => 'Network dashboard',
