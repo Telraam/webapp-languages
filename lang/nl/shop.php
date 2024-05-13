@@ -68,7 +68,7 @@ Bekijk de  <a href="https://faq-nl.helpspace-docs.io/article/75/vereisten-voor-d
     // personal
     'personal-title' => 'Telraam S2 met basis data',
     'personal-intro-personal' => 'Als particulier kunt u één Telraam S2 sensor kopen aan een reductietarief - enkel voor persoonlijk gebruik -
-    om het verkeer in uw straat te stellen. Deze optie omvat niet de voordelen van het Data-abonnement',
+    om het verkeer in uw straat te tellen. Deze optie omvat niet de voordelen van het Data-abonnement.',
 
     'product-4-title' => 'Telraam S2 - Persoonlijk',
     'product-4-description' => 'Elegant, slim, en effectief. Moeiteloos verkeer tellen in uw straat.',
