@@ -17,7 +17,7 @@ Welcome to Telraam\'s Data Pool - the ultimate destination for unlocking the pow
     'section-1-key-title' => 'Key Features',
     'section-1-key-title-1'  => 'Real-Time Updates',
     'section-1-key-text-1'   => 'Stay informed with continuously updated data streams, providing the latest information on urban mobility dynamics.',
-    'section-1-key-title-2'  => ' Advanced API',
+    'section-1-key-title-2'  => 'Advanced API',
     'section-1-key-text-2'   => 'With the data pool you can access advanced API analytics with custom data limits, 15-minute resolution, 10 modes, typical data, and more.',
     'section-1-key-title-3'  => 'No maintenance or service requirements',
     'section-1-key-text-3'   => 'Gain detailed insights without ownership responsibilities or the need for installations or support.',
@@ -57,9 +57,9 @@ please <a href="/en/contact-us">get in touch</a>.',
 
     // section 4
     'section-4-title' => 'Beta',
-    'section-4-text'  => 'Currently the data pool is in beta only. 
+    'section-4-text'  => 'Currently the data pool is in beta only.
     <br>
-    However if you want access do not hesitate to <a href="/en/contact-us">apply for a partnership</a>!<br><br>',
+    However if you want access do not hesitate to <a href="/en/contact-us">request for access</a>!<br><br>',
 
 
 

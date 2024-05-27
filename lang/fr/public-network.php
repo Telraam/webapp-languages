@@ -100,6 +100,10 @@ return [
     <li>Les options d\'exportation comprennent des rapports mensuels, des ensembles de données brutes mensuelles ou complètes, et le trafic typique (pour deux périodes définies par l\'utilisateur).</li>
     <li>Créez des "feuilles de rue", nos fichiers Excel préconfigurés populaires qui vous permettent de travailler avec des données de comptage et des données typiques sans avoir à traiter les données brutes ou à accéder à nos API.</li></ul>',
 
+    'features-5-title' => 'Data Pool',
+    'features-5-text' => '<p>En plus de déployer et de contrôler votre propre flotte d\'appareils, le module Data Pool vous permet d\'exploiter les données d\'appareils externes.
+     <br><br>Si un citoyen du quartier compte déjà, ajoutez-le en quelques clics à votre pool et obtenez toutes les informations et tous les rapports comme s\'il s\'agissait de
+     votre propre appareil.</p><p><a href="/fr/data-pool">En savoir plus</a></p>',
 
     // fonctionnalités en liste simple
     'extra-features-1' => 'Tableau de bord du Réseau',

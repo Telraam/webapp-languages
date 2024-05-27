@@ -14,7 +14,7 @@ return [
                             <div style="padding-left: 20px">
                                 Consider the <a href="../en/network">Network</a> subscription.
                                 It includes a Data subscription for all owned devices, a rich set of network-management tools,
-                                and access to the <a href="../en/data-pool">Network</a>Data Pool</a> feature.
+                                and access to the <a href="../en/data-pool">Data Pool feature</a>.
                             </div>',
 
     'pricing-2-title' => 'Basic data <span class="green">Free for personal use only</span>',

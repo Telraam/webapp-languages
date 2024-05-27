@@ -82,7 +82,7 @@ Après le travail, il va régulièrement voir ses fils jouer au football, essaie
     'role-rob'      => 'Community success manager',
     'sentence-rob'    => 'Community-driven communicator, trying to make change happen by bringing people together. Has plenty of wine stories, and outside of work is usually found in the garden, working on bonsai trees.',
 
-    'role-laurens'  => 'Workhop-hero and sales',
+    'role-laurens'  => 'Workshop-hero and sales',
     'sentence-laurens'    => 'Working at Telraam\'s front of the house, he supports future clients in finding tailored solutions for their use case. This while maintaining contact with the end-users. This polyglot helps you setting up projects in dutch, english, french and german.
     When not in the office you can find Laurens in his running shoes or in the kitchen, as an enthousiast amateur chef. ',
 

@@ -12,8 +12,9 @@ return [
     'nav-blog' => 'Blog',
     'nav-talks' => 'Telraam Talks',
     'nav-browse-networks' => 'Bekijk netwerken',
-    'nav-jobs' => 'Jobs', 
-    'nav-about-us' => 'Over ons', 
+    'nav-partners' => 'Partners',
+    'nav-jobs' => 'Jobs',
+    'nav-about-us' => 'Over ons',
     'nav-contact-us' => 'Contacteer Ons',
     'nav-faq-support' => 'Faq & Support',
     'nav-login' => 'Login',
@@ -31,7 +32,7 @@ return [
     /* 18 maa */
     'footer-info-mail' => 'Algemene vragen',
     'footer-support-mail' => 'Technische vragen of vragen rond data',
-    
+
     'telraam-devices-counting-now' => 'Telraamsensoren nu aan het tellen',
 
     /* 25 aug */

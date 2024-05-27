@@ -11,7 +11,7 @@ return [
     'nav-press-kit' => 'Kit Presse',
     'nav-blog' => 'Blog',
     'nav-talks' => 'Telraam Talks',
-
+    'nav-partners' => 'Partenaires',
     'nav-faq-support' => 'FAQ et support',
     'nav-login' => 'Se connecter',
     'nav-registrer' => 'S\'enregistrer',

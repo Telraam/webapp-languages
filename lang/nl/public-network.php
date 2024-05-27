@@ -108,6 +108,11 @@ datadashboards van alle segmenten (en apparaten) in hun netwerk, terwijl deelnem
     <li>Maak gebruik van de \'Straatfiches\', de populaire vooraf geconfigureerde Excel-bestanden waarmee je tellingen en typische gegevens kan gebruiken zonder zelf
 ruwe gegevens te verwerken of via de API\'s te hoeven werken.</li></ul>',
 
+    'features-5-title' => 'Data Pool',
+    'features-5-text' => '<p>Naast het uitrollen en monitoren van je eigen toestellen, kun je met de Data Pool-module ook gegevens van externe toestellen gebruiken.
+ <br><br>Als een burger in de buurt al meetelt, voeg hem dan met een paar klikken toe aan je "pool"
+en krijg alle inzichten en rapportages alsof het je eigen toestel is.</p><p><a href="/nl/data-pool">Lees meer</a></p>',
+
 
     // features simple list
     'extra-features-1' => 'Netwerk dashboard',

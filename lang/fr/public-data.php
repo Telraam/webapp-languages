@@ -11,7 +11,8 @@ return [
     'pricing-1-info' => 'Plusieurs dispositifs dans votre quartier en tant qu\'organisation ou ville ?
                             <div style="padding-left: 20px">
                                 Considérez le <a href="../network">Réseau</a> à la place.
-                                Celui-ci inclut un abonnement aux données pour tous les dispositifs, ainsi qu\'un ensemble d\'outils de gestion de réseau.
+                                Celui-ci inclut un abonnement aux données pour tous les dispositifs, qu\'un ensemble d\'outils de gestion de réseau
+                               et ainsi l\'accès à la fonction <a href="../fr/data-pool">Pool de données</a>.
                             </div>',
 
     'pricing-2-title' => 'Données de base <span class="green">Gratuit pour un usage personnel uniquement</span>',
@@ -25,7 +26,7 @@ return [
     'section-1-title' => 'Plus de détails',
     'section-1-intro' => 'Les abonnés aux données ont accès à des données de comptage avec une résolution temporelle quatre fois supérieure à celle de notre jeu de données de base, et à un ensemble élargi de classes d\'usagers de la route
     lors de l\'examen des parts modales. Cette résolution plus élevée signifie également un délai beaucoup plus court, ce qui permet aux utilisateurs professionnels de suivre les données de trafic en direct beaucoup plus en temps réel.',
-    
+
     'section-1-block1' => '<strong>Résolution de 15 minutes</strong><br>
     <br>
     Résolution temporelle de 15 minutes pour tous les produits de données, y compris les données de comptage, les données de tendance typique et pour tous les outils analytiques,

@@ -11,7 +11,8 @@ return [
     'pricing-1-info' => '(Meerdere) sensoren in een buurt/zone als organisatie of lokaal bestuur?
                             <div style="padding-left: 20px">
                                 We bevelen een hiervoor <a href="../network">Netwerk</a> aan.
-                                Dit omvat steeds ook een data-abonnement voor alle sensoren, en daarnaast een uitgebreide set van tools voor netwerkbeheer.
+                                Dit omvat steeds ook een data-abonnement voor alle sensoren, een uitgebreide set van tools voor netwerkbeheer en daarnaast
+                            toegang tot de <a href=“../nl/data-pool”>Data Pool-module</a> .
                             </div>',
 
     'pricing-2-title' => 'Basic data <span class="green">Gratis, alleen voor persoonlijk gebruik </span>',
