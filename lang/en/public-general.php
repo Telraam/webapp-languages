@@ -31,6 +31,7 @@ return [
      Horizon 2020 research and innovation programme in the <a href="https://we-count.net/" target="_blank">WeCount</a>-project, under grant agreement No. 872743.',
     'footer-subscribe' => 'Sign up for our mailing list:',
     'footer-subscribe-btn' => 'Register',
+    'business-terms' => 'Business Terms',
 
     /* 18 maa */
    'footer-info-mail' => 'General questions',

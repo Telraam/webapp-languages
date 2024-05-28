@@ -12,7 +12,7 @@ return [
                             <div style="padding-left: 20px">
                                 Considérez le <a href="../network">Réseau</a> à la place.
                                 Celui-ci inclut un abonnement aux données pour tous les dispositifs, qu\'un ensemble d\'outils de gestion de réseau
-                               et ainsi l\'accès à la fonction <a href="../fr/data-pool">Pool de données</a>.
+                               et ainsi l\'accès à la fonction <a href="../fr/data-pool">Data Pool</a>.
                             </div>',
 
     'pricing-2-title' => 'Données de base <span class="green">Gratuit pour un usage personnel uniquement</span>',

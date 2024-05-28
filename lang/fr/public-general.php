@@ -27,6 +27,7 @@ return [
 
     'footer-subscribe' => 'Inscrivez-vous à notre liste de contacts :',
     'footer-subscribe-btn' => 'S’enregistrer',
+    'business-terms' => 'Conditions générales de vente',
 
     /* 18 maa */
     'footer-info-mail' => 'Questions d\'ordre général',

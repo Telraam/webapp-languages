@@ -28,6 +28,7 @@ return [
      <a href="https://we-count.net/" target="_blank">WeCount</a>-project, onder subsidieovereenkomst nr. 872743.',
     'footer-subscribe' => 'Schrijf je in op onze mailinglijst:',
     'footer-subscribe-btn' => 'Inschrijven',
+    'business-terms' => 'Zakelijke voorwaarden',
 
     /* 18 maa */
     'footer-info-mail' => 'Algemene vragen',
