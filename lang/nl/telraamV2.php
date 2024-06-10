@@ -24,7 +24,7 @@ return [
         <li>Geïntegreerde mobiele dataverbinding</li>
         <li>Internet-of-Things (IoT) framework</li>
         <li>Toestelbeheer op afstand</li>
-        <li>OAT-firmware-updates (AI en systeem)</li>
+        <li>OTA-firmware-updates (AI en systeem)</li>
         <li>Dashboard oplossingen</li>
         </ul></p>',
 

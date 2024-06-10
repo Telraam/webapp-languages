@@ -24,7 +24,7 @@ return [
         <li>Integrated mobile data connection</li>
         <li>Internet-of-Things (IoT) framework</li>
         <li>Remote device management</li>
-        <li>OAT firmware updates (AI and system)</li>
+        <li>OTA firmware updates (AI and system)</li>
         <li>Dashboard solutions</li>
         </ul></p>',
 
