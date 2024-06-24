@@ -11,7 +11,8 @@ return [
     'pedestrian' => 'Piétons',
     'bike' => 'Deux-roues',
     'car' => "Voitures",
-    'lorry' => 'Véhicules grands',
+    'lorry' => 'Véhicules grands', // old
+    'heavy' => 'Véhicules grands',
     'night' => 'Nuit',
     'measurements-last-week' => 'Comptages de la semaine dernière',
     'more-data' => 'Plus de données...',

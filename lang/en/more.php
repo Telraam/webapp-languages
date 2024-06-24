@@ -11,7 +11,8 @@ return [
     'pedestrian' => 'Pedestrians',
     'bike' => 'Two-wheelers',
     'car' => "Cars",
-    'lorry' => 'Heavy vehicles ',
+    'lorry' => 'Heavy vehicles ', // old
+    'heavy' => 'Heavy vehicles ',
     'night' => 'Night',
     'measurements-last-week' => 'Measurements last week',
     'more-data' => 'More data...',

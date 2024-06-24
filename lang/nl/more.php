@@ -13,7 +13,8 @@ return [
     'pedestrian' => 'Voetgangers',
     'bike' => 'Tweewielers',
     'car' => "Auto's",
-    'lorry' => 'Grote voertuigen',
+    'lorry' => 'Grote voertuigen', // old
+    'heavy' => 'Grote voertuigen',
     'night' => 'Nacht',
 
     'measurements-last-week' => 'Metingen laatste week',
