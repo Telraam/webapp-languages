@@ -2,7 +2,7 @@
 
 return [
 
-    'title' => 'Pris',
+    'title' => 'Prix',
     'subtitle' => 'Permettre aux citoyens ou aux professionnels de piloter des projets de mobilité.',
 
     // ------------------------------------------------------
@@ -115,7 +115,7 @@ return [
 
     // table buttons
     'contact-schedule-talk' => 'Contactez-nous',
-    
+
     'individual' => 'Personnel',
     'professional' => 'Professionnel',
 ];

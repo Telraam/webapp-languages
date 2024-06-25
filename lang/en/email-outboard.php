@@ -11,5 +11,6 @@ return [
 
     'button' => 'Confirm by filling in a small form',
     'body-4' => 'If this device is unknown to you or if you have any additional questions, feel free to',
+    'body-5' => 'Thank you!',
 
 ];

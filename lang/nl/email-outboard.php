@@ -11,5 +11,6 @@ return [
 
     'button' => 'Bevestig door een klein formulier in te vullen',
     'body-4' => 'Als dit toestel u niet bekend is of als u nog aanvullende vragen hebt, kunt u contact opnemen met ',
+    'body-5' => 'Dank u!',
 
 ];

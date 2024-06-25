@@ -89,7 +89,7 @@ return [
 
     // pricing
     // pricing content in sep. lang file
-    'section-features-block-pricing'  => 'Pris',
+    'section-features-block-pricing'  => 'Prix',
 
     // modal
     'modal-title'    => 'Inscrivez-vous pour recevoir les dernières mises à jour de Telraam S2',

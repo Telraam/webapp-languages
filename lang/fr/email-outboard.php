@@ -12,4 +12,6 @@ Veuillez confirmer ceci en cliquant sur le bouton ci-dessous et en remplissant u
     'button' => 'Confirmer en remplissant un petit formulaire',
     'body-4' => 'Si vous ne connaissez pas ce dispositif ou si vous avez des questions supplémentaires, n\'hésitez pas à contacter',
 
+    'body-5' => 'Merci!',
+
 ];
