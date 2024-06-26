@@ -3,7 +3,8 @@
 return [
 
     'title' => 'Data',
-    'sub-title' => 'Professionele toepassingen vereisen geavanceerde dataproducten. Dankzij het Telraam data-abonnement duikt men dieper in data, en ontgrendelt men het volledige potentieel van de Telraam S2-sensor: toegang tot tellingen op segment- en toestelniveau met een fijnere tijdsresolutie, meer vervoersmodi, geavanceerde API\'s en een uitgebreide set visualisaties en analysetools.',
+    'sub-title' => 'Professionele toepassingen vereisen geavanceerde dataproducten. Dankzij het Telraam data-abonnement duikt men dieper in data, en ontgrendelt men het volledige potentieel van de Telraam S2-sensor: toegang tot tellingen op segment- en toestelniveau met een fijnere tijdsresolutie
+    , meer vervoersmodi, geavanceerde API\'s en een uitgebreide set visualisaties en analysetools.',
 
     // pricing box
     'pricing-1-title' => 'data-abonnement <span class="green">€15 <span class="month">/ maand</span>',
@@ -28,7 +29,8 @@ return [
 
     'section-1-block1' => '<strong>15 minuten dataresolutie</strong><br>
     <br>
-    15 minuten tijdsresolutie voor alle dataproducten, inclusief telgegevens, typische trendgegevens en voor alle analytische-, visualisatie- en exporttools en API\'s.
+    15 minuten tijdsresolutie voor alle dataproducten, inclusief telgegevens, typische trendgegevens en voor alle analytische-,
+    visualisatie- en exporttools en <a href="https://https://telraam-api.net/">API</a>\'s.
     <ul class="jump-in">
         <li>Ontdek, volg en analyseer verkeerspatronen en anomalieën met meer precisie.</li>
         <li>Ideaal voor het bestuderen van tijdelijke gebeurtenissen of incidenten (schoolstraatgebruik, opstoppingen, ongevallen).</li>
@@ -59,7 +61,7 @@ return [
     'section-2-intro-text' => 'Maak gebruik van de expertise van het Telraam team. Krijg toegang tot een reeks geavanceerde, speciaal ontwikkelde tools om uw gegevens te verkennen en te begrijpen, zodat u uw onderzoek kunt vergemakkelijken en versnellen.
 <br>
       <br>
-      Het data-abonnement omvat toegang tot het datadashboard, de geavanceerde API\'s, de <i>Street sheets</i>, en andere opties voor het exporteren van aangepaste gegevens.',
+      Het data-abonnement omvat toegang tot het datadashboard, de geavanceerde <a href="https://https://telraam-api.net/">API</a>\'s, de <i>Street sheets</i>, en andere opties voor het exporteren van aangepaste gegevens.',
 
 
     // the 4 data sections
@@ -99,7 +101,7 @@ return [
      trends en afwijkingen te helpen identificeren. Deze fiche geeft een gemakkelijk te begrijpen informatie over modal split, typische verkeerspatronen (voor dagen en weken) en ook snelheidspatronen.',
 
     'extra-features-2-title' => 'Geavanceerde APIs',
-    'extra-features-2-text' => 'Krijg toegang tot exclusieve, professionele API end-points:
+    'extra-features-2-text' => 'Krijg toegang tot exclusieve, professionele <a href="https://https://telraam-api.net/">API</a> end-points:
     <ul class="jump-in">
         <li>Integreer dataverbindingen op maat binnen jouw systeem. Variërend van gepersonaliseerde dashboards, tot een volledige integratie met datasystemen voor Business Intelligence (BI).</li>
         <li>Datasnelheidslimieten op maat om meer frequent refreshen van data mogelijk te maken, of toegang tot een geselecteerde set segmenten en/of tijdsperioden.</li>
