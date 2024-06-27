@@ -34,7 +34,7 @@ return [
     'section-1-block1' => '<strong>15 minute resolution</strong><br>
     <br>
     15 minute temporal resolution for all data products, including count data, typical trend data, and for all analytic,
-    visualisation, and export tools and <a href="https://https://telraam-api.net/">API</a>s.
+    visualisation, and export tools and <a href="https://telraam-api.net/">API</a>s.
     <ul class="jump-in">
         <li>Discover, track, and analyse traffic patterns and anomalies with greater clarity.</li>
         <li>Ideal for studying short-lived events (school-street usage, congestions, accidents).</li>
@@ -72,7 +72,7 @@ return [
      range of advanced, purpose-made tools to explore and understand your data, facilitating and accelerating
       your research.<br>
       <br>
-      The Data subscription includes access to the Data dashboard, the Advanced <a href="https://https://telraam-api.net/">API</a>s, the Street sheets,
+      The Data subscription includes access to the Data dashboard, the Advanced <a href="https://telraam-api.net/">API</a>s, the Street sheets,
        and other custom data export options.',
 
 
@@ -117,10 +117,10 @@ in order to help identify trends and anomalies. The sheet provides easy-to-diges
 modal splits, typical traffic patterns (for days and weeks), and also speed patterns.',
 
     'extra-features-2-title' => 'Advanced APIs',
-    'extra-features-2-text' => 'Get access to exclusive, professional <a href="https://https://telraam-api.net/">API</a> end-points:
+    'extra-features-2-text' => 'Get access to exclusive, professional <a href="https://telraam-api.net/">API</a> end-points:
     <ul class="jump-in">
         <li>Integrate custom data connections into anything ranging from personalised dashboards to a full integration
-        with Business Intelligence (BI) data systems.</li>
+        with Business Intelligence (BI) data systems.<r/li>
         <li>Custom data rate limits to enable more regular data refreshing, or access to a selected set of segments and
         time periods.</li>
         <li>Enhanced public endpoints with the 15 minute resolution and the 10 traffic modes (subject to Telraam S2 availability

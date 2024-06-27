@@ -30,7 +30,7 @@ return [
     'section-1-block1' => '<strong>Résolution de 15 minutes</strong><br>
     <br>
     Résolution temporelle de 15 minutes pour tous les produits de données, y compris les données de comptage, les données de tendance typique et pour tous les outils analytiques,
-    de visualisation et d\'exportation, ainsi que pour les <a href="https://https://telraam-api.net/">API</a>.
+    de visualisation et d\'exportation, ainsi que pour les <a href="https://telraam-api.net/">API</a>.
     <ul class="jump-in">
         <li>Découvrez, suivez et analysez les schémas de circulation et les anomalies avec plus de clarté.</li>
         <li>Idéal pour l\'étude des événements de courte durée (utilisation des rues scolaires, congestions, accidents).</li>
@@ -64,7 +64,7 @@ return [
      gamme d\'outils avancés spécialement conçus pour explorer et comprendre vos données, facilitant et accélérant
       votre recherche.<br>
       <br>
-      L\'abonnement aux données comprend l\'accès au tableau de bord, aux <a href="https://https://telraam-api.net/">API</a> avancées, aux fiches de rue,
+      L\'abonnement aux données comprend l\'accès au tableau de bord, aux <a href="https://telraam-api.net/">API</a> avancées, aux fiches de rue,
        et à d\'autres options d\'exportation de données personnalisées.',
 
 
@@ -103,7 +103,7 @@ afin d\'aider à identifier les tendances et les anomalies. La fiche fournit des
 les répartitions modales, les motifs de trafic typiques (pour les jours et les semaines), et aussi les motifs de vitesse.',
 
     'extra-features-2-title' => 'APIs avancées',
-    'extra-features-2-text' => 'Accédez à des points de terminaison <a href="https://https://telraam-api.net/">API</a> exclusifs et professionnels :
+    'extra-features-2-text' => 'Accédez à des points de terminaison <a href="https://telraam-api.net/">API</a> exclusifs et professionnels :
     <ul class="jump-in">
         <li>Intégrez des connexions de données personnalisées dans tout, de tableaux de bord personnalisés à une intégration complète
         avec les systèmes de données Business Intelligence (BI).</li>
