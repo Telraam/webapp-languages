@@ -8,7 +8,7 @@ return [
     'section-1-title' => 'Données ouvertes pour tous les utilisateurs et les militants',
     'section-1-text' => 'Tous les dispositifs Telraam sont livrés avec les résumés de données suivants en standard :<br>
                 <br>
-                <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Comptage & direction de déplacement pour 4 modes regroupés 
+                <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Comptage & direction de déplacement pour 4 modes regroupés
                 <ul class="jump-in" style="padding-left: 40px;">
                     <li>Piétons</li>
                     <li>Deux-roues (vélos et motos)</li>
@@ -21,7 +21,7 @@ return [
                 <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Moyennes sur 24 heures<br>
                 <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Rapport mensuel d\'aperçu & résumé pour les utilisateurs de l\'appareil via e-mail<br>
                 <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Possibilité de comparer vos données de localisation à d\'autres endroits similaires<br>
-                <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Accès à l\'API standard<br>
+                <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Accès à l\'<a href="https://telraam-api.net/" target="_blank">API</a> standard<br>
                 <br>
                 Les informations de base des dispositifs Telraam sont standardisées et ouvertes de manière à ce que les dispositifs n\'importe où dans le monde
                 puissent être utilisés pour la mobilisation locale par leurs hôtes, leurs communautés et leurs autorités locales.<br>

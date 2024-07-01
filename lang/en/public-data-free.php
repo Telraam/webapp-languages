@@ -21,7 +21,7 @@ return [
                 <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> 24 hour averages<br>
                 <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Monthly insight & summary report for device users via email<br>
                 <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Ability to compare your location data to other similar locations<br>
-                <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Standard API access<br>
+                <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Standard <a href="https://telraam-api.net/" target="_blank">API</a> access<br>
                 <br>
                 The basic information from Telraam devices is standardised and open so that devices anywhere in the world
                 can be used for local engagement by their hosts, their communities and their local

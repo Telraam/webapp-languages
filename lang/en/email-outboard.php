@@ -7,9 +7,9 @@ return [
      'body-2b' => ', which is to our knowledge registered to ',
 
     'body-3' => "Before we can proceed with the new installation, the previous installation must be officially stopped.
-     Please confirm this by clicking the button below and filling in a short form.",
+     Please confirm this by clicking the link below and filling in a short form.",
 
-    'button' => 'Confirm by filling in a small form',
+    'button' => 'Confirm by completing the outboarding form',
     'body-4' => 'If this device is unknown to you or if you have any additional questions, feel free to',
     'body-5' => 'Thank you!',
 

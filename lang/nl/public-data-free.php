@@ -21,7 +21,7 @@ return [
                 <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> 24 uur gemiddelden <br>
                 <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Maandelijks inzichts- & overzichtsrapport voor sensorgebruikers via mail<br>
                 <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Mogelijkheid om data van uw locatie te vergelijken met gelijkaardige locaties<br>
-                <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Standaard API-toegang<br>
+                <span class=" heroicon heroicon-check-circle" style="position:relative; top:4px "></span> Standaard <a href="https://telraam-api.net/" target="_blank">API</a>-toegang<br>
                 <br>
                 De Basis Data van Telraam-sensoren is gestandaardiseerd en open, zodat toestellen overal ter wereld gebruikt kunnen worden door de eindgebruikers, hun buurt en het lokale bestuur.<br>
                 <br>
