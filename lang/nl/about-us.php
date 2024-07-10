@@ -11,7 +11,7 @@ return [
 <a href="https://www.tmleuven.be/nl/" target="_blank">Transport & Mobility</a>
 Leuven (TML), een verkeerskundig ingenieursbureau, en <a href="https://www.mobiel21.be/" target="_blank">Mobiel21</a>, een NGO die zich richt op burgerparticipatie op het gebied van mobiliteit.<p>
 
-<p>Geïnspireerd door hoe succesvol burgerwetenschapsprojecten in andere domeinen, zoals luchtkwaliteit, waren in het verzamelen van waardevolle gegevens in samenwerking met burgers, dachten we: we zouden hetzelfde moeten kunnen doen met verkeerstellingen! En zo begonnen we in 2019 aan ons traject om eerst<a href="https://telraam.net/nl/v1">een eenvoudige sensor</a> and later in
+<p>Geïnspireerd door hoe succesvol burgerwetenschapsprojecten in andere domeinen, zoals luchtkwaliteit, waren in het verzamelen van waardevolle gegevens in samenwerking met burgers, dachten we: we zouden hetzelfde moeten kunnen doen met verkeerstellingen! En zo begonnen we in 2019 aan ons traject om eerst <a href="https://telraam.net/nl/v1">een eenvoudige sensor</a> and later in
 2023 <a href="https://telraam.net/en/S2">een speciaal ontworpen sensor</a> te ontwikkelen voor het verzamelen van verkeersdata, in samenwerking met burgers.</p>',
 
     'section-2-title'            => 'Missie',
@@ -47,18 +47,14 @@ Bent u op zoek naar een betaalbare, multimodale oplossing voor de verkeersmonito
     // team
     'team-title'   => 'Team',
 
-    'role-kris'     => 'Co-founder and do-it-all',
-    'sentence-kris'    => 'A citizen scientist on a mission to create a durable business model for this "little project"
-    and small-time investor after hours. Always looking for new idea\'s. Trying to lead this bunch of unguided rockets of a team (love you guys!).
-    Generally likes data and likes to play a bit of chess when there\'s time. ',
+    'role-kris'     => 'Co-founder en do-it-all',
+    'sentence-kris'    => 'Een burgerwetenschapper op een missie om een duurzaam bedrijfsmodel voor dit "kleine project" te creëren en kleine investeerder na werktijd. Altijd op zoek naar nieuwe ideeën. Probeert dit stelletje ongeleide projectielen in het team (love you guys!) te leiden. Houdt over het algemeen van data en als er wat tijd is, speelt hij graag een potje schaak.',
 
     'role-dave'     => 'Co-founder and web development',
-    'sentence-dave'    => 'Likes to have design, development and a bit of strategy all mixed in his work.
-    Enjoys art, music and a bit of crazyness. Plays outdoor football till his knees really give it up.',
+    'sentence-dave'    => 'Houdt van de fijne combinatie van ontwerpen, ontwikkeling en strategie in zijn werk. Passie voor kunst, muziek en waagt zich nog steeds aan buitenvoetbal tot zijn knieën het echt begeven.',
 
     'role-peter'    => 'Data-analytics and development',
-    'sentence-peter'    => 'Peter has a PhD in Astronomy and Astrophysics (KU Leuven), and 5 years of experience in working with transport related data.
-    After work he is a road cyclist, a private pilot, or a bass player. YNWA!',
+    'sentence-peter'    => 'Peter heeft een doctoraat in Astronomie en Astrofysica (KU Leuven) en 5 jaar ervaring in het werken met transportgerelateerde gegevens. Na het werk is hij wielrenner, privépiloot of bassist. YNWA! YNWA!',
 
     'role-luc'     => 'Embedded software engineer',
     'sentence-luc'    => 'Begon 20+ jaar geleden te werken op embedded systemen en sindsdienspeelt hij graag met hardware, debuggers, logic analyzer,
@@ -66,22 +62,19 @@ Bent u op zoek naar een betaalbare, multimodale oplossing voor de verkeersmonito
      en experimenteert hij met domotica en 3D-printen.',
 
     'role-elke'     => 'Support, documentation and processes',
-    'sentence-elke'    => 'Introducing Elke Verhoeven, Telraam\'s organizational guru, mastering support, operations, and a splash of product management.
-     Off-duty, she\'s a water-loving enthusiast, sailing, supping, and swimming her way through life! 🌊🚤🌼',
+    'sentence-elke'    => 'Organisatiegoeroe van Telraam, die zich bezighoudt met support, operations en een beetje productmanagement. Buiten haar werk is Elke een waterliefhebber, zeilt, drinkt en zwemt haar weg door het leven! 🌊🚤🌼',
 
     'role-wouter'   => 'Project & business development manager',
-    'sentence-wouter'    => 'Tries to turn interest & enthusiasm for Telraam into concrete projects and business. Spokesperson and hispanoparlante. Has a barrel of local commitments in Leuven during off-peak hours. Doer above all!',
+    'sentence-wouter'    => 'Probeert interesse en enthousiasme voor Telraam om te zetten in concrete projecten en zaken. Woordvoerder en hispanoparlante. Heeft een vat lokale engagementen in Leuven tijdens de daluren. Doener boven alles!',
 
     'role-rob'      => 'Community success manager',
-    'sentence-rob'    => 'Community-driven communicator, trying to make change happen by bringing people together. Has plenty of wine stories, and outside of work is usually found in the garden, working on bonsai trees.',
+    'sentence-rob'    => 'Gemeenschapsgerichte communicator die verandering probeert teweeg te brengen door mensen samen te brengen. Heeft veel wijnverhalen en is buiten het werk meestal in de tuin te vinden, werkend aan bonsaiboompjes.',
 
     'role-laurens'  => 'Workshop-hero and sales',
-    'sentence-laurens'    => 'Working at Telraam\'s front of the house, he supports future clients in finding tailored solutions for their use case. This while maintaining contact with the end-users. This polyglot helps you setting up projects in dutch, english, french and german.
-    When not in the office you can find Laurens in his running shoes or in the kitchen, as an enthousiast amateur chef. ',
-
+    'sentence-laurens'    => 'Ondersteunt toekomstige klanten bij het vinden van oplossingen op maat voor hun use case. Dit terwijl hij contact onderhoudt met de eindgebruikers. Deze polyglot helpt bij het opzetten van projecten in het Nederlands, Engels, Frans en Duits. Wanneer hij niet op kantoor is, kan je Laurens vinden in zijn hardloopschoenen of in de keuken, als enthousiaste hobbykok.',
 
     'role-ana'     => 'International Growth',
-    'sentence-ana'    => 'Ana wil graag wereld kennis  laten maken met het potentieel van Telraam. Ze spreekt vloeiend Engels,
-    Frans, Portugees en Spaans en is altijd in voor een gezellig praatje over culturen, keukens of SaaS-bedrijven.
+    'sentence-ana'    => 'Ana wil graag de wereld kennis laten maken met het potentieel van Telraam. Ze spreekt vloeiend Engels,
+    Frans, Portugees en Spaans en staat altijd klaar voor een gezellig praatje over culturen, keukens of SaaS-bedrijven.
 In haar vrije tijd vindt u haar op de yogamat, dansvloer of creatief in de keuken!',
 ];
