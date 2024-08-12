@@ -5,18 +5,18 @@ return [
     'title'             => 'Junior Sales Accountmanager voor Nederland',
   'intro' => 'Lokale mobiliteit blijft een van de belangrijkste onderwerpen van burgers als het gaat om leefbaarheid.
   Nieuwe technologische evoluties (IoT, goedkope sensoren, edge computing) versterken de mogelijkheden van citizen
-   science en stellen burgers in staat om zelf actief bij te dragen aan het verzamelen en interpreteren van gegevens.
-   Op deze manier kunnen burgers helpen bij het ontwikkelen van oplossingen voor lokale mobiliteitsproblemen.<br>
+   science en stellen bewoners in staat om zelf actief bij te dragen aan het verzamelen en interpreteren van gegevens.
+    Op deze manier kunnen bewoners helpen bij het ontwikkelen van oplossingen voor lokale mobiliteitsproblemen.<br>
 <br>
-Bij Telraam stellen we burgers in staat om verkeersgegevens te verzamelen en brengen we burgers en lokale overheden samen.
-We ondersteunen de ontwikkeling van lokale netwerken van onze sensoren voor het automatisch tellen van verkeersgegevens
- door burgers in samenwerking met lokale overheden.<br>
+Bij Telraam stellen we bewoners, bedrijven en gemeenten in staat om verkeersgegevens te verzamelen en brengen we bewoners en
+ lokale overheden samen. We ondersteunen de ontwikkeling van lokale netwerken van onze sensoren voor het automatisch tellen van
+ verkeersgegevens door bewoners in samenwerking met lokale overheden.<br>
 <br>
-Momenteel heeft Telraam meer dan 2000 apparaten actief, voornamelijk in Vlaanderen en in mindere mate in Nederland. We
-willen onze aanwezigheid op de Nederlandse markt verder uitbouwen en de installed base van Telraam sensoren laten
-groeien, door netwerken van sensoren te verkopen aan professionele klanten. We zijn op zoek naar een enthousiast en
-creatief persoon voor B2B en B2G sales.<br>
-',
+Momenteel heeft Telraam meer dan 2200 verkeerstellers actief, voornamelijk in België en o.a. in mindere mate in Nederland. We
+willen onze aanwezigheid op de Nederlandse markt verder uitbouwen en de installed base van Telraam sensoren laten groeien, door
+netwerken van sensoren te verkopen aan professionele klanten.<br>
+<br>
+Daarvoor zijn we op zoek naar een enthousiast en creatief persoon voor B2B en B2G sales.',
 
     'responsibilities-title' => 'Je missie en belangrijkste verantwoordelijkheden:',
     'responsibilities-text' => '<ul>
