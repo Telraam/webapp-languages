@@ -7,7 +7,7 @@ return [
     'nav-device' => 'Toestel',
     'nav-data' => 'Data',
     'nav-network' => 'Netwerk',
-    'nav-shop' => 'Shop',
+    'nav-pricing' => 'Tarief',
     'nav-press-kit' => 'Pers',
     'nav-blog' => 'Blog',
     'nav-talks' => 'Telraam Talks',
@@ -35,6 +35,7 @@ return [
     'footer-support-mail' => 'Technische vragen of vragen rond data',
 
     'telraam-devices-counting-now' => 'Telraamsensoren nu aan het tellen',
+    'telraam-devices-counting-history' => 'Telraamsensoren met hun typische waardes',
 
     /* 25 aug */
     'privacy-policy' => 'Privacybeleid',

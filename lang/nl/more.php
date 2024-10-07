@@ -78,6 +78,7 @@ return [
     'timerangetoolong' => 'Het verschil tussen de twee data is te lang. Het maximum is zes maanden.',
     'timerangetoolong3months' => 'Het verschil tussen de twee data is te lang. Het maximum is drie maanden.',
     'timerangetoolong1month' => 'Het verschil tussen de twee data is te lang. Het maximum is één maand.',
+    'timerangetoolong14days' => 'Het verschil tussen de twee data is te groot. Het maximum is twee weken op de openbare pagina.',
 
     // 17 mei
     'no-callibration' => 'Verhouding auto/grote voertuigen is niet correct? Nog even geduld, Telraam heeft tijd nodig om zichzelf te kalibreren. <a href="https://faq-nl.helpspace-docs.io/article/78/telraam-kalibratie-en-de-verhouding-auto-grote-voertuigen">Faq artikel</a>',
@@ -111,5 +112,10 @@ return [
     'not-installed'     => 'Niet geïnstalleerd',
     'no-active-found'   => 'Nog geen actieve apparaten gedetecteerd',
 
+    // 11 sept 2024
+    'typical' => 'Historisch',
+    'typical-for-a' => 'Typisch voor een',
+    'typical-at' => 'om ',
+    'typical-info' => 'Typisch verkeer berekend over een jaar eindigend op',
 
 ];

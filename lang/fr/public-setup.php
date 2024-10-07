@@ -39,6 +39,7 @@ return [
      Une fois qu\'ils auront officiellement arrêté ce dispositif, vous pourrez procéder à l\'installation.',
     'ready-to-install-new-location' => 'Vous souhaitez installer le dispositif Telraam sur un nouveau site?',
     'want-to-install-with' => 'Très bien! Je veux procéder à l\'installation comme suit  ',
+    'login-if-this-is-your-device' => 'Ou connectez-vous si c\'est votre Telraam',
 
     // one network
     'want-to-install-as-network-admin' => 'Je veux procéder à l\'installation en tant <i>qu\'administrateur de réseau.</i>',

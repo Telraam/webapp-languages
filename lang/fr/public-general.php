@@ -7,7 +7,7 @@ return [
     'nav-device' => 'Dispositif',
     'nav-data' => 'Données',
     'nav-network' => 'Réseau',
-    'nav-shop' => 'Boutique',
+    'nav-pricing' => 'Tarifs',
     'nav-press-kit' => 'Kit Presse',
     'nav-blog' => 'Blog',
     'nav-talks' => 'Telraam Talks',
@@ -34,6 +34,7 @@ return [
     'footer-support-mail' => 'Questions techniques',
 
     'telraam-devices-counting-now' => 'Dispositifs Telraam en cours de comptage',
+    'telraam-devices-counting-history' => 'Dispositifs Telraam avec leurs valeurs typiques',
 
     /* 25 aug */
     'privacy-policy' => 'Politique de confidentialité',

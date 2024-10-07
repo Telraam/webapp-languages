@@ -56,14 +56,6 @@ return [
         <li>Elk product met typische data wordt met regelmatige tijdsintervals berekend om zo een steeds groeiende reeks van historische gemiddelden, die overeenkomen met de verschillende tijdsvakken, te genereren. De gegevens zijn beschikbaar op kwartier- en uurresolutie, voor elke vervoersmodus, en voor elke dag van de week (inclusief een meer algemene weekdag- en weekendoptie).</li>
     </ul>',
 
-    'section-2-title' => 'Meer tools, betere inzichten en volledige controle',
-
-    'section-2-intro-text' => 'Maak gebruik van de expertise van het Telraam team. Krijg toegang tot een reeks geavanceerde, speciaal ontwikkelde tools om uw gegevens te verkennen en te begrijpen, zodat u uw onderzoek kunt vergemakkelijken en versnellen.
-<br>
-      <br>
-      Het data-abonnement omvat toegang tot het datadashboard, de geavanceerde <a href="https://telraam-api.net/">API</a>\'s, de <i>Street sheets</i>, en andere opties voor het exporteren van aangepaste gegevens.',
-
-
     // the 4 data sections
     'features-title' => 'Data dashboard',
 

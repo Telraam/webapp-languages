@@ -38,6 +38,7 @@ return [
     Once they officially stopped this device, you can proceed with the installation.',
     'ready-to-install-new-location' => 'You want to install the Telraam device on a new location?',
     'want-to-install-with' => 'Great! I want to proceed the installation as ',
+    'login-if-this-is-your-device' => 'Or log in if this is your device',
 
     // one network
     'want-to-install-as-network-admin' => 'I want to proceed the installation as a <i>network admin</i>',

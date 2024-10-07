@@ -58,15 +58,6 @@ return [
         pour chaque mode, jusqu\'à chaque jour de la semaine (y compris une option plus générale en semaine et en week-end).</li>
     </ul>',
 
-    'section-2-title' => 'Plus d\'outils, des meilleures perspectives et un contrôle complet',
-
-    'section-2-intro-text' => 'Bénéficiez de l\'expérience de l\'équipe derrière Telraam. Accédez à une
-     gamme d\'outils avancés spécialement conçus pour explorer et comprendre vos données, facilitant et accélérant
-      votre recherche.<br>
-      <br>
-      L\'abonnement aux données comprend l\'accès au tableau de bord, aux <a href="https://telraam-api.net/">API</a> avancées, aux fiches de rue,
-       et à d\'autres options d\'exportation de données personnalisées.',
-
 
     // the 4 data sections
     'features-title' => 'Tableau de bord des données',

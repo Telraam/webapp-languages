@@ -2,7 +2,7 @@
 
 return [
 
-    'title' => 'Basic data  <span class="black">- Free for personal use only</span>',
+    'title' => 'Basic <span class="black">- Free for personal use only</span>',
     'sub-title' => '',
 
     'section-1-title' => 'Open Data for all users and campaigners',
@@ -31,12 +31,12 @@ return [
                 for that street.<br>
                 <br>
                 This same information is available to the device owner, who will also receive a monthly report via email, and will have the ability to export their data in a spreadsheet so they can do some further analysis.
-                Additional data, insights, reports and exports are available via our <a href="/en/data-subscription">paying data subscription</a>.',
+                Additional data, insights, reports and exports are available via our <a href="/en/data-subscription">paying premium subscription</a>.',
 
 
     'section-2-title' => 'What makes free different from a data subscription?',
     'section-2-text' => 'In both cases, the Telraam device hardware is the same.<br><br>
-                When you purchase the device with a data subscription, we are including a subscription to full package that takes full advantage of the capabilities of the Telraam S2 device, and covers the cost of data communications, additional dashboards and reports.
+                When you purchase the device with a premium subscription, we are including a subscription to full package that takes full advantage of the capabilities of the Telraam S2 device, and covers the cost of data communications, additional dashboards and reports.
                 A personal device comes with at a minimum with the standard data and reports mentioned above but you are not paying for the data communications.',
 
 

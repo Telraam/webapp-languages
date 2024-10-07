@@ -67,9 +67,10 @@ la mobilité et la sécurité routière, car elle est considérée comme représ
     'remark-upload-picture-dashboard' => 'Cette photo sera utilisée sur le site web public. Évitez les plaques d\'immatriculation lisibles ou les personnes identifiables.',
 
     // 7 mei
-    'timerangetoolong' => 'L\'écart entre les deux dates est trop important. Le maximum est de six mois.',
-    'timerangetoolong3months' => 'L\'écart entre les deux dates est trop important. Le maximum est de trois mois.',
-    'timerangetoolong1month' => 'L\'écart entre les deux dates est trop important. Le maximum est d\'un mois.',
+    'timerangetoolong'          => 'L\'écart entre les deux dates est trop grand. Le maximum est de six mois.',
+    'timerangetoolong3months'   => 'L\'écart entre les deux dates est trop grand. Le maximum est de trois mois.',
+    'timerangetoolong1month'    => 'L\'écart entre les deux dates est trop grand. Le maximum est d\'un mois.',
+    'timerangetoolong14days'    => 'L\'écart entre les deux dates est trop grand. Le maximum est de deux semaines sur la page publique.',
 
     // 17 mei
     'no-callibration' => 'Le rapport entre la voiture et les gros véhicules n\'est pas correct? Veuillez être patient, Telraam a besoin de temps pour se
@@ -105,5 +106,10 @@ la mobilité et la sécurité routière, car elle est considérée comme représ
     'not-installed'  => 'Non installé',
     'no-active-found' => "Aucun dispositif actif n'a encore été détecté",
 
+    // 11 sept 2024
+    'typical' => 'Historique',
+    'typical-for-a' => 'Typique d\'un',
+    'typical-at' => 'à ',
+    'typical-info' => 'Trafic typique calculé sur une année se terminant le',
 
 ];

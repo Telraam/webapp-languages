@@ -3,30 +3,29 @@
 return [
 
     'title' => 'Data',
-    'sub-title' => 'Professional applications require advanced data products. Dig deeper with a Telraam Data subscription,
-    and unlock the full potential of the Telraam S2 device: gain access to segment and device level counts on a finer temporal resolution,
-    more modes of traffic, advanced APIs, and a broad set of visualisations and analytic tools.',
+    'sub-title' => 'Get instant insights into your streets’ traffic.<br>
+Get car, bike, pedestrian, heavy vehicles counts and more!',
 
     // pricing box
-    'pricing-1-title' => 'Data subscription <span class="green">€15 <span class="month">/ month</span>',
+    'pricing-1-title' => 'Premium subscription <span class="green">€15 <span class="month">/ month</span>',
     'pricing-1-subtitle' => 'Includes the 10 road user classes, 15 minute data resolution, more tools, and better reports',
     'pricing-1-info' => 'Want to install multiple devices? Or get access to data from existing devices?
                             <div style="padding-left: 20px">
                                 Consider the <a href="../en/network">Network</a> subscription.
-                                It includes a Data subscription for all owned devices, a rich set of network-management tools,
+                                It includes a Premium subscription for all owned devices, a rich set of network-management tools,
                                 and access to the <a href="../en/data-pool">Data Pool feature</a>.
                             </div>',
 
-    'pricing-2-title' => 'Basic data <span class="green">Free for personal use only</span>',
+    'pricing-2-title' => 'Basic <span class="green">Free for personal use only</span>',
     'pricing-2-subtitle' => 'Limited to the 4 default modes and hourly data.',
 
     // tab titles
-    'tab-1-title' => 'Data subscription',
-    'tab-2-title' => 'Basic data',
+    'tab-1-title' => 'Premium',
+    'tab-2-title' => 'Basic',
 
     // info
     'section-1-title' => 'More detail',
-    'section-1-intro' => 'Data subscribers get access to count data that has four times higher temporal
+    'section-1-intro' => 'Premium subscribers get access to count data that has four times higher temporal
     resolution than our basic dataset, and an extended set of road user
     classes when looking at modal shares. This higher resolution also means a much
     reduced delay which enables professional users to follow live traffic data in much more real-time.',
@@ -66,15 +65,6 @@ return [
         for each mode, down to each day of the week (including a more general weekday and weekend option too).</li>
     </ul>',
 
-    'section-2-title' => 'More tools, better insights, and complete control',
-
-    'section-2-intro-text' => 'Benefit from the experience of the team behind Telraam. Get access to a
-     range of advanced, purpose-made tools to explore and understand your data, facilitating and accelerating
-      your research.<br>
-      <br>
-      The Data subscription includes access to the Data dashboard, the Advanced <a href="https://telraam-api.net/">API</a>s, the Street sheets,
-       and other custom data export options.',
-
 
     // the 4 data sections
     'features-title' => 'Data dashboard',
@@ -100,16 +90,14 @@ return [
 
     'features-4-title' => 'Installations',
     'features-4-text' => 'A road segment may have more than one Telraam sensor installed. In this case the segment page shows the (smartly weighted)
-    average metrics coming from the corresponding installations (also known as Telraam instances). As a Data subscriber you can consult the original data
+    average metrics coming from the corresponding installations (also known as Telraam instances). As a Premium subscriber you can consult the original data
     of each individual Telraam instance, which can be useful in many situations, including data validation, separating data coming from different sensor versions
     (e.g., Telraam V1 and S2 devices on the same segment), or simply to consult the data of your own device.',
 
 
-
-
     // 3 extra features
     'extra-features-1-title' => 'Street sheet',
-    'extra-features-1-text' => 'Our popular on-demand data product is also part of the data subscription. We provide
+    'extra-features-1-text' => 'Our popular on-demand data product is also part of the premium subscription. We provide
     a compact, in-depth Excel-format summary for a device or segment, including insights, calculations,
     and raw data for further review or analysis.<br>
 These reports give all users, experts and non-experts alike, a review of the data from a device or segment
@@ -120,12 +108,12 @@ modal splits, typical traffic patterns (for days and weeks), and also speed patt
     'extra-features-2-text' => 'Get access to exclusive, professional <a href="https://telraam-api.net/">API</a> end-points:
     <ul class="jump-in">
         <li>Integrate custom data connections into anything ranging from personalised dashboards to a full integration
-        with Business Intelligence (BI) data systems.<r/li>
+        with Business Intelligence (BI) data systems.</li>
         <li>Custom data rate limits to enable more regular data refreshing, or access to a selected set of segments and
         time periods.</li>
         <li>Enhanced public endpoints with the 15 minute resolution and the 10 traffic modes (subject to Telraam S2 availability
         for the given segment) where possible.</li>
-        <li>Additional endpoints exclusively for data subscribers, such as 5 km/h resolution speed histograms
+        <li>Additional endpoints exclusively for premium subscribers, such as 5 km/h resolution speed histograms
          and additional typical-traffic-derived data.</li>
         <li>Potential for custom integrations and endpoints by agreement or collaboration with the Telraam Team.</li>
     </ul>',

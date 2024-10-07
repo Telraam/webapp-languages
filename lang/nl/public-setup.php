@@ -39,6 +39,7 @@ return [
     Zodra dit toestel officieel is gestopt, kun je doorgaan met de installatie.',
     'ready-to-install-new-location' => 'Je wilt het Telraam toestek op een nieuwe locatie installeren?',
     'want-to-install-with' => 'Prima! Ik wil de installatie voortzetten als ',
+    'login-if-this-is-your-device' => 'Of log in als dit uw toestel is',
 
     // one network
     'want-to-install-as-network-admin' => 'Ik wil de installatie uitvoeren als <i>netwerkbeheerder</i>',

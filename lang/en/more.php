@@ -70,6 +70,7 @@ return [
     'timerangetoolong' => 'The difference between the two dates is too long. The maximum is six months.',
     'timerangetoolong3months' => 'The difference between the two dates is too long. The maximum is three months.',
     'timerangetoolong1month' => 'The difference between the two dates is too long. The maximum is one months.',
+    'timerangetoolong14days' => 'The difference between the two dates is too long. The maximum is two weeks on the public page.',
 
     // 17 mei
     'no-callibration' => 'Ratio auto/large vehicles not correct? Be patient, Telraam needs time to calibrate itself. <a href="https://telraam.helpspace-docs.io/article/20/telraam-calibration-and-the-ratio-auto-large-vehicles">Faq article</a>',
@@ -103,5 +104,12 @@ return [
     'problematic'       => 'Problematic',
     'not-installed'     => 'Not installed',
     'no-active-found'   => 'No active devices\'s detected yet',
+
+    // 11 sept 2024
+    'typical' => 'Historical',
+    'typical-for-a' => 'Typical for a',
+    'typical-at' => 'at ',
+    'typical-info' => 'Typical traffic calculated over a year ending on',
+
 
 ];
