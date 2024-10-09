@@ -19,29 +19,35 @@ or a full network solution. Browse our ready-made packages or customize your own
     'network-title'       => 'Network',
     'network-subtitle'     => 'Multiple devices',
 
-    'free-features'       => '<p><strong>Includes:</strong></p><ul class="pricing-checklist">
-                            <li>Installation of 1 device</li>
- <li>SIM card with data connectivity included</li>
- <li>Personal dashboard</li>
- <li>Access to Basic data <span title="Only 4 modes, 1 hour only,..." class="heroicon heroicon-information"></span></li>
-  <li>Data only available for non-commercial purposes only <span title="Read our faq about this" class="with-title heroicon heroicon-information"></span></li>
-</li>
-                        </ul>',
-    'data-features'       => '<p><strong>Everything in free, and:</strong></p><ul class="pricing-checklist">
- <li>10 modes</li>
- <li>15 minutes resultion <span class="heroicon heroicon-information"></span></li>
- <li>Typical data <span class="heroicon heroicon-information"></span></li>
- <li>Extended API access <span class="heroicon heroicon-information"></span></li>
-  <li>Data only available for commercial purposes <span class="heroicon heroicon-information"></span></li>
- </ul>',
+    'free-features-title'   => 'Includes:',
+    'free-features-1'       => 'Installation of 1 device',
+    'free-features-2'       => 'SIM card with data connectivity included',
+    'free-features-3'       => 'Personal dashboard',
+    'free-features-4'       => 'Access to Basic data',
+    'free-features-4-info'  => 'Includes 4 modes, hourly overviews, speed, and more. See the data page for details.',
+    'free-features-5'       => 'Data only available for non-commercial purposes only',
+    'free-features-5-info'  => 'Examples of non-commercial use are research, personal traffic monitoring, ...',
 
-    'network-features'       => '<p><strong>Everything in premium, and:</strong></p><ul class="pricing-checklist">
- <li>Installation of multiple devices</li>
- <li>SIM cards for device connectivity</li>
- <li>Network dashboard <span class="heroicon heroicon-information"></span></li>
- <li>Access to Advanced data for all devices <span class="heroicon heroicon-information"></span></li>
-  <li>Priority support</li>
-                        </ul>',
+    'data-features-title'   => 'Everything in free, and:',
+    'data-features-1'       => '10 modes',
+    'data-features-2'       => '15 minutes resultion',
+    'data-features-2'       => 'Data can be shown in 15-minute blocks.',
+    'data-features-3'       => 'Typical data',
+    'data-features-3-info'  => 'You can see the typical (average) counts for the expected car traffic for e.g.  a Monday between 08:00 and 08:15 am based on the past 12 months, with options to filter by mode, day, time and baseline period.',
+    'data-features-4'       => 'Extended API access',
+    'data-features-4-info'  => 'Includes custom data connections, rate limits, enhanced public endpoints, and potential for custom integrations. Stick with Advanced API Access to maintain consistency with "Advanced Data.',
+    'data-features-5'       => 'Data only available for commercial purposes',
+    'data-features-5-info'  => 'Examples of non-commercial use are selling data insights, using data for marketing, ...',
+
+    'network-features-title'   => 'Everything in premium, and:',
+
+    'network-features-1'       => 'Installation of multiple devices',
+    'network-features-2'       => 'SIM cards for device connectivity',
+    'network-features-3'       => 'Network dashboard',
+    'network-features-3-info'  => 'Manage multiple devices and their data from one central place. Learn more on the network page.',
+    'network-features-4'       => 'Access to Advanced data for all devices',
+    'network-features-4-info'  => 'Advanced data offers 10 modes, 15-minute resolution, typical traffic patterns, and more.',
+    'network-features-5'       => 'Priority support',
 
     // pre-made packages
     'packages-title' => 'Pre-configured packages',

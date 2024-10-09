@@ -6,6 +6,7 @@ return [
     'header-general' => 'General Information',
     'header-timeline' => 'What\'s happening',
     'header-apply' => 'Apply as candidate',
+    'header-stats' => 'Data',
 
     // timeline
     'closing-track' => 'Closing the Track',
