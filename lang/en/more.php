@@ -111,5 +111,8 @@ return [
     'typical-at' => 'at ',
     'typical-info' => 'Typical traffic calculated over a year ending on',
 
+    // 9 oct 2024
+    'segment-is-private' => 'This segment is private',
+    'segment-some-private' => 'This street segments contains also private measurements which are not included.'
 
 ];
