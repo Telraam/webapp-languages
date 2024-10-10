@@ -31,11 +31,11 @@ or a full network solution. Browse our ready-made packages or customize your own
     'data-features-title'   => 'Everything in free, and:',
     'data-features-1'       => '10 modes',
     'data-features-2'       => '15 minutes resultion',
-    'data-features-2'       => 'Data can be shown in 15-minute blocks.',
+    'data-features-2-info'  => 'Data can be shown in 15-minute blocks.',
     'data-features-3'       => 'Typical data',
     'data-features-3-info'  => 'You can see the typical (average) counts for the expected car traffic for e.g.  a Monday between 08:00 and 08:15 am based on the past 12 months, with options to filter by mode, day, time and baseline period.',
     'data-features-4'       => 'Extended API access',
-    'data-features-4-info'  => 'Includes custom data connections, rate limits, enhanced public endpoints, and potential for custom integrations. Stick with Advanced API Access to maintain consistency with "Advanced Data.',
+    'data-features-4-info'  => 'Includes custom data connections, rate limits, enhanced public endpoints, and potential for custom integrations.',
     'data-features-5'       => 'Data only available for commercial purposes',
     'data-features-5-info'  => 'Examples of non-commercial use are selling data insights, using data for marketing, ...',
 
