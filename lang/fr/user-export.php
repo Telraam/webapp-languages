@@ -13,8 +13,8 @@ return [
     'empty'           => 'Rien n\'a encore été généré......',
     'download'           => 'Télécharger',
     'processed'           => 'Traité',
-    
-    'only-for-data' => 'Réservé aux utilisateurs avec un abonnement aux données',
+
+    'only-for-data' => 'Accès avancé aux données requis',
     'setup-is-not-completed' => 'La configuration n\'est pas encore terminée',
 
     // street sheet

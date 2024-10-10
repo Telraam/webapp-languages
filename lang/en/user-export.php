@@ -14,7 +14,7 @@ return [
     'download'         => 'Download',
     'processed'        => 'Processed',
 
-    'only-for-data' => 'Only for users with data subscription',
+    'only-for-data' => 'Advanced data access required',
     'setup-is-not-completed' => 'Setup is not completed yet',
 
     // street sheet

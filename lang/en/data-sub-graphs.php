@@ -5,7 +5,7 @@ return [
     // segments
     'segments-nav-title' => 'My segment',
     'segments-monthly-title' => 'Monthly',
-    'segments-advanced-nav-title' => 'Advanced',
+    'segments-advanced-nav-title' => '10 modes',
     'segments-both-dir' => 'Road users in both directions',
     'segments-typical-remark' => 'The average and its standard deviation are based on the last seasonal countings.<br>
  The averages are different per day of the week.',

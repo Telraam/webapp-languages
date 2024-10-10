@@ -14,7 +14,7 @@ return [
     'download'           => 'Download',
     'processed'           => 'Aangemaakt',
 
- 'only-for-data' => 'Uitsluitend voor gebruikers met een Data abonnement',
+    'only-for-data' => 'Uitsluitend voor gebruikers met uitgebreide data',
     'setup-is-not-completed' => 'Installatie is nog niet voltooid',
 
     // street sheet

@@ -4,10 +4,10 @@ return [
 
     // data dashboard
     'title'        => 'Data',
-    'info'          => 'Dig deeper with the Telraam Data subscription',
+    'info'          => 'Dig deeper with the Telraam Advanced data',
 
     'btn-open'      => 'Open',
-    'btn-not-ok'    => 'Only available for users with a data subscription',
+    'btn-not-ok'    => 'Advanced data access required',
     'not-yet-available' => 'Not yet available',
     'learn-more'       => 'Learn more',
     'upgrade'          => 'Upgrade',
