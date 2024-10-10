@@ -25,7 +25,7 @@ or a full network solution. Browse our ready-made packages or customize your own
     'free-features-3'       => 'Personal dashboard',
     'free-features-4'       => 'Access to Basic data',
     'free-features-4-info'  => 'Includes 4 modes, hourly overviews, speed, and more. See the data page for details.',
-    'free-features-5'       => 'Data also available for non-commercial purposes',
+    'free-features-5'       => 'Data only available for non-commercial purposes',
     'free-features-5-info'  => 'Examples of non-commercial use are research, personal traffic monitoring, ...',
 
     'data-features-title'   => 'Everything in free, and:',
@@ -36,7 +36,7 @@ or a full network solution. Browse our ready-made packages or customize your own
     'data-features-3-info'  => 'You can see the typical (average) counts for the expected car traffic for e.g.  a Monday between 08:00 and 08:15 am based on the past 12 months, with options to filter by mode, day, time and baseline period.',
     'data-features-4'       => 'Extended API access',
     'data-features-4-info'  => 'Includes custom data connections, rate limits, enhanced public endpoints, and potential for custom integrations.',
-    'data-features-5'       => 'Data only available for commercial purposes',
+    'data-features-5'       => 'Data available for commercial purposes',
     'data-features-5-info'  => 'Examples of non-commercial use are selling data insights, using data for marketing, ...',
 
     'network-features-title'   => 'Everything in premium, and:',
