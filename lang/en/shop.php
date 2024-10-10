@@ -25,7 +25,7 @@ or a full network solution. Browse our ready-made packages or customize your own
     'free-features-3'       => 'Personal dashboard',
     'free-features-4'       => 'Access to Basic data',
     'free-features-4-info'  => 'Includes 4 modes, hourly overviews, speed, and more. See the data page for details.',
-    'free-features-5'       => 'Data only available for non-commercial purposes only',
+    'free-features-5'       => 'Data also available for non-commercial purposes',
     'free-features-5-info'  => 'Examples of non-commercial use are research, personal traffic monitoring, ...',
 
     'data-features-title'   => 'Everything in free, and:',
