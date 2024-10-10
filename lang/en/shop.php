@@ -34,7 +34,7 @@ or a full network solution. Browse our ready-made packages or customize your own
     'data-features-2-info'  => 'Data can be shown in 15-minute blocks.',
     'data-features-3'       => 'Typical data',
     'data-features-3-info'  => 'You can see the typical (average) counts for the expected car traffic for e.g.  a Monday between 08:00 and 08:15 am based on the past 12 months, with options to filter by mode, day, time and baseline period.',
-    'data-features-4'       => 'Extended API access',
+    'data-features-4'       => 'Advanced API access',
     'data-features-4-info'  => 'Includes custom data connections, rate limits, enhanced public endpoints, and potential for custom integrations.',
     'data-features-5'       => 'Data available for commercial purposes',
     'data-features-5-info'  => 'Examples of non-commercial use are selling data insights, using data for marketing, ...',
