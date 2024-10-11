@@ -157,7 +157,7 @@ Deze werkwijze en de open toegang tot de verzamelde verkeersgegevens, democratis
     'what-title' => 'Wat telt Telraam?',
     'what-text' => '<p>Telraam toestellen tellen alle weggebruikers en deelt deze in verschillende categoriën.</p>
 <p>De gegevens die worden weergegeven op de Telraam-website (en beschikbaar worden gesteld via de Telraam API) bevat vier categoriën.</p>
-<p>Je hebt toegang tot deze nieuwe categorieën met <a href="/data-subscription">de uitgebreide data</a>, beschikbaar via het premium- of netwerkabonnement.</p>',
+<p>Het nieuwe Telraam S2 toestel kan nog meer types weggebruikers onderscheiden. Je hebt toegang tot deze nieuwe categorieën met <a href="/data-subscription">de uitgebreide data</a>, beschikbaar via het premium- of netwerkabonnement.</p>',
 
     'what-table' => '<table class="categories">
 <thead>
