@@ -26,7 +26,7 @@ return [
      'month' => 'month',
      'pricing-box-line1' => 'Administrative and recruitment tools',
      'pricing-box-line2' => 'Network data analytics tools and various reporting and data export options',
-     'pricing-box-line3' => 'Includes all the features of the <a href="../en/data-subscription">Data subscription</a> for all sensors and segments in the network',
+     'pricing-box-line3' => 'You have access to <a href="../en/data-subscription">the advanced data</a> of all sensors and segments in the network',
 
 
     // main content
@@ -104,7 +104,7 @@ We share our data in a few different ways:
     </ul>',
 
     'features-4-title' => 'Advanced data analytics',
-    'features-4-text' => '<p>The Network subscription includes all the features of the Data subscription, and more. Network administrators have access to the data dashboards of all segments (and devices) in their network, while participating users have access to their own segments’ data dashboards.<br>
+    'features-4-text' => '<p>With the network subscription you have advanced data for all sensors and segments within your network, as well as more network data analytic tools, like the ability to compare data from two periods for the whole network or for selected segments.<br>
     <br>Additional data analytic features only available with the Network subscription:</p>',
 
     'features-4-reports-title' => 'Data reports:',
