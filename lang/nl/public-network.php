@@ -26,7 +26,7 @@ return [
      'month' => 'maand',
      'pricing-box-line1' => 'Administratieve en wervingstools',
      'pricing-box-line2' => 'Tools voor het analyseren van netwerkgegevens en verschillende opties voor rapportage en gegevensexport',
-     'pricing-box-line3' => 'Omvat alle functies van het Data abonnement voor alle sensoren en wegsegmenten in het netwerk',
+     'pricing-box-line3' => 'Je hebt toegang tot de geavanceerde data van alle Telramen en segmenten in je netwerk.',
 
 
     // main content
@@ -91,8 +91,7 @@ beschikbaar als open data, en zowel de technologie als de performantie van Telra
     </ul>',
 
     'features-4-title' => 'Geavanceerde data-analyse',
-    'features-4-text' => '<p>Het netwerkabonnement bevat alle functies van het data-abonnement, en meer. Netwerkbeheerders hebben toegang tot de
-datadashboards van alle segmenten (en apparaten) in hun netwerk, terwijl deelnemende gebruikers toegang hebben tot de datadashboards van hun eigen segment.<br>
+    'features-4-text' => '<p>Met het netwerkabonnement heb je toegang tot geavanceerde data voor alle sensoren en segmenten binnen je netwerk, evenals meer analytische tools voor netwerkgegevens, zoals de mogelijkheid om gegevens van twee perioden te vergelijken voor het hele netwerk of voor geselecteerde segmenten.<br>
     <br>Extra data-analyse functies die enkel beschikbaar zijn binnen het Netwerkabonnement:</p>',
 
     'features-4-reports-title' => 'Data Reports:',
