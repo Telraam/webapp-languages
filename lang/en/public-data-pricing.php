@@ -15,7 +15,6 @@ return [
     'public-feat-1' => 'Counts & travel direction for 4 categories',
     'public-feat-2' => 'Daily and hourly overviews, speed, modal split',
     'public-feat-3' => 'Ranking',
-    'public-feat-4' => 'Possibility to make public page - private (i)',
 
 
     'sub-title' => 'Get instant insights into your streets’ traffic.<br>
