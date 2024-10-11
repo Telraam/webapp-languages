@@ -107,7 +107,7 @@ return [
     'what-title' => 'Quoi compte Telraam ?',
     'what-text' => '<p>Les capteurs Telraam comptent les usagers de la route classés en différentes catégories. </p>
 <p>Les données de base affichées sur le site web de Telraam (et mises à disposition via l\'API Telraam) comprennent quatre catégories.</p>
-<p> Vous avez accès à ces nouvelles catégories avec les données avancées, disponibles via l\'abonnement premium ou réseau.</p>',
+<p>Le nouveau dispositif Telraam S2 est capable de différencier un ensemble encore plus large d\'usagers de la route. Vous avez accès à ces nouvelles catégories avec les données avancées, disponibles via l\'abonnement premium ou réseau.</p>',
 
     'what-table' => '<table class="categories">
 <thead>
