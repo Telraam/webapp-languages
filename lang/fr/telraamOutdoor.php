@@ -23,7 +23,7 @@ le mieux serait d\'avoir un Telraam en extérieur, peut-être attaché à l\'arb
     'faq-title'         => 'FAQ',
     'question-1'        => 'Y a-t-il une différence entre le S2 classique et cet appareil extérieur ?',
 	'answer-1'          => 'Les composants internes restent les mêmes, mais le boîtier extérieur a été mis à jour pour être résistant aux intempéries. 
- L\'appareil fonctionne comme le S2 classique pour une utilisation en intérieur et exécute le même logiciel pour détecter le trafic. Cela signifie qu\'il a les mêmes <a href="https://telraam.helpspace-docs.io/article/3/requirements-for-the-installation-of-a-telraam-in-my-window">exigences de localisation</a> que le Telraam S2 intérieur.',
+ L\'appareil fonctionne comme le S2 classique pour une utilisation en intérieur et exécute le même logiciel pour détecter le trafic. Cela signifie qu\'il a les mêmes <a href="https://faq-fr.helpspace-docs.io/article/147/conditions-a-respecter-pour-lemplacement-dun-telraam-sur-ma-fenetre">exigences de localisation</a> que le Telraam S2 intérieur.',
 
     'question-2'        => 'Quel sera le coût ?',
  	'answer-2'          => 'Le coût de l\'appareil sera compris entre 500 € et 1 000 €. Le panneau solaire n\'est pas inclus dans ce prix et peut être acheté à un prix supplémentaire (uniquement en Belgique). Nous ne livrons pas le kit solaire+batterie à l\'international.',
