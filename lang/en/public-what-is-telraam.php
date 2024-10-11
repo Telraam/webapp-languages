@@ -147,8 +147,7 @@ It’s your view. Make it count! <br>
         'what-text' => '<p>Telraam sensors count road users classified into various categories. </p>
     <p>The data that is displayed on the Telraam website (and made available via the
     Telraam API) includes four categories.</p>
-    <p>The new Telraam S2 device is capable of differentiating between an even broader set of road user. These new classes
-      are available to Data subscribers on the website reports and via the API.</p>',
+    <p>The new Telraam S2 device is capable of differentiating between an even broader set of road user. You have access to these new classes with the advanced data, available through the premium or network subscription.</p>',
     
         'what-table' => '<table class="categories">
     <thead>
