@@ -13,19 +13,20 @@ return [
 
     // timeline
     'timeline-step1-title'        => 'Design & ontwikkeling',
-    'timeline-step2-title'        => 'Beperkte uitrol in 2 pilootprojecten',
+    'timeline-step2-title'        => 'Beperkte uitrol in 2 pilootprojecten (België)',
     'timeline-step2-subtitle'     => 'In samenwerking met EiT en de Provincie Vlaams-Brabant',
-    'timeline-step3-title'        => 'Van prototype na marktklare sensor',
+    'timeline-step3-title'        => 'Marktintroductie (België) + start pilootprojecten (internationaal)',
 
     // FAQ
     'faq-title'         => 'FAQ',
     'question-1'           => 'Is er een verschil tussen de standaard S2 en deze outdoor sensor?',
-	'answer-1'           => 'Niet echt. Deze sensor zal op dezelfde manier werken als de standaard S2 voor binnenshuis gebruik. Het gebruikt dezelfde software om verkeer te detecteren, dus dezelfde vereisten qua installatie locatie zijn van toepassing',
+	'answer-1'           => 'e interne componenten blijven hetzelfde, maar de buitenkant is aangepast om weerbestendig te zijn. 
+ Het Telraam functioneert net zoals de indoor Telraam S2 en draait dezelfde software om verkeer te detecteren. Dit betekent dat het dezelfde <a href="https://faq-nl.helpspace-docs.io/article/75/vereisten-voor-de-plaatsing-van-mijn-telraam-op-een-raam">locatievereisten</a> heeft als de Telraam S2 voor binnen.',
 
     'question-2'           => 'Wat zullen de kosten zijn?',
- 	'answer-2' 			=> 'Dat weten we nog niet. Het is duidelijk dat het toevoegen van een zonnepaneel, een batterij, de behuizing en montagemechanisme, en een complexere assemblage, de kosten zullen verhogen. Verwacht een meerprijs van enkele honderden euro \'s.',
+ 	'answer-2' 			=> 'De kosten van Telraam Outdoor liggen tussen de €500 en €1000. Het zonnepaneel is niet inbegrepen in deze prijs en kan tegen een meerprijs worden gekocht (alleen in België). We leveren het zonnepaneel+batterijpakket niet internationaal.',
 
  	'question-3'           => ' Is de sensor volledig stroomonafhankelijk?',
- 	'answer-3' 			=> 'Bijna. Je kunt 100% volledige autonomie krijgen met een grotere zonnepaneel + batterij, maar er is een afweging te maken tussen de grootte van de batterij en het zonnepaneel en de kosten. Hierin proberen we de juiste balans te vinden tijdens de prototypefase.'
+ 	'answer-3' 			=> 'Bijna. Je kunt 100% autonomie bereiken met een groot zonnepaneel en een batterij, maar er is een verstandige afweging tussen de grootte van de batterij, het zonnepaneel en de kosten. We denken dat we tijdens de prototypefase de juiste balans hebben gevonden.'
 
 ];
