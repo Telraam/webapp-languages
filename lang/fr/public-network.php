@@ -26,7 +26,7 @@ return [
     'month' => 'mois',
     'pricing-box-line1' => 'Outils administratifs et de recrutement',
     'pricing-box-line2' => 'Outils d\'analyse de données du réseau et diverses options d\'exportation de données',
-    'pricing-box-line3' => 'Inclut toutes les fonctionnalités de l\'<a href="../fr/data-subscription">Abonnement Données</a> pour tous les capteurs et segments du réseau',
+    'pricing-box-line3' => 'Vous avez accès aux <a href="../fr/data-subscription">données avancées</a> de tous les capteurs et segments de votre réseau',
 
     // contenu principal
     'section1-block1-title' => 'Un réseau d\'opportunités',
@@ -85,7 +85,7 @@ return [
     </ul>',
 
     'features-4-title' => 'Analyse de données avancée',
-    'features-4-text' => '<p>L\'abonnement Réseau comprend toutes les fonctionnalités de l\'abonnement Données, et bien plus encore. Les administrateurs du réseau ont accès aux tableaux de bord de données de tous les segments (et dispositifs) de leur réseau, tandis que les utilisateurs participants ont accès aux tableaux de bord de données de leurs propres segments.<br>
+    'features-4-text' => '<p>Grâce à l\'abonnement réseau, vous disposez de données avancées pour tous les capteurs et segments de votre réseau, ainsi que de davantage d'outils d'analyse des données réseau, comme la possibilité de comparer les données de deux périodes pour l\'ensemble du réseau ou pour des segments sélectionnés.<br>
     <br>Des fonctionnalités d\'analyse de données supplémentaires uniquement disponibles avec l\'abonnement au Réseau :</p>',
 
     'features-4-reports-title' => 'Rapports de données :',
