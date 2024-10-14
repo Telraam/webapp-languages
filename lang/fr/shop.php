@@ -56,7 +56,8 @@ return [
     'custom-packages-intro' => '<p>Avez-vous besoin de plus d\'appareils avec un abonnement Données, ou souhaitez-vous construire un réseau plus important ? Veuillez <a href="https://telraam.net/en/contact-us">nous contacter</a> pour un devis personnalisé ou des informations plus détaillées. Nous serions ravis d\'avoir de vos nouvelles.</p>',
 
     'personal-title' => 'Telraam S2 avec données de base',
-    'personal-intro-personal' => 'En tant que particulier, vous pouvez acheter un seul appareil Telraam S2 à un tarif réduit - à usage personnel uniquement - pour compter le trafic dans votre rue. Cette option n\'inclut pas les avantages de l\'abonnement Données.',
+    'personal-intro-personal' => 'En souscrivant un abonnement premium, vous avez accès aux données avancées et vous soutenez la communauté Telraam.
+    Les organisations, les villes ou les organisations sont tenues d\'offrir aux citoyens un compte avec des données avancées.',
 
     'product-4-title' => 'Telraam S2 - Personnel',
     'product-4-description' => 'Petit, intelligent et puissant. Comptage du trafic sur votre rue sans effort.',

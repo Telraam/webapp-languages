@@ -95,8 +95,8 @@ reach out to us <a href=mailto:support@telraam.net?body=coverage class="grey">vi
 
     // personal
     'personal-title' => 'Telraam S2 with free data',
-    'personal-intro-personal' => 'As an individual you can purchase a single Telraam S2 device at a discounted rate - for personal use only -
-    to count traffic on your street. This option does not include the perks of the Data subscription.',
+    'personal-intro-personal' => 'With a premium subscription you get access to the advanced data and you support the Telraam community.
+    Organisations, cities or organisations are obliged to offer the citizens an account with advanced data.',
 
 
     // pricing

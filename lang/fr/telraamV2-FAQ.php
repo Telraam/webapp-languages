@@ -31,15 +31,12 @@ return [
 <br>
 Des exemples de bons et de mauvais emplacements sont présentés dans notre article de la FAQ intitulé  <ahref="https://faq-fr.helpspace-docs.io/article/147/conditions-a-respecter-pour-lemplacement-de-ma-fenetre-photo-a-uploader-lors-de-lenregistrement"  target="_blank">Conditions à respecter pour l’emplacement de ma fenêtre</a>',
 
- 	 	'question-8'           => 'Quelle est la différence entre les appareils Telraam S2 personnels et professionnels ?',
- 	'answer-8' 			=> 'Il n\'y a pas de différence entre le dispositif Telraam S2 personnel et professionnel. Telraam utilise les revenus des contrats professionnels pour couvrir les coûts de gestion des appareils personnels.  Si vous êtes une organisation impliquée dans des campagnes, des consultations ou la gestion de projets locaux de transport et de mobilité, nous vous invitons à consulter nos  <ahref="https://telraam.net/fr/shop"  target="_blank">paquets professionnels</a>.',
-
- 	'question-9'           =>'Puis-je éteindre l\'écran LCD de mon appareil Telraam S2 ?',
- 	'answer-9' 			=> 'Oui ! Il suffit d\'appuyer sur le bouton jusqu\'à ce que l\'écran s\'éteigne. Ne vous inquiétez pas, l\'appareil continuera
+ 	'question-8'           =>'Puis-je éteindre l\'écran LCD de mon appareil Telraam S2 ?',
+ 	'answer-8' 			=> 'Oui ! Il suffit d\'appuyer sur le bouton jusqu\'à ce que l\'écran s\'éteigne. Ne vous inquiétez pas, l\'appareil continuera
  	à compter même si l\'écran est éteint. Vous pouvez réactiver l\'écran en appuyant à nouveau sur le bouton.',
 
- 	'question-10'           =>'Mon Telraam S2 semble manquer de trafic. Que dois-je faire ?',
- 	'answer-10' 			=> 'Tout d\'abord, assurez-vous que votre Telraam est correctement installé, et
+ 	'question-9'           =>'Mon Telraam S2 semble manquer de trafic. Que dois-je faire ?',
+ 	'answer-9' 			=> 'Tout d\'abord, assurez-vous que votre Telraam est correctement installé, et
 <ahref="https://faq-fr.helpspace-docs.io/article/144/region-dinteret-roi-et-selection-de-roi-avec-telraam-s2"  target="_blank">fixez sa région d\'intérêt</a> si
 vous ne l\'avez pas encore fait lors de l\'installation. Si vous l\'avez déjà fait, vérifiez que la région d\'intérêt choisie couvre bien toute la largeur de la route.
 Même avec les meilleurs réglages, il est souvent impossible pour l\'appareil de voir les piétons qui marchent juste sous la fenêtre. Ne vous attendez donc pas à
