@@ -22,7 +22,7 @@ Get car, bike, pedestrian, heavy vehicles counts and more!',
 
 
     'dashboard-feat-1' => 'Flexible data range selection',
-    'dashboard-feat-2' => 'Montlhy traffic report',
+    'dashboard-feat-2' => 'Monthly traffic report',
     'dashboard-feat-3' => 'Export raw data',
     'dashboard-feat-4' => 'Counts & travel direction for 10 categories',
     'dashboard-feat-5' => 'Segment-level data',
