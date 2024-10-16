@@ -30,7 +30,7 @@ or a full network solution. Browse our ready-made packages or customize your own
 
     'premium-features-title'   => 'Everything in free, and:',
     'premium-features-1'       => '10 modes',
-    'premium-features-2'       => '15 minutes resultion',
+    'premium-features-2'       => '15 minutes resolution',
     'premium-features-2-info'  => 'Data can be shown in 15-minute blocks.',
     'premium-features-3'       => 'Typical data',
     'premium-features-3-info'  => 'You can see the typical (average) counts for the expected car traffic for e.g.  a Monday between 08:00 and 08:15 am based on the past 12 months, with options to filter by mode, day, time and baseline period.',
