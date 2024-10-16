@@ -24,7 +24,7 @@ or a full network solution. Browse our ready-made packages or customize your own
     'free-features-2'       => 'SIM card with data connectivity included',
     'free-features-3'       => 'Personal dashboard',
     'free-features-4'       => 'Access to Basic data',
-    'free-features-4-info'  => 'Includes 4 modes, hourly overviews, speed, and more. See the data page for details.',
+    'free-features-4-info'  => 'Includes 4 modes, hourly overviews, speed, and more. See the <a href="https://telraam.net/en/data-subscription">data page</a> for details.',
     'free-features-5'       => 'Data only available for non-commercial purposes',
     'free-features-5-info'  => 'Examples of non-commercial use are research, personal traffic monitoring, ...',
 
@@ -44,7 +44,7 @@ or a full network solution. Browse our ready-made packages or customize your own
     'network-features-1'       => 'Installation of multiple devices',
     'network-features-2'       => 'SIM cards for device connectivity',
     'network-features-3'       => 'Network dashboard',
-    'network-features-3-info'  => 'Manage multiple devices and their data from one central place. Learn more on the network page.',
+    'network-features-3-info'  => 'Manage multiple devices and their data from one central place. Learn more on the <a href="https://telraam.net/en/network">network page</a>.',
     'network-features-4'       => 'Access to Advanced data for all devices',
     'network-features-4-info'  => 'Advanced data offers 10 modes, 15-minute resolution, typical traffic patterns, and more.',
     'network-features-5'       => 'Priority support',
