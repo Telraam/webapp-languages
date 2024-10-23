@@ -9,7 +9,7 @@ return [
 
     'section1-block1-text'        => '<p>Wil je ook een Telraam-sensor installeren om het verkeer in je straat te tellen, maar wordt het zicht geblokkeerd door die verdomde boom? Natuurlijk wil je deze boom niet omhakken, maar wil je wel het verkeer tellen. Voor jou wordt het Telraam dus best effectief in de buitenlucht geplaatst, eventueel dan bevestigd aan deze boom.</p>
 
-<p>Je bent hierin alleszins niet de enige, en we hebben jullie oproep gehoord. Om in deze nood te kunnen voorzien, hebben we een nieuw ontwikkelingstraject opgestart om een autonome Telraam S2-sensor voor buitenshuis instalatie, te ontwikkelen. We willen de eenvoud van installatie behouden, dus geen geknoei met stroomkabels of wifi-verbindingen.  Onze aanpak is dus om de bestaande S2-sensor in een waterdichte behuizing te plaatsen en dit te combineren met een klein zonnepaneel en een interne batterij. Omdat onze sensor heel weinig stroom verbruikt, verwachten we dat we een klein zonnepaneel en een kleine batterij kunnen volstaan.</p>',
+<p>Je bent hierin alleszins niet de enige, en we hebben jullie oproep gehoord. Om in deze nood te kunnen voorzien, hebben we een nieuw ontwikkelingstraject opgestart om een autonome Telraam S2-sensor voor buitenshuis instalatie, te ontwikkelen. We willen de eenvoud van installatie behouden, dus geen geknoei met stroomkabels of wifi-verbindingen.  Onze aanpak is dus om de bestaande S2-sensor in een waterdichte behuizing te plaatsen en dit te combineren met een klein zonnepaneel en een interne batterij. Omdat onze sensor heel weinig stroom verbruikt, volstaat een klein zonnepaneel en batterij.</p>',
 
     // timeline
     'timeline-step1-title'        => 'Design & ontwikkeling',
@@ -20,7 +20,7 @@ return [
     // FAQ
     'faq-title'         => 'FAQ',
     'question-1'           => 'Is er een verschil tussen de standaard S2 en deze outdoor sensor?',
-	'answer-1'           => 'e interne componenten blijven hetzelfde, maar de buitenkant is aangepast om weerbestendig te zijn. 
+	'answer-1'           => 'De interne componenten blijven hetzelfde, maar de buitenkant is aangepast om weerbestendig te zijn. 
  Het Telraam functioneert net zoals de indoor Telraam S2 en draait dezelfde software om verkeer te detecteren. Dit betekent dat het dezelfde <a href="https://faq-nl.helpspace-docs.io/article/75/vereisten-voor-de-plaatsing-van-mijn-telraam-op-een-raam">locatievereisten</a> heeft als de Telraam S2 voor binnen.',
 
     'question-2'           => 'Wat zullen de kosten zijn?',
