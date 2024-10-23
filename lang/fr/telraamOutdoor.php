@@ -26,7 +26,7 @@ le mieux serait d\'avoir un Telraam en extérieur, peut-être attaché à l\'arb
  L\'appareil fonctionne comme le S2 classique pour une utilisation en intérieur et exécute le même logiciel pour détecter le trafic. Cela signifie qu\'il a les mêmes <a href="https://faq-fr.helpspace-docs.io/article/147/conditions-a-respecter-pour-lemplacement-dun-telraam-sur-ma-fenetre">exigences de localisation</a> que le Telraam S2 intérieur.',
 
     'question-2'        => 'Quel sera le coût ?',
- 	'answer-2'          => 'Le coût de l\'appareil sera compris entre 500 € et 1 000 €. Le panneau solaire n\'est pas inclus dans ce prix et peut être acheté à un prix supplémentaire (uniquement en Belgique). Nous ne livrons pas le kit solaire+batterie à l\'international.',
+ 	'answer-2'          => 'Le coût de l\'appareil sera nettement plus élevé par rapport au modèle Telraam S2 pour l\'intérieur. Le panneau solaire n\'est pas inclus dans notre offre et peut être acheté à un prix supplémentaire, uniquement en Belgique. Nous ne livrons pas le kit solaire+batterie à l\'international.',
 
  	'question-3'        => 'L\'appareil est-il totalement autonome en énergie ?',
  	'answer-3'          => 'Presque. Vous pouvez obtenir une autonomie complète à 100 % avec un grand panneau solaire et une batterie, mais il existe un compromis raisonnable entre la taille de la batterie, du panneau solaire et le coût. Nous pensons avoir trouvé le bon équilibre lors de la phase de prototype.'
