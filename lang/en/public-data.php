@@ -20,17 +20,31 @@ Get car, bike, pedestrian, heavy vehicles counts and more!',
     'pricing-2-subtitle' => 'Limited to the 4 default modes and hourly data.',
 
     // tab titles
-    'tab-1-title' => 'Premium',
-    'tab-2-title' => 'Basic',
+    'tab-1-title' => 'Public page',
+    'tab-2-title' => 'Personal dashboard',
+    'tab-3-title' => 'Advanced data',
 
-    // info
-    'section-1-title' => 'More detail',
-    'section-1-intro' => 'Premium subscribers get access to count data that has four times higher temporal
+    // tab A public
+    'section-public-big-title' => 'Telraam believes in transparency and dialogue. When you set up your device, your traffic data is shared on the public page for your street.',
+    'section-public-title' => 'Public page',
+    'section-public-info' => 'Navigate to any device on the Telraam map to view public data for that street.
+    Every Telraam device offers basic data summaries for the past two weeks.<br><br>
+If the device has a premium or network subscription, additional features like flexible date ranges and live traffic are also available to everyone.<br><br>',
+
+    // tab B personal dashboard
+    'section-dash-big-title' => 'Export data, access the API, customize date ranges, and explore your data — all in your personal Telraam dashboard.',
+    'section-dash-title' => 'Personal dashboard',
+    'section-dash-info' => 'Log in to your dashboard to set up your street profile, choose dates, and see your data.
+                If you want more details, you can get advanced data with a premium or network subscription.',
+
+    // tab C advanced info
+    'section-advanced-big-title' => 'Here something about advanced data... ***',
+    'section-advanced-intro' => 'Premium subscribers get access to count data that has four times higher temporal
     resolution than our basic dataset, and an extended set of road user
     classes when looking at modal shares. This higher resolution also means a much
     reduced delay which enables professional users to follow live traffic data in much more real-time.',
 
-    'section-1-block1' => '<strong>15 minute resolution</strong><br>
+    'section-advanced-block1' => '<strong>15 minute resolution</strong><br>
     <br>
     15 minute temporal resolution for all data products, including count data, typical trend data, and for all analytic,
     visualisation, and export tools and <a href="https://telraam-api.net/">API</a>s.
@@ -50,7 +64,7 @@ Get car, bike, pedestrian, heavy vehicles counts and more!',
      <br>
     ',
 
-    'section-1-block2' => '
+    'section-advanced-block2' => '
     <strong>Typical traffic data</strong><br>
     <br>
     Typical traffic is the foundation of many of the analytical tools and data products that we offer to our subscribers.
