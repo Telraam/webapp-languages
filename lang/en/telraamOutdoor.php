@@ -30,7 +30,7 @@ develop an autonomous Telraam S2 device which you can install outdoors. We want 
  The device functions just like the regular S2 for indoor use and runs the same software to detect traffic. This means it has the same <a href="https://telraam.helpspace-docs.io/article/3/requirements-for-the-installation-of-a-telraam-in-my-window">location requirements</a> as the indoor Telraam S2.',
 
     'question-2'           => 'What will the cost be?',
- 	'answer-2' 			=> 'The cost of the device will be between €500 and €1000. The solar panel is not included in this price and can be purchased at an additional price (in Belgium only). We do not shop the solar+battery kit internationally.',
+ 	'answer-2' 			=> 'The cost of the device will be significantly compared to the Telraam S2 indoor model. The solar panel is not included in our offering and can be purchased at an additional price, in Belgium only. We do not ship the solar+battery kit internationally.',
 
  	'question-3'           => ' Is the device fully power independent?',
  	'answer-3' 			=> 'Almost. You can get 100% full autonomy with a large solar panel + battery, but there\'s a sensible trade-off
