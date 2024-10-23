@@ -24,7 +24,7 @@ return [
  Het Telraam functioneert net zoals de indoor Telraam S2 en draait dezelfde software om verkeer te detecteren. Dit betekent dat het dezelfde <a href="https://faq-nl.helpspace-docs.io/article/75/vereisten-voor-de-plaatsing-van-mijn-telraam-op-een-raam">locatievereisten</a> heeft als de Telraam S2 voor binnen.',
 
     'question-2'           => 'Wat zullen de kosten zijn?',
- 	'answer-2' 			=> 'De kosten van Telraam Outdoor liggen tussen de €500 en €1000. Het zonnepaneel is niet inbegrepen in deze prijs en kan tegen een meerprijs worden gekocht (alleen in België). We leveren het zonnepaneel+batterijpakket niet internationaal.',
+ 	'answer-2' 			=> 'De kosten van Telraam Outdoor zal hoger zijn dan het Telraam S2 indoor model. Het zonnepaneel is niet inbegrepen in deze prijs en kan tegen een meerprijs worden gekocht, alleen in België. We leveren het zonnepaneel+batterijpakket niet internationaal.',
 
  	'question-3'           => ' Is de sensor volledig stroomonafhankelijk?',
  	'answer-3' 			=> 'Bijna. Je kunt 100% autonomie bereiken met een groot zonnepaneel en een batterij, maar er is een verstandige afweging tussen de grootte van de batterij, het zonnepaneel en de kosten. We denken dat we tijdens de prototypefase de juiste balans hebben gevonden.'
