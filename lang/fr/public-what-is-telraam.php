@@ -127,7 +127,7 @@ return [
         <td>Voitures</td><td>Voitures</td>
 </tr>
 <tr>
-            <td>Véhicules lourds</td><td>Camionnettes<br>Camions<br>Buses<br>Remorques<br>Tracteurs</td>
+            <td>Véhicules lourds</td><td>Camionnettes<br>Camions<br>Bus<br>Remorques<br>Tracteurs</td>
 </tr>
 </tbody></table>',
 
