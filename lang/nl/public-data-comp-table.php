@@ -2,35 +2,34 @@
 
 return [
 
-    'title-basic' => 'Basic data',
-    'title-advanced' => 'Advanced data',
+    'title-basic' => 'Basis data',
+    'title-advanced' => 'Uitgebreide data',
 
-    'subtitle-basic' => '<strong>free</strong> subscription',
-    'subtitle-advanced' => '<strong>premium</strong> or <strong>network</strong> subscription',
-    'accessible-with' => 'Accessible with',
+    'subtitle-basic' => '<strong>gratis</strong> abonnement',
+    'subtitle-advanced' => '<strong>premium</strong> of <strong>netwerk</strong> abonnement',
+    'accessible-with' => 'Toegankelijk met',
 
-    'header-public' => '<strong>ON THE PUBLIC PAGE</strong><br> available to everyone',
-    'header-dashboard' => '<strong>IN YOUR PERSONAL DASHBOARD</strong></strong><br> available to device owners',
+    'header-public' => '<strong>OP DE PUBLIEKE PAGINA</strong><br> beschikbaar voor iedereen',
+    'header-dashboard' => '<strong>IN JE PERSOONLIJKE DASHBOARD</strong><br> beschikbaar voor Telraambezitters',
 
-    'public-feat-1' => 'Counts & travel direction for 4 categories',
-    'public-feat-2' => 'Daily and hourly overviews, speed, modal split',
-    'public-feat-3' => 'Ranking',
+    'public-feat-1' => 'Tellingen & reisrichting voor 4 categorieën',
+    'public-feat-2' => 'Dagelijkse en uurlijkse overzichten, snelheid, modal split',
+    'public-feat-3' => 'Ranglijst',
 
+    'sub-title' => 'Krijg direct inzicht in het verkeer in jouw straat.<br>
+Ontvang tellingen van auto’s, fietsen, voetgangers, zware voertuigen en meer!',
 
-    'sub-title' => 'Get instant insights into your streets’ traffic.<br>
-Get car, bike, pedestrian, heavy vehicles counts and more!',
-
-
-    'dashboard-feat-1' => 'Flexible data range selection',
-    'dashboard-feat-2' => 'Monthly traffic report',
-    'dashboard-feat-3' => 'Export raw data',
-    'dashboard-feat-4' => 'Counts & travel direction for 10 categories',
-    'dashboard-feat-5' => 'Segment-level data',
+    'dashboard-feat-1' => 'Flexibele datumbereik selectie',
+    'dashboard-feat-2' => 'Maandelijks verkeersrapport',
+    'dashboard-feat-3' => 'Exporteer ruwe data',
+    'dashboard-feat-4' => 'Tellingen & reisrichting voor 10 categorieën',
+    'dashboard-feat-5' => 'Data op segmentniveau',
     'dashboard-feat-6' => 'Trends',
-    'dashboard-feat-7' => '15 minute interval data',
-    'dashboard-feat-8' => 'Data per installation',
-    'dashboard-feat-9' => 'Export "street sheet"',
-    'dashboard-feat-10' => 'Basic API access',
-    'dashboard-feat-11' => 'Advanced API access',
+    'dashboard-feat-7' => 'Data per 15 minuten interval',
+    'dashboard-feat-8' => 'Data per installatie',
+    'dashboard-feat-9' => 'Exporteer "streetsheet"',
+    'dashboard-feat-10' => 'Basis API-toegang',
+    'dashboard-feat-11' => 'Uitgebreide API-toegang',
+
 
 ];

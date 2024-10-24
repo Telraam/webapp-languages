@@ -38,7 +38,7 @@ If the device has a premium or network subscription, additional features like fl
                 If you want more details, you can get advanced data with a premium or network subscription.',
 
     // tab C advanced info
-    'section-advanced-big-title' => 'Here something about advanced data... ***',
+    'section-advanced-big-title' => 'Monitor live traffic in near real-time, detect anomalies, uncover trends, and get your counts across 10 different modes to make informed decisions effortlessly with advanced data.',
     'section-advanced-intro' => 'Premium subscribers get access to count data that has four times higher temporal
     resolution than our basic dataset, and an extended set of road user
     classes when looking at modal shares. This higher resolution also means a much
@@ -56,11 +56,8 @@ If the device has a premium or network subscription, additional features like fl
     </ul>
     <br>
     <p><strong>10 different modes</strong><br>
-     <br>
-     Traffic counts per direction of travel for 10 different road user classes (non-subscriber users are
-     provided aggregated counts over the four main classes).<br>
-     The differentiated classes are bicycles, buses, cars, light trucks, motorcycles, pedestrians, strollers, tractors,
-     trailers, and trucks.</p>
+     <br> 
+     Traffic counts per direction of travel for 10 different road user classes (non-subscriber users are provided aggregated counts over the four main classes).The differentiated classes are bicycles, buses, cars, light trucks, motorcycles, pedestrians, strollers, tractors, trailers, and trucks.</p>
      <br>
     ',
 
@@ -84,39 +81,21 @@ If the device has a premium or network subscription, additional features like fl
     'features-title' => 'Data dashboard',
 
     'features-1-title' => 'Segments',
-    'features-1-text' => 'Monitor live or historical traffic (and the overall modal split) on a segment and compare it to the expected levels to identify atypical traffic.<br> For example: if the live traffic is outside
-    of the interval that is defined by the average plus and minus three times the standard deviation of the histrorical traffic, that means that the observed traffic
-    is unexpected compared to the average of the past month, season, or year, depending on the used typical data product. Is the anomaly short lived or long-term,
-    is it caused by a special event, weather, or a change in the circulation plan? Go and explore!',
+    'features-1-text' => 'Check live or historical traffic data on a segment and see how it compares to expected levels. For example, if current traffic deviates significantly from the average (more than three standard deviations), it’s definitely unusual. Explore whether the issue is temporary, linked to an event, weather, or a change in traffic patterns. Dive in and see what’s happening!',
 
     'features-2-title' => 'Trends',
-    'features-2-text' => 'Monitor the evolution of traffic trends over time. For example you can visualise
-    the average Monday\'s car traffic over the past year, using seasonal (quarterly) averages that were calculated every two weeks,
-    providing a rolling average traffic pattern over time. Looking at rolling averages helps to filter out short lived anomalies while bringing
-    long-term changes into the spotlight. The 3D histogram is a very powerful visualisation tool, but if you just want to compare the traffic levels of a
-    few selected epochs to eachoter, you can use our traditional interactive 2D plot for that. With the number of modes, weekdays, typical intervals, and calculation
-    epochs available, the options are very broad.',
+    'features-2-text' => 'Monitor how traffic patterns evolve over time. For instance, you can view average Monday traffic for the past year using quarterly averages calculated every two weeks. This rolling average highlights long-term changes while filtering out short-term fluctuations. The 3D histogram is a great tool for detailed insights, but if you prefer, you can use our interactive 2D plot to compare traffic levels for different periods. With options for various modes, weekdays, and intervals, you have plenty of ways to explore the data.',
 
     'features-3-title' => '15 minute data',
-    'features-3-text' => 'Similar to the Segments tab, but here you can monitor data with a higher temporal resolution. Some effects are very short-lived,
-    for example the morning rush near schools, or a temporary road block caused by an accident. Quarterly live data is also much more real time, as new datapoints
-    are added every fifteen minutes, which is great for real-time applications.',
+    'features-3-text' => 'Just like the segments tab, but with higher temporal resolution. This is perfect for spotting short-lived events, like the morning rush near schools or a temporary roadblock from an accident. Plus, the data is updated every fifteen minutes, making it ideal for real-time monitoring.',
 
-    'features-4-title' => 'Installations',
-    'features-4-text' => 'A road segment may have more than one Telraam sensor installed. In this case the segment page shows the (smartly weighted)
-    average metrics coming from the corresponding installations (also known as Telraam instances). As a Premium subscriber you can consult the original data
-    of each individual Telraam instance, which can be useful in many situations, including data validation, separating data coming from different sensor versions
-    (e.g., Telraam V1 and S2 devices on the same segment), or simply to consult the data of your own device.',
+    'features-4-title' => 'Counts & Directions for 10 Traffic Categories',
+    'features-4-text' => 'See the data in categories like cars, light vehicles, heavy vehicles, buses, bicycles, pedestrians, motorcycles, e-scooters, vans, and other vehicles. These counts come only from your Telraam. When more than one Telraam is on the same street segment, we show an average on the public page. If you want to see the data from your own Telraam, instead of the average, you can use this data.',
 
 
     // 3 extra features
     'extra-features-1-title' => 'Street sheet',
-    'extra-features-1-text' => 'Our popular on-demand data product is also part of the premium subscription. We provide
-    a compact, in-depth Excel-format summary for a device or segment, including insights, calculations,
-    and raw data for further review or analysis.<br>
-These reports give all users, experts and non-experts alike, a review of the data from a device or segment
-in order to help identify trends and anomalies. The sheet provides easy-to-digest information on
-modal splits, typical traffic patterns (for days and weeks), and also speed patterns.',
+    'extra-features-1-text' => 'This Excel-format summary, which you can download, provides a comprehensive overview for a device or segment, complete with insights, calculations, and raw data for further analysis. Whether you are an expert or a beginner, these reports help you review data, spot trends, and identify anomalies. The sheet breaks down modal splits, typical daily and weekly traffic patterns, and speed trends into easy-to-digest information.  It’s perfect to share with others when explaining something about the data.Download an example here.',
 
     'extra-features-2-title' => 'Advanced APIs',
     'extra-features-2-text' => 'Get access to exclusive, professional <a href="https://telraam-api.net/">API</a> end-points:
