@@ -21,14 +21,14 @@ or a full network solution. Browse our ready-made packages or customize your own
 
     'free-features-title'   => 'Includes:',
     'free-features-1'       => 'Installation of 1 device',
-    'free-features-2'       => 'SIM card with data connectivity included',
+    'free-features-2'       => 'SIM card with lifetime data connectivity included',
     'free-features-3'       => 'Personal dashboard',
     'free-features-4'       => 'Access to Basic data',
     'free-features-4-info'  => 'Includes 4 modes, hourly overviews, speed, and more. See the <a href="https://telraam.net/en/data-subscription">data page</a> for details.',
     'free-features-5'       => 'Data only available for non-commercial purposes',
     'free-features-5-info'  => 'Examples of non-commercial use are research, personal traffic monitoring, ...',
 
-    'premium-features-title'   => 'Everything in free, and:',
+    'premium-features-title'   => 'Everything in Free, and:',
     'premium-features-1'       => '10 modes',
     'premium-features-2'       => '15 minutes resolution',
     'premium-features-2-info'  => 'Data can be shown in 15-minute blocks.',
@@ -39,11 +39,10 @@ or a full network solution. Browse our ready-made packages or customize your own
     'premium-features-5'       => 'Data available for commercial purposes',
     'premium-features-5-info'  => 'Examples of non-commercial use are selling data insights, using data for marketing, ...',
 
-    'network-features-title'   => 'Everything in premium, and:',
+    'network-features-title'   => 'Everything in Premium, and:',
 
     'network-features-1'       => 'Installation of multiple devices',
-    'network-features-2'       => 'SIM cards for device connectivity',
-    'network-features-3'       => 'Network dashboard',
+    'network-features-3'       => 'Network dashboard with all tools to manage and follow up your fleet. Comes also with extensive reports options on network and device level.',
     'network-features-3-info'  => 'Manage multiple devices and their data from one central place. Learn more on the <a href="https://telraam.net/en/network">network page</a>.',
     'network-features-4'       => 'Access to Advanced data for all devices',
     'network-features-4-info'  => 'Advanced data offers 10 modes, 15-minute resolution, typical traffic patterns, and more.',
@@ -77,20 +76,20 @@ reach out to us <a href=mailto:support@telraam.net?body=coverage class="grey">vi
     'product-2-link' => 'Buy',
 
     'product-3-title' => 'Telraam S2 - The First Four',
-    'product-3-description' => 'Four Telraam S2 devices with a 12 month network plan',
+    'product-3-description' => 'Four Telraam S2 devices with a 12 month network subscription',
     'product-3-price' => '€1,840',
     'product-3-note' => 'excl. VAT',
     'product-3-link' => 'Buy',
 
     'product-4-title' => 'A Small Network',
-    'product-4-description' => 'Ten Telraam S2 devices with 12 month network plan',
+    'product-4-description' => 'Ten Telraam S2 devices with 12 month network subscription',
     'product-4-price' => '€4,600',
     'product-4-note' => 'excl. VAT',
     'product-4-link' => 'Buy',
 
     // other / custom
     'custom-packages-title'    => 'Custom-made package or questions?',
-    'custom-packages-intro'  => '<p>Would like to have more information or build a bigger network? Please <a href="https://telraam.net/en/contact-us">get in touch with us</a> for a personalised quote or more detailed information.
+    'custom-packages-intro'  => '<p>Would you like to have more information or build a bigger network? Please <a href="https://telraam.net/en/contact-us">get in touch with us</a> for a personalised quote or more detailed information.
  We look forward to hearing from you.</p>',
 
     // personal

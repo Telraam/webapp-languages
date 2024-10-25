@@ -4,7 +4,7 @@ return [
 
     'title' => 'Data',
     'sub-title' => 'Get instant insights into your streets’ traffic.<br>
-Get car, bike, pedestrian, heavy vehicles counts and more!',
+Get car, bike, pedestrian, heavy vehicles count and more!',
 
     // pricing box
     'pricing-1-title' => 'Premium subscription <span class="green">€15 <span class="month">/ month</span>',
@@ -56,10 +56,9 @@ If the device has a premium or network subscription, additional features like fl
     </ul>
     <br>
     <p><strong>10 different modes</strong><br>
-     <br> 
-     Traffic counts per direction of travel for 10 different road user classes (non-subscriber users are provided aggregated counts over the four main classes).The differentiated classes are bicycles, buses, cars, light trucks, motorcycles, pedestrians, strollers, tractors, trailers, and trucks.
-</p>
      <br>
+Traffic counts per direction of travel for 10 different road user classes (non-subscriber users are provided aggregated counts over the four main classes).The differentiated classes are bicycles, buses, cars, light trucks, motorcycles, pedestrians, strollers, tractors, trailers, and trucks.
+</p>     <br>
     ',
 
     'section-advanced-block2' => '

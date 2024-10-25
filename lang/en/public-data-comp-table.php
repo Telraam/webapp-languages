@@ -9,28 +9,28 @@ return [
     'subtitle-advanced' => '<strong>premium</strong> or <strong>network</strong> subscription',
     'accessible-with' => 'Accessible with',
 
-    'header-public' => '<strong>ON THE PUBLIC PAGE</strong><br> available to everyone',
-    'header-dashboard' => '<strong>IN YOUR PERSONAL DASHBOARD</strong></strong><br> available to device owners',
+    'header-public' => '<strong>ON THE PUBLIC PAGE</strong><br> Available to everyone',
+    'header-dashboard' => '<strong>IN YOUR PERSONAL DASHBOARD</strong></strong><br> Available to device owners',
 
     'public-feat-1' => 'Counts & travel direction for 4 categories',
-    'public-feat-2' => 'Daily and hourly overviews, speed, modal split',
-    'public-feat-3' => 'Ranking',
+    'public-feat-2' => 'Night counts',
+    'public-feat-3' => 'Daily and hourly overviews, speed, modal split',
+    'public-feat-4' => 'Ranking',
 
 
     'sub-title' => 'Get instant insights into your streets’ traffic.<br>
-Get car, bike, pedestrian, heavy vehicles counts and more!',
+Get car, bike, pedestrian, heavy vehicle counts and more!',
 
 
     'dashboard-feat-1' => 'Flexible data range selection',
     'dashboard-feat-2' => 'Monthly traffic report',
     'dashboard-feat-3' => 'Export raw data',
     'dashboard-feat-4' => 'Counts & travel direction for 10 categories',
-    'dashboard-feat-5' => 'Segment-level data',
-    'dashboard-feat-6' => 'Trends',
-    'dashboard-feat-7' => '15 minute interval data',
-    'dashboard-feat-8' => 'Data per installation',
-    'dashboard-feat-9' => 'Street Sheet report',
-    'dashboard-feat-10' => 'Basic API access',
-    'dashboard-feat-11' => 'Advanced API access',
+    'dashboard-feat-5' => 'Trends',
+    'dashboard-feat-6' => '15 minute resolution data',
+    'dashboard-feat-7' => 'Data per installation',
+    'dashboard-feat-8' => 'Street Sheet report',
+    'dashboard-feat-9' => 'Basic API access',
+    'dashboard-feat-10' => 'Advanced API access',
 
 ];
