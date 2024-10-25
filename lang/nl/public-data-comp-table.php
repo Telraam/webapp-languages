@@ -13,8 +13,9 @@ return [
     'header-dashboard' => '<strong>IN JE PERSOONLIJKE DASHBOARD</strong><br> beschikbaar voor Telraambezitters',
 
     'public-feat-1' => 'Tellingen & reisrichting voor 4 categorieën',
-    'public-feat-2' => 'Dagelijkse en uurlijkse overzichten, snelheid, modal split',
-    'public-feat-3' => 'Ranglijst',
+    'public-feat-2' => 'Nachttellingen',
+    'public-feat-3' => 'Dagelijkse en uurlijkse overzichten, snelheid, modal split',
+    'public-feat-4' => 'Ranglijst',
 
     'sub-title' => 'Krijg direct inzicht in het verkeer in jouw straat.<br>
 Ontvang tellingen van auto’s, fietsen, voetgangers, zware voertuigen en meer!',
@@ -23,13 +24,12 @@ Ontvang tellingen van auto’s, fietsen, voetgangers, zware voertuigen en meer!'
     'dashboard-feat-2' => 'Maandelijks verkeersrapport',
     'dashboard-feat-3' => 'Exporteer ruwe data',
     'dashboard-feat-4' => 'Tellingen & reisrichting voor 10 categorieën',
-    'dashboard-feat-5' => 'Data op segmentniveau',
-    'dashboard-feat-6' => 'Trends',
-    'dashboard-feat-7' => 'Data per 15 minuten interval',
-    'dashboard-feat-8' => 'Data per installatie',
-    'dashboard-feat-9' => 'Exporteer "streetsheet"',
-    'dashboard-feat-10' => 'Basis API-toegang',
-    'dashboard-feat-11' => 'Uitgebreide API-toegang',
+    'dashboard-feat-5' => 'Trends',
+    'dashboard-feat-6' => 'Data per 15 minuten interval',
+    'dashboard-feat-7' => 'Data per installatie',
+    'dashboard-feat-8' => 'Exporteer "streetsheet"',
+    'dashboard-feat-9' => 'Basis API-toegang',
+    'dashboard-feat-10' => 'Uitgebreide API-toegang',
 
 
 ];

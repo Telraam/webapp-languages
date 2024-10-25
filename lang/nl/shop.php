@@ -3,30 +3,49 @@
 
 return [
 
-    'title'           => 'Shop',
+    'title'           => 'Prijzen',
+    'subtitle'          => 'Mogelijkheden voor burgers en professionals om mobiliteitsprojecten te ondersteunen.',
 
-    'general-intro'           => 'Telraam-pakketten bestaan uit een Telraam-sensor én een Data- of Netwerkabonnement. We stelden voor u verschillende Telraam-pakketten samen, die men hieronder kan aankopen. Men kan ook een eigen pakket samenstellen met deze basiselementen. Vraag hiervoor naar een gepersonaliseerde offerte op maat van uw project.',
+    'general-intro'           => 'Koop je Telraam toestel en kies je het abonnement dat bij jouw behoeften past — of dat nu eenvoudige verkeersdata, diepgaande analyses of een volledige netwerkoplossing is. Bekijk onze kant-en-klare pakketten of stel je eigen op maat gemaakte opstelling samen.',
 
     // pricing simple
     'device-title'        => 'Sensor',
-    'data-title'          => 'Data',
+    'device-subtitle'     => 'De teller',
+    'free-title'          => 'Gratis',
+    'free-subtitle'       => 'Eén sensor',
+    'data-title'          => 'Premium',
+    'data-subtitle'       => 'Eén sensor',
     'network-title'       => 'Netwerk',
-    'data-features'       => '<p><strong>Includes:</strong></p><ul class="pricing-checklist">
-                            <li>10 vervoersmodi</li>
-                            <li>15 minuten dataresolutie</li>
-                            <li>Data dashboard</li>
-                            <li>Geavanceerde API\'s</li>
-                            <li>Straatfiches</li>
-                            <li>Opties voor Data export</li>
-                        </ul>',
-    'network-features'       => '<p><strong>Includes:</strong></p><ul class="pricing-checklist">
-                            <li>Compleet dataoverzicht</li>
-                            <li>Premium analyse tools</li>
-                            <li>Premium rapporten</li>
-                            <li>Beheren van meerdere tracks</li>
-                            <li>Netwerk wervingstools</li>
-                            <li>Netwerk ondersteuningstools</li>
-                        </ul>',
+    'network-subtitle'    => 'Meerdere sensoren',
+
+    'free-features-title'   => 'Inclusief:',
+    'free-features-1'       => 'Installatie van 1 sensor',
+    'free-features-2'       => 'SIM-kaart met levenslange dataverbinding',
+    'free-features-3'       => 'Persoonlijk dashboard',
+    'free-features-4'       => 'Toegang tot Basisdata',
+    'free-features-4-info'  => 'Inclusief 4 modi, uurlijkse overzichten, snelheid en meer. Zie de <a href="https://telraam.net/nl/data-subscription">datapagina</a> voor details.',
+    'free-features-5'       => 'Data alleen beschikbaar voor niet-commercieel gebruik',
+    'free-features-5-info'  => 'Voorbeelden van niet-commercieel gebruik zijn onderzoek, persoonlijke verkeersmonitoring, ...',
+
+    'premium-features-title'   => 'Alles in Gratis, en:',
+    'premium-features-1'       => '10 modi',
+    'premium-features-2'       => '15 minuten resolutie',
+    'premium-features-2-info'  => 'Data kan worden weergegeven in blokken van 15 minuten.',
+    'premium-features-3'       => 'Typische data',
+    'premium-features-3-info'  => 'Je kunt de typische (gemiddelde) tellingen zien voor het verwachte autoverkeer op bijvoorbeeld een maandag tussen 08:00 en 08:15, gebaseerd op de laatste 12 maanden, met opties om te filteren op modus, dag, tijd en basisperiode.',
+    'premium-features-4'       => 'Geavanceerde API-toegang',
+    'premium-features-4-info'  => 'Inclusief aangepaste dataverbindingen, snelheidslimieten, verbeterde openbare eindpunten en de mogelijkheid voor aangepaste integraties.',
+    'premium-features-5'       => 'Data beschikbaar voor commercieel gebruik',
+    'premium-features-5-info'  => 'Voorbeelden van commercieel gebruik zijn het verkopen van data-inzichten, het gebruik van data voor marketing, ...',
+
+    'network-features-title'   => 'Alles in Premium, en:',
+
+    'network-features-1'       => 'Installatie van meerdere sensoren',
+    'network-features-3'       => 'Netwerkdashboard met alle tools om alle Telramen te beheren en op te volgen. Wordt geleverd met uitgebreide rapportagemogelijkheden op netwerk- en sensorsniveau.',
+    'network-features-3-info'  => 'Beheer meerdere toestellen en hun data vanuit één centrale plek. Meer informatie op de <a href="https://telraam.net/en/network">netwerkpagina</a>.',
+    'network-features-4'       => 'Toegang tot Geavanceerde data voor alle Telramen',
+    'network-features-4-info'  => 'Geavanceerde data biedt 10 modi, 15-minuten resolutie, typische verkeerspatronen en meer.',
+    'network-features-5'       => 'Priority support',
 
     // pre-made packages
     'packages-title' => 'Voor u samengestelde pakketten',
@@ -42,39 +61,52 @@ Bekijk de  <a href="https://faq-nl.helpspace-docs.io/article/75/vereisten-voor-d
 
 
  //   'product-1-title' => 'Telraam S2 - Professional',
-    'product-1-title' => 'De Pionier',
-    'product-1-description' => 'Een Telraam S2 met een 12 maand Data abonnement',
-    'product-1-price' => '€340',
-    'product-1-note' => 'excl. BTW',
+    'product-1-title' => 'Telraam S2 - Basis',
+    'product-1-description' => 'Klein, slim en krachtig. Moeiteloos verkeer tellen in jouw straat.',
+    'product-1-price' => '€160',
+    'product-1-note' => 'excl VAT',
     'product-1-link' => 'Koop',
 
-    'product-2-title' => 'De eerste vier',
-    'product-2-description' => 'Vier Telraam S2 sensoren met 12 maand Data abonnement. Limiet van 4 toestellen.',
-    'product-2-price' => '€1,360',
+    'product-2-title' => 'Telraam S2 - Premium',
+    'product-2-description' => 'Eén Telraam S2 met een 12 maanden Premium abonnement',
+    'product-2-price' => '€340',
     'product-2-note' => 'excl. BTW',
     'product-2-link' => 'Koop',
 
-    'product-3-title' => 'Het kleine netwerk',
-    'product-3-description' => 'Tien Telraam S2 sensoren met 12 maand Netwerk abonnement',
-    'product-3-price' => '€4,600',
+    'product-3-title' => 'Telraam S2 - De Eerste Vier',
+    'product-3-description' => 'Vier Telraam S2-toestellen met een 12 maanden netwerkabonnement',
+    'product-3-price' => '€1,840',
     'product-3-note' => 'excl. BTW',
     'product-3-link' => 'Koop',
+
+    'product-4-title' => 'Het Kleine Netwerk',
+    'product-4-description' => 'Tien Telraam S2 sensoren met 12 maand Netwerk abonnement',
+    'product-4-price' => '€4,600',
+    'product-4-note' => 'excl. BTW',
+    'product-4-link' => 'Koop',
 
     // other / custom
     'custom-packages-title'    => 'Wilt u een pakket op maat of heeft u vragen ?',
     'custom-packages-intro'  => '<p> Wilt u meer sensoren met een Data abonnement, of wilt u met een groter netwerk starten? Neem met ons <a href="https://telraam.net/nl/contact-us">contact op</a> voor een offerte op maat en meer gedetailleerde informatie.
  We would love to hear from you.</p>',
 
-    // personal
-    'personal-title' => 'Telraam S2 met basis data',
-    'personal-intro-personal' => 'Met een premium abonnement krijg je toegang tot de geavanceerde data en steun je de Telraam-gemeenschap.
-    Organisaties, steden of instellingen zijn verplicht om de burgers een account met geavanceerde data aan te bieden.',
+ // personal
+    'personal-title' => 'Telraam S2 met gratis data',
+    'personal-intro-personal' => 'Met een premium abonnement krijg je toegang tot de uitgebreide data en ondersteun je de Telraam-gemeenschap.
+    Organisaties, steden of organisaties zijn verplicht om burgers een account met uitgebreide data aan te bieden.',
 
-    'product-4-title' => 'Telraam S2 - Persoonlijk',
-    'product-4-description' => 'Elegant, slim, en effectief. Moeiteloos verkeer tellen in uw straat.',
-    'product-4-price' => '€199',
-    'product-4-note' => 'incl. BTW',
-    'product-4-link' => 'Koop',
-
+      // pricing
+    'per-device' => 'Per sensor',
+    'device' => 'sensor',
+    'incl-vat' => '(incl. BTW)',
+    'excl-vat' => '(excl. BTW)',
+    'note-below-price' => '(excl. BTW, jaarlijks gefactureerd)',
+    'one-time-hardware' => 'Eenmalige hardwarekosten',
+    'month' => 'maand',
+    'subscription' => 'Abonnement',
+    'network-subscription' => 'netwerk abonnement',
+    'tailer-made' => 'oplossing op maat',
+    'free' => 'Gratis',
+    'make-private' => 'Maak de installatie privé'
 
 ];

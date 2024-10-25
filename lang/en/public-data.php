@@ -29,7 +29,7 @@ Get car, bike, pedestrian, heavy vehicles count and more!',
     'section-public-title' => 'Public page',
     'section-public-info' => 'Navigate to any device on the Telraam map to view public data for that street.
     Every Telraam device offers basic data summaries for the past two weeks.<br><br>
-If the device has a premium or network subscription, additional features like flexible date ranges and live traffic are also available to everyone.<br><br>',
+If the device has a premium or network subscription, additional features like live traffic data are also available to everyone.<br><br>',
 
     // tab B personal dashboard
     'section-dash-big-title' => 'Export data, access the API, customize date ranges, and explore your data — all in your personal Telraam dashboard.',
@@ -87,10 +87,10 @@ Traffic counts per direction of travel for 10 different road user classes (non-s
     'features-2-text' => 'Monitor how traffic patterns evolve over time. For instance, you can view average Monday traffic for the past year using quarterly averages calculated every two weeks. This rolling average highlights long-term changes while filtering out short-term fluctuations. The 3D histogram is a great tool for detailed insights, but if you prefer, you can use our interactive 2D plot to compare traffic levels for different periods. With options for various modes, weekdays, and intervals, you have plenty of ways to explore the data.',
 
     'features-3-title' => '15 minute data',
-    'features-3-text' => 'Just like the segments tab, but with higher temporal resolution. This is perfect for spotting short-lived events, like the morning rush near schools or a temporary roadblock from an accident. Plus, the data is updated every fifteen minutes, making it ideal for real-time monitoring.',
+    'features-3-text' => 'Enjoy the higher temporal resolution. This is perfect for spotting short-lived events, like the morning rush near schools or a temporary roadblock from an accident. Plus, the data is updated every fifteen minutes, making it ideal for real-time monitoring.',
 
     'features-4-title' => 'Installations',
-    'features-4-text' => ' A road segment may have more than one Telraam sensor installed. In this case the segment page shows the (smartly weighted) average metrics coming from the corresponding installations. With the advanced data you can consult the original data of each individual Telraam installation, which can be useful in many situations, including data validation, separating data coming from different sensor versions (e.g., Telraam V1 and S2 devices on the same segment), or simply to consult the data of your own device.',
+    'features-4-text' => ' A road segment may have more than one Telraam sensor installed. In this case the segment page shows the (smartly weighted) average metrics coming from the corresponding installations. With the advanced data you can consult the original data of each your Telraam installation, which can be useful in many situations, including data validation, separating data coming from different sensor versions (e.g., Telraam V1 and S2 devices on the same segment), or simply to consult the data of your own device.',
 
 
     // 3 extra features

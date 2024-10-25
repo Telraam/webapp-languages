@@ -2,8 +2,9 @@
 
 return [
 
-    'title' => 'Données',
-    'sub-title' => 'Les applications professionnelles nécessitent des produits de données avancés. Allez au-delà avec l\'abonnement Telraam Data, et libérez tout le potentiel du dispositif Telraam S2 : accédez aux comptages au niveau du segment et du dispositif avec une résolution temporelle plus fine, davantage de modes de trafic, des API avancées et un large éventail d\'outils de visualisation et d\'analyse.',
+       'title' => 'Données',
+    'sub-title' => 'Obtenez des informations sur le trafic de votre rue.<br>
+Collectez des données sur le nombre de voitures, vélos, piétons, véhicules lourds et plus encore !',
 
     // pricing box
     'pricing-1-title' => 'Abonnement aux données <span class="green">15 € <span class="month">/ mois</span></span>',
@@ -18,14 +19,28 @@ return [
     'pricing-2-title' => 'Données de base <span class="green">Gratuit pour un usage personnel uniquement</span>',
     'pricing-2-subtitle' => 'Limité aux 4 modes par défaut et aux données horaires.',
 
-    // tab titles
-    'tab-1-title' => 'Abonnement aux données',
-    'tab-2-title' => 'Données de base',
+      // tab titles
+    'tab-1-title' => 'Page publique',
+    'tab-2-title' => 'Tableau de bord personnel',
+    'tab-3-title' => 'Données avancées',
 
-    // info
-    'section-1-title' => 'Plus de détails',
-    'section-1-intro' => 'Les abonnés aux données ont accès à des données de comptage avec une résolution temporelle quatre fois supérieure à celle de notre jeu de données de base, et à un ensemble élargi de classes d\'usagers de la route
-    lors de l\'examen des parts modales. Cette résolution plus élevée signifie également un délai beaucoup plus court, ce qui permet aux utilisateurs professionnels de suivre les données de trafic en direct beaucoup plus en temps réel.',
+    // tab A public
+    'section-public-big-title' => 'Telraam favorise la transparence et le dialogue. Lorsque vous installez votre Telraam, vos données de trafic sont partagées sur la page publique de votre rue.',
+    'section-public-title' => 'Page publique',
+    'section-public-info' => 'Accédez à un segment de rue sur la carte Telraam pour consulter les données publiques de cette localisation.
+    Chaque Telraam affiche les données des deux dernières semaines sur la page publique.<br><br>
+Si le Telraam a un abonnement premium ou réseau, des fonctionnalités supplémentaires comme les données de trafic en direct sont également accessibles à tous.<br><br>',
+
+    // tab B personal dashboard
+    'section-dash-big-title' => 'Explorez vos données dans votre tableau de bord personnel. Exportez les données, accédez à l’API et utilisez des plages de dates étendues.',
+    'section-dash-title' => 'Tableau de bord personnel',
+    'section-dash-info' => 'Connectez-vous à votre tableau de bord pour configurer votre profil de rue, sélectionner des dates et consulter vos données.
+                Vous souhaitez plus de détails? Avec un abonnement premium ou réseau, vous pouvez obtenir des données avancées.',
+
+ // tab C advanced info
+    'section-advanced-big-title' => 'Surveillez le trafic en direct presque en temps réel, détectez les anomalies, identifiez les tendances et obtenez des décomptes dans 10 modes différents pour prendre des décisions informées grâce aux données avancées.',
+    'section-advanced-intro' => 'Les abonnés Premium ont accès à des décomptes avec une résolution temporelle quatre fois supérieure à notre ensemble de données de base et à une gamme élargie de catégories d’usagers. Cette résolution accrue permet aux utilisateurs professionnels de suivre le trafic en direct presque en temps réel.',
+
 
     'section-1-block1' => '<strong>Résolution de 15 minutes</strong><br>
     <br>
@@ -60,38 +75,27 @@ return [
 
 
     // the 4 data sections
-    'features-title' => 'Tableau de bord des données',
+    'features-title' => 'Rapports de Données Avancées',
 
-    'features-1-title' => 'Segments',
-    'features-1-text' => 'Surveillez le trafic en direct ou historique (et la répartition modale globale) sur un segment et comparez-le aux niveaux attendus pour identifier un trafic atypique.<br> Par exemple : si le trafic en direct est en dehors de l\'intervalle défini par la moyenne plus et moins trois fois l\'écart type du trafic historique, cela signifie que le trafic observé est inattendu par rapport à la moyenne du mois dernier, de la saison ou de l\'année, en fonction du produit de données typiques utilisé. L\'anomalie est-elle de courte durée ou à long terme, est-elle causée par un événement spécial, par les conditions météorologiques ou par un changement dans le plan de circulation ? Allez et explorez !',
+    'features-1-title' => '10 modes',
+    'features-1-text' => 'Consultez les données dans dix catégories comme les voitures, véhicules légers, véhicules lourds, bus, vélos, piétons, motos, trottinettes électriques, camionnettes et poussettes. Ici, vous pouvez également consulter les données de trafic en direct ou historiques sur un segment et voir comment elles se comparent aux niveaux attendus. Par exemple, si le trafic actuel s’écarte significativement de la moyenne (plus de trois écarts-types), c’est inhabituel. Est-ce temporaire ou lié à un événement, la météo, ou un changement dans la circulation ? Découvrez-le vous-même !',
 
     'features-2-title' => 'Tendances',
-    'features-2-text' => 'Surveillez l\'évolution des tendances de trafic au fil du temps. Par exemple, vous pouvez visualiser
-    la moyenne du trafic automobile du lundi de l\'année dernière, en utilisant des moyennes saisonnières (trimestrielles) calculées toutes les deux semaines,
-    fournissant un motif de trafic moyen en moyenne mobile au fil du temps. L\'examen des moyennes mobiles aide à filtrer les anomalies de courte durée tout en mettant en évidence les
-    changements à long terme. L\'histogramme 3D est un outil de visualisation très puissant, mais si vous voulez simplement comparer les niveaux de trafic de quelques époques sélectionnées entre eux, vous pouvez utiliser notre graphique interactif 2D traditionnel à cet effet. Avec le nombre de modes, de jours de la semaine, d\'intervalles typiques et d\'époques de calcul disponibles, les options sont très étendues.',
+    'features-2-text' => 'Suivez l’évolution des modèles de trafic au fil du temps. Par exemple, vous pouvez consulter le trafic moyen des lundis pour l’année passée, calculé avec des moyennes trimestrielles tous les quinze jours. Cette moyenne glissante révèle les changements à long terme et filtre les fluctuations à court terme. L’histogramme 3D est un excellent outil pour des informations détaillées, mais vous pouvez également utiliser notre graphique 2D interactif pour comparer les niveaux de trafic entre différentes périodes. Avec des options pour différents modes, jours de la semaine et intervalles, vous avez de nombreuses possibilités pour explorer les données.',
 
     'features-3-title' => 'Données de 15 minutes',
-    'features-3-text' => 'Similaire à l\'onglet Segments, mais ici vous pouvez surveiller les données avec une résolution temporelle plus élevée. Certains effets sont de très courte durée,
-    par exemple la ruée matinale près des écoles, ou un blocage temporaire de la route causé par un accident. Les données trimestrielles en direct sont également beaucoup plus en temps réel, car de nouveaux points de données sont ajoutés toutes les quinze minutes, ce qui est idéal pour les applications en temps réel.',
+    'features-3-text' => 'Découvrez la haute résolution temporelle. Idéal pour repérer des événements de courte durée, comme l’heure de pointe devant les écoles ou un blocage temporaire de la route dû à un accident. Les données sont mises à jour toutes les quinze minutes, parfait pour une surveillance en temps réel.',
 
     'features-4-title' => 'Installations',
-    'features-4-text' => 'Un segment de route peut avoir plus d\'un capteur Telraam installé. Dans ce cas, la page du segment montre les mesures moyennes (pondérées de manière intelligente)
-    provenant des installations correspondantes (également appelées instances Telraam). En tant qu\'abonné aux données, vous pouvez consulter les données originales
-    de chaque instance Telraam individuelle, ce qui peut être utile dans de nombreuses situations, notamment pour la validation des données, la séparation des données provenant de différentes versions de capteurs
-    (par exemple, dispositifs Telraam V1 et S2 sur le même segment), ou tout simplement pour consulter les données de votre propre dispositif.',
+    'features-4-text' => 'Un segment de route peut comporter plusieurs installations Telraam. Dans ce cas, la page de segment affiche les statistiques moyennes (pondérées intelligemment) des installations correspondantes. Avec les données avancées, vous pouvez consulter les données originales de chaque installation Telraam, utile pour la validation des données, la séparation des données provenant de différentes versions de capteurs (par ex. Telraam V1 et S2 sur le même segment), ou simplement pour consulter les données de votre propre appareil.',
+
 
 
 
 
     // 3 extra features
     'extra-features-1-title' => 'Street Sheet',
-    'extra-features-1-text' => 'Notre produit de données sur demande populaire fait également partie de l\'abonnement aux données. Nous fournissons
-    un résumé compact au format Excel en profondeur pour un dispositif ou un segment, comprenant des informations, des calculs,
-    et des données brutes pour examen ou analyse ultérieure.<br>
-Ces rapports donnent à tous les utilisateurs, experts et non-experts, une revue des données d\'un dispositif ou d\'un segment
-afin d\'aider à identifier les tendances et les anomalies. La fiche fournit des informations faciles à digérer sur
-les répartitions modales, les motifs de trafic typiques (pour les jours et les semaines), et aussi les motifs de vitesse.',
+    'extra-features-1-text' => 'Ce résumé au format Excel, que vous pouvez télécharger, fournit un aperçu complet pour un segment, avec des informations, calculs et données brutes pour une analyse approfondie. Que vous soyez un expert ou un débutant, ces rapports vous aident à examiner les données, repérer les tendances et identifier les anomalies. La feuille de rue donne des informations sur la répartition modale, les tendances de circulation quotidienne et hebdomadaire, et les tendances de vitesse, le tout dans un format facile à comprendre. Idéal pour partager avec d’autres pour expliquer les données. Téléchargez un exemple ici.',
 
     'extra-features-2-title' => 'APIs avancées',
     'extra-features-2-text' => 'Accédez à des points de terminaison <a href="https://telraam-api.net/">API</a> exclusifs et professionnels :
