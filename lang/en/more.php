@@ -113,6 +113,12 @@ return [
 
     // 9 oct 2024
     'segment-is-private' => 'This segment is private',
-    'segment-some-private' => 'This street segments contains also private measurements which are not included.'
+    'segment-some-private' => 'This street segments contains also private measurements which are not included.',
+
+    // 25 oct 2024 time picker segment page
+    'pick-start-date' => 'Pick a start date',
+    'max-14-days' => 'Max 14 day interval',
+    'max-3-months' => 'Max 3 month interval',
+
 
 ];
