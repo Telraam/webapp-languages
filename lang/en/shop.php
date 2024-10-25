@@ -90,8 +90,8 @@ reach out to us <a href=mailto:support@telraam.net?body=coverage class="grey">vi
 
     // other / custom
     'custom-packages-title'    => 'Custom-made package or questions?',
-    'custom-packages-intro'  => '<p>You need like to have more information or would like to build a bigger network? Please <a href="https://telraam.net/en/contact-us">get in touch with us</a> for a personalised quote or more detailed information.
- We would love to hear from you.</p>',
+    'custom-packages-intro'  => '<p>Would like to have more information or build a bigger network? Please <a href="https://telraam.net/en/contact-us">get in touch with us</a> for a personalised quote or more detailed information.
+ We look forward to hearing from you.</p>',
 
     // personal
     'personal-title' => 'Telraam S2 with free data',

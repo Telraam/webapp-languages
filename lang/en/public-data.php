@@ -57,7 +57,8 @@ If the device has a premium or network subscription, additional features like fl
     <br>
     <p><strong>10 different modes</strong><br>
      <br> 
-     Traffic counts per direction of travel for 10 different road user classes (non-subscriber users are provided aggregated counts over the four main classes).The differentiated classes are bicycles, buses, cars, light trucks, motorcycles, pedestrians, strollers, tractors, trailers, and trucks.</p>
+     Traffic counts per direction of travel for 10 different road user classes (non-subscriber users are provided aggregated counts over the four main classes).The differentiated classes are bicycles, buses, cars, light trucks, motorcycles, pedestrians, strollers, tractors, trailers, and trucks.
+</p>
      <br>
     ',
 
@@ -78,10 +79,10 @@ If the device has a premium or network subscription, additional features like fl
 
 
     // the 4 data sections
-    'features-title' => 'Data dashboard',
+    'features-title' => 'Advanced Data Reports',
 
-    'features-1-title' => 'Segments',
-    'features-1-text' => 'Check live or historical traffic data on a segment and see how it compares to expected levels. For example, if current traffic deviates significantly from the average (more than three standard deviations), it’s definitely unusual. Explore whether the issue is temporary, linked to an event, weather, or a change in traffic patterns. Dive in and see what’s happening!',
+    'features-1-title' => '10 modes',
+    'features-1-text' => 'See the data in ten categories like cars, light vehicles, heavy vehicles, buses, bicycles, pedestrians, motorcycles, e-scooters, vans, and strollers. Here, you can also see live or historical traffic data on a segment and see how it compares to expected levels. For example, if current traffic deviates significantly from the average (more than three standard deviations), it’s definitely unusual. Explore whether the issue is temporary, linked to an event, weather, or a change in traffic patterns. Dive in and see what’s happening!',
 
     'features-2-title' => 'Trends',
     'features-2-text' => 'Monitor how traffic patterns evolve over time. For instance, you can view average Monday traffic for the past year using quarterly averages calculated every two weeks. This rolling average highlights long-term changes while filtering out short-term fluctuations. The 3D histogram is a great tool for detailed insights, but if you prefer, you can use our interactive 2D plot to compare traffic levels for different periods. With options for various modes, weekdays, and intervals, you have plenty of ways to explore the data.',
@@ -89,8 +90,8 @@ If the device has a premium or network subscription, additional features like fl
     'features-3-title' => '15 minute data',
     'features-3-text' => 'Just like the segments tab, but with higher temporal resolution. This is perfect for spotting short-lived events, like the morning rush near schools or a temporary roadblock from an accident. Plus, the data is updated every fifteen minutes, making it ideal for real-time monitoring.',
 
-    'features-4-title' => 'Counts & Directions for 10 Traffic Categories',
-    'features-4-text' => 'See the data in categories like cars, light vehicles, heavy vehicles, buses, bicycles, pedestrians, motorcycles, e-scooters, vans, and other vehicles. These counts come only from your Telraam. When more than one Telraam is on the same street segment, we show an average on the public page. If you want to see the data from your own Telraam, instead of the average, you can use this data.',
+    'features-4-title' => 'Installations',
+    'features-4-text' => ' A road segment may have more than one Telraam sensor installed. In this case the segment page shows the (smartly weighted) average metrics coming from the corresponding installations. With the advanced data you can consult the original data of each individual Telraam installation, which can be useful in many situations, including data validation, separating data coming from different sensor versions (e.g., Telraam V1 and S2 devices on the same segment), or simply to consult the data of your own device.',
 
 
     // 3 extra features

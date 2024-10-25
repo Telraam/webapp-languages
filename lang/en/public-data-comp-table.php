@@ -29,7 +29,7 @@ Get car, bike, pedestrian, heavy vehicles counts and more!',
     'dashboard-feat-6' => 'Trends',
     'dashboard-feat-7' => '15 minute interval data',
     'dashboard-feat-8' => 'Data per installation',
-    'dashboard-feat-9' => 'Export "street sheet"',
+    'dashboard-feat-9' => 'Street Sheet report',
     'dashboard-feat-10' => 'Basic API access',
     'dashboard-feat-11' => 'Advanced API access',
 
