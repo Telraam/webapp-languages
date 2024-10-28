@@ -7,7 +7,7 @@ return [
     'nav-device' => 'Toestel',
     'nav-data' => 'Data',
     'nav-network' => 'Netwerk',
-    'nav-pricing' => 'Tarief',
+    'nav-pricing' => 'Prijzen',
     'nav-press-kit' => 'Pers',
     'nav-blog' => 'Blog',
     'nav-talks' => 'Telraam Talks',

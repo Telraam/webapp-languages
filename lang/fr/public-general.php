@@ -7,7 +7,7 @@ return [
     'nav-device' => 'Dispositif',
     'nav-data' => 'Données',
     'nav-network' => 'Réseau',
-    'nav-pricing' => 'Tarifs',
+    'nav-pricing' => 'Prix',
     'nav-shop' => 'Tarifs',
     'nav-press-kit' => 'Kit Presse',
     'nav-blog' => 'Blog',
