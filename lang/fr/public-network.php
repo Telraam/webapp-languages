@@ -85,7 +85,7 @@ return [
     </ul>',
 
     'features-4-title' => 'Analyse de données avancée',
-    'features-4-text' => '<p>Grâce à l\'abonnement réseau, vous disposez de données avancées pour tous les capteurs et segments de votre réseau, ainsi que de davantage d'outils d'analyse des données réseau, comme la possibilité de comparer les données de deux périodes pour l\'ensemble du réseau ou pour des segments sélectionnés.<br>
+    'features-4-text' => '<p>Grâce à l\'abonnement réseau, vous disposez de données avancées pour tous les capteurs et segments de votre réseau, ainsi que de davantage d\'outils d\'analyse des données réseau, comme la possibilité de comparer les données de deux périodes pour l\'ensemble du réseau ou pour des segments sélectionnés.<br>
     <br>Des fonctionnalités d\'analyse de données supplémentaires uniquement disponibles avec l\'abonnement au Réseau :</p>',
 
     'features-4-reports-title' => 'Rapports de données :',

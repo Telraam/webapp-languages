@@ -54,7 +54,7 @@ return [
     'warning-body-2' => '<strong>La couverture du réseau mobile LTE-M doit être adéquate</strong>. <br> Vérifiez les cartes de couverture de l\'opérateur pour votre région/pays si vous n\'êtes pas sûr, ou contactez-nous <a href=mailto:support@telraam.net?body=coverage class="grey">par e-mail</a> pour que nous puissions vous aider.',
 
   'product-1-title' => 'Telraam S2 - Basique',
-    'product-1-description' => 'Petit, intelligent et puissant. Comptage de trafic sans effort dans votre rue'
+    'product-1-description' => 'Petit, intelligent et puissant. Comptage de trafic sans effort dans votre rue',
     'product-1-price' => '€160',
     'product-1-note' => 'hors TVA',
     'product-1-link' => 'Acheter',

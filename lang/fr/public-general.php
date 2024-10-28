@@ -8,6 +8,7 @@ return [
     'nav-data' => 'Données',
     'nav-network' => 'Réseau',
     'nav-pricing' => 'Tarifs',
+    'nav-shop' => 'Tarifs',
     'nav-press-kit' => 'Kit Presse',
     'nav-blog' => 'Blog',
     'nav-talks' => 'Telraam Talks',
