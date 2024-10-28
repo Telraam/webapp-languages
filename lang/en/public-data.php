@@ -95,7 +95,11 @@ Traffic counts per direction of travel for 10 different road user classes (non-s
 
     // 3 extra features
     'extra-features-1-title' => 'Street sheet',
-    'extra-features-1-text' => 'This Excel-format summary, which you can download, provides a comprehensive overview for a device or segment, complete with insights, calculations, and raw data for further analysis. Whether you are an expert or a beginner, these reports help you review data, spot trends, and identify anomalies. The sheet breaks down modal splits, typical daily and weekly traffic patterns, and speed trends into easy-to-digest information.  It’s perfect to share with others when explaining something about the data.Download an example here.',
+    'extra-features-1-text' => 'This Excel-format summary, which you can download, provides a comprehensive overview for a device
+     or segment, complete with insights, calculations, and raw data for further analysis. Whether you are an expert or a beginner,
+      these reports help you review data, spot trends, and identify anomalies. The sheet breaks down modal splits, typical daily and
+      weekly traffic patterns, and speed trends into easy-to-digest information.  It’s perfect to share with others when explaining
+      something about the data. <a href="/downloads/street-sheet-example.xlsx">Download an example here</a>.',
 
     'extra-features-2-title' => 'Advanced APIs',
     'extra-features-2-text' => 'Get access to exclusive, professional <a href="https://telraam-api.net/">API</a> end-points:

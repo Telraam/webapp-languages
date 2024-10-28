@@ -95,7 +95,11 @@ Si le Telraam a un abonnement premium ou réseau, des fonctionnalités suppléme
 
     // 3 extra features
     'extra-features-1-title' => 'Street Sheet',
-    'extra-features-1-text' => 'Ce résumé au format Excel, que vous pouvez télécharger, fournit un aperçu complet pour un segment, avec des informations, calculs et données brutes pour une analyse approfondie. Que vous soyez un expert ou un débutant, ces rapports vous aident à examiner les données, repérer les tendances et identifier les anomalies. La feuille de rue donne des informations sur la répartition modale, les tendances de circulation quotidienne et hebdomadaire, et les tendances de vitesse, le tout dans un format facile à comprendre. Idéal pour partager avec d’autres pour expliquer les données. Téléchargez un exemple ici.',
+    'extra-features-1-text' => 'Ce résumé au format Excel, que vous pouvez télécharger, fournit un aperçu complet pour un segment, avec
+    des informations, calculs et données brutes pour une analyse approfondie. Que vous soyez un expert ou un débutant, ces rapports
+    vous aident à examiner les données, repérer les tendances et identifier les anomalies. La feuille de rue donne des informations sur
+     la répartition modale, les tendances de circulation quotidienne et hebdomadaire, et les tendances de vitesse, le tout dans un format
+      facile à comprendre. Idéal pour partager avec d’autres pour expliquer les données. <a href="/downloads/street-sheet-example.xlsx">Téléchargez un exemple ici</a>.',
 
     'extra-features-2-title' => 'APIs avancées',
     'extra-features-2-text' => 'Accédez à des points de terminaison <a href="https://telraam-api.net/">API</a> exclusifs et professionnels :

@@ -84,7 +84,11 @@ Verkeerstellingen per rijrichting voor 10 verschillende weggebruikerscategorieë
 
     // 3 extra functies
     'extra-features-1-title' => 'Street Sheet',
-    'extra-features-1-text' => 'Deze samenvatting in Excel-formaat, die je kunt downloaden, biedt een uitgebreid overzicht voor een segment, compleet met inzichten, berekeningen en ruwe data voor verdere analyse. Of je nu een expert of een beginner bent, deze rapporten helpen je om data te bekijken, trends te herkennen en afwijkingen op te sporen. Deze Street Sheet geeft informatie over modal splits, typische dagelijkse en wekelijkse verkeerspatronen en snelheidstrends in een gemakkelijk te begrijpen formaat. Het is perfect om met anderen te delen wanneer je iets over de data wilt uitleggen. Download hier een voorbeeld.',
+    'extra-features-1-text' => 'Deze samenvatting in Excel-formaat, die je kunt downloaden, biedt een uitgebreid overzicht voor een
+    segment, compleet met inzichten, berekeningen en ruwe data voor verdere analyse. Of je nu een expert of een beginner bent, deze
+    rapporten helpen je om data te bekijken, trends te herkennen en afwijkingen op te sporen. Deze Street Sheet geeft informatie over
+    modal splits, typische dagelijkse en wekelijkse verkeerspatronen en snelheidstrends in een gemakkelijk te begrijpen formaat. Het is
+    perfect om met anderen te delen wanneer je iets over de data wilt uitleggen. <a href="/downloads/street-sheet-example.xlsx">Download hier een voorbeeld</a>.',
 
     'extra-features-2-title' => 'Geavanceerde APIs',
     'extra-features-2-text' => 'Krijg toegang tot exclusieve, professionele <a href="https://telraam-api.net/">API</a>-eindpunten:
