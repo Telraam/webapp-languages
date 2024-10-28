@@ -62,7 +62,7 @@ return [
     'product-2-title' => 'Telraam S2 - Premium',
     'product-2-description' => 'Un Telraam S2 avec un abonnement Premium de 12 mois',
     'product-2-price' => '€340',
-    'product-2-note' => 'HT',
+    'product-2-note' => 'hors TVA',
     'product-2-link' => 'Acheter',
 
     'product-3-title' => 'Les Quatre Premiers',
