@@ -69,7 +69,7 @@ Verkeerstellingen per rijrichting voor 10 verschillende weggebruikerscategorieë
     'features-title' => 'Uitgebreide Data Rapporten',
 
     'features-1-title' => '10 modi',
-    'features-1-text' => 'Bekijk de data in tien categorieën zoals auto’s, lichte voertuigen, zware voertuigen, bussen, fietsen, voetgangers, motorfietsen, e-scooters, bestelwagens en kinderwagens. Hier kun je ook live of historische verkeersdata op een segment bekijken en zien hoe dit zich verhoudt tot de verwachte niveaus. Bijvoorbeeld, als het huidige verkeer aanzienlijk afwijkt van het gemiddelde (meer dan drie standaardafwijkingen), is dat zeker ongebruikelijk. Is de anomalie van korte of lange duur? Wordt ze veroorzaakt door een speciale gebeurtenis, het weer of een verandering in de verkeerscirculatie? Ontdek het zelf!
+    'features-1-text' => 'Bekijk de data in tien categorieën zoals auto's, fietsers, voetgangers, kinderwagens, bussen, vrachtwagens, bestelwagens, motorfietsen, tractors en aanhangwagens. Hier kun je ook live of historische verkeersdata op een segment bekijken en zien hoe dit zich verhoudt tot de verwachte niveaus. Bijvoorbeeld, als het huidige verkeer aanzienlijk afwijkt van het gemiddelde (meer dan drie standaardafwijkingen), is dat zeker ongebruikelijk. Is de anomalie van korte of lange duur? Wordt ze veroorzaakt door een speciale gebeurtenis, het weer of een verandering in de verkeerscirculatie? Ontdek het zelf!
 ',
 
     'features-2-title' => 'Trends',
