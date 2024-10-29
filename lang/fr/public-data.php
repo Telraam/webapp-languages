@@ -11,8 +11,8 @@ Collectez des données sur le nombre de voitures, vélos, piétons, poids lourds
     'pricing-1-subtitle' => 'Comprend les 10 catégories d\'usagers de la route, une résolution de données de 15 minutes, plus d\'outils et de meilleurs rapports',
     'pricing-1-info' => 'Plusieurs dispositifs dans votre quartier en tant qu\'organisation ou ville ?
                             <div style="padding-left: 20px">
-                                Optez plutôt pour l'abonnement <a href="../network">Réseau</a>.
-                                Cela inclut un abonnement Premium pour tous les dispositifs que vous possédez, un ensemble complet d\'outils de gestion de réseau, 
+                                Optez plutôt pour l\'abonnement <a href="../network">Réseau</a>.
+                                Cela inclut un abonnement Premium pour tous les dispositifs que vous possédez, un ensemble complet d\'outils de gestion de réseau,
                                 et un accès à la fonction <a href="../fr/data-pool">Data Pool</a>.
                             </div>',
 

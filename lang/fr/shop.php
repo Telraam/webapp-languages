@@ -34,7 +34,7 @@ return [
     'premium-features-4'       => 'Accès avancé à l’API',
     'premium-features-4-info'  => 'Inclut des connexions de données personnalisées, des limites de fréquence, des points de terminaison publics améliorés et la possibilité d’intégrations sur mesure.',
     'premium-features-5'       => 'Données disponibles pour un usage commercial',
-    'premium-features-5-info'  => 'Des exemples d'utilisation commerciale incluent la vente d'analyses de données, l'utilisation de données pour le marketing, ...',
+    'premium-features-5-info'  => 'Des exemples d\'utilisation commerciale incluent la vente d\'analyses de données, l\'utilisation de données pour le marketing, ...',
 
   'network-features-title'   => 'Tout de Premium, et :',
     'network-features-1'       => 'Installation de plusieurs capteurs',
