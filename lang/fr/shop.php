@@ -99,7 +99,8 @@ Les organisations, villes ou associations sont tenues de fournir aux citoyens un
     'network-subscription' => 'Abonnement réseau',
     'tailer-made' => 'Solutions sur mesure',
     'free' => 'Gratuit',
-    'make-private' => 'Rendre l’installation privée'
+    'make-private' => 'Rendre l’installation privée',
+    'make-private-info' => 'Certains utilisateurs ou organisations peuvent souhaiter que leurs données restent confidentielles <a href="https://faq-fr.helpspace-docs.io/article/332/puis-je-rendre-mes-donnees-privees">En savoir plus</a>'
 
 
 ];

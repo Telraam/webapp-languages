@@ -107,6 +107,7 @@ Bekijk de  <a href="https://faq-nl.helpspace-docs.io/article/75/vereisten-voor-d
     'network-subscription' => 'netwerk abonnement',
     'tailer-made' => 'oplossing op maat',
     'free' => 'Gratis',
-    'make-private' => 'Maak de installatie privé'
+    'make-private' => 'Maak de installatie privé',
+    'make-private-info' => 'Sommige gebruikers of organisaties willen hun gegevens privé houden <a href="https://faq-nl.helpspace-docs.io/article/331/kan-ik-mijn-gegevens-prive-maken">Lees meer</a>'
 
 ];

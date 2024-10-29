@@ -42,7 +42,7 @@ or a full network solution. Browse our ready-made packages or customize your own
     'network-features-title'   => 'Everything in Premium, and:',
 
     'network-features-1'       => 'Installation of multiple devices',
-    'network-features-3'       => 'Network dashboard with all tools to manage and follow up your fleet. Comes also with extensive reports options on network and device level.',
+    'network-features-3'       => 'Network dashboard with all tools to manage and follow up your fleet. Comes also with extensive reports on network and device level.',
     'network-features-3-info'  => 'Manage multiple devices and their data from one central place. Learn more on the <a href="https://telraam.net/en/network">network page</a>.',
     'network-features-4'       => 'Access to Advanced data for all devices',
     'network-features-4-info'  => 'Advanced data offers 10 modes, 15-minute resolution, typical traffic patterns, and more.',
@@ -110,7 +110,8 @@ reach out to us <a href=mailto:support@telraam.net?body=coverage class="grey">vi
     'network-subscription' => 'Annual subscription',
     'tailer-made' => 'Tailor made solutions',
     'free' => 'Free',
-    'make-private' => 'Make the installation private'
+    'make-private' => 'Make the installation private',
+    'make-private-info' => 'Some users or organizations may want to keep their data private <a href="https://telraam.helpspace-docs.io/article/329/can-i-make-my-data-private">Read more</a>'
 
 
 ];
