@@ -41,8 +41,7 @@ Si le Telraam a un abonnement premium ou réseau, des fonctionnalités suppléme
     'section-advanced-big-title' => 'Surveillez le trafic en direct presque en temps réel, détectez les anomalies, identifiez les tendances et obtenez des décomptes dans 10 modes différents pour prendre des décisions informées grâce aux données avancées.',
     'section-advanced-intro' => 'Les abonnés Premium ont accès à des décomptes avec une résolution temporelle quatre fois supérieure à notre ensemble de données de base et à une gamme élargie de catégories d’usagers. Cette résolution accrue permet aux utilisateurs professionnels de suivre le trafic en direct presque en temps réel.',
 
-
-      => '<strong>Résolution de 15 minutes</strong><br>
+    'section-advanced-block1' => '<strong>Résolution de 15 minutes</strong><br>
     <br>
     Résolution temporelle de 15 minutes pour tous les produits de données, y compris les données de comptage, les données de tendance typique et pour tous les outils analytiques,
     outils de visualisation et d\'exportation, ainsi que pour les <a href="https://telraam-api.net/">API</a>s.
@@ -97,7 +96,7 @@ Si le Telraam a un abonnement premium ou réseau, des fonctionnalités suppléme
     'extra-features-1-title' => 'tableau Excel de rue',
     'extra-features-1-text' => 'Ce résumé au format Excel, que vous pouvez télécharger, fournit un aperçu complet pour un segment, avec
     des informations, calculs et données brutes pour une analyse approfondie. Que vous soyez un expert ou un débutant, ces rapports
-    vous aident à examiner les données, repérer les tendances et identifier les anomalies. La tableau de rue donne des informations sur
+    vous aident à examiner les données, repérer les tendances et identifier les anomalies. Le tableau de rue donne des informations sur
      la répartition modale, les tendances de circulation quotidienne et hebdomadaire, et les tendances de vitesse, le tout dans un format
       facile à comprendre. Idéal pour partager avec d’autres pour expliquer les données. <a href="/downloads/street-sheet-example.xlsx">Téléchargez un exemple ici</a>.',
 
