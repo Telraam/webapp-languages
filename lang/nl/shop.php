@@ -64,7 +64,7 @@ Bekijk de  <a href="https://faq-nl.helpspace-docs.io/article/75/vereisten-voor-d
     'product-1-title' => 'Telraam S2 - Basis',
     'product-1-description' => 'Klein, slim en krachtig. Moeiteloos verkeer tellen in jouw straat.',
     'product-1-price' => '€160',
-    'product-1-note' => 'excl VAT',
+    'product-1-note' => 'excl BTW',
     'product-1-link' => 'Koop',
 
     'product-2-title' => 'Telraam S2 - Premium',
@@ -80,7 +80,7 @@ Bekijk de  <a href="https://faq-nl.helpspace-docs.io/article/75/vereisten-voor-d
     'product-3-link' => 'Koop',
 
     'product-4-title' => 'Het Kleine Netwerk',
-    'product-4-description' => 'Tien Telraam S2 sensoren met 12 maand Netwerk abonnement',
+    'product-4-description' => 'Tien Telraam S2-toestellen met een 12 maanden netwerkabonnement',
     'product-4-price' => '€4,600',
     'product-4-note' => 'excl. BTW',
     'product-4-link' => 'Koop',
