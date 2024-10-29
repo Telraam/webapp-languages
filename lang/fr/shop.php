@@ -25,7 +25,7 @@ return [
     'free-features-5'       => 'Données disponibles uniquement pour un usage non commercial',
     'free-features-5-info'  => 'Exemples d’usage non commercial : recherche, suivi personnel du trafic, ...',
 
-       'premium-features-title'   => 'Tout dans Gratuit, et :',
+       'premium-features-title'   => 'Tout de Gratuit, et :',
     'premium-features-1'       => '10 modes',
     'premium-features-2'       => 'Résolution de 15 minutes',
     'premium-features-2-info'  => 'Les données peuvent être affichées par tranches de 15 minutes.',
@@ -34,9 +34,9 @@ return [
     'premium-features-4'       => 'Accès avancé à l’API',
     'premium-features-4-info'  => 'Inclut des connexions de données personnalisées, des limites de fréquence, des points de terminaison publics améliorés et la possibilité d’intégrations sur mesure.',
     'premium-features-5'       => 'Données disponibles pour un usage commercial',
-    'premium-features-5-info'  => 'Exemples d’usage commercial : vente d’informations sur les données, utilisation de données pour le marketing, ...',
+    'premium-features-5-info'  => 'Des exemples d'utilisation commerciale incluent la vente d'analyses de données, l'utilisation de données pour le marketing, ...',
 
-  'network-features-title'   => 'Tout dans Premium, et :',
+  'network-features-title'   => 'Tout de Premium, et :',
     'network-features-1'       => 'Installation de plusieurs capteurs',
     'network-features-3'       => 'Tableau de bord de réseau avec tous les outils pour gérer et suivre tous les Telraams. Comprend également des options de rapports détaillés au niveau du réseau et du capteur.',
     'network-features-3-info'  => 'Gérez plusieurs appareils et leurs données depuis un emplacement central. En savoir plus sur la <a href="https://telraam.net/en/network">page réseau</a>.',
@@ -48,8 +48,7 @@ return [
     'packages-title' => 'Forfaits pré-configurés',
     'intro-packages' => 'Commencez avec Telraam dès aujourd\'hui. Pour vous permettre de compter rapidement, nous proposons quelques forfaits prêts à l\'emploi dans la boutique.',
 
-    'warning-professional' => 'La deuxième production est entièrement épuisée. Date d\'expédition estimée pour les commandes actuelles : mi-juillet 2023.',
-
+    // warning
     'warning-body-1' => '<strong>L\'appareil Telraam doit avoir une vue dégagée sur la rue.</strong><br> Consultez les <a href="https://faq-fr.helpspace-docs.io/article/147/conditions-a-respecter-pour-lemplacement-de-ma-fenetre-photo-a-uploader-lors-de-lenregistrement" class="grey" target="_blank">conditions à respecter pour l\'emplacement</a> de votre (vos) appareil(s).',
     'warning-body-2' => '<strong>La couverture du réseau mobile LTE-M doit être adéquate</strong>. <br> Vérifiez les cartes de couverture de l\'opérateur pour votre région/pays si vous n\'êtes pas sûr, ou contactez-nous <a href=mailto:support@telraam.net?body=coverage class="grey">par e-mail</a> pour que nous puissions vous aider.',
 
@@ -72,7 +71,7 @@ return [
     'product-3-link' => 'Acheter',
 
     'product-4-title' => 'Le Petit Réseau',
-    'product-4-description' => 'Dix appareils Telraam S2 avec des abonnements Réseau de 12 mois',
+    'product-4-description' => 'Dix appareils Telraam S2 avec un abonnement réseau de 12 mois',
     'product-4-price' => '€4,600',
     'product-4-note' => 'hors TVA',
     'product-4-link' => 'Acheter',
@@ -97,7 +96,7 @@ Les organisations, villes ou associations sont tenues de fournir aux citoyens un
     'month' => 'mois',
     'subscription' => 'Abonnement',
     'network-subscription' => 'Abonnement réseau',
-    'tailer-made' => 'Solutions sur mesure',
+    'tailer-made' => 'Solution sur mesure',
     'free' => 'Gratuit',
     'make-private' => 'Rendre l’installation privée',
     'make-private-info' => 'Certains utilisateurs ou organisations peuvent souhaiter que leurs données restent confidentielles <a href="https://faq-fr.helpspace-docs.io/article/332/puis-je-rendre-mes-donnees-privees">En savoir plus</a>'
