@@ -20,7 +20,7 @@ return [
     'sub-title' => 'Obtenez un aperçu direct de la circulation dans votre rue.<br>
 Recevez les comptages de voitures, vélos, piétons, poids lourds et plus encore !',
 
-    'dashboard-feat-1' => 'Sélection de plage de dates flexible',
+    'dashboard-feat-1' => 'Sélection de plage de dates étendues',
     'dashboard-feat-2' => 'Rapport mensuel de circulation',
     'dashboard-feat-3' => 'Export de données brutes',
     'dashboard-feat-4' => 'Comptages & sens de circulation pour 10 catégories',
