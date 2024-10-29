@@ -4,19 +4,19 @@ return [
 
        'title' => 'Données',
     'sub-title' => 'Obtenez des informations sur le trafic de votre rue.<br>
-Collectez des données sur le nombre de voitures, vélos, piétons, véhicules lourds et plus encore !',
+Collectez des données sur le nombre de voitures, vélos, piétons, poids lourds, et bien plus encore !',
 
     // pricing box
     'pricing-1-title' => 'Abonnement aux données <span class="green">15 € <span class="month">/ mois</span></span>',
     'pricing-1-subtitle' => 'Comprend les 10 catégories d\'usagers de la route, une résolution de données de 15 minutes, plus d\'outils et de meilleurs rapports',
     'pricing-1-info' => 'Plusieurs dispositifs dans votre quartier en tant qu\'organisation ou ville ?
                             <div style="padding-left: 20px">
-                                Considérez le <a href="../network">Réseau</a> à la place.
-                                Celui-ci inclut un abonnement aux données pour tous les dispositifs, qu\'un ensemble d\'outils de gestion de réseau
-                               et ainsi l\'accès à la fonction <a href="../fr/data-pool">Data Pool</a>.
+                                Optez plutôt pour l'abonnement <a href="../network">Réseau</a>.
+                                Cela inclut un abonnement Premium pour tous les dispositifs que vous possédez, un ensemble complet d\'outils de gestion de réseau, 
+                                et un accès à la fonction <a href="../fr/data-pool">Data Pool</a>.
                             </div>',
 
-    'pricing-2-title' => 'Données de base <span class="green">Gratuit pour un usage personnel uniquement</span>',
+    'pricing-2-title' => 'Données de base <span class="green">Gratuit pour usage personnel uniquement</span>',
     'pricing-2-subtitle' => 'Limité aux 4 modes par défaut et aux données horaires.',
 
       // tab titles
@@ -42,31 +42,31 @@ Si le Telraam a un abonnement premium ou réseau, des fonctionnalités suppléme
     'section-advanced-intro' => 'Les abonnés Premium ont accès à des décomptes avec une résolution temporelle quatre fois supérieure à notre ensemble de données de base et à une gamme élargie de catégories d’usagers. Cette résolution accrue permet aux utilisateurs professionnels de suivre le trafic en direct presque en temps réel.',
 
 
-    'section-1-block1' => '<strong>Résolution de 15 minutes</strong><br>
+      => '<strong>Résolution de 15 minutes</strong><br>
     <br>
     Résolution temporelle de 15 minutes pour tous les produits de données, y compris les données de comptage, les données de tendance typique et pour tous les outils analytiques,
-    de visualisation et d\'exportation, ainsi que pour les <a href="https://telraam-api.net/">API</a>.
+    outils de visualisation et d\'exportation, ainsi que pour les <a href="https://telraam-api.net/">API</a>s.
     <ul class="jump-in">
         <li>Découvrez, suivez et analysez les schémas de circulation et les anomalies avec plus de clarté.</li>
         <li>Idéal pour l\'étude des événements de courte durée (utilisation des rues scolaires, congestions, accidents).</li>
         <li>Trafic en direct avec un affichage beaucoup plus en temps réel (délai de seulement 15 minutes au niveau du dispositif, comparé à un peu
-        plus d\'une heure pour les utilisateurs non-abonnés avec seulement des données de niveau de segment).</li>
+        plus d\'une heure et seulement des données de niveau de segment pour les utilisateurs non-abonnés).</li>
     </ul>
     <br>
     <p><strong>10 modes différents</strong><br>
      <br>
-     Comptage de la circulation par sens de déplacement pour 10 catégories différentes d\'usagers de la route (les utilisateurs non-abonnés reçoivent des comptages agrégés sur les quatre principales catégories).<br>
-     Les catégories différenciées sont les vélos, les bus, les voitures, les camionnettes légères, les motos, les piétons, les poussettes, les tracteurs, les remorques et les camions.</p>
+     Comptage de la circulation par sens de circulation pour 10 catégories différentes d\'usagers de la route (les utilisateurs non-abonnés reçoivent des comptages agrégés sur les quatre principales catégories).<br>
+     Les catégories différentes sont les vélos, les bus, les voitures, les camionnettes légères, les motos, les piétons, les poussettes, les tracteurs, les remorques et les camions.</p>
      <br>
     ',
 
-    'section-1-block2' => '
+    'section-advanced-block2' => '
     <strong>Données de trafic typiques</strong><br>
     <br>
     Les données de trafic typiques sont à la base de nombreux outils analytiques et produits de données que nous offrons à nos abonnés.
-    À titre d\'exemple, les données typiques comprennent les comptages typiques (moyens, et la plage la plus probable) pour la circulation automobile attendue pour un lundi matin entre 08:00 et 08:15, sur la base des 12 derniers mois de trafic réel - mais vous pouvez choisir un mode, un jour de la semaine, une heure de la journée et une période de référence différente comme vous le souhaitez. Comment cela fonctionne-t-il en pratique ?
+    À titre d\'exemple, les données typiques comprennent les comptages typiques (moyens, la plage la plus probable) pour la circulation automobile attendue pour un lundi matin entre 08:00 et 08:15, sur la base des 12 derniers mois de trafic réel - mais vous pouvez choisir un mode, un jour de la semaine, une heure de la journée et une période de référence différente comme vous le souhaitez. Comment cela fonctionne-t-il en pratique ?
     <ul class="jump-in">
-        <li>Nous fournissons des volumes de circulation typiques calculés comme la moyenne (et l\'écart type) des comptages de trafic historiques sur
+        <li>Nous fournissons des volumes de circulation typiques calculés comme la moyenne (et l\'écart-type) des comptages de trafic historiques sur
         les périodes d\'une année, d\'une saison et d\'un mois précédant la date du calcul (appelée époque).</li>
         <li>Chaque produit typique est calculé à intervalles réguliers pour fournir un ensemble de moyennes historiques en constante augmentation
         correspondant à diverses époques. Les données sont disponibles sur une résolution trimestrielle et horaire,
@@ -78,7 +78,7 @@ Si le Telraam a un abonnement premium ou réseau, des fonctionnalités suppléme
     'features-title' => 'Rapports de Données Avancées',
 
     'features-1-title' => '10 modes',
-    'features-1-text' => 'Consultez les données dans dix catégories comme les voitures, véhicules légers, véhicules lourds, bus, vélos, piétons, motos, trottinettes électriques, camionnettes et poussettes. Ici, vous pouvez également consulter les données de trafic en direct ou historiques sur un segment et voir comment elles se comparent aux niveaux attendus. Par exemple, si le trafic actuel s’écarte significativement de la moyenne (plus de trois écarts-types), c’est inhabituel. Est-ce temporaire ou lié à un événement, la météo, ou un changement dans la circulation ? Découvrez-le vous-même !',
+    'features-1-text' => 'Consultez les données dans dix catégories comme les voitures, cyclistes, piétons, poussettes, autobus, camions, camions légers, motos, tracteurs et remorques. Ici, vous pouvez également consulter les données de trafic en direct ou historiques sur un segment et voir comment elles se comparent aux niveaux attendus. Par exemple, si le trafic actuel s’écarte significativement de la moyenne (plus de trois écarts-types), c’est inhabituel. Est-ce temporaire ou lié à un événement, la météo, ou un changement dans la circulation ? Découvrez-le vous-même !',
 
     'features-2-title' => 'Tendances',
     'features-2-text' => 'Suivez l’évolution des modèles de trafic au fil du temps. Par exemple, vous pouvez consulter le trafic moyen des lundis pour l’année passée, calculé avec des moyennes trimestrielles tous les quinze jours. Cette moyenne glissante révèle les changements à long terme et filtre les fluctuations à court terme. L’histogramme 3D est un excellent outil pour des informations détaillées, mais vous pouvez également utiliser notre graphique 2D interactif pour comparer les niveaux de trafic entre différentes périodes. Avec des options pour différents modes, jours de la semaine et intervalles, vous avez de nombreuses possibilités pour explorer les données.',
@@ -94,10 +94,10 @@ Si le Telraam a un abonnement premium ou réseau, des fonctionnalités suppléme
 
 
     // 3 extra features
-    'extra-features-1-title' => 'Street Sheet',
+    'extra-features-1-title' => 'tableau Excel de rue',
     'extra-features-1-text' => 'Ce résumé au format Excel, que vous pouvez télécharger, fournit un aperçu complet pour un segment, avec
     des informations, calculs et données brutes pour une analyse approfondie. Que vous soyez un expert ou un débutant, ces rapports
-    vous aident à examiner les données, repérer les tendances et identifier les anomalies. La feuille de rue donne des informations sur
+    vous aident à examiner les données, repérer les tendances et identifier les anomalies. La tableau de rue donne des informations sur
      la répartition modale, les tendances de circulation quotidienne et hebdomadaire, et les tendances de vitesse, le tout dans un format
       facile à comprendre. Idéal pour partager avec d’autres pour expliquer les données. <a href="/downloads/street-sheet-example.xlsx">Téléchargez un exemple ici</a>.',
 
@@ -106,8 +106,7 @@ Si le Telraam a un abonnement premium ou réseau, des fonctionnalités suppléme
     <ul class="jump-in">
         <li>Intégrez des connexions de données personnalisées dans tout, de tableaux de bord personnalisés à une intégration complète
         avec les systèmes de données Business Intelligence (BI).</li>
-        <li>Des limites de débit de données personnalisées pour permettre une actualisation des données plus régulière, ou l\'accès à un ensemble sélectionné de segments et
-        périodes de temps.</li>
+        <li>Limites de taux de données personnalisées pour permettre un rafraîchissement de données plus régulier, ou accès à un ensemble sélectionné de segments et de périodes de temps.</li>
         <li>Des points de terminaison publics améliorés avec une résolution de 15 minutes et les 10 modes de trafic (sous réserve de la disponibilité de Telraam S2
         pour le segment donné) lorsque cela est possible.</li>
         <li>Des points de terminaison supplémentaires exclusivement pour les abonnés aux données, tels que les histogrammes de vitesse avec une résolution de 5 km/h
