@@ -5,9 +5,10 @@ return [
     'sub-title' => 'Des données de trafic pour des meilleures rues.<br> Obtenez des données de haute qualité, continues et en temps réel, en collaboration avec les citoyens locaux',
 
     'section1-block1-title' => 'Qu\'est-ce que Telraam?',
-    'section1-block1-text' => 'Telraam est votre solution citoyenne pour la collecte de données de trafic multimodal avec un appareil spécialement conçu, abordable et convivial.<br>
+    'section1-block1-text' => 'Telraam est votre solution citoyenne pour la collecte de données de trafic multimodal
+avec un compteur de trafic spécialement conçu, abordable et convivial.<br>
     <br>Notre capteur Telraam surveille en permanence une rue depuis la fenêtre d\'un citoyen, fournissant des données cruciales sur divers modes de transport, y compris les véhicules motorisés, les cyclistes, les piétons, etc. Les réseaux Telraam créent également l\'opportunité d\'un dialogue entre les planificateurs de trafic, les autorités locales et leurs communautés les plus concernées: les citoyens qui vivent - et utilisent - ces rues, en transformant le comptage du trafic en un projet de science citoyenne ouvert et accessible.<br><br>',
-    
+
     'section1-block1-extra' => 'Que vous soyez un riverain, un militant, un employé d\'une administration publique ou privée ou vous travaillez pour une agence gouvernementale, un projet Telraam fournit des données fiables pour vous aider à atteindre vos objectifs.',
 
     // des questions
@@ -32,7 +33,7 @@ return [
     'quote2-author' => 'Eric van Dijk',
     'quote2-function' => 'Beleidsmedewerker mobilité intelligente, Province d\'Utrecht',
 
-    'section3-block1-title' => 'Comment fonctionne l\'appareil Telraam S2 ?',
+    'section3-block1-title' => 'Comment fonctionne notre compteur de trafic?',
     'section3-block1-text' => 'Le Telraam S2 est notre tout dernier appareil. Il compte et classe les usagers de la route, fournissant des données anonymes et agrégées par mode de circulation et par sens avec une résolution de 15 minutes. En outre, il dérive une distribution de vitesse estimée (et la vitesse V85) pour les voitures.<br><br> Telraam S2 utilise une IA spécialement formée et un algorithme de suivi propriétaire pour détecter, classer et compter les usagers de la route avec une grande précision dans un large éventail d\'environnements de rue typiques. Les citoyens placent un capteur Telraam dans leur fenêtre, et les données collectées peuvent être partagées avec les autorités locales et les décideurs politiques sous forme de données ouvertes.<br><br> Les appareils Telraam peuvent être installés par des citoyens dans leurs rues individuelles, ou par des groupes de campagne locaux et des autorités gouvernementales qui financent des réseaux de citoyens pour recueillir des données sur le trafic local.<br><br> <a href="/fr/S2">En savoir plus sur l\'appareil S2</a>',
 
     'section3-block2-title' => 'Que fait un appareil Telraam S2?',

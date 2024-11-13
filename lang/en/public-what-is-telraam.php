@@ -6,7 +6,8 @@ return [
 Get high quality, continuous and real-time data, in collaboration with local citizens.',
 
     'section1-block1-title' => 'What is Telraam?',
-    'section1-block1-text' => 'Telraam is your citizen-powered solution for collecting multi-modal traffic data with a purpose-built, affordable, and user-friendly device.<br>
+    'section1-block1-text' => 'Telraam is your citizen-powered solution for collecting multi-modal traffic data with a purpose-built,
+affordable, and user-friendly traffic counter.<br>
 <br>
 Our Telraam sensor continuously monitors a street from a citizen’s window, providing crucial data on various modes of transport, including motorised vehicles, cyclists, pedestrians, and more. Telraam networks also create the opportunity for dialogue between traffic planners, local authorities and their most affected communities: the citizens who live on - and use - these streets, by turning traffic counting into an open and accessible citizen science project.<br><br>',
 
@@ -43,8 +44,9 @@ Involving citizens and publishing open data brings researchers and policy makers
     'quote2-author' => 'Eric van Dijk',
     'quote2-function' => 'Beleidsmedewerker smart mobility, Province of Utrecht',
 
+    'section3-block1-title' => 'Comment fonctionne notre compteur de trafic?',
 
-    'section3-block1-title' => 'How does the Telraam S2 device work?',
+    'section3-block1-title' => 'How does our traffic counter work?',
     'section3-block1-text' => 'Telraam S2 is our newest device. It counts and classifies road users, providing anonymous, aggregate data per traffic mode and per direction with a 15 minute resolution. In addition, it derives an estimated speed distribution (and the V85 speed) for cars.<br>
 <br>
 Telraam S2 uses specially-trained AI and a proprietary tracking algorithm to detect, classify, and count road users with high precision in a wide range of typical street environments. Citizens place a Telraam sensor in their window, and the data that is collected can be shared with local authorities and policy makers as Open Data.<br>
@@ -73,7 +75,7 @@ It’s your view. Make it count! <br>
     'make-view-count-text' => '<p>You can choose to host an individual device on your street, or work with the local authority or a campaign group to establish a wider network for a whole groups of streets.</p>
     <p>You can read more below on Telraam\'s methodology and why Citizen Science is so unique and valuable, but it only works when you get involved.</p>
     <p>Telraam provides the tools so motivated individuals can monitor their own street, but can also work together in a network to empower whole communities to work together.</p>
-    
+
     <p>Read all about our <a href="network">Network subscription and tools</a> and see how you could build your own.</p>',
 
 
@@ -92,51 +94,51 @@ It’s your view. Make it count! <br>
 
     'use-cases-case-4-title' => 'School Streets',
     'use-cases-case-4-text' => 'Arriving and leaving a school should be a safe, healthy and enjoyable experience for children, parents and local residents. Measure the implementation and success',
-    
+
     // block start counting
     'start-counting-section-1-title' => 'Want to make your view count?',
     'start-counting-section-1-text' => '<p>Is your street too busy, marred by cars and vans driving too fast? Do people want to walk, cycle, and play more in the street, but consider it unsafe?</p>
-    
+
     <p>Heavy traffic, especially on residential streets designed only for local traffic, can cause residents to question traffic flows as they impact livability.</p>
-    
+
     <p>Traffic counting in itself is not the solution, but it can be a powerful, quantitative tool in capable hands, forming a solid basis for meaningful discussions and reforms.</p>
-    
+
     <p>Forward-thinking local authorities are finding ways to address these social issues, to make our communities cleaner, safer, and healthier, but to do this they need supporting data.</p>
-    
+
     <p>That is why Telraam works with citizens and mobility professionals together: to gather the data needed to make the streets a better place.</p>
-    
-    <p>Read about our <a href="S2">Devices</a>, our <a href="data-subscription">Data</a> and our 
+
+    <p>Read about our <a href="S2">Devices</a>, our <a href="data-subscription">Data</a> and our
     <a href="network">Network solutions</a> and see how you could get involved.</p>',
 
 
     // The Telraam Methodology
     'methodology-title' => 'The Telraam Methodology',
     'methodology-part-1' => '<p>Telraam offers purpose-built, affordable, artificial intelligence driven traffic counting sensors, a network-management framework, and a complete architecture for storing, analysing, visualising, and distributing traffic data. In this setup the Telraam sensors are hosted by citizen scientists, establishing a valuable bridge between their neighbourhoods, local authorities, and mobility professionals. This connection, and the open access to the collected traffic data, democratises local traffic planning, and opens up new opportunities for all involved parties.</p>',
-    
+
     'methodology-part-2' => '<p>The Telraam approach:</p>',
-    
+
     'methodology-item-A' => 'Citizens collect traffic data from their windows using Telraam sensors. These typically keep counting continuously over a longer period of time (usually 12 months), sending data every 15 minutes (during daylight hours).',
     'methodology-item-B' => 'Mobility professionals and local authorities analyse the data to understand the local traffic and propose solutions to specific issues',
     'methodology-item-C' => 'Citizens and professionals work together to review the data and co-design ways to implement better traffic management plans',
     'methodology-item-D' => 'Telraam sensors can be used further to monitor, evaluate, and adjust the implemented changes',
-    
+
     'methodology-part-3' => '<p>As an interested individual you can have your own personal Telraam sensor and analyse your own data, but the data that your sensor collects is also made available to everyone else as Open Data via the Telraam API.</p>',
-    
-    
+
+
     // Why Citizen Science?
     'cit-science-title' => 'Why Citizen Science?',
     'cit-science-item-1' => '<strong class="green">Cost-effective</strong><br>
     <p>Citizen science projects can be a cost-effective way for local authorities to gather data and gain insights
     into traffic issues in their community. No need for expensive street installations to protect the security of street users and the counting devices.</p>',
-    
+
     'cit-science-item-2' => '<strong  class="green">Local knowledge</strong><br>
     <p>Citizen scientists are residents of the community in which they are collecting data, which means they have the
      local knowledge and perspectives that can be valuable in understanding local issues and developing locally applicable solutions.</p>',
-    
+
     'cit-science-item-3' => '<strong  class="green">Engaging the community</strong><br>
     <p>Citizen science projects can be a way to engage members of the community in the decision-making process and
      to get them more invested in finding solutions to the local challenges.</p>',
-    
+
     'cit-science-item-4' => '<strong  class="green">Broader impact</strong><br>
     <p>By involving citizens in the data-gathering process, local authorities can also create a greater sense of ownership and buy-in for solutions
      that are developed as a result of these collaborations, which will lead to more widespread adoption and a greater positive impact and reception in the community.</p>',
@@ -148,7 +150,7 @@ It’s your view. Make it count! <br>
     <p>The data that is displayed on the Telraam website (and made available via the
     Telraam API) includes four categories.</p>
     <p>The new Telraam S2 device is capable of differentiating between an even broader set of road user. You have access to these new classes with the advanced data, available through the premium or network subscription.</p>',
-    
+
         'what-table' => '<table class="categories">
     <thead>
         <tr>

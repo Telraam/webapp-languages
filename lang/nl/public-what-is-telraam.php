@@ -7,7 +7,7 @@ Ontvang, in samenwerking met lokale burgers, multimodale en real-time gegevens.'
 
     'section1-block1-title' => 'Wat is Telraam?',
     'section1-block1-text' => 'Telraam is een manier om (samen met burgers) multimodale verkeersgegevens te verzamelen met een
-op maat gemaakt, gebruiksvriendelijk en betaalbaar toestel.<br>
+op maat gemaakt, gebruiksvriendelijk en betaalbare verkeersteller.<br>
 <br>
 Het Telraam toestel scant voortdurend de straat vanuit het raam van een burger en biedt cruciale gegevens over verschillende vervoerswijzen, waaronder
 gemotoriseerde voertuigen, fietsers, voetgangers en meer. Telraam creëert daarnaast ook de mogelijkheid om makkelijk een positieve dialoog te openen tussen
@@ -54,7 +54,7 @@ Het betrekken van burgers en het publiceren van open data brengt onderzoekers en
     'quote2-author' => 'Eric van Dijk',
     'quote2-function' => 'Beleidsmedewerker smart mobility, Province of Utrecht',
 
-    'section3-block1-title' => 'Hoe werkt het Telraam S2 toestel?',
+    'section3-block1-title' => 'Hoe werkt onze verkeersteller?',
     'section3-block1-text' => 'Telraam S2 is ons nieuwste toestel. Het telt en classificeert weggebruikers en levert anonieme, geaggregeerde gegevens
 per verkeersmodus en per richting met een resolutie van
      15 minuten. Daarnaast leidt het een geschatte snelheidsverdeling af (en de V85-snelheid) voor auto\'s.<br>
