@@ -20,6 +20,19 @@ return [
     'nav-login' => 'Login',
     'nav-registrer' => 'Registreer',
 
+    'seo-title-data' => 'Data',
+    'seo-title-network' => 'Een netwerk opzetten',
+    'seo-title-pricing' => 'Prijzen & shop',
+    'seo-title-browse-networks' => 'Bekijk netwerken',
+    'seo-title-partners' => 'Partners',
+    'seo-title-press-kit' => 'Pers',
+    'seo-title-blog' => 'Blog',
+    'seo-title-jobs' => 'Jobs',
+    'seo-title-about-us' => 'Over ons',
+    'seo-title-contact-us' => 'Contacteer ons',
+    'seo-title-login' => 'Login',
+    'seo-title-register' => 'Registeer',
+
     'footer-follow-us' => 'Volg ons',
     'footer-what-is' => 'Telraam is volledig eigendom van en wordt onderhouden door Rear Window BV (BE0762.549.266), een spin-off initiatief van  <a href="https://tmleuven.be">TML</a>, <a href="https://www.mobiel21.be/">Mobiel 21</a> and
                 <a href="https://waanz.in">Waanz.in</a>',

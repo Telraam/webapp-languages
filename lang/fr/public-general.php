@@ -17,6 +17,19 @@ return [
     'nav-login' => 'Se connecter',
     'nav-registrer' => 'S\'enregistrer',
 
+    'seo-title-data' => 'Data',
+    'seo-title-network' => 'Een netwerk opzetten',
+    'seo-title-pricing' => 'Prijzen & shop',
+    'seo-title-browse-networks' => 'Parcourir les réseaux',
+    'seo-title-partners' => 'Partenaires Ecosystème',
+    'seo-title-press-kit' => 'Pers',
+    'seo-title-blog' => 'Blog',
+    'seo-title-jobs' => 'Emplois',
+    'seo-title-about-us' => 'A propos de nous',
+    'seo-title-contact-us' => 'Contactez nous',
+    'seo-title-login' => 'Login',
+    'seo-title-register' => 'Registre',
+
     'footer-follow-us' => 'Suivez-nous',
     'footer-what-is' => 'Telraam est une initiative de <a href="https://tmleuven.be">TML</a>, <a href="https://www.mobiel21.be/">Mobiel 21</a> et
                 <a href="https://waanz.in">Waanz.in</a>, avec le soutien du Fonds Smart Mobility Belgium de l’État fédéral.',

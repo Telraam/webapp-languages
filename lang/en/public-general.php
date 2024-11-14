@@ -20,9 +20,18 @@ return [
      'nav-login' => 'Login',
      'nav-registrer' => 'Registreer',
 
-    'nav-faq-support' => 'FAQ and support',
-    'nav-login' => 'Log in',
-    'nav-registrer' => 'Register',
+    'seo-title-data' => 'Data',
+    'seo-title-network' => 'Build a Network',
+    'seo-title-pricing' => 'Prices & shop',
+    'seo-title-browse-networks' => 'Check our networks',
+    'seo-title-partners' => 'Partners',
+    'seo-title-press-kit' => 'Press',
+    'seo-title-blog' => 'Blog',
+    'seo-title-jobs' => 'Jobs',
+    'seo-title-about-us' => 'About us',
+    'seo-title-contact-us' => 'Contact Us',
+    'seo-title-login' => 'Login',
+    'seo-title-register' => 'Register',
 
     'footer-follow-us' => 'Follow us',
     'footer-what-is' => 'Telraam is fully owned and maintained by Rear Window BV (BE0762.549.266), a spin-off initiative by <a href="https://tmleuven.be">TML</a>, <a href="https://www.mobiel21.be/">Mobiel 21</a> and
