@@ -21,6 +21,7 @@ return [
     'nav-registrer' => 'Registreer',
 
     'seo-title-data' => 'Data',
+    'seo-title-traffic-counter' => 'Tel verkeer met burgers',
     'seo-title-network' => 'Een netwerk opzetten',
     'seo-title-pricing' => 'Prijzen & shop',
     'seo-title-browse-networks' => 'Bekijk netwerken',

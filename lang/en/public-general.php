@@ -21,6 +21,7 @@ return [
      'nav-registrer' => 'Registreer',
 
     'seo-title-data' => 'Data',
+    'seo-title-traffic-counter' => 'Traffic Counting with Citizens',
     'seo-title-network' => 'Build a Network',
     'seo-title-pricing' => 'Prices & shop',
     'seo-title-browse-networks' => 'Check our networks',
