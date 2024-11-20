@@ -11,7 +11,7 @@ return [
 <a href="https://www.tmleuven.be/en/" target="_blank">Transport & Mobility</a>
 Leuven (TML), a traffic engineering consultancy, and <a href="https://www.mobiel21.be/" target="_blank">Mobiel21</a>, an NGO focussing on citizen participation in the field of mobility.<p>
 
-<p>Seeing how citizens science projects have been succesful to collect valuable data in collaboration with citizens in other fields like
+<p>Seeing how citizens science projects have been successful to collect valuable data in collaboration with citizens in other fields like
 air quality data, we thought: we should be able to do the same with traffic counting data! And so, in 2019 we embarked on our journey to
 first develop <a href="https://telraam.net/en/v1">a simple sensor</a> and later in
 2023 <a href="https://telraam.net/en/S2">a purpose built sensor</a> for collecting traffic counting data, together with citizens.</p>',
