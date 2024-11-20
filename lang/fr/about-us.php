@@ -8,12 +8,11 @@ return [
 
     'section-1-title'            => 'Histoire',
     'section1-block1-text'        => '<p>Telraam est le fruit de deux organisations basées à Louvain (BE) :
-<a href="https://www.tmleuven.be/fr/" target="_blank">Transport & Mobilité</a>
-Louvain (TML), un cabinet de conseil en ingénierie du trafic, et <a href="https://www.mobiel21.be/" target="_blank">Mobiel21</a>, une ONG axée sur la participation citoyenne dans le domaine de la mobilité .<p>
+<a href="https://www.tmleuven.be/" target="_blank">Transport & Mobility Leuven (TML)</a>, un cabinet de conseil en ingénierie du trafic, et <a href="https://www.mobiel21.be/" target="_blank">Mobiel21</a>, une ONG axée sur la participation citoyenne dans le domaine de la mobilité .<p>
 
 <p>Voir comment les projets de science citoyenne ont réussi à collecter des données précieuses en collaboration avec des citoyens dans d\'autres domaines comme
 données sur la qualité de l’air, nous nous sommes dit : nous devrions pouvoir faire la même chose avec les données de comptage de trafic!
- C\’est ainsi qu\’en 2019, nous avons entrepris notre voyage vers
+ C’est ainsi qu’en 2019, nous avons entrepris notre voyage vers
 développer d\'abord <a href="https://telraam.net/en/v1">un capteur simple</a> et plus tard
 2023 <a href="https://telraam.net/en/S2">un capteur spécialement conçu</a> pour collecter des données de comptage de trafic,
 en collaboration avec les citoyens.</p>',
@@ -24,8 +23,7 @@ en collaboration avec les citoyens.</p>',
 et devenir une force motrice dans les conversations et les débats sur les politiques de mobilité urbaine qui affectent leurs quartiers. </p>
 
 <p> Nous voulons fournir des solutions abordables pour connecter les citoyens et leurs gouvernements locaux, et faciliter la transition vers une société plus
-une culture du trafic multimodal et centrée sur l\’humain. </p>
-',
+une culture du trafic multimodal et centrée sur l’humain. </p>',
 
 'section2-block2-text'        => '<p>Issus de l\'ingénierie du trafic, nous connaissons les données de comptage du trafic. Nous respirons les données de
 comptage du trafic. Nous comprenons quel type de données peut être utile aux professionnels. Êtes-vous un professionnel de la mobilité, une
@@ -69,7 +67,7 @@ Il aime l\'art, la musique et un peu de folie. Joue au football en plein air jus
 
     'role-peter'    => 'Analyse et développement des données',
     'sentence-peter'    => 'Peter est titulaire d\'un doctorat en astronomie et astrophysique (KU Leuven) et a cinq ans d\'expérience dans le traitement des données relatives aux transports.
-Après le travail, il fait du vélo sur route, est pilote privé ou joue de la basse. YNWA !',
+Après le travail, il fait du vélo sur route, est pilote privé ou joue de la basse. YNWA!',
 
     'role-luc'     => 'Ingénieur en logiciel embarqué',
     'sentence-luc'    => 'A commencé à travailler sur des systèmes embarqués il y a plus de 20 ans et depuis lors
