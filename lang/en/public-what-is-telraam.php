@@ -117,7 +117,7 @@ It’s your view. Make it count! <br>
 
     'methodology-part-2' => '<p>The Telraam approach:</p>',
 
-    'methodology-item-A' => 'Citizens collect traffic data from their windows using Telraam sensors. These typically keep counting continuously over a longer period of time (usually 12 months), sending data every 15 minutes (during daylight hours).',
+    'methodology-item-A' => 'Citizens collect traffic data from their windows using Telraam sensors. These typically keep counting continuously over a longer period of time (usually 12 months), sending data every 15 minutes.',
     'methodology-item-B' => 'Mobility professionals and local authorities analyse the data to understand the local traffic and propose solutions to specific issues',
     'methodology-item-C' => 'Citizens and professionals work together to review the data and co-design ways to implement better traffic management plans',
     'methodology-item-D' => 'Telraam sensors can be used further to monitor, evaluate, and adjust the implemented changes',

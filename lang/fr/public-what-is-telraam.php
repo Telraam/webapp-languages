@@ -83,7 +83,7 @@ avec un compteur de trafic spécialement conçu, abordable et convivial.<br>
 
     'methodology-part-2' => "<p>L'approche Telraam:</p>",
 
-    'methodology-item-A' => 'Les citoyens collectent des données sur le trafic depuis leurs fenêtres à l\'aide de capteurs Telraam. Ceux-ci comptent généralement en continu sur une longue période (généralement 12 mois), envoyant des données toutes les 15 minutes (pendant les heures de clarté).',
+    'methodology-item-A' => 'Les citoyens collectent des données sur le trafic depuis leurs fenêtres à l\'aide de capteurs Telraam. Ceux-ci comptent généralement en continu sur une longue période (généralement 12 mois), envoyant des données toutes les 15 minutes.',
     'methodology-item-B' => 'Les professionnels de la mobilité et les autorités locales analysent les données pour comprendre le trafic local et proposer des solutions à des problèmes spécifiques.',
     'methodology-item-C' => 'Les citoyens et les professionnels travaillent ensemble pour examiner les données et concevoir ensemble des moyens de mettre en œuvre de meilleurs plans de gestion du trafic.',
     'methodology-item-D' => 'Les capteurs Telraam peuvent être utilisés pour surveiller, évaluer et ajuster les changements mis en œuvre.',
