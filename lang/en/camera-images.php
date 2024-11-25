@@ -14,8 +14,8 @@ return [
 
     'roi-still-to-be-set' => 'ROI to be set',
 
-    'what-are-the-camera-images' => 'Your S2 device is being reset to the full wide-angle view so we are downloading an image to help select your ROI. As the S2 device has a slow IoT connection this may take 30-90 seconds.<br>
-Make sure to complete the process and select one of the predefined ROI settings to help ensure improved accuracy. <br>
+    'what-are-the-camera-images' => 'The camera images are background images sent to our server to verify whether your camera position is still fine.
+    An image is send after booting your Telraam and once a day when your Telraam is up and running. <br>
     <a href="https://telraam.helpspace-docs.io/article/30/background-image">Read more info on our faq</a>',
     'not-receiving-data'         => "Seems like we're not receiving any data (yet) from your Telraam at the moment.",
 
@@ -23,9 +23,9 @@ Make sure to complete the process and select one of the predefined ROI settings 
 
     // S2 ROI
     'roi-loading-title' => 'Loading...',
-    'roi-loading-text' => 'We are resetting to the wide-angle setting from the S2 device and are meanwhile requesting an global image to define your ROI.
-<br>As a S2 device has a slow IoT connection this might take 30-90 seconds.
- Make sure to proceed and select one of the predefined ROI settings.',
+    'roi-loading-text' => 'Your S2 device is being reset to the full wide-angle view so we are downloading an image to help select your ROI. As the S2 device has a slow IoT connection this may take 30-90 seconds.<br>
+Make sure to complete the process and select one of the predefined ROI settings to help ensure improved accuracy.
+<br>As a S2 device has a slow IoT connection this might take 30-90 seconds. Make sure to proceed and select one of the predefined ROI settings.',
 
     'roi-loaded-title' => 'Select zoom',
     'roi-loaded-text' => 'In most cases the wide field of view  is unnecessary, as traffic occurs in a much narrower range,
