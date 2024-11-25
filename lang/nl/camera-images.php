@@ -23,7 +23,8 @@ return [
 
     // S2 ROI
     'roi-loading-title' => 'Laden...',
-    'roi-loading-text' => 'We moeten eerst het groothoekbeeld laden van het S2-toestel.<br>Aangezien het S2-toestel een trage IoT-verbinding heeft, kan dit tot 30-60 seconden duren.',
+    'roi-loading-text' => 'We stellen de groothoekinstelling van het S2-apparaat opnieuw in en vragen ondertussen een globale afbeelding op om uw ROI te bepalen.
+<br>Aangezien het S2 toestel een trage IoT verbinding heeft, kan dit 30 tot 90 seconden duren. Zorg ervoor dat u doorgaat en een van de voorgedefinieerde ROI-instellingen selecteert.',
 
     'roi-loaded-title' => 'Zoom selecteren',
     'roi-loaded-text' => 'In de meeste gevallen is het brede gezichtsveld niet nodig, omdat het verkeer zich in een veel beperkter gebied afspeelt,

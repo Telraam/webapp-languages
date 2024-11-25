@@ -20,7 +20,9 @@ et ensuite une fois par jour lorsque votre Telraam fonctionne.<br> Pour en savoi
 
     // S2 ROI
     'roi-loading-title' => 'Loading...',
-    'roi-loading-text' => 'Nous devons d\'abord charger l\'image grand angle depuis l\'appareil S2.. <br>Comme l\'appareil S2 a une connexion IoT lente, cela peut prendre 30 à 60 secondes..',
+    'roi-loading-text' => '
+Nous réinitialisons le réglage grand angle de l\'appareil S2 et demandons entre-temps une image globale pour définir votre ROI.
+<br>Comme un appareil S2 a une connexion IoT lente, cela peut prendre 30 à 90 secondes. Assurez-vous de continuer et de sélectionner l’un des paramètres ROI prédéfinis.',
 
     'roi-loaded-title' => 'Sélectionner le zoom',
     'roi-loaded-text' => 'Dans la plupart des cas, le large champ de vision n\'est pas nécessaire, car le trafic se produit dans une

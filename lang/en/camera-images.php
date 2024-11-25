@@ -23,7 +23,9 @@ return [
 
     // S2 ROI
     'roi-loading-title' => 'Loading...',
-    'roi-loading-text' => 'We first have to load the wide-angle image from the S2 device. <br>As the S2 device has a slow IoT connection this might take 30-60 seconds.',
+    'roi-loading-text' => 'We are resetting to the wide-angle setting from the S2 device and are meanwhile requesting an global image to define your ROI.
+<br>As a S2 device has a slow IoT connection this might take 30-90 seconds.
+ Make sure to proceed and select one of the predefined ROI settings.',
 
     'roi-loaded-title' => 'Select zoom',
     'roi-loaded-text' => 'In most cases the wide field of view  is unnecessary, as traffic occurs in a much narrower range,

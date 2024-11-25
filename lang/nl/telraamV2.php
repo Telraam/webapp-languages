@@ -56,7 +56,8 @@ Met Telraam S2 gebeurt de classificatie van elk gedetecteerd object ter plaatse 
     'section-features-block-title' => 'S2 firmware evolutie!',
     'section-features-block7-subtitle'     => 'Over the air updates',
     'section-features-block7-body' => '<p>De firmware van Telraam S2 evolueert nog steeds.
-Updates worden autonoom  \'over the air \' (OTA) uitgevoerd om ervoor te zorgen dat op het toestel altijd de laatste versie draait. Momenteel ligt onze focus op het implementeren van nachttellingenvoor gemotoriseerd verkeer  (lancering april 2024) , een functie waar onze gebruikers veel om vragen, en op het verder verbeteren van onze precisie en nauwkeurigheid.</p>',
+Updates worden autonoom  \'over the air \' (OTA) uitgevoerd om ervoor te zorgen dat op het toestel altijd de laatste versie draait.
+Momenteel ligt onze focus op het verbeteren van zowel de connectiviteit als de stabiliteit.</p>',
     'section-features-block7-body-extra' => 'Voor een volledige geschiedenis van firmware-updates zie de <a href="https://github.com/Telraam/Telraam-S2/blob/main/changelog_NRF.md" target="_blank">NRF changelog</a> en de
 <a href="https://github.com/Telraam/Telraam-S2/blob/main/changelog_K210.md"  target="_blank">K210 changelog</a>.',
 
