@@ -23,7 +23,8 @@ return [
 
     // S2 ROI
     'roi-loading-title' => 'Laden...',
-    'roi-loading-text' => 'We stellen de groothoekinstelling van het S2-apparaat opnieuw in en vragen ondertussen een globale afbeelding op om uw ROI te bepalen.
+    'roi-loading-text' => '
+Je S2-apparaat wordt gereset naar de volledige groothoekweergave. We downloaden hierbij een afbeelding om je te helpen bij het selecteren van je ROI.
 <br>Aangezien het S2 toestel een trage IoT verbinding heeft, kan dit 30 tot 90 seconden duren. Zorg ervoor dat u doorgaat en een van de voorgedefinieerde ROI-instellingen selecteert.',
 
     'roi-loaded-title' => 'Zoom selecteren',
