@@ -40,7 +40,7 @@ Bien que nous croyions que le Telraam S2 offre une meilleure précision, une mei
             </ul>
         <br>
         Veuillez consulter notre FAQ pour plus d\'informations sur
-            <a href="https://telraam.helpspace-docs.io/article/36/do-it-yourself-assemble-telraam-by-yourself">comment assembler votre appareil</a>.</p>
+            <a href="https://faq.telraam.net/article/36/do-it-yourself-assemble-telraam-by-yourself">comment assembler votre appareil</a>.</p>
 ',
 
     'section2-text-extra'        => '<b>Le logiciel et le firmware inclus dans l\'image de carte SD offerte ont été créés pour
@@ -73,7 +73,7 @@ Le serveur Telraam classe les objets provenant des appareils Telraam V1 en quatr
     très courte durée (quelques minutes).<br>
     <span class="cross">×</span> Le Telraam V1 n\'est pas un radar de vitesse et il ne peut pas fournir de mesures de vitesse précises.<br>
 
-<p>Pour plus d\'informations sur les exigences techniques, la classification des objets, la précision et les limitations potentielles, l\'étalonnage des données et les questions concernant les données de vitesse, veuillez consulter notre <a href="https://telraam.helpspace-docs.io/category/5/telraam-v1">FAQ</a>.</p>',
+<p>Pour plus d\'informations sur les exigences techniques, la classification des objets, la précision et les limitations potentielles, l\'étalonnage des données et les questions concernant les données de vitesse, veuillez consulter notre <a href="https://faq.telraam.net/category/5/telraam-v1">FAQ</a>.</p>',
 
 
 ];

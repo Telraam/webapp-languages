@@ -10,6 +10,6 @@ return [
       Comment procédez-vous? Eh bien, nous avons construit une interface pour le rendre facile. Cliquez ci-dessous et sélectionnez parmi les options :",
     'button' => 'Confirmez votre région d\'intérêt',
    'body-2' => 'Si vous rencontrez des problèmes pour définir le retour sur investissement ou si vous avez des questions supplémentaires, n\'hésitez pas à parcourir
-       <a href="https://faq-fr.helpspace-docs.io/article/144/region-dinteret-roi-et-selection-de-roi-avec-telraam-s2"> notre article FAQ</a> ou e-mail
+       <a href="https://faq-fr.telraam.net/article/144/region-dinteret-roi-et-selection-de-roi-avec-telraam-s2"> notre article FAQ</a> ou e-mail
        <a href="mailto:support@telraam.net">support@telraam.net</a>',
 ];

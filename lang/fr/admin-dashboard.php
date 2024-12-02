@@ -29,12 +29,12 @@ return [
 
      'is-counting'              => 'Telraam compte',
      'was-counting'             => "La caméra ne compte plus",
-    'was-counting-link-v1'        => '<a href="https://faq-fr.helpspace-docs.io/article/191/ma-telraam-ne-compte-plus" target="_blank">Dépannage</a>',
-    'was-counting-link-S2'        => '<a href="https://faq-fr.helpspace-docs.io/article/208/resolution-des-problemes-avec-le-s2" target="_blank">Dépannage</a>',
+    'was-counting-link-v1'        => '<a href="https://faq-fr.telraam.net/article/191/ma-telraam-ne-compte-plus" target="_blank">Dépannage</a>',
+    'was-counting-link-S2'        => '<a href="https://faq-fr.telraam.net/article/208/resolution-des-problemes-avec-le-s2" target="_blank">Dépannage</a>',
 
     'is-not-counting'          => 'La caméra ne compte pas encore',
-    'is-not-counting-link-v1'        => '<a href="https://faq-fr.helpspace-docs.io/article/189/mon-telraam-ne-compte-pas-encore" target="_blank">Dépannage</a>',
-    'is-not-counting-link-S2'        => '<a href="https://faq-fr.helpspace-docs.io/article/208/resolution-des-problemes-avec-le-s2" target="_blank">Dépannage</a>',
+    'is-not-counting-link-v1'        => '<a href="https://faq-fr.telraam.net/article/189/mon-telraam-ne-compte-pas-encore" target="_blank">Dépannage</a>',
+    'is-not-counting-link-S2'        => '<a href="https://faq-fr.telraam.net/article/208/resolution-des-problemes-avec-le-s2" target="_blank">Dépannage</a>',
 
 
      'software-version'          => 'Version du logiciel Telraam',
@@ -43,7 +43,7 @@ return [
     'software-might-not-up-to-date'    => 'Nous n\'avons pas encore pu vérifier si votre Telraam dispose de la dernière version du logiciel (V10).',
 
 
-    'software-update-read-more'   => '<a href="https://faq-fr.helpspace-docs.io/article/183/mettre-a-jour-le-software-telraam-soi-meme">Mettez vous-même à jour votre Telraam</a>',
+    'software-update-read-more'   => '<a href="https://faq-fr.telraam.net/article/183/mettre-a-jour-le-software-telraam-soi-meme">Mettez vous-même à jour votre Telraam</a>',
 
     'checking-for-data' => 'Vérification des données...',
     'camera-is-set-inactive-on' => 'La caméra a été réglée pour être inactive sur',

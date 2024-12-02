@@ -40,11 +40,11 @@ return [
     'check-for-telraam-data' => 'Contrôlez si des données sont correctement assimilées par la Telraam',
     'camera-not-found' => "La caméra n'a pas encore été trouvée",
     'camera-is-set-up' => 'La camera est installée',
-    'camera-is-set-up-but-no-data' => '<strong>La camera est installée, mais ne reçoit pas encore de données.</strong> <br>En cas de succès, au bout de 20 minutes maximum, vous recevrez le message que votre appareil envoie effectivement des données. Si cela prend plus de temps, c\'est que quelque chose a mal tourné. <a href=https://faq-fr.helpspace-docs.io/article/189/mon-telraam-ne-compte-pas-encore target=_blank>Essayez les étapes suivantes</a>',
+    'camera-is-set-up-but-no-data' => '<strong>La camera est installée, mais ne reçoit pas encore de données.</strong> <br>En cas de succès, au bout de 20 minutes maximum, vous recevrez le message que votre appareil envoie effectivement des données. Si cela prend plus de temps, c\'est que quelque chose a mal tourné. <a href=https://faq-fr.telraam.net/article/189/mon-telraam-ne-compte-pas-encore target=_blank>Essayez les étapes suivantes</a>',
 
     'camera-received-data' =>'La caméra est installée et le serveur reçoit les données',
     'fully-ready' => 'Installation terminée',
-    'did-not-pass-test' => 'Vingt minutes ont passé et nous n\'avons pas encore reçu aucun ensemble de données. <a href=https://faq-fr.helpspace-docs.io/article/189/mon-telraam-ne-compte-pas-encore target=_blank>Essayez les étapes suivantes</a>',
+    'did-not-pass-test' => 'Vingt minutes ont passé et nous n\'avons pas encore reçu aucun ensemble de données. <a href=https://faq-fr.telraam.net/article/189/mon-telraam-ne-compte-pas-encore target=_blank>Essayez les étapes suivantes</a>',
 
     'we-re-checking-still' => 'Nous vérifions encore',
     'minutes' => 'minute(s)',
@@ -55,12 +55,12 @@ return [
     'speed' => "Vitesse",
     'speed-distribution-car' => "Vitesse des voitures",
     'speed-remark' => 'Les vitesses sont indicatives. Les mesures peuvent différer de 10 % des vitesses effectives. <br>Vous trouverez ici
-  <a href="https://faq-fr.helpspace-docs.io/article/163/la-mesure-des-vitesses-comment-interpreter-le-graphique-de-la-vitesse">plus d\'informations sur la façon d\'interpréter ces données</a>',
+  <a href="https://faq-fr.telraam.net/article/163/la-mesure-des-vitesses-comment-interpreter-le-graphique-de-la-vitesse">plus d\'informations sur la façon d\'interpréter ces données</a>',
 
     'speed-remark-v85' => 'Le V85 est un indicateur très utilisé dans le monde de la mobilité et de la sécurité routière.
-la mobilité et la sécurité routière, car elle est considérée comme représentative de la vitesse qui peut raisonnablement être maintenue sur une route. <a href="https://faq-fr.helpspace-docs.io/article/164/la-mesure-des-vitesses-v85-explique" target="_blank">En savoir plus sur le V85</a>',
+la mobilité et la sécurité routière, car elle est considérée comme représentative de la vitesse qui peut raisonnablement être maintenue sur une route. <a href="https://faq-fr.telraam.net/article/164/la-mesure-des-vitesses-v85-explique" target="_blank">En savoir plus sur le V85</a>',
     // 22 feb
-    'faq-interpret-data-link' => 'https://faq-fr.helpspace-docs.io/article/158/imprecisions-possibles-avec-telraam',
+    'faq-interpret-data-link' => 'https://faq-fr.telraam.net/article/158/imprecisions-possibles-avec-telraam',
     'faq-interpret-data-text' => 'Comment interpréter les données de la Telraam ?',
 
     // 23 feb
@@ -74,7 +74,7 @@ la mobilité et la sécurité routière, car elle est considérée comme représ
 
     // 17 mei
     'no-callibration' => 'Le rapport entre la voiture et les gros véhicules n\'est pas correct? Veuillez être patient, Telraam a besoin de temps pour se
- calibrer. <a href="https://faq-fr.helpspace-docs.io/article/159/le-calibrage-de-votre-telraam">Faq article</a>',
+ calibrer. <a href="https://faq-fr.telraam.net/article/159/le-calibrage-de-votre-telraam">Faq article</a>',
 
     // 7 juni location detail
     'header-data'           => 'Data',

@@ -40,7 +40,7 @@ Hoewel we geloven dat de Telraam S2 sensor meer nauwkeurigheid en precisie biedt
             </ul>
         <br>
         Raadpleeg onze FAQ voor meer meer info over
-            <a href="https://faq-nl.helpspace-docs.io/article/135/do-it-yourself-je-telraam-v1-zelf-assembleren">hoe een v1-toestel zelf te assembleren</a>.</p>
+            <a href="https://faq-nl.telraam.net/article/135/do-it-yourself-je-telraam-v1-zelf-assembleren">hoe een v1-toestel zelf te assembleren</a>.</p>
 ',
 
     'section2-text-extra'        => '<b> De software en firmware die wordt aangeboden op SD-kaartimage zijn ontwikkeld voor deze specifieke componenten en werken mogelijk niet met een andere configuratie, dus zorg ervoor dat je de juiste hardware gebruikt.</b> Er zijn door de online community pogingen gedaan om V1-toestellen te gebruiken met verschillende RPi versies (lees meer op GitHub), maar we kunnen geen ondersteuning bieden voor zulke pogingen.',
@@ -67,7 +67,7 @@ De Telraam server classificeert objecten die afkomstig zijn van Telraam V1 appar
     <span class="cross">×</span> Telraam V1 is geen flitspaal en kan geen nauwkeurige snelheidsmetingen uitvoeren.<br>
 
 <p>Voor meer informatie over de technische vereisten, objectclassificatie, nauwkeurigheid en mogelijke beperkingen, gegevenskalibratie en vragen over de snelheidsgegevens kunt u terecht op
-<a href="https://faq-nl.helpspace-docs.io/category/17/telraam-v1">onze FAQ</a>.</p>',
+<a href="https://faq-nl.telraam.net/category/17/telraam-v1">onze FAQ</a>.</p>',
 
 
 ];

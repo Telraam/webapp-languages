@@ -36,16 +36,16 @@ If the connection was unsuccessful, there is probably a typo error or the wrong 
     'btn-next'          => 'OK, Telraam fixed and connection made',
 
     // new 21 feb
-    'faq-no-wifi-link' => 'https://telraam.helpspace-docs.io/article/45/there-is-no-telraam-hotspot-visible',
+    'faq-no-wifi-link' => 'https://faq.telraam.net/article/45/there-is-no-telraam-hotspot-visible',
     'faq-no-wifi-text' => 'There is no Telraam Wifi visible',
 
-    'faq-hotspot-link' => 'https://telraam.helpspace-docs.io/article/46/connecting-to-the-telraam-hotspot-fails',
+    'faq-hotspot-link' => 'https://faq.telraam.net/article/46/connecting-to-the-telraam-hotspot-fails',
     'faq-hotspot-text' => 'Connecting to the Telraam hotspot fails.',
 
-    'faq-no-images-link' => 'https://telraam.helpspace-docs.io/article/47/i-cannot-see-any-camera-images-on-mytelraamnet',
+    'faq-no-images-link' => 'https://faq.telraam.net/article/47/i-cannot-see-any-camera-images-on-mytelraamnet',
     'faq-no-images-text' => 'I cannot see any camera images on my.telraam.net',
 
-    'faq-no-data-link' => 'https://telraam.helpspace-docs.io/article/49/no-data-is-coming-from-my-telraam-yet',
+    'faq-no-data-link' => 'https://faq.telraam.net/article/49/no-data-is-coming-from-my-telraam-yet',
     'faq-no-data-text' => 'No data is coming through from my Telraam yet'
 
 ];

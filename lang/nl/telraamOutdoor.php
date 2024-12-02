@@ -20,8 +20,8 @@ return [
     // FAQ
     'faq-title'         => 'FAQ',
     'question-1'           => 'Is er een verschil tussen de standaard S2 en deze outdoor sensor?',
-	'answer-1'           => 'De interne componenten blijven hetzelfde, maar de buitenkant is aangepast om weerbestendig te zijn. 
- Het Telraam functioneert net zoals de indoor Telraam S2 en draait dezelfde software om verkeer te detecteren. Dit betekent dat het dezelfde <a href="https://faq-nl.helpspace-docs.io/article/75/vereisten-voor-de-plaatsing-van-mijn-telraam-op-een-raam">locatievereisten</a> heeft als de Telraam S2 voor binnen.',
+	'answer-1'           => 'De interne componenten blijven hetzelfde, maar de buitenkant is aangepast om weerbestendig te zijn.
+ Het Telraam functioneert net zoals de indoor Telraam S2 en draait dezelfde software om verkeer te detecteren. Dit betekent dat het dezelfde <a href="https://faq-nl.telraam.net/article/75/vereisten-voor-de-plaatsing-van-mijn-telraam-op-een-raam">locatievereisten</a> heeft als de Telraam S2 voor binnen.',
 
     'question-2'           => 'Wat zullen de kosten zijn?',
  	'answer-2' 			=> 'De kosten van Telraam Outdoor zal hoger zijn dan het Telraam S2 indoor model. Het zonnepaneel is niet inbegrepen in deze prijs en kan tegen een meerprijs worden gekocht, alleen in België. We leveren het zonnepaneel+batterijpakket niet internationaal.',

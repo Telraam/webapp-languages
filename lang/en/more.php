@@ -40,10 +40,10 @@ return [
     'camera-not-found' => 'Camera not found',
     'camera-is-set-up' => 'Camera has been installed',
     'camera-is-set-up-but-no-data' => '<strong>Camera was installed, but no data received yet.</strong> <br>If successful, after no more than 20 minutes you\'ll receive a message here that data is indeed received and your sensor is installed. If it takes longer, something went wrong.
-    <a href=https://telraam.helpspace-docs.io/article/49/no-data-is-coming-from-my-telraam-yet target=_blank>Try these steps</a>',
+    <a href=https://faq.telraam.net/article/49/no-data-is-coming-from-my-telraam-yet target=_blank>Try these steps</a>',
     'camera-received-data' => 'Camera has been set up and server has received data',
     'fully-ready' => 'Fully ready',
-    'did-not-pass-test' => 'Twenty minutes have passed and we have not received a data package. <br><a href=https://telraam.helpspace-docs.io/article/49/no-data-is-coming-from-my-telraam-yet target=_blank>Try these steps</a>',
+    'did-not-pass-test' => 'Twenty minutes have passed and we have not received a data package. <br><a href=https://faq.telraam.net/article/49/no-data-is-coming-from-my-telraam-yet target=_blank>Try these steps</a>',
     'we-re-checking-still' => 'We are still checking',
     'minutes' => 'minute(s)',
     'telraam-site' => 'Telraam website',
@@ -53,14 +53,14 @@ return [
     'speed' => "Speed",
     'speed-distribution-car' => "Speed cars",
     'speed-remark' => 'Speeds are indicative. Measurements may differ by 10% from effective speeds. <br>Here you find
-  <a href="https://telraam.helpspace-docs.io/article/13/speed-measurements-how-to-read-the-speed-chart">more information on how to interpret these data</a>',
+  <a href="https://faq.telraam.net/article/13/speed-measurements-how-to-read-the-speed-chart">more information on how to interpret these data</a>',
 
     'speed-remark-v85' => 'The V85 is a widely used indicator in the world of mobility and road safety, as it is deemed
-    to be representative of the speed one can reasonably maintain on a road. <a href="https://faq-fr.helpspace-docs.io/article/164/la-mesure-des-vitesses-v85-explique" target="_blank">Read more about V85</a>',
+    to be representative of the speed one can reasonably maintain on a road. <a href="https://faq-fr.telraam.net/article/164/la-mesure-des-vitesses-v85-explique" target="_blank">Read more about V85</a>',
 
 
     // 22 feb
-    'faq-interpret-data-link' => 'https://telraam.helpspace-docs.io/article/43/potential-inaccuracies-with-telraam-s2',
+    'faq-interpret-data-link' => 'https://faq.telraam.net/article/43/potential-inaccuracies-with-telraam-s2',
     'faq-interpret-data-text' => 'How should I interpret the Telraam data?',
 
     // 23 feb
@@ -73,7 +73,7 @@ return [
     'timerangetoolong14days' => 'The difference between the two dates is too long. The maximum is two weeks on the public page.',
 
     // 17 mei
-    'no-callibration' => 'Ratio auto/large vehicles not correct? Be patient, Telraam needs time to calibrate itself. <a href="https://telraam.helpspace-docs.io/article/20/telraam-calibration-and-the-ratio-auto-large-vehicles">Faq article</a>',
+    'no-callibration' => 'Ratio auto/large vehicles not correct? Be patient, Telraam needs time to calibrate itself. <a href="https://faq.telraam.net/article/20/telraam-calibration-and-the-ratio-auto-large-vehicles">Faq article</a>',
 
     // 7 juni location detail
     'header-data' => 'Data',

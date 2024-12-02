@@ -14,8 +14,9 @@ return [
     'step-1-device-code' => 'De code van uw toestel',
     'step-1-description'  => 'Voer de 15 cijfers en 2 extra validatietekens van uw toestel in, die je onder de QR code op het Telraam ziet.',
 
-    'step-1-warning' => 'Let op! Je hebt een andere Telraam-installatie met dezelfde gebruikers account.
-    De oude installatie zal stoppen met tellen wanneer u een nieuwe installatie initialiseert. U kunt slechts één installatie per gebruikersaccount hebben.',
+    'step-1-warning' => 'Een Telraam-installatie is al gekoppeld aan uw account. <strong>Als u een nieuwe installatie start, wordt de vorige gedeactiveerd</strong>,
+omdat elk gebruikers slechts één actieve apparaatinstallatie kan beheren.
+Hulp nodig? Contacteer ons via <a href="mailto:support@telraam.net">support@telraam.net</a>.',
 
     // Step 2:address
     'step-2-long-title' => 'Wat is het adres van de Telraam installatie?',

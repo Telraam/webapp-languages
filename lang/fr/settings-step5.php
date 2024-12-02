@@ -40,15 +40,15 @@ Si la connexion n\'a pas abouti, il y a probablement une faute de frappe dans le
 
 
     // new 21 feb
-    'faq-no-wifi-link' => 'https://faq-fr.helpspace-docs.io/article/185/le-hotspot-de-telraam-nest-pas-visible',
+    'faq-no-wifi-link' => 'https://faq-fr.telraam.net/article/185/le-hotspot-de-telraam-nest-pas-visible',
     'faq-no-wifi-text' => ' Il n\'y a pas de Telraam Wifi visible',
 
-    'faq-hotspot-link' => 'https://faq-fr.helpspace-docs.io/article/185/le-hotspot-de-telraam-nest-pas-visible',
+    'faq-hotspot-link' => 'https://faq-fr.telraam.net/article/185/le-hotspot-de-telraam-nest-pas-visible',
     'faq-hotspot-text' => 'Impossible de se connecter au hotspot Telraam.',
 
-    'faq-no-images-link' => 'https://faq-fr.helpspace-docs.io/article/187/je-ne-vois-aucune-image-de-camera-sur-mytelraamnet',
+    'faq-no-images-link' => 'https://faq-fr.telraam.net/article/187/je-ne-vois-aucune-image-de-camera-sur-mytelraamnet',
     'faq-no-images-text' => 'Je ne vois aucune image de caméra sur my.telraam.net',
 
-    'faq-no-data-link' => 'https://faq-fr.helpspace-docs.io/article/189/mon-telraam-ne-compte-pas-encore',
+    'faq-no-data-link' => 'https://faq-fr.telraam.net/article/189/mon-telraam-ne-compte-pas-encore',
     'faq-no-data-text' => 'Il n’y a pas encore de données qui transitent par ma Telraam'
 ];

@@ -33,10 +33,10 @@ of the summer, then a basic back-end and front-end were built from scratch, with
 in Leuven during early 2019. By the time the Telraam S2 was launched in 2023, more than 5000 Telraam V1 devices had been sold
  around the world.</p>',
 
-    'section1-text-extra'        => 'Because most of our users just want to count traffic and aren\'t necessarily technically skilled 
-    to work with Raspberry Pi\'s, we only sell the Telraam S2 since its release in spring 2023. However, we know that there are plenty of techies 
-    out there who would love to get started, and for them the Raspberry Pi based V1 sensors is still a great tool to play with. 
-    That is why we are not only still supporting the old V1 sensors in the field, but also installations of new self-built Telraam V1 devices. 
+    'section1-text-extra'        => 'Because most of our users just want to count traffic and aren\'t necessarily technically skilled
+    to work with Raspberry Pi\'s, we only sell the Telraam S2 since its release in spring 2023. However, we know that there are plenty of techies
+    out there who would love to get started, and for them the Raspberry Pi based V1 sensors is still a great tool to play with.
+    That is why we are not only still supporting the old V1 sensors in the field, but also installations of new self-built Telraam V1 devices.
     If you want to count traffic and you’re not scared of a Raspberry Pi project, read on!',
 
     'section2-title'        => 'DIY',
@@ -56,7 +56,7 @@ in Leuven during early 2019. By the time the Telraam S2 was launched in 2023, mo
             </ul>
         <br>
         Please consult our FAQ for more information on
-            <a href="https://telraam.helpspace-docs.io/article/36/do-it-yourself-assemble-telraam-by-yourself">how to assemble your device</a>.</p>
+            <a href="https://faq.telraam.net/article/36/do-it-yourself-assemble-telraam-by-yourself">how to assemble your device</a>.</p>
 ',
 
     'section2-text-extra'        => '<b> The software and firmware included in the offered SD card image were created for
@@ -94,7 +94,7 @@ The Telraam server classifies objects originating from Telraam V1 devices into f
 
 <p>For more information on the technical requirements, object classification, accuracy and potential limitations, data
 calibration, and questions regarding the speed data, please
-<a href="https://telraam.helpspace-docs.io/category/5/telraam-v1">visit our FAQ</a>.</p>',
+<a href="https://faq.telraam.net/category/5/telraam-v1">visit our FAQ</a>.</p>',
 
 
 ];

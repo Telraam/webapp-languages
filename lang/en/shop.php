@@ -56,7 +56,7 @@ or a full network solution. Browse our ready-made packages or customize your own
 
     // warning
     'warning-body-1' => '<strong>The Telraam S2 device needs a clear view of the street.</strong>
-Review the <a href="https://telraam.helpspace-docs.io/article/3/requirements-for-the-installation-of-a-telraam-in-my-window" target="_blank" class="grey">requirements for the window placement</a>
+Review the <a href="https://faq.telraam.net/article/3/requirements-for-the-installation-of-a-telraam-in-my-window" target="_blank" class="grey">requirements for the window placement</a>
     of your device(s).',
     'warning-body-2' => '<strong>We rely on cellular data-transfer via LTE-M or NB-IoT networks.</strong> Check operator coverage maps for your area/country if you are unsure, or
 reach out to us <a href=mailto:support@telraam.net?body=coverage class="grey">via email</a> so we can assist.',
@@ -111,7 +111,7 @@ reach out to us <a href=mailto:support@telraam.net?body=coverage class="grey">vi
     'tailer-made' => 'Tailor made solutions',
     'free' => 'Free',
     'make-private' => 'Make the installation private',
-    'make-private-info' => 'Some users or organizations may want to keep their data private <a href="https://telraam.helpspace-docs.io/article/329/can-i-make-my-data-private">Read more</a>'
+    'make-private-info' => 'Some users or organizations may want to keep their data private <a href="https://faq.telraam.net/article/329/can-i-make-my-data-private">Read more</a>'
 
 
 ];

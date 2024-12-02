@@ -20,7 +20,7 @@ connecterez à l\'appareil Telraam pour connecter votre Telraam à votre propre 
 <a href="https://youtu.be/ChA4f2j8XoM" target="_blank">Regardez la vidéo pour régler la prise.</a></li>
  <li><img src="/images/settings/adapter.jpg" style="float: right; width: 42px; margin-left: 10px;">Facultatif: vous avez reçu un adaptateur de carte Micro SD avec votre Telraam.
   Cet adaptateur peut être utilisé si le
- <a href="https://faq-fr.helpspace-docs.io/article/183/mettre-a-jour-le-software-telraam-soi-meme" target="_blank">vous devez mettre à jour ou installer le software.</a>. Cela n\'est généralement pas nécessaire.<br></li>
+ <a href="https://faq-fr.telraam.net/article/183/mettre-a-jour-le-software-telraam-soi-meme" target="_blank">vous devez mettre à jour ou installer le software.</a>. Cela n\'est généralement pas nécessaire.<br></li>
 ',
 
   'btn-next' => "Ok, suivant",

@@ -9,6 +9,6 @@ return [
     How do you go about this? Well, we built an interface to make it easy. Click below and select from the options:",
     'button' => 'Confirm your region of interest',
    'body-2' => 'If you have trouble setting the ROI or have additional questions feel to browse to
-      <a href="https://telraam.helpspace-docs.io/article/66/region-of-interest-roi-and-roi-selection-with-telraam-s2"> our faq article</a> or email
+      <a href="https://faq.telraam.net/article/66/region-of-interest-roi-and-roi-selection-with-telraam-s2"> our faq article</a> or email
       <a href="mailto:support@telraam.net">support@telraam.net</a>',
 ];

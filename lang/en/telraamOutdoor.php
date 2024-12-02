@@ -26,8 +26,8 @@ develop an autonomous Telraam S2 device which you can install outdoors. We want 
     // FAQ
     'faq-title'         => 'FAQ',
     'question-1'           => 'Is there a difference between the regular S2 and this outdoor device?',
-	'answer-1'           => 'The internal components remain the same, but the outer casing has been updated to be weather-resistant. 
- The device functions just like the regular S2 for indoor use and runs the same software to detect traffic. This means it has the same <a href="https://telraam.helpspace-docs.io/article/3/requirements-for-the-installation-of-a-telraam-in-my-window">location requirements</a> as the indoor Telraam S2.',
+	'answer-1'           => 'The internal components remain the same, but the outer casing has been updated to be weather-resistant.
+ The device functions just like the regular S2 for indoor use and runs the same software to detect traffic. This means it has the same <a href="https://faq.telraam.net/article/3/requirements-for-the-installation-of-a-telraam-in-my-window">location requirements</a> as the indoor Telraam S2.',
 
     'question-2'           => 'What will the cost be?',
  	'answer-2' 			=> 'The cost of the device will be significantly compared to the Telraam S2 indoor model. The solar panel is not included in our offering and can be purchased at an additional price, in Belgium only. We do not ship the solar+battery kit internationally.',

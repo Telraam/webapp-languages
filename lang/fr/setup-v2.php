@@ -14,8 +14,8 @@ return [
     'step-1-device-code' => 'Le code de votre appareil',
     'step-1-description'  => 'Veuillez saisir les 15 chiffres et les 2 caractères de validation qui se trouvent sous le code QR sur votre appareil.',
 
-    'step-1-warning' => 'Attention! Vous avez une autre installation Telraam avec le même utilisateur.
-    L\'ancienne installation cessera de compter lorsque vous initialiserez une nouvelle installation. Vous ne pouvez avoir qu\'une seule installation par compte utilisateur.',
+    'step-1-warning' => 'Attention! Une configuration Telraam est déjà liée à votre compte. <strong>Le démarrage d\'une nouvelle configuration désactivera la précédente</strong>,
+car chaque compte ne peut gérer qu\'une seule configuration d\'appareil active. Besoin d\'aide? Contactez <a href="mailto:support@telraam.net">support@telraam.net</a>',
 
     // Step 2:address
     'step-2-long-title' => 'Quelle est l\'adresse de l\'installation Telraam ?',

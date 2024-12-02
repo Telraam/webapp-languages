@@ -49,7 +49,7 @@ return [
     'intro-packages' => 'Commencez avec Telraam dès aujourd\'hui. Pour vous permettre de compter rapidement, nous proposons quelques forfaits prêts à l\'emploi dans la boutique.',
 
     // warning
-    'warning-body-1' => '<strong>L\'appareil Telraam doit avoir une vue dégagée sur la rue.</strong><br> Consultez les <a href="https://faq-fr.helpspace-docs.io/article/147/conditions-a-respecter-pour-lemplacement-de-ma-fenetre-photo-a-uploader-lors-de-lenregistrement" class="grey" target="_blank">conditions à respecter pour l\'emplacement</a> de votre (vos) appareil(s).',
+    'warning-body-1' => '<strong>L\'appareil Telraam doit avoir une vue dégagée sur la rue.</strong><br> Consultez les <a href="https://faq-fr.telraam.net/article/147/conditions-a-respecter-pour-lemplacement-de-ma-fenetre-photo-a-uploader-lors-de-lenregistrement" class="grey" target="_blank">conditions à respecter pour l\'emplacement</a> de votre (vos) appareil(s).',
     'warning-body-2' => '<strong>La couverture du réseau mobile LTE-M doit être adéquate</strong>. <br> Vérifiez les cartes de couverture de l\'opérateur pour votre région/pays si vous n\'êtes pas sûr, ou contactez-nous <a href=mailto:support@telraam.net?body=coverage class="grey">par e-mail</a> pour que nous puissions vous aider.',
 
   'product-1-title' => 'Telraam S2 - Basique',
@@ -99,7 +99,7 @@ Les organisations, villes ou associations sont tenues de fournir aux citoyens un
     'tailer-made' => 'Solution sur mesure',
     'free' => 'Gratuit',
     'make-private' => 'Rendre l’installation privée',
-    'make-private-info' => 'Certains utilisateurs ou organisations peuvent souhaiter que leurs données restent confidentielles <a href="https://faq-fr.helpspace-docs.io/article/332/puis-je-rendre-mes-donnees-privees">En savoir plus</a>'
+    'make-private-info' => 'Certains utilisateurs ou organisations peuvent souhaiter que leurs données restent confidentielles <a href="https://faq-fr.telraam.net/article/332/puis-je-rendre-mes-donnees-privees">En savoir plus</a>'
 
 
 ];

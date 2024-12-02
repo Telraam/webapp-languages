@@ -4,7 +4,7 @@ return [
 
     'title' => 'Register for a Telraam Account',
      'intro'        => 'Create a Telraam account so you can access all Telraam tools and services. You will need an account whether you are taking part in the Telraam Talks forum, setting up your Telraam device, joining a Network, or accessing the API.',
-      'note'        => 'If you are planning on setting up a Telraam device, please review the <a href="https://telraam.helpspace-docs.io/article/3/requirements-for-the-installation-of-a-telraam-in-my-window" target="_blank">ideal placement requirements here</a>',
+      'note'        => 'If you are planning on setting up a Telraam device, please review the <a href="https://faq.telraam.net/article/3/requirements-for-the-installation-of-a-telraam-in-my-window" target="_blank">ideal placement requirements here</a>',
 
     'register-list' => '<li>You live somewhere with a street-facing window </li>
 <li>This window has a completely unobstructed view onto the street (roadway) - no poles, trees, or structures which block the view in any way)</li>

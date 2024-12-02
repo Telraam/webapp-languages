@@ -14,8 +14,8 @@ return [
     'step-1-device-code' => 'Your device code',
     'step-1-description'  => 'Please enter the 15 numbers and 2 validation characters found below the QR code on your device.',
 
-    'step-1-warning' => 'Warning! You have another Telraam installation with the same user.
-    The old installation will stop counting when you initialise a new installation. You can only have one installation per user account.',
+    'step-1-warning' => 'Warning! A Telraam setup is already linked to your account.  <strong>Starting a new setup will deactivate the previous one</strong>, as each account can only manage one active device setup.
+Need help? Contact <a href="mailto:support@telraam.net">support@telraam.net</a>.',
 
     // Step 2:address
     'step-2-long-title' => 'What is the address of the Telraam installation?',

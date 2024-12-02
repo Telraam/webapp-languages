@@ -53,7 +53,7 @@ return [
 
     // warning
     'warning-body-1' => '<strong>Een vrij zicht op de rijbaan is noodzakelijk voor een Telraam S2-toestel.</strong><br>
-Bekijk de  <a href="https://faq-nl.helpspace-docs.io/article/75/vereisten-voor-de-plaatsing-van-mijn-telraam-foto-op-het-deelnameformulier" target="_blank" class="grey">vereisten voor de plaatsing</a>
+Bekijk de  <a href="https://faq-nl.telraam.net/article/75/vereisten-voor-de-plaatsing-van-mijn-telraam-foto-op-het-deelnameformulier" target="_blank" class="grey">vereisten voor de plaatsing</a>
     van uw Telraam.',
     'warning-body-2' => '<strong>Er is voldoende dekking van het LTE-M datanetwerk</strong><br>
  In geval van twijfel controleer de dekkingskaarten van de operator voor uw zone, of neem contact met ons <a href=mailto:support@telraam.net?body=coverage class="grey">via email</a>
@@ -108,6 +108,6 @@ Bekijk de  <a href="https://faq-nl.helpspace-docs.io/article/75/vereisten-voor-d
     'tailer-made' => 'oplossing op maat',
     'free' => 'Gratis',
     'make-private' => 'Maak de installatie privé',
-    'make-private-info' => 'Sommige gebruikers of organisaties willen hun gegevens privé houden <a href="https://faq-nl.helpspace-docs.io/article/331/kan-ik-mijn-gegevens-prive-maken">Lees meer</a>'
+    'make-private-info' => 'Sommige gebruikers of organisaties willen hun gegevens privé houden <a href="https://faq-nl.telraam.net/article/331/kan-ik-mijn-gegevens-prive-maken">Lees meer</a>'
 
 ];

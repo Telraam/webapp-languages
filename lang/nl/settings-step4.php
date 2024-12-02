@@ -19,7 +19,7 @@ return [
  eenvoudig wisselen met de meegeleverde stukken. <a href="https://youtu.be/ChA4f2j8XoM" target="_blank">Bekijk de video om de stekker aan te passen.</a></li>
  <li><img src="/images/settings/adapter.jpg" style="float: right; width: 42px; margin-left: 10px;" target="_blank">Optioneel: Samen met je Telraam heb je ook
   een Micro SD-Kaart adapter gekregen. De adapter kun je eventueel gebruiken als je de
-  <a href="https://faq-nl.helpspace-docs.io/article/136/de-telraam-software-zelf-updaten">software dient te installeren/updaten</a>. Dit is meestal niet nodig.<br></li>
+  <a href="https://faq-nl.telraam.net/article/136/de-telraam-software-zelf-updaten">software dient te installeren/updaten</a>. Dit is meestal niet nodig.<br></li>
 ',
 
     'btn-next' =>          'Ok, volgende',
