@@ -53,8 +53,8 @@ Bent u op zoek naar een betaalbare, multimodale oplossing voor de verkeersmonito
     'role-dave'     => 'Co-founder and web development',
     'sentence-dave'    => 'Houdt van de fijne combinatie van ontwerpen, ontwikkeling en strategie in zijn werk. Passie voor kunst, muziek en waagt zich nog steeds aan buitenvoetbal tot zijn knieën het echt begeven.',
 
-    'role-peter'    => 'Data-analytics and development',
-    'sentence-peter'    => 'Peter heeft een doctoraat in Astronomie en Astrofysica (KU Leuven) en 5 jaar ervaring in het werken met transportgerelateerde gegevens. Na het werk is hij wielrenner, privépiloot of bassist. YNWA! YNWA!',
+    'role-peter'    => 'Chief Technology Officer',
+    'sentence-peter'    => 'Péter heeft een doctoraat in Astronomie en Astrofysica (KU Leuven) en vele jaren ervaring in het werken met transportgerelateerde gegevens (en AWS). Hij verliest zich ook graag in grafisch/productontwerp. Na het werk is hij aan het fietsen, vliegvissen, vliegen als privépiloot of basgitaar aan het spelen. YNWA!',
 
     'role-luc'     => 'Embedded software engineer',
     'sentence-luc'    => 'Begon 20+ jaar geleden te werken op embedded systemen en sindsdienspeelt hij graag met hardware, debuggers, logic analyzer,
