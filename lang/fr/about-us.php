@@ -65,9 +65,8 @@ organisation à but non lucratif, une société d\'ingénierie du trafic ou de c
     'sentence-dave'    => 'Il aime mélanger la conception, le développement et un peu de stratégie dans son travail.
 Il aime l\'art, la musique et un peu de folie. Joue au football en plein air jusqu\'à ce que ses genoux lâchent. ',
 
-    'role-peter'    => 'Analyse et développement des données',
-    'sentence-peter'    => 'Peter est titulaire d\'un doctorat en astronomie et astrophysique (KU Leuven) et a cinq ans d\'expérience dans le traitement des données relatives aux transports.
-Après le travail, il fait du vélo sur route, est pilote privé ou joue de la basse. YNWA!',
+    'role-peter'    => 'Directeur de la technologie',
+    'sentence-peter'    => 'Péter est titulaire d\'un doctorat en astronomie et astrophysique (KU Leuven) et possède de nombreuses années d\'expérience dans le traitement des données relatives aux transports (et AWS). Il aime aussi se perdre dans la conception de graphiques et de produits. Après le travail, il fait du vélo, de la pêche à la mouche, du pilotage en tant que pilote privé ou joue de la basse. YNWA!',
 
     'role-luc'     => 'Ingénieur en logiciel embarqué',
     'sentence-luc'    => 'A commencé à travailler sur des systèmes embarqués il y a plus de 20 ans et depuis lors
