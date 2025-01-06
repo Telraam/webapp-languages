@@ -62,7 +62,7 @@ human-focused, multimodal traffic culture. </p>',
     'sentence-dave'    => 'Likes to have design, development and a bit of strategy all mixed in his work.
     Enjoys art, music and a bit of crazyness. Plays outdoor football till his knees really give it up.',
 
-    'role-peter'    => 'Chief Tedhnology Officer',
+    'role-peter'    => 'Chief Technology Officer',
     'sentence-peter'    => 'Péter has a PhD in Astronomy and Astrophysics (KU Leuven), and many years of experience in working with transport related data (and AWS). He loves getting lost in graphic/product design too. After work he is either cycling, fly fishing, flying as a private pilot, or playing the bass. YNWA!',
 
     'role-luc'     => 'Embedded software engineer',
