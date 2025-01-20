@@ -18,29 +18,21 @@ develop an autonomous Telraam S2 device which you can install outdoors. We want 
  by with a small solar panel & battery.</p>',
 
     // table
-    'row-1-header'  => 'Hardware price',
-    'row-1-s2'      => '€ 160.00 <span class="grey">excl vat</span>',
-    'row-1-outdoor' => '€ 500.00 <span class="grey">excl vat</span>',
+    'row-1-header'  => 'Installation & maintenance',
+    'row-1-s2'      => 'Citizen',
+    'row-1-outdoor' => 'Professional',
 
-    'row-2-header'  => 'Subscription',
-    'row-2-s2'      => 'Free / Premium / Network',
-    'row-2-outdoor' => 'Network only',
+    'row-2-header'  => 'Power',
+    'row-2-s2'      => 'Standard plug with USB-C',
+    'row-2-outdoor' => 'DC connection <br>Optional solar panel & battery',
 
-    'row-3-header'  => 'Installation & maintenance',
-    'row-3-s2'      => 'Citizen',
-    'row-3-outdoor' => 'Professional',
+    'row-3-header'  => 'Positioning',
+    'row-3-s2'      => 'Window, indoors',
+    'row-3-outdoor' => 'Suitable elevated location outdoors (posts, buildings & structures, trees, etc.)',
 
-    'row-4-header'  => 'Power',
-    'row-4-s2'      => 'Standard plug with USB-C',
-    'row-4-outdoor' => 'DC connection <br>Optional solar panel & battery',
-
-    'row-5-header'  => 'Positioning',
-    'row-5-s2'      => 'Window, indoors',
-    'row-5-outdoor' => 'Suitable elevated location outdoors (posts, buildings & structures, trees, etc.)',
-
-    'row-6-header'  => 'Design',
-    'row-6-s2'      => 'Attractive design with interactive LCD display & online dashboard',
-    'row-6-outdoor' => 'Unobtrusive weatherproof enclosure & online dashboard controls',
+    'row-4-header'  => 'Design',
+    'row-4-s2'      => 'Attractive design with interactive LCD display & online dashboard',
+    'row-4-outdoor' => 'Unobtrusive weatherproof enclosure & online dashboard controls',
 
     // block more info: Why choose Telraam S2 Outdoor?
     'section-more-title' => 'Why choose Telraam S2 Outdoor?',
@@ -63,15 +55,24 @@ Technical expertise is only required to supply the outdoor device with power, bu
 
     // FAQ
     'faq-title'         => 'FAQ',
+
+
     'question-1'           => 'Is there a difference between the regular S2 and this outdoor device?',
     'answer-1'           => 'The internal components remain the same, but the outer casing has been updated to be weather-resistant.
  The device functions just like the regular S2 for indoor use and runs the same software to detect traffic. This means it has the same <a href="https://faq.telraam.net/article/3/requirements-for-the-installation-of-a-telraam-in-my-window">location requirements</a> as the indoor Telraam S2.',
 
-    'question-2'           => 'What is the cost?',
-    'answer-2' 			=> 'The price of the S2 Outdoor device is 500eur. The solar panel is not included in our offering and can be purchased at an additional price, in Belgium only. We do not ship the solar+battery kit internationally.',
+    'question-2'           => ' Is the device fully power independent?',
+    'answer-2' 			=> 'Almost. You can get 100% full autonomy with a large solar panel + battery, but there\'s a sensible trade-off
+ 	between size of battery and solar panel and the cost. We believe we found the right balance during the prototype phase.',
 
-    'question-3'           => ' Is the device fully power independent?',
-    'answer-3' 			=> 'Almost. You can get 100% full autonomy with a large solar panel + battery, but there\'s a sensible trade-off
- 	between size of battery and solar panel and the cost. We believe we found the right balance during the prototype phase.'
+    'question-3'        => 'What is the cost of a Telraam S2 Outdoor?',
+    'answer-3' 			=> 'The Telraam S2 Outdoor device costs €500. Additionally, it requires a network subscription, which costs €25 per month. For more details about subscriptions, visit our <a href="../en/pricing">pricing page</a>.',
+
+    'question-4'         => 'How to order a Telraam S2 Outdoor?',
+    'answer-4'           => 'You can order a Telraam S2 Outdoor by filling out our <a href="../contact-us">contact form</a> or reaching out to us at <a href="mailto:info@telraam.net">info@telraam.net</a>.',
+
+    'question-5'         => 'How and when will the Telraam S2 Outdoor be delivered?',
+    'answer-5'           => 'Telraam S2 Outdoor devices are delivered by post. For the latest information on delivery times, please contact us at <a href="mailto:info@telraam.net">info@telraam.net</a>.',
+
 
 ];
