@@ -56,7 +56,6 @@ Technical expertise is only required to supply the outdoor device with power, bu
     // FAQ
     'faq-title'         => 'FAQ',
 
-
     'question-1'           => 'Is there a difference between the regular S2 and this outdoor device?',
     'answer-1'           => 'The internal components remain the same, but the outer casing has been updated to be weather-resistant.
  The device functions just like the regular S2 for indoor use and runs the same software to detect traffic. This means it has the same <a href="https://faq.telraam.net/article/3/requirements-for-the-installation-of-a-telraam-in-my-window">location requirements</a> as the indoor Telraam S2.',
@@ -69,9 +68,9 @@ Technical expertise is only required to supply the outdoor device with power, bu
     'answer-3' 			=> 'The Telraam S2 Outdoor device costs €500. Additionally, it requires a network subscription, which costs €25 per month. For more details about subscriptions, visit our <a href="../en/pricing">pricing page</a>.',
 
     'question-4'         => 'How to order a Telraam S2 Outdoor?',
-    'answer-4'           => 'You can order a Telraam S2 Outdoor by filling out our <a href="../contact-us">contact form</a> or reaching out to us at <a href="mailto:info@telraam.net">info@telraam.net</a>.',
+    'answer-4'           => 'You can order a Telraam S2 Outdoor by filling out our <a href="../en/contact-us">contact form</a> or reaching out to us at <a href="mailto:info@telraam.net">info@telraam.net</a>.',
 
-    'question-5'         => 'How and when will the Telraam S2 Outdoor be delivered?',
+    'question-5'         => 'How and when will my Telraam S2 Outdoor be delivered?',
     'answer-5'           => 'Telraam S2 Outdoor devices are delivered by post. For the latest information on delivery times, please contact us at <a href="mailto:info@telraam.net">info@telraam.net</a>.',
 
 
