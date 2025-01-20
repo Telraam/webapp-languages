@@ -7,15 +7,10 @@ return [
 
     'subtitle'          => 'Fully autonomous Telraam S2 for outdoor deployment',
 
-    'section1-block1-text'        => '<p>Do you want to install a Telraam device to count traffic in your street, but the view
-is blocked by that damn tree? Obviously, you don\'t want to cut down the tree, but you do want to count traffic, so for you,
-it\'d be best to have a Telraam actually outside, maybe attached to the tree.</p>
+    'section1-block1-text'        => '<p>Do you want to install a Telraam device to count traffic in a street, but the view
+is blocked by a tree? Or maybe you want to monitor a path with no windows nearby? Obviously, you don\'t want to cut down trees, but you still want to count traffic, so it would be ideal to have a Telraam actually outside, ... maybe even attached to the tree.</p>
 
-<p>You\'re not the only one and we\'ve heard your call. To address this need, we have embarked on a new development journey to
-develop an autonomous Telraam S2 device which you can install outdoors. We want to keep the simplicity of installation, so
- don\'t mess with power cables or wifi connections, so our approach is to fit our existing S2 device in a safe enclosure
- and combine it with a small solar panel and internal battery. Because our device consumes very little power, we get
- by with a small solar panel & battery.</p>',
+<p>We\'ve heard from many users that there are circumstances that require some devices in a network to be placed in outside locations. Whether this is for cycle paths in open spaces, to raise the device into the eaves of a single-storey building, on a balcony that otherwise obscures the window view, or maybe on the outside of a building to avoid overhangs and other structures in the way. To address this need, we have been on a journey to develop a version of the Telraam S2 device which you can install outdoors and even be powered autonomously. We still wanted to keep the simplicity of installation, so our approach has been to put our existing S2 device in a weather-safe enclosure which can be plugged in to residential power if available, but also, because it consumes very little power, make it possible to combine it with a small solar panel and internal battery.</p>',
 
     // table
     'row-1-header'  => 'Installation & maintenance',
