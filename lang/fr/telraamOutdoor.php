@@ -7,11 +7,21 @@ return [
 
     'subtitle'        => 'Telraam S2 entièrement autonome pour une installation en extérieur',
 
-    'section1-block1-text' => '<p>Vous voulez installer un appareil Telraam pour compter le trafic dans votre rue, mais la vue
-est bloquée par cet arbre encombrant ? Évidemment, vous ne voulez pas abattre l\'arbre, mais vous voulez compter le trafic, donc pour vous,
-le mieux serait d\'avoir un Telraam en extérieur, peut-être attaché à l\'arbre.</p>
+    'section1-block1-text' => '<p>Ou peut-être voulez-vous surveiller un chemin sans fenêtre à proximité ?
+ Évidemment, vous ne voulez pas couper les arbres, mais vous voulez quand même compter le trafic, alors il
+ serait idéal d\'avoir un Telraam à l\'extérieur, ... peut-être même attaché à l\'arbre.</p>
 
-<p>Vous n\'êtes pas le seul et nous avons entendu votre demande. Pour répondre à ce besoin, nous avons entrepris un nouveau développement pour créer un appareil Telraam S2 autonome que vous pouvez installer à l\'extérieur. Nous voulons maintenir la simplicité d\'installation, donc pas de câbles électriques ou de connexions wifi, notre approche est d\'installer notre appareil S2 existant dans un boîtier sécurisé et de le combiner avec un petit panneau solaire et une batterie interne. Comme notre appareil consomme très peu d\'énergie, un petit panneau solaire et une batterie suffisent.</p>',
+<p>De nombreux utilisateurs nous ont dit que, dans certaines circonstances, certains appareils
+d\'un réseau doivent être placés à l\'extérieur. Qu\'il s\'agisse de pistes cyclables dans des
+espaces ouverts, d\'élever l\'appareil dans l\'avant-toit d\'un bâtiment de plain-pied, sur
+un balcon qui obscurcit la vue de la fenêtre, ou peut-être à l\'extérieur d\'un bâtiment
+pour éviter les surplombs et les autres structures qui gênent le passage. Pour répondre à
+ce besoin, nous avons entrepris de développer une version du Telraam S2 pouvant être
+installée à l\'extérieur et même alimentée de manière autonome. Nous voulions conserver
+la simplicité d\'installation, et notre approche a donc consisté à placer notre dispositif S2
+existant dans un boîtier résistant aux intempéries qui peut être branché sur le réseau
+électrique résidentiel s\'il est disponible, mais aussi, parce qu\'il consomme très peu d\'énergie,
+ permettre de le combiner avec un petit panneau solaire et une batterie interne.</p>',
 
     // table
     'row-1-header'  => ' Installation et maintenance',

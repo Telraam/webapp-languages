@@ -7,9 +7,20 @@ return [
 
     'subtitle'          => 'Volledig autonoom Telraam S2 voor outdoor gebruik',
 
-    'section1-block1-text'        => '<p>Wil je ook een Telraam-sensor installeren om het verkeer in je straat te tellen, maar wordt het zicht geblokkeerd door die verdomde boom? Natuurlijk wil je deze boom niet omhakken, maar wil je wel het verkeer tellen. Voor jou wordt het Telraam dus best effectief in de buitenlucht geplaatst, eventueel dan bevestigd aan deze boom.</p>
-
-<p>Je bent hierin alleszins niet de enige, en we hebben jullie oproep gehoord. Om in deze nood te kunnen voorzien, hebben we een nieuw ontwikkelingstraject opgestart om een autonome Telraam S2-sensor voor buitenshuis instalatie, te ontwikkelen. We willen de eenvoud van installatie behouden, dus geen geknoei met stroomkabels of wifi-verbindingen.  Onze aanpak is dus om de bestaande S2-sensor in een waterdichte behuizing te plaatsen en dit te combineren met een klein zonnepaneel en een interne batterij. Omdat onze sensor heel weinig stroom verbruikt, volstaat een klein zonnepaneel en batterij.</p>',
+    'section1-block1-text'        => '<p>Wil je ook een Telraam-sensor installeren om het verkeer in je straat te tellen,
+ maar wordt het zicht geblokkeerd door die boom?
+ Of misschien wil je een wandelpad data zonder dat er woningen in de buurt zijn?
+ Je wilt natuurlijk geen bomen omhakken, maar je wilt toch het verkeer tellen, dus het zou ideaal
+  zijn om een Telraam buiten te hebben, ... misschien zelfs bevestigd aan de boom.</p>
+<p>We hebben van veel gebruikers gehoord dat er moeilijke omstandigheden zijn waarbij sommige toestellen
+in een netwerk buiten moeten worden geplaatst. Of dit nu over fietspaden in open ruimtes gaat,
+om het toestel in de dakrand van een gebouw, op een balkon
+dat het zicht belemmert, of misschien de buitenkant van een gebouw om toch een goed zicht te bekomen.
+Om in deze behoefte te voorzien, hebben we een versie van het Telraam S2-toestel ontwikkeld die je
+buiten kunt installeren waarbij autonoom stroom kan worden voorzien. De eenvoudige installatie is behouden,
+maar we hebben bestaande S2-toestel in een weerbestendige behuizing
+geplaatst die, indien beschikbaar, kan worden aangesloten op een stopcontact. Het Outdoor toestel kan worden
+gecombineerd met een klein zonnepaneel en een interne batterij, omdat het zeer weinig stroom verbruikt.</p>',
 
     // table
     'row-1-header'  => 'Installatie & onderhoud',
