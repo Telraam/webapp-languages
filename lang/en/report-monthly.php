@@ -42,7 +42,7 @@ return [
     'subtitle-trends'      => 'The measured daily volumes per mode of transport for your street.',
 
     // mail
-     'view-more-stats-btn'      => 'View more statistics.',
+     'view-more-stats-btn'      => 'View more statistics',
 
     // popup share url
     'share-modal-title' => 'You can share your report by using a unique url.',

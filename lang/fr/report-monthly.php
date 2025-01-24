@@ -42,7 +42,7 @@ return [
     'subtitle-trends'      => 'Les volumes quotidiens mesurés par mode de transport pour ta rue.',
 
     // mail
-     'view-more-stats-btn'      => 'Voir plus de statistiques.',
+     'view-more-stats-btn'      => 'Voir plus de statistiques',
 
     // popup share url
     'share-modal-title' => 'Tu peux partager ton rapport de Telraam avec cette url unique.',
