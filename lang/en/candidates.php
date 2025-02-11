@@ -132,5 +132,8 @@ Yet not selected and would you really like to count yourself, you can <a href="h
     'form-is-closed' => 'The candidates form is closed',
     'form-is-not-visible' => 'The candidates form is not published yet',
 
+    // 11 feb 2025
+    'registration-is-closed' => 'L\'inscription est close',
+
 ];
 

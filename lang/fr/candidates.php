@@ -96,4 +96,7 @@ return [
     'form-is-closed' => 'Le formulaire est fermé',
     'form-is-not-visible' => 'Le formulaire n\'est pas encore publié',
 
+    // 11 feb 2025
+    'registration-is-closed' => 'Registration is terminée',
+
 ];
