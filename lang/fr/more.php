@@ -33,7 +33,7 @@ return [
     'loc-det-live-today' => 'Comptage détaillé aujourd\'hui',
 
     'share-your-results-on-Facebook' => 'Partagez vos résultats sur Facebook',
-    'share-your-results-on-Twitter' => 'Partagez vos résultats sur Twitter',
+    'share-your-results-on-Bluesky' => 'Partagez vos résultats sur Bluesky',
 
     'set-position' => "Confirmez votre position en sélectionnant l'icône de la caméra verte, qui correspond au côté de la bande de circulation de votre Telraam.",
     'save-position' => 'Enregistrer position.',

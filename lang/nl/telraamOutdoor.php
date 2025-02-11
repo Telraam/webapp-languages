@@ -70,7 +70,7 @@ Technische expertise is alleen vereist om het buitentoestel van stroom te voorzi
 tussen de grootte van de batterij en het zonnepaneel en de kosten. Wij geloven dat we de juiste balans hebben gevonden tijdens de prototypefase.',
 
  	'question-3'           => 'Wat kost een Telraam S2 Outdoor?',
- 	'answer-3'           => 'Het Telraam S2 Outdoor-toestel kost €500. Daarnaast is er een netwerkabonnement nodig, dat €25 per maand kost.
+ 	'answer-3'           => 'Het Telraam S2 Outdoor-toestel kost €750. Daarnaast is er een netwerkabonnement nodig, dat €25 per maand kost.
  Surf voor meer informatie over abonnementen naar onze <a href="../nl/pricing">prijzenpagina</a>.',
 
  	'question-4'           => 'Hoe bestel ik een Telraam S2 Outdoor?',

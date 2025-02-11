@@ -60,7 +60,7 @@ Technical expertise is only required to supply the outdoor device with power, bu
  	between size of battery and solar panel and the cost. We believe we found the right balance during the prototype phase.',
 
     'question-3'        => 'What is the cost of a Telraam S2 Outdoor?',
-    'answer-3' 			=> 'The Telraam S2 Outdoor device costs €500. Additionally, it requires a network subscription, which costs €25 per month. For more details about subscriptions, visit our <a href="../en/pricing">pricing page</a>.',
+    'answer-3' 			=> 'The Telraam S2 Outdoor device costs €750. Additionally, it requires a network subscription, which costs €25 per month. For more details about subscriptions, visit our <a href="../en/pricing">pricing page</a>.',
 
     'question-4'         => 'How to order a Telraam S2 Outdoor?',
     'answer-4'           => 'You can order a Telraam S2 Outdoor by filling out our <a href="../en/contact-us">contact form</a> or reaching out to us at <a href="mailto:info@telraam.net">info@telraam.net</a>.',

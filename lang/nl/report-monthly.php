@@ -42,7 +42,7 @@ return [
     'subtitle-trends'      => 'De gemeten dagelijkse volumes per verplaatsingswijze voor jouw straat',
 
     // mail
-     'view-more-stats-btn'      => 'Bekijk meer statistieken',
+     'view-more-stats-btn'      => 'Bekijk meer statistieken.',
 
     // popup share url
     'share-modal-title' => 'Je kan jouw Telraamrapport delen met deze unieke url.',
