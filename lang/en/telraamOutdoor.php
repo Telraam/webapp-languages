@@ -52,8 +52,8 @@ Technical expertise is only required to supply the outdoor device with power, bu
     'faq-title'         => 'FAQ',
 
     'question-1'           => 'Is there a difference between the regular S2 and this outdoor device?',
-    'answer-1'           => 'The internal components remain the same, but the outer casing has been updated to be weather-resistant.
- The device functions just like the regular S2 for indoor use and runs the same software to detect traffic. This means it has the same <a href="https://faq.telraam.net/article/3/requirements-for-the-installation-of-a-telraam-in-my-window">location requirements</a> as the indoor Telraam S2.',
+    'answer-1'           => 'The internal components remain the same, with the outdoor version including a small additional part for the LED status light. The outer casing has been updated to be weather-resistant.
+ Functionally, it works just like the indoor Telraam S2 and runs the same software to detect traffic. This also means it shares the same <a href="https://faq.telraam.net/article/3/requirements-for-the-installation-of-a-telraam-in-my-window">location requirements</a> as the indoor Telraam S2.',
 
     'question-2'           => ' Is the device fully power independent?',
     'answer-2' 			=> 'Almost. You can get 100% full autonomy with a large solar panel + battery, but there\'s a sensible trade-off
