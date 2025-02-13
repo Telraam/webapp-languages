@@ -61,8 +61,8 @@ Une expertise technique n\'est requise que pour alimenter l\'appareil extérieur
     // FAQ
     'faq-title'         => 'FAQ',
     'question-1'        => 'Y a-t-il une différence entre le S2 classique et cet appareil extérieur ?',
-	'answer-1'          => 'Les composants internes restent les mêmes, mais le boîtier extérieur a été mis à jour pour être résistant aux intempéries.
- L\'appareil fonctionne comme le S2 classique pour une utilisation en intérieur et exécute le même logiciel pour détecter le trafic. Cela signifie qu\'il a les mêmes <a href="https://faq-fr.telraam.net/article/147/conditions-a-respecter-pour-lemplacement-dun-telraam-sur-ma-fenetre">exigences de localisation</a> que le Telraam S2 intérieur.',
+	'answer-1'          => 'Les composants internes restent les mêmes, avec une petite pièce supplémentaire dans la version outdoor pour le voyant LED. Le boîtier a été renforcé pour résister aux intempéries.
+Sur le plan fonctionnel, il fonctionne comme le Telraam S2 d\’intérieur et utilise le même logiciel pour détecter le trafic.. Cela signifie qu\'il a les mêmes <a href="https://faq-fr.telraam.net/article/147/conditions-a-respecter-pour-lemplacement-dun-telraam-sur-ma-fenetre">exigences de localisation</a> que le Telraam S2 intérieur.',
 
  	'question-2'        => 'L\'appareil est-il totalement autonome en énergie ?',
  	'answer-2'          => 'Presque. Vous pouvez obtenir une autonomie totale de 100 % avec un grand panneau solaire + une batterie, mais il y a un compromis raisonnable
