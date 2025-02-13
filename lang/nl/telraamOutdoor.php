@@ -62,7 +62,7 @@ Technische expertise is alleen vereist om het buitentoestel van stroom te voorzi
     // FAQ
     'faq-title'         => 'FAQ',
     'question-1'           => 'Is er een verschil tussen de standaard S2 en deze outdoor sensor?',
-	'answer-1'           => 'De interne componenten blijven hetzelfde, maar de buitenkant is aangepast om weerbestendig te zijn.
+	'answer-1'           => 'De interne componenten blijven hetzelfde, met in de outdoorversie een extra toevoeging voor een LED-statuslampje. De behuizing is verbeterd om bestand te zijn tegen weersinvloeden.
  Het Telraam functioneert net zoals de indoor Telraam S2 en draait dezelfde software om verkeer te detecteren. Dit betekent dat het dezelfde <a href="https://faq-nl.telraam.net/article/75/vereisten-voor-de-plaatsing-van-mijn-telraam-op-een-raam">locatievereisten</a> heeft als de Telraam S2 voor binnen.',
 
  	'question-2'           => 'Is de sensor volledig stroomonafhankelijk?',
