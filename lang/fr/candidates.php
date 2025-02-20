@@ -73,13 +73,10 @@ return [
 
     'image_street'  => 'Prenez une photo depuis la fenêtre du 1er ou du 2e étage où vous placerez votre capteur Telraam. Prenez la photo perpendiculairement, face à la rue. <a href="https://faq-fr.telraam.net/article/147/conditions-a-respecter-pour-lemplacement-de-ma-fenetre-photo-a-uploader-lors-de-lenregistrement" target="_blank">Voir aussi les exemples</a>.<br> Limitez la taille des fichiers à 6MB ou moins, et téléchargez-les au format jpg ou png.',
 
-
-
     // form #1
     'form_default_public_intro'                                => 'Nous travaillons sur un nouveau plan de mobilité avec les citoyens et avec l\'aide de Telraam. Voulez-vous compter le trafic dans votre rue ? Alors inscrivez-vous ici pour un Telraam. Voulez-vous plutôt nous aider à réfléchir sur les données provenant de Telraam et sur les actions et mesures nécessaires ? Ensuite, inscrivez-vous comme volontaire. ',
     'form_default_public_intro_thanks'                         => 'Merci de votre candidature! Vous recevrez bientôt un e-mail contenant de plus amples informations.',
     'form_default_public_intro_thanks_but_duplication'         => 'Nous vous remercions de vous être inscrit, mais nous avons trouvé une inscription antérieure de votre part avec la même adresse électronique. Vous recevrez d\'autres informations sous peu.',
-
 
 
     // new
@@ -97,6 +94,6 @@ return [
     'form-is-not-visible' => 'Le formulaire n\'est pas encore publié',
 
     // 11 feb 2025
-    'registration-is-closed' => 'Registration is terminée',
+    'registration-is-closed' => 'Inscriptions clôturées',
 
 ];
