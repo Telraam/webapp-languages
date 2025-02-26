@@ -12,7 +12,7 @@ return [
     'all' => 'Alle',
     'pedestrian' => 'Voetgangers',
     'bike' => 'Tweewielers',
-    'car' => "Auto's",
+    'car' => 'Auto\'s',
     'lorry' => 'Grote voertuigen', // old
     'heavy' => 'Grote voertuigen',
     'night' => 'Nacht',
@@ -38,7 +38,7 @@ return [
     'loc-det-live-today' => 'Gedetailleerde telllingen van vandaag',
 
     'share-your-results-on-Facebook' => 'Deel je resultaten op Facebook',
-    'share-your-results-on-Bluesky' => 'Deel je resultaten op Bluesky',
+    'share-your-results-on-Twitter' => 'Deel je resultaten op Twitter',
 
     'set-position' => 'Bevestig je positie door het groene camera icoontje te selecteren die overeenkomt met de kant van de rijbaan van je Telraam.',
     'save-position' => 'Bewaar positie.',

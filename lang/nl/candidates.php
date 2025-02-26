@@ -127,7 +127,4 @@ Het Telraam-team',
     'form-is-closed' => 'Het formulier is gesloten',
     'form-is-not-visible' => 'Het formulier is nog niet gepubliceerd',
 
-    // 11 feb 2025
-    'registration-is-closed' => 'Registratie is gesloten',
-
 ];

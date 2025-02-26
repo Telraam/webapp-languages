@@ -75,7 +75,7 @@ from a bird\'s eye view, facing the street <a href="https://faq.telraam.net/arti
     'update_extrainfo_thanks'                  => 'Thank you for this additional information.',
 
     // auto reply direct na invullen van eerste formulier
-    'form_default_email_autoreply_interested_body' => 'Dear, <br><br>We have received your registration. <br>Thank you that you are interested in collaboration.
+    'form_default_email_autoreply_interested_body' => 'Dear, <br><br>We have recieved your registration. <br>Thank you that you are interested in collaboration.
     We will contact you again soon with more information.
 <br>
 Greetings,<br>
@@ -131,9 +131,6 @@ Yet not selected and would you really like to count yourself, you can <a href="h
     // new 17 feb
     'form-is-closed' => 'The candidates form is closed',
     'form-is-not-visible' => 'The candidates form is not published yet',
-
-    // 11 feb 2025
-    'registration-is-closed' => 'L\'inscription est close',
 
 ];
 
