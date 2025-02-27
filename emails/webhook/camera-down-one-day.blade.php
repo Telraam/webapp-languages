@@ -34,6 +34,9 @@
                             <li>Beschik je over een Telraam S2, lees meer hier:
                                 <a href="https://faq-nl.helpspace-docs.io/article/207/probleemoplossing-met-de-s2">“Probleemoplossing met S2”</a>
                             </li>
+                             <li>Beschik je over een Telraam S2 Outdoor, neem contact op met <a href="mailto:support@telraam.net">support@telraam.net</a>:
+                                <a href="https://faq-nl.helpspace-docs.io/article/207/probleemoplossing-met-de-s2">“Probleemoplossing met S2”</a>
+                            </li>
                             <li>
                                 Als je verdere hulp nodig hebt, mail ons dan op <a href="mailto:support@telraam.net">support@telraam.net</a>.
                                 Laat ons in dit geval weten welke bovenstaande stappen je reeds hebt geprobeerd.
