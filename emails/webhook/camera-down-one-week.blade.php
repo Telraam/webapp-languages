@@ -39,6 +39,8 @@
                         <li>Heb je een Telraam S2-toestel, kijk dan even hier: <a href="https://faq-nl.helpspace-docs.io/article/207/probleemoplossing-met-de-s2">
                                     “Probleemoplossing met de S2”</a>
                         </li>
+                         <li>Beschik je over een Telraam S2 Outdoor, neem contact op met <a href="mailto:support@telraam.net">support@telraam.net</a>:
+                        </li>
                         </ul>      
                         <br>
                          Telt je Telraam niet meer omdat het (herhaaldelijk) van het raam valt. Dan raden we je aan om de meegeleverde tape door dubbelzijdige foamtape te vervangen.<br>
@@ -68,6 +70,8 @@
                                     Telraam ne compte plus".</a>
                             </li>
                             <li>Avec un Telraam S2, vous trouvez plus d'infos ici: <a href="https://faq-fr.helpspace-docs.io/article/208/resolution-des-problemes-avec-le-s2">"Résolution des problèmes avec le S2".</a>
+                            </li>
+                            <li>Si vous avez un Telraam S2 Outdoor, contactez <a href="mailto:support@telraam.net">support@telraam.net</a>:
                             </li>
                         </ul>
                         Est-ce que votre Telraam compte plus parce qu'il tombe de la fenêtre (à plusieurs reprises). Dans ce cas, nous vous conseillons de remplacer le scotch fourni par du ruban mousse double face.<br>    
@@ -102,6 +106,8 @@
                             <li>If you have a Telraam S2 device, you can read more here:
                                 <a href="https://telraam.helpspace-docs.io/article/206/troubleshooting-with-the-s2">“Troubleshooting with the S2“</a>
                             </li>
+                             <li>If you have a Telraam S2 Outdoor, contact <a href="mailto:support@telraam.net">support@telraam.net</a>:
+                             </li>
                         </ul>
                         Does your Telraam no longer count because it falls off the window (repeatedly). If so, we recommend replacing the supplied tape with double-sided foam tape.<br>
                         <br>
