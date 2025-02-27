@@ -35,7 +35,6 @@
                                 <a href="https://faq-nl.helpspace-docs.io/article/207/probleemoplossing-met-de-s2">“Probleemoplossing met S2”</a>
                             </li>
                              <li>Beschik je over een Telraam S2 Outdoor, neem contact op met <a href="mailto:support@telraam.net">support@telraam.net</a>:
-                                <a href="https://faq-nl.helpspace-docs.io/article/207/probleemoplossing-met-de-s2">“Probleemoplossing met S2”</a>
                             </li>
                             <li>
                                 Als je verdere hulp nodig hebt, mail ons dan op <a href="mailto:support@telraam.net">support@telraam.net</a>.
@@ -65,6 +64,7 @@
                             <li>Si vous avez un Telraam v1, vous suivez les instructions ici: <a href="https://faq-fr.helpspace-docs.io/article/191/ma-telraam-ne-compte-plus">"Ma
                                     Telraam ne compte plus".</a></li>
                             <li>Avec un Telraam S2, vous trouvez plus d'infos ici: <a href="https://faq-fr.helpspace-docs.io/article/208/resolution-des-problemes-avec-le-s2">"Résolution des problèmes avec le S2".</a></li>
+                            <li>Si vous avez un Telraam S2 Outdoor, contactez <a href="mailto:support@telraam.net">support@telraam.net</a>:</li>
                             <li>Envoyer un courriel à <a href="mailto:support@telraam.net">support@telraam.net</a> si vous avez besoin d'assistance supplémentaire.
                                 Dans ce cas, veuillez nous indiquer lesquelles des étapes vous avez déjà essayées.</li>
                         </ul>
@@ -94,6 +94,7 @@
                             <li>If you have a Telraam S2 device, you can read more here:
                                 <a href="https://telraam.helpspace-docs.io/article/206/troubleshooting-with-the-s2">“Troubleshooting with the S2“</a>
                             </li>
+                            <li>If you have a Telraam S2 Outdoor, contact <a href="mailto:support@telraam.net">support@telraam.net</a>:</li>
                             <li>If you need further support, email us at
                                 <a href="mailto:support@telraam.net">support@telraam.net</a> letting us know what
                                 steps above you have already tried.</li>
