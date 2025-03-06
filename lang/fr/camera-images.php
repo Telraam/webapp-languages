@@ -4,41 +4,38 @@ return [
     'nav-title'             => 'Images de la caméra',
     'no-image-available'    => 'Aucune image disponible',
     'no-images-available'   => "Aucune image n'est encore disponible",
-    'no-images-available-advice' => 'Assurez-vous que la dernière version du Telraam est installée et que le paramètre est activé',
+    'no-images-available-advice' => 'Assurez-vous que la dernière version du logiciel Telraam est installée et que le paramètre d\'image est activé lors de l\'installation',
     'date-image'            => 'Date de l\'image',
     'camera-images'         => 'Image(s) de la caméra',
 
     'roi-still-to-be-set' => 'ROI à définir',
 
-    'what-are-the-camera-images' => 'Les images de la caméra que vous retrouvez ici sont des images prises quotidiennement qui
-sont envoyées à notre serveur afin de vérifier si le positionnement de votre caméra est toujours adéquat. Une première image de la caméra est envoyée lorsque vous lancez votre Telraam,
-et ensuite une fois par jour lorsque votre Telraam fonctionne.<br> Pour en savoir plus,
+    'what-are-the-camera-images' => 'Les images capturées par la caméra servent uniquement de fond et sont envoyées à notre serveur pour vérifier si la position de votre caméra est toujours correcte. Une première image est envoyée au démarrage de votre Telraam,
+et ensuite une image est envoyée une fois par jour lorsque votre Telraam fonctionne normalement.<br> Pour en savoir plus,
     <a href="https://faq.telraam.net/article/30/background-image" target="_blank"> lisez cet article</a>',
-    'not-receiving-data'         => "Il semble que nous ne recevons pas (encore) de données de votre Telraam pour le moment.",
+    'not-receiving-data'         => "Il semble que nous ne recevions pas encore de données de votre Telraam.",
 
     'software-version' => 'Version du logiciel installé sur le dispositif',
 
     // S2 ROI
     'roi-loading-title' => 'Loading...',
     'roi-loading-text' => '
-Votre appareil S2 est en train d\'être réinitialisé en vue grand angle, ce qui nous permet de télécharger une image pour vous aider à sélectionner votre retour sur investissement.
-<br>Comme un appareil S2 a une connexion IoT lente, cela peut prendre 30 à 90 secondes. Assurez-vous de continuer et de sélectionner l’un des paramètres ROI prédéfinis.',
+Votre capteur S2 est en train d\'être réinitialisé pour retrouver son champ de vision grand-angle complet. Une image est en cours de téléchargement pour vous permettre de sélectionner votre zone d\'intérêt (ROI).
+<br>Comme le S2 utilise une connexion IoT à faible débit, cette opération peut encore prendre 30 à 90 secondes. Assurez-vous de compléter le processus et de choisir l\'un des paramètres prédéfinis de ROI afin d\'optimiser la précision des comptages.',
 
     'roi-loaded-title' => 'Sélectionner le zoom',
-    'roi-loaded-text' => 'Dans la plupart des cas, le large champ de vision n\'est pas nécessaire, car le trafic se produit dans une
-    zone beaucoup plus étroite,  et Telraam n\'a pas besoin de surveiller des zones exemptes de trafic. Un ROI réglé de manière
-     optimale fournira les chiffres les plus précis en termes de comptage des usagers de la route.. <br>
-    L\'idée est de "couper" autant que possible les régions où aucun trafic n\'est ou ne devrait être possible.<br>
-Chaque carré représente un zoom possible pour le S2.<br>
+    'roi-loaded-text' => 'Dans la plupart des cas, le champ de vision large n\'est pas nécessaire, car la circulation se concentre sur une
+    zone plus restreinte. Telraam n\'a pas besoin de surveiller les espaces où il n\'y a pas de trafic. Un ROI bien défini garantit une meilleure précision des comptages des usagers de la route.. <br>
+    L\'objectif est de réduire au maximum les zones où aucun trafic n\'a lieu ou ne devrait avoir lieu.<br>
+Chaque carré représente un niveau de zoom possible pour le S2.<br>
 <i class="heroicon heroicon-information" style="border:0"></i> <a href="https://faq.telraam.net/article/66/region-of-interest-roi-and-roi-selection-with-telraam-s2">Read all about in this FAQ</a>.',
     'roi-focus-on-top' => 'Focus sur le haut',
     'roi-focus-on-center' => 'Focus sur le centre',
     'roi-focus-on-bottom' => 'Se concentrer sur le fond',
 
-    'what-are-the-camera-images-S2' => 'Les dispositifs Telraam S2 sont construits de manière robuste, avec une caméra fixe, ce qui signifie
-    qu\'il n\'y a aucune raison de contrôler quotidiennement le champ de vision
-après que la région d\'intérêt (ROI) initiale ait été définie soit automatiquement par la caméra, soit manuellement par l\'utilisateur
-ou l\'administrateur réseau. Seule la dernière image de la région d\'intérêt est enregistrée et conservée pendant un an au maximum.<br>
+    'what-are-the-camera-images-S2' => 'Les capteurs Telraam S2 sont conçus de manière robuste, avec une caméra fixe, ce qui signifie
+    qu\'il n\'est pas nécessaire de surveiller quotidiennement le champ de vision
+après la configuration initiale de la zone d\'intérêt (ROI). Le ROI peut être défini automatiquement par la caméra ou manuellement par l\'utilisateur ou l\'administrateur du réseau. Seule la dernière image du ROI est conservée et stockée pour une durée maximale d\'un an.<br>
     <a href="https://faq.telraam.net/article/30/background-image-">Pour en savoir plus, consultez notre FAQ</a>',
 
     'roi-set-to' => 'Roi prêt à',

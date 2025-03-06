@@ -4,33 +4,27 @@ return [
 
     'title'           => 'À propos de nous',
 
-    'subtitle'          => 'Une histoire d\'ingénierie du trafic et de science citoyenne qui se marient',
+    'subtitle'          => 'Une histoire où l\'ingénierie du trafic et la science citoyenne se marient pour transformer la mobilité',
 
-    'section-1-title'            => 'Histoire',
+    'section-1-title'            => 'Notre histoire',
     'section1-block1-text'        => '<p>Telraam est le fruit de deux organisations basées à Louvain (BE) :
 <a href="https://www.tmleuven.be/" target="_blank">Transport & Mobility Leuven (TML)</a>, un cabinet de conseil en ingénierie du trafic, et <a href="https://www.mobiel21.be/" target="_blank">Mobiel21</a>, une ONG axée sur la participation citoyenne dans le domaine de la mobilité .<p>
 
-<p>Voir comment les projets de science citoyenne ont réussi à collecter des données précieuses en collaboration avec des citoyens dans d\'autres domaines comme
-données sur la qualité de l’air, nous nous sommes dit : nous devrions pouvoir faire la même chose avec les données de comptage de trafic!
- C’est ainsi qu’en 2019, nous avons entrepris notre voyage vers
-développer d\'abord <a href="https://telraam.net/en/v1">un capteur simple</a> et plus tard
-2023 <a href="https://telraam.net/en/S2">un capteur spécialement conçu</a> pour collecter des données de comptage de trafic,
-en collaboration avec les citoyens.</p>',
+<p>Inspirés par le succès des projets de science citoyenne dans des domaines tels que la qualité de l’air, nous nous sommes dit : pourquoi ne pas faire de même pour les données  de comptage de trafic ?
+ Ainsi, en 2019, nous avons commencé à développer <a href="https://telraam.net/en/v1">un capteur simple</a>, avant de créer, en
+2023, <a href="https://telraam.net/en/S2">un capteur spécialement conçu</a> pour collecter des données avec les citoyens.</p>',
 
     'section-2-title'            => 'Mission',
-    'section2-block1-text'        => '<p> Notre mission chez Telraam est de devenir une plateforme internationale en constante croissance qui responsabilise et
-éduque les citoyens pour qu\'ils deviennent les futurs techniciens et ingénieurs de la circulation de leurs communautés, capables d\'apporter leurs connaissances locales,
-et devenir une force motrice dans les conversations et les débats sur les politiques de mobilité urbaine qui affectent leurs quartiers. </p>
+    'section2-block1-text'        => '<p> Notre mission chez Telraam est de devenir une plateforme internationale en pleine croissance qui aide et 
+éduque les citoyens à devenir les techniciens et ingénieurs du trafic de demain, capables d\'apporter leurs connaissances locales,
+et de jouer un rôle actif dans les débats sur les politiques de mobilité urbaine qui impactentleur communautés. </p>
 
-<p> Nous voulons fournir des solutions abordables pour connecter les citoyens et leurs gouvernements locaux, et faciliter la transition vers une société plus
-une culture du trafic multimodal et centrée sur l’humain. </p>',
+<p> Nous souhaitons proposer des solutions abordables pour connecter les citoyens à leurs autorités locales, et faciliter la transition vers une culture
+du trafic plus humaine et multimodale. </p>',
 
-'section2-block2-text'        => '<p>Issus de l\'ingénierie du trafic, nous connaissons les données de comptage du trafic. Nous respirons les données de
-comptage du trafic. Nous comprenons quel type de données peut être utile aux professionnels. Êtes-vous un professionnel de la mobilité, une
-organisation à but non lucratif, une société d\'ingénierie du trafic ou de conseil, une agence de transport ou une administration locale ?<br>
+'section2-block2-text'        => '<p>Avec notre expertise en ingénierie du trafic, nous maîtrisons les données de comptage de la circulation et comprenons leur valeur pour les professionnels du secteur. Que vous soyez un acteur de la mobilité, une organisation à but non lucratif, un cabinet de conseil en ingénierie du trafic, une agence de transport ou une collectivité locale, nous avons la solution pour vous.<br>
  <br>
- Êtes-vous à la recherche de solutions abordables et multimodales de surveillance du trafic pour vos projets, pouvant être déployées sur un
-  un grand nombre d\'emplacements ? Alors Telraam est le bon endroit pour vous !</p>',
+Vous cherchez une solution de comptage de trafic abordable, multimodale, et facile à déployer à grande échelle ? Telraam est la réponse à vos besoins !</p>',
 
     // press
     'press-title' => 'La presse',
@@ -57,42 +51,41 @@ organisation à but non lucratif, une société d\'ingénierie du trafic ou de c
     'team-title'   => 'Team',
 
     'role-kris'     => 'Cofondateur et touche-à-tout',
-    'sentence-kris'    => 'Un scientifique citoyen en mission pour créer un modèle commercial durable pour ce « petit projet »
-    et petit investisseur en dehors des heures de travail. Toujours à la recherche de nouvelles idées. J\'essaie de diriger cette équipe de fusées non guidées (je vous aime !).
-    Il aime généralement les données et joue un peu aux échecs quand il en a le temps. ',
+    'sentence-kris'    => 'Kris est un scientifique citoyen en mission pour créer un modèle économique durable pour ce « petit projet »
+    et petit investisseur en dehors des heures de travail. Toujours à la recherche de nouvelles idées. Tentant de guider cette équipe de fusées sans boussole (je vous aime les gars !).
+    En général, il aime les données et joue un peu aux échecs quand il trouve du temps. ',
 
     'role-dave'     => 'Co-fondateur et développement web',
-    'sentence-dave'    => 'Il aime mélanger la conception, le développement et un peu de stratégie dans son travail.
-Il aime l\'art, la musique et un peu de folie. Joue au football en plein air jusqu\'à ce que ses genoux lâchent. ',
+    'sentence-dave'    => 'Dave aime mélanger design, développement et un peu de stratégie dans son travail.
+Il apprécie l\'art, la musique et un peu de folie. Joue au football en plein air jusqu\'à ce que ses genoux ne suivent plus. ',
 
-    'role-peter'    => 'Directeur de la technologie',
-    'sentence-peter'    => 'Péter est titulaire d\'un doctorat en astronomie et astrophysique (KU Leuven) et possède de nombreuses années d\'expérience dans le traitement des données relatives aux transports (et AWS). Il aime aussi se perdre dans la conception de graphiques et de produits. Après le travail, il fait du vélo, de la pêche à la mouche, du pilotage en tant que pilote privé ou joue de la basse. YNWA!',
+    'role-peter'    => 'Directeur de technologie',
+    'sentence-peter'    => 'Péter est titulaire d\'un doctorat en astronomie et astrophysique (KU Leuven) et possède de nombreuses années d\'expérience dans le traitement des données relatives aux transports (et AWS). Il aime aussi se perdre dans la conception de graphiques et de produits. Après le travail, il fait du vélo, de la pêche à la mouche, du pilotage en tant que pilote privé ou bassiste. YNWA!',
 
     'role-luc'     => 'Ingénieur en logiciel embarqué',
-    'sentence-luc'    => 'A commencé à travailler sur des systèmes embarqués il y a plus de 20 ans et depuis lors
-    adore jouer avec le matériel, les débogueurs, les analyseurs logiques, l\'IoT, Zephyr RTOS, etc.
-Après le travail, il va régulièrement voir ses fils jouer au football, essaie de faire du sport lui-même,
-     et expérimente la domotique et l\'impression 3D ',
+    'sentence-luc'    => 'Luc a débuté il y a plus de 20 ans dans les systèmes embarqués et depuis, il est passionné par le matériel, les débogueurs, les analyseurs logiques, l\'IoT, Zephyr RTOS, et bien d\'autres.
+Après le travail, il va régulièrement voir ses fils jouer au football, pratiquer un peu du sport lui-même,
+     et expérimenter la domotique et l\'impression 3D ',
 
     'role-elke'     => 'Soutien, documentation et processus',
-    'sentence-elke'    => 'Voici Elke Verhoeven, le gourou de l\'organisation de Telraam, qui maîtrise l\'assistance, les opérations et un peu la gestion des produits.
-En dehors de ses heures de travail, Elke est une passionnée d\'eau, qui navigue, boit et nage pour se frayer un chemin dans la vie! 🌊🚤🌼',
+    'sentence-elke'    => 'Voici Elke Verhoeven, la gourou de l\'organisation chez Telraam, experte en support, opérations et un peu de gestion de produit.
+En dehors du travail, Elke est une passionnée de l\'eau, qui navigue, pratique le stand-up paddle et nage à travers la vie ! 🌊🚤🌼',
 
     'role-wouter'   => 'Gestionnaire de projet et de développement commercial',
-    'sentence-wouter'    => 'Tente de transformer l\'intérêt et l\'enthousiasme pour Telraam en projets concrets et en affaires.
-Porte-parole et hispanoparlante. A un baril d\'engagements locaux à Louvain pendant les heures creuses. Un homme d\'action avant tout!',
+    'sentence-wouter'    => 'Wouter cherche à transformer son enthousiasme pour Telraam en projets concrets et en opportunités  d\'affaires.
+Porte-parole et hispanoparlante, il trouve aussi du temps pour s\'impliquer dans diverses initiatives locales à Louvain. Un véritable moteur, toujours prêt à passer à l\'action !',
 
     'role-rob'      => 'Responsable de la réussite communautaire',
-    'sentence-rob'    => 'Communicatrice axée sur la communauté, elle tente de faire évoluer les choses en rassemblant les gens.
-    Il a beaucoup d\'histoires sur le vin et, en dehors du travail, on le trouve généralement dans le jardin, en train de travailler sur des bonsaïs.',
+    'sentence-rob'    => 'Rob est un communicateur passionné, il sait mobiliser et engager la communauté pour impulser le changement.
+Grand amateur de vin, il ne manque jamais une occasion de partager une bonne histoire. Lorsqu\'il n\'est pas au travail, il se consacre à sa passion pour les bonsaïs dans son jardin.',
 
     'role-laurens'  => 'Atelier-héros et ventes',
-    'sentence-laurens'    => 'Working at Telraam\'s front of the house, he supports future clients in finding tailored solutions for their use case. This while maintaining contact with the end-users. This polyglot helps you setting up projects in dutch, english, french and german.
-    When not in the office you can find Laurens in his running shoes or in the kitchen, as an enthousiast amateur chef. ',
+    'sentence-laurens'    => 'Laurens travaille au cœur de Telraam, accompagnant les futurs clients dans la recherche de solutions adaptées à leurs besoins, tout en restant en contact avec les utilisateurs finaux. 
+Polyglotte, il aide à mettre en place des projets en néerlandais, anglais, français et allemand. Lorsqu\'il n\'est pas au bureau, vous pouvez le retrouver dans ses baskets ou en train de laisser libre cours à sa passion pour la cuisine en tant que chef amateur enthousiaste.',
 
     'role-ana'     => 'Croissance internationale',
     'sentence-ana' => 'Ana est enthousiaste à l\'idée de faire découvrir au monde le potentiel de Telraam. Parlant couramment
-    l\'anglais, le français, le portugais et l\'espagnol, elle est toujours partante pour une discussion amicale sur les cultures,
+    l\'anglais, le français, le portugais et l\'espagnol, elle est toujours prête à discuter les cultures,
      les cuisines ou les entreprises SaaS. Pendant son temps libre, vous pouvez la trouver sur un tapis de yoga, une piste de
      danse ou en train de faire preuve de créativité dans la cuisine!',
 ];
