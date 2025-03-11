@@ -37,7 +37,7 @@ or a full network solution. Browse our ready-made packages or customize your own
     'premium-features-4'       => 'Advanced API access',
     'premium-features-4-info'  => 'Includes custom data connections, rate limits, enhanced public endpoints, and potential for custom integrations.',
     'premium-features-5'       => 'Data available for commercial purposes',
-    'premium-features-5-info'  => 'Examples of non-commercial use are selling data insights, using data for marketing, ...',
+    'premium-features-5-info'  => 'Examples of commercial use are selling data insights, using data for marketing, ...',
 
     'network-features-title'   => 'Everything in Premium, and:',
 
