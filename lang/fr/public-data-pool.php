@@ -4,14 +4,14 @@ return [
 
     'title' => 'Data Pool' ,
     'sub-title' => 'Vous êtes intéressé par les données de trafic, mais vous ne souhaitez pas déployer vos propres senseurs ?<br><br>
-Bienvenue dans le Data Pool de Telraam - la destination ultime pour exploiter la puissance des données de mobilité issues de la communauté. Plongez dans une mine d\'informations en temps réel, générées par notre réseau de dispositifs opérés par les citoyens, et révolutionnez votre approche de la planification urbaine, de la recherche et du développement.',
+Bienvenue chez le Data Pool de Telraam - la destination ultime pour exploiter la puissance des données de mobilité issues de la communauté. Plongez dans une mine d\'informations en temps réel, générées par notre réseau de capteurs opérés par les citoyens, et révolutionnez votre approche de la planification urbaine, de la recherche et du développement.',
 
     // section 1 with 3 columns
     'section-1-title' => 'Le Data Pool de Telraam permet de mieux comprendre la mobilité urbaine',
 
     'section-1-what-title' => 'Qu\'est-ce que c\'est Data Pool ?',
-    'section-1-what-text'     => 'Le Data Pool de Telraam est un module facile à utiliser, inclus dans l\'abonnement Network, qui vous permet d\'accéder aux données des senseurs existants en dehors de votre flotte. Grâce à ce pool, les urbanistes, les chercheurs et les organisations
-    gouvernementales peuvent obtenir des informations inédites pour façonner l\'avenir de nos villes.',
+    'section-1-what-text'     => 'Le Data Pool de Telraam est un module facile à utiliser, inclus dans l\'abonnement Network, qui vous permet d\'accéder aux données des senseurs existants en dehors de votre flotte. Grâce à ce pool, les urbanistes, les chercheurs et les organismes
+publics peuvent obtenir des informations inédites pour façonner l\'avenir de nos villes.',
 
     'section-1-key-title' => 'Caractéristiques principales',
     'section-1-key-title-1'  => 'Mises à jour en temps réel',
@@ -34,10 +34,10 @@ Bienvenue dans le Data Pool de Telraam - la destination ultime pour exploiter la
     'section-2-text'  => 'Chez Telraam, nous sommes conscients de l\'importance de veiller à ce que les données de mobilité collectées avec citoyens
 soient utilisées de manière socialement responsable.<br>
 <br>
-C\'est pourquoi nous avons mis en place un conseil consultatif externe représentant les communautés que nous servons. Ce conseil veille à ce que les données collectées répondent à des normes éthiques, respectent la vie privée des individus et profitent à la société. En impliquant les citoyens, nous visons la transparence, la responsabilité et l\'équité dans toutes nos initiatives fondées sur des données.<br>
+C\'est pourquoi nous avons mis en place un conseil consultatif externe, représentant les communautés que nous servons. Ce conseil veille à ce que les données collectées de manière participative respectenet des normes éthiques, protègent la vie privée et profitent à la société. En impliquant les citoyens, nous visons à garantir transparence, responsabilité et équité dans toutes nos initiatives basées sur les données.<br>
 <br>
 Nous organisons environ 5 séances numériques par an pour recueillir des contributions, qui seront publiées ouvertement sur notre site web. Si vous souhaitez participer,
-veuillez <a href="/fr/contact-us">prendre contact avec nous</a>.',
+ <a href="/fr/contact-us">contactez-nous</a>.',
 
     // section 3
     'section-3-title' => 'Comment cela fonctionne-t-il?',
@@ -53,7 +53,7 @@ veuillez <a href="/fr/contact-us">prendre contact avec nous</a>.',
     'section-4-title' => 'Bêta',
     'section-4-text'  => 'Actuellement, le Data Pool est uniquement en version bêta.
     <br>
-    Toutefois, si vous souhaitez y accéder, n\'hésitez pas à <a href="/fr/contact-us">demander un accès</a>!<br><br>',
+    Toutefois, si vous souhaitez y accéder, n\'hésitez pas à <a href="/fr/contact-us"> demander l\'accès</a>!<br><br>',
 
 
 

@@ -29,7 +29,7 @@ return [
     'seo-title-about-us' => 'A propos de nous',
     'seo-title-contact-us' => 'Contactez nous',
     'seo-title-login' => 'Login',
-    'seo-title-register' => 'Registre',
+    'seo-title-register' => 'S\'inscrire',
 
     'footer-follow-us' => 'Suivez-nous',
     'footer-what-is' => 'Telraam est une initiative de <a href="https://tmleuven.be">TML</a>, <a href="https://www.mobiel21.be/">Mobiel 21</a> et

@@ -3,7 +3,7 @@
 return [
 
     // Featured
-    'featured-title' => 'Réseaux vedettes',
+    'featured-title' => 'En vedette',
     'featured-title-sm' => 'Plus...',
 
 
@@ -21,7 +21,7 @@ return [
     'all-networks-text' => 'N\'hésitez pas à consulter un aperçu complet des réseaux passés et actuels.',
     'all-networks-more' => 'Plus',
 
-    'show-all' => 'Afficher tout'
+    'show-all' => 'Tout afficher'
 
 ];
 

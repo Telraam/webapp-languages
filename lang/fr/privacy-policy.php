@@ -5,7 +5,7 @@ return [
 
     'title-1' => '1. Introduction et portée',
     'content-1' => "La présente politique de confidentialité (politique de confidentialité) régit le traitement de vos données
-à caractère personnel dans les domaines suivants
+à caractère personnel dans
      le contexte de votre utilisation de notre site web www.telraam.net (le \"<strong>Site web</strong>\"). <br><br>
 Rear Window BV, dont le siège social est situé à Diestsesteenweg 71, Leuven 3010, Belgique et dont le numéro d'entreprise est 0762.549.266, ci-après <strong>\"Telraam\"</strong> ou <strong>\"nous\"</strong> agit en tant que responsable
 du traitement des données aux fins de ces opérations de traitement.<br><br>
@@ -19,15 +19,15 @@ contacter à l'adresse électronique suivante : <a href=mailto:privacy@telraam.n
     <br>
     <table class='ui celled table'>
         <thead>
-            <td>But</td>
+            <td>Finalité</td>
             <td>Personnes concernées</td>
             <td>Type de données personnelles</td>
-            <td>Base sur le traitement</td>
+            <td>Base de traitement</td>
             <td>Durée de la rétention</td>
         </thead>
         <tr>
-            <td>Administration de la participation (s'inscrire comme participant, se connecter au site web, répondre aux questions....
-        offrir un soutien, etc.)</td>
+            <td>Gestion de la participation (inscription en tant que participant, connexion au site web, réponse aux questions,
+        offrir du support, etc.)</td>
             <td>Participants</td>
             <td>Prénom et nom<br>
                 Adresse<br>
@@ -46,7 +46,7 @@ contacter à l'adresse électronique suivante : <a href=mailto:privacy@telraam.n
             Adresse électronique
             </td>
             <td>Votre consentement ou l'exécution de l'accord de participation</td>
-            <td>Jusqu'à ce que vous vous désinscriviez de la newsletter et, en tout cas, pas plus de deux ans après l'envoi du dernier bulletin d'information</td>
+            <td>Jusqu'à ce que vous vous désabonniez de la newsletter et, au maximum, deux ans après l'envoi de la dernière newsletter</td>
         </tr>
         <tr>
             <td>Organiser des événements</td>
@@ -60,7 +60,7 @@ contacter à l'adresse électronique suivante : <a href=mailto:privacy@telraam.n
             </td>
         </tr>
         <tr>
-        <td>Vérifier le bon fonctionnement du dispositif Telraam par l'utilisateur et les responsables du réseau.</td>
+        <td>Vérifier le bon fonctionnement du capteur Telraam par l'utilisateur et les responsables du réseau.</td>
         <td>Passants</td>
         <td>Image d'arrière-plan statique à faible résolution</td>
         <td>intérêt légitime</td>
@@ -83,7 +83,7 @@ Telraam ne peut traiter vos données personnelles que si cela est fondé sur un 
 
 
     'title-3' => '3.	Avec quelles parties mes données personnelles sont-elles partagées?',
-    'content-3' => 'UVos données personnelles seront partagées avec les parties suivantes: <br>
+    'content-3' => 'Vos données personnelles seront partagées avec les parties suivantes: <br>
     <table class="ui celled table">
         <thead>
             <td>Partie  </td>
@@ -97,7 +97,7 @@ Telraam ne peut traiter vos données personnelles que si cela est fondé sur un 
         </tr>
         <tr>
             <td>HelpSpace</td>
-            <td>Offrir des services de soutien </td>
+            <td>Offrir des services de support client </td>
             <td>Stockage sur des serveurs Amazon Web Services en Allemagne</td>
         </tr>
          <tr>
@@ -142,7 +142,7 @@ Malgré les mesures de Telraam susmentionnées, vous devez être conscient que l
    </ul>
 
        Vous pouvez exercer ces droits en envoyant un courrier électronique à <a href=mailto:privacy@telraam.net>privacy@telraam.net</a>. <br><br>
-Vous avez le droit d'introduire une plainte auprès de l'autorité de surveillance compétente si le
+Vous avez le droit d'introduire une plainte auprès de l'autorité de surveillance compétente si 
 le traitement de vos données personnelles viole la réglementation applicable. En Belgique, l'autorité compétente est l'Autorité de Protection des Données
 (<a href=https://www.gegevensbeschermingsautoriteit.be>www.gegevensbeschermingsautoriteit.be</a>,
 <a href=mailto:contact@apd-gba.be>contact@apd-gba.be</a>, rue du Press 35, 1000 Bruxelles).

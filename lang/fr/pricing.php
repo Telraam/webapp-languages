@@ -3,7 +3,7 @@
 return [
 
     'title' => 'Prix',
-    'subtitle' => 'Permettre aux citoyens ou aux professionnels de piloter des projets de mobilité.',
+    'subtitle' => 'Donner aux citoyens et aux professionnels les moyens de piloter des projets de mobilité.',
 
     // ------------------------------------------------------
     // ------------------- block #1
@@ -19,7 +19,7 @@ return [
     'pack-standard-number' => 'Jusqu\'à 5 appareils',
 
     'pack-enhanced-title' => 'Réseau',
-    'pack-enhanced-subtitle' => 'Des outils d\'analyse et de gestion de premier ordre pour des projets plus complexes',
+    'pack-enhanced-subtitle' => 'Des outils d\'analyse et de gestion pour des projets plus complexes',
     'pack-enhanced-number' => 'Jusqu\'à 50 appareils',
 
     'pack-custom-title' => 'Personnalisé',
@@ -29,7 +29,7 @@ return [
     'per-device' => 'Par appareil',
     'incl-vat' => '(TVA incluse)',
     'excl-vat' => '(TVA exclue)',
-    'one-time-hardware' => 'Coût matériel unique',
+    'one-time-hardware' => 'Coût unique du matériel',
     'month' => 'mois',
     'subscription' => 'Abonnement',
     'network-subscription' => 'Abonnement annuel',
@@ -54,13 +54,13 @@ return [
     'standard-include-3' => 'Support par e-mail',
 
     'enhanced-include-1' => 'Toutes les caractéristiques du Starter',
-    'enhanced-include-2' => 'Outils d\'analyse de niveau supérieur',
-    'enhanced-include-3' => 'Rapports de niveau supérieur',
-    'enhanced-include-4' => 'Gérer plusieurs trajets',
+    'enhanced-include-2' => 'Outils d\'analyse de haut niveau',
+    'enhanced-include-3' => 'Rapports de haut niveau',
+    'enhanced-include-4' => 'Gérer plusieurs projets',
 
     'custom-include-1' => 'Toutes les fonctionnalités du réseau',
     'custom-include-2' => 'Une image de marque sur mesure',
-    'custom-include-3' => 'Soutien du projet',
+    'custom-include-3' => 'Soutien au projet',
 
     // ------------------------------------------------------
     // ------------------- block #2

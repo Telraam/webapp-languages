@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'nav-title'        => 'L’appareil est prêt',
-    'workshop-title'    => 'Vous avez suivi l’atelier et reçu l’appareil Telraam ?',
-    'workshop-intro'    => 'Lors d’un atelier Telraam, vous recevez déjà votre appareil Telraam (boite noire, caméra, câbles nécessaires), une feuille anti-reflet, et une feuille à compléter. Lisez les instructions suivantes pour savoir comment accrocher votre Telraam, le connecter au wifi, l’activer et ainsi commencer à compter.',
+    'nav-title'        => 'Le capteur est prêt ?',
+    'workshop-title'    => 'Vous avez suivi l\'atelier et reçu votre capteur Telraam ?',
+    'workshop-intro'    => 'Lors d\'un atelier Telraam, vous avez reçu votre appareil Telraam. Continuez ici pour passer par les étapes d\'installation de votre capteur, l\'activer et commencer à compter.',
 
     'self-assembly-title' => 'Comment assembler ?',
 

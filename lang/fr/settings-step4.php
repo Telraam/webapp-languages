@@ -4,15 +4,15 @@ return [
     'nav-title'        => 'Préparation',
     'title'            =>   'Préparation',
     'intro'            => '',
-    'subtitle-1'       =>  "Quelle fenêtre choisissez-vous ?",
-    'to-do-list-1'   =>  '<li>Une fenêtre au premier étage ou plus haut, avec une vue dégagée sur la rue. Cela signifie qu\'il n\'y a pas de poteaux, pas de grands buissons, pas d\'arbres devant la fenêtre qui obstruent la vue. Un volet roulant ne peut être abaissé que lorsqu\'il fait nuit, car le Teleframe ne compte pas lorsqu\'il fait nuit. Une fenêtre sans moustiquaire, car cela obstrue aussi la vue. </li>
-<li>Une fenêtre avec une prise murale à proximité (cela peut être fait avec une rallonge).</li><li>Une fenêtre dans une pièce où il y a une connexion wifi.</li>',
-    'subtitle-2' => "De quel matériel avez-vous besoin?",
+    'subtitle-1'       =>  "Quelle fenêtre choisir ?",
+    'to-do-list-1'   =>  '<li>Une fenêtre au premier étage ou plus haut, avec une vue dégagée sur la rue. Cela signifie pas de poteaux, pas de grands buissons ou d\'arbres devant la fenêtre qui obstruent une vue complète. Un volet roulant ne peut être abaissé que lorsqu\'il fait nuit. Une fenêtre sans moustiquaire, car cela obstrue également la vue. </li>
+<li>Une fenêtre avec une prise électrique à proximité (cela peut être fait avec une rallonge).</li>',
+    'subtitle-2' => "Préparez le matériel",
     'to-do-list-2' => '<li>L\'installation de votre Telraam se fait de préférence avec deux appareils ayant un accès à Internet : un smartphone, un ordinateur portable ou une tablette.
 Vous utiliserez un seul appareil pour vous inscrire sur le site web de Telraam. Cet appareil restera connecté à votre propre réseau wifi et à l\'internet. Avec l\'autre appareil, vous vous
 connecterez à l\'appareil Telraam pour connecter votre Telraam à votre propre wifi.
 </li>
-<li>Prise et câble de rallonge (souvent le câble de l\'adaptateur fourni n\'est pas assez long).</li>
+<li>Prise et câble de rallonge (parfois le câble de l\'adaptateur fourni n\'est pas assez long).</li>
 <li>Nom de votre réseau (SSID) et mot de passe de votre propre réseau wifi auquel vous allez connecter la Telraam.</li>
 <li>Votre dispositif Telraam (la boîte noire et la caméra, reliées par le câble plat de la caméra et l\'adaptateur pour alimenter le dispositif).</li>
 <li>Du matériel adhésif pour fixer la caméra à la fenêtre et bien sûr des ciseaux. Vous pouvez, par exemple, utiliser un ruban adhésif double face ou une bande velcro. Soyez créatifs ! :)</li>

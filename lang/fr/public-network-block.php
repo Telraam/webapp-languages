@@ -1,14 +1,14 @@
 <?php
 
 return [
-    'register' => 'Registrer',
-    'read-more' => 'Savoir plus',
-    'registration-deadline' => ' Date limite de registration',
-    'registration-deadline-unknown' => 'Date limite de registration non connu',
+    'register' => 'S\'inscrire',
+    'read-more' => 'En savoir plus',
+    'registration-deadline' => ' Date limite d\'inscription',
+    'registration-deadline-unknown' => 'Date limite d\'inscription inconnue',
     'free' => 'Gratuit',
     'price-unknown' => 'Prix inconnu',
     'active' => 'Actif',
-    'soon' => 'Bientôt',
+    'soon' => 'Bientôt disponible',
 
     'pre-register' => 'Participez'
 
