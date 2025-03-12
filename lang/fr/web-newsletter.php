@@ -3,10 +3,10 @@
 return [
 
     // front
-    'title' =>  'Bulletin d\'information',
+    'title' =>  'Newsletter',
 
     // thanks
-    'thanks'            => 'Merci de vous abonner!'
+    'thanks'            => 'Merci pour votre inscription !'
 
 
 ];

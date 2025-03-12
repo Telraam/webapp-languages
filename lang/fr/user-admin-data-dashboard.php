@@ -4,10 +4,10 @@ return [
 
     // data dashboard
      'title'        => 'Données',
-    'info'          => 'Approfondissez avec aux données avancées Telraam',
+    'info'          => 'Explorez en profondeur grâce aux données avancées de Telraam',
 
     'btn-open'      => 'Ouvrir',
-    'btn-not-ok'    => 'Uitgebreide data toegang noodzakelijk',
+    'btn-not-ok'    => 'Accès aux données avancées requis',
     'not-yet-available' => 'Pas encore disponible',
     'learn-more'       => 'En savoir plus',
     'upgrade'          => 'Mettre à niveau',
