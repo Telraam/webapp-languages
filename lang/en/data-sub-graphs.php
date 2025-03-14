@@ -2,11 +2,14 @@
 
 return [
 
-    // segments
+    // subheader reports
     'segments-nav-title' => 'My segment',
-    'segments-monthly-title' => 'Monthly',
-    'segments-advanced-nav-title' => '10 modes',
+    'monthly-title' => 'Monthly',
+    'advanced-nav-title' => '10 modes',
+    'instances-nav-title' => 'My installation',
+
     'segments-both-dir' => 'Road users in both directions',
+
     'segments-typical-remark' => 'The average and its standard deviation are based on the last seasonal countings.<br>
  The averages are different per day of the week.',
 
