@@ -33,7 +33,7 @@ return [
     'loc-det-live-today' => 'Comptage détaillé aujourd\'hui',
 
     'share-your-results-on-Facebook' => 'Partagez vos résultats sur Facebook',
-    'share-your-results-on-Twitter' => 'Partagez vos résultats sur Twitter',
+    'share-your-results-on-Bluesky' => 'Partagez vos résultats sur Bluesky',
 
     'set-position' => "Confirmez votre position en sélectionnant l'icône de la caméra verte, qui correspond au côté de la bande de circulation de votre Telraam.",
     'save-position' => 'Enregistrer position.',
@@ -44,7 +44,7 @@ return [
 
     'camera-received-data' =>'La caméra est installée et le serveur reçoit les données',
     'fully-ready' => 'Installation terminée',
-    'did-not-pass-test' => 'Vingt minutes se sont passés et nous n\'avons pas encore reçu aucun ensemble de données. <a href=https://faq-fr.telraam.net/article/189/mon-telraam-ne-compte-pas-encore target=_blank>Essayez les étapes suivantes</a>',
+    'did-not-pass-test' => 'Vingt minutes ont passé et nous n\'avons pas encore reçu aucun ensemble de données. <a href=https://faq-fr.telraam.net/article/189/mon-telraam-ne-compte-pas-encore target=_blank>Essayez les étapes suivantes</a>',
 
     'we-re-checking-still' => 'Nous vérifions encore',
     'minutes' => 'minute(s)',
@@ -57,7 +57,8 @@ return [
     'speed-remark' => 'Les vitesses sont indicatives. Les mesures peuvent différer de 10 % des vitesses effectives. <br>Vous trouverez ici
   <a href="https://faq-fr.telraam.net/article/163/la-mesure-des-vitesses-comment-interpreter-le-graphique-de-la-vitesse">plus d\'informations sur la façon d\'interpréter ces données</a>',
 
-    'speed-remark-v85' => 'Le V85 est un indicateur très utilisé dans le monde de la mobilité et de la sécurité routière, car elle est considérée comme représentative de la vitesse qui peut raisonnablement être maintenue sur une route. <a href="https://faq-fr.telraam.net/article/164/la-mesure-des-vitesses-v85-explique" target="_blank">En savoir plus sur le V85</a>',
+    'speed-remark-v85' => 'Le V85 est un indicateur très utilisé dans le monde de la mobilité et de la sécurité routière.
+la mobilité et la sécurité routière, car elle est considérée comme représentative de la vitesse qui peut raisonnablement être maintenue sur une route. <a href="https://faq-fr.telraam.net/article/164/la-mesure-des-vitesses-v85-explique" target="_blank">En savoir plus sur le V85</a>',
     // 22 feb
     'faq-interpret-data-link' => 'https://faq-fr.telraam.net/article/158/imprecisions-possibles-avec-telraam',
     'faq-interpret-data-text' => 'Comment interpréter les données de la Telraam ?',
@@ -88,7 +89,7 @@ return [
     'show-together' => 'Jours de semaine et week-ends',
     'date-from'     => 'De',
     'date-to'       => 'à',
-    'update'        => 'Mettre à jour',
+    'update'        => 'Actualiser',
     'km-hour-unit'  => 'km/h',
 
     // 9 september
@@ -97,6 +98,7 @@ return [
     'status'        => 'Statut',
     'homeside'      => 'Détectable par Telraam, côté domicile',
     'opposite'      => 'Détectable par Telraam, côté opposé',
+    'direction'     => 'Direction',
 
     'not-active'     => 'Non actif (plus)',
     'counting'       => 'Compter',

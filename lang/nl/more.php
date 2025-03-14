@@ -38,7 +38,7 @@ return [
     'loc-det-live-today' => 'Gedetailleerde telllingen van vandaag',
 
     'share-your-results-on-Facebook' => 'Deel je resultaten op Facebook',
-    'share-your-results-on-Twitter' => 'Deel je resultaten op Twitter',
+    'share-your-results-on-Bluesky' => 'Deel je resultaten op Bluesky',
 
     'set-position' => 'Bevestig je positie door het groene camera icoontje te selecteren die overeenkomt met de kant van de rijbaan van je Telraam.',
     'save-position' => 'Bewaar positie.',
@@ -102,8 +102,9 @@ return [
     'telraam-installations-location' => 'Telraam installaties op deze locatie',
     'date'          => 'Datum',
     'status'        => 'Status',
-    'homeside'      => ' Detecteerbaar door Telraam, huiszijde',
+    'homeside'      => 'Detecteerbaar door Telraam, huiszijde',
     'opposite'      => 'Detecteerbaar door Telraam, andere kant',
+    'direction'     => 'Richting',
 
     'not-active'        => 'Niet (meer) actief',
     'counting'          => 'Tellen',

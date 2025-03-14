@@ -33,7 +33,7 @@ return [
     'loc-det-live-today' => 'Traffic of the past 24 hours - quarter of an hour resolution',
 
     'share-your-results-on-Facebook' => 'Share your results on Facebook',
-    'share-your-results-on-Twitter' => 'Share your results on Twitter',
+    'share-your-results-on-Bluesky' => 'Share your results on Bluesky',
     'set-position' => ' Confirm your positon by selecting the green camera icon corresponding with the side of the road of your Telraam.',
     'save-position' => 'Save position.',
     'check-for-telraam-data' => 'We are checking whether Telraam is receiving data from your camera',
@@ -97,6 +97,7 @@ return [
     'homeside'      => 'Detectable by Telraam, homeside',
     'opposite'      => 'Detectable by Telraam, opposite side',
     'modal-split'   => 'Modal split',
+    'direction'     => 'Direction',
 
     'not-active'        => 'Not active (anymore)',
     'counting'        => 'Counting',
@@ -119,6 +120,7 @@ return [
     'pick-start-date' => 'Pick a start date',
     'max-14-days' => 'Max 14 day interval',
     'max-3-months' => 'Max 3 month interval',
+
 
 
 ];
