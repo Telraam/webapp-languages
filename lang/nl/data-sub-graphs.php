@@ -2,8 +2,13 @@
 
 return [
 
-    // segments
+    // subheader reports
     'segments-nav-title' => 'Segment data',
+    'monthly-title' => 'Maandelijks',
+    'advanced-nav-title' => '10 modes',
+    'instances-nav-title' => 'Mon installation',
+
+    // segments
     'segments-both-dir' => 'Weggebruikers in beide rijrichtingen',
     'segments-typical-remark' => 'Het gemiddelde en de standaardafwijking zijn gebaseerd op de laatste seizoenstellingen. <br> De gemiddelden verschillen per dag van de week.',
 

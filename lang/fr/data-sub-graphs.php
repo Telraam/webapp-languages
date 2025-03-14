@@ -2,8 +2,13 @@
 
 return [
 
-    // segments
+    // subheader reports
     'segments-nav-title' => 'Données de segment',
+    'monthly-title' => 'Mensuel',
+    'advanced-nav-title' => '10 modes',
+    'instances-nav-title' => 'Mon installation',
+
+    // segments
     'segments-both-dir' => 'Usagers de la route dans les deux directions',
     'segments-typical-remark' => 'La moyenne et son écart type sont basés sur les derniers comptages saisonniers.<br>Les moyennes varient selon le jour de la semaine.',
 
