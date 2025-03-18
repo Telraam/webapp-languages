@@ -29,7 +29,7 @@ Collectez des données sur le nombre de voitures, vélos, piétons, poids lourds
     'section-public-title' => 'Page publique',
     'section-public-info' => 'Accédez à un segment de rue sur la carte Telraam pour consulter les données publiques de cette localisation.
     Chaque Telraam affiche les données des deux dernières semaines sur la page publique.<br><br>
-Si le Telraam a un abonnement Premium ou Réseau, des fonctionnalités supplémentaires comme les données de trafic en direct sont également accessibles à tous.<br><br>',
+Si le Telraam dispose un abonnement Premium ou Réseau, des fonctionnalités supplémentaires comme les données de trafic en direct sont également accessibles à tous.<br><br>',
 
     // tab B personal dashboard
     'section-dash-big-title' => 'Explorez vos données dans votre tableau de bord personnel. Exportez les données, accédez à l’API et utilisez des plages de dates étendues.',
@@ -48,8 +48,8 @@ Si le Telraam a un abonnement Premium ou Réseau, des fonctionnalités suppléme
     <ul class="jump-in">
         <li>Découvrez, suivez et analysez les modèles de circulation et les anomalies avec plus de clarté.</li>
         <li>Idéal pour étudier des événements de courte durée (utilisation des rues scolaires, embouteillages, accidents).</li>
-        <li>Trafic en direct avec une présentation bien plus en temps réel (délai de seulement 15 minutes au niveau du capteur, contre un peu
-        plus d\'une heure, avec des données seulement au niveau des segments, pour les utilisateurs non-abonnés).</li>
+        <li>Trafic en direct avec une présentation plus détaillée et rapide (délai de seulement 15 minutes au niveau de chaque installation, contre un peu
+        plus d\'une heure pour les utilisateurs non abonnés, qui n\'ont accès qu\'aux données agrégées par segments).</li>
     </ul>
     <br>
     <p><strong>10 modes différents</strong><br>

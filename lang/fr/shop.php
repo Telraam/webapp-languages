@@ -50,7 +50,7 @@ return [
 
     // warning
     'warning-body-1' => '<strong>Le capteur Telraam nécessite une vue dégagée sur la rue.</strong><br> Consultez les <a href="https://faq-fr.telraam.net/article/147/conditions-a-respecter-pour-lemplacement-de-ma-fenetre-photo-a-uploader-lors-de-lenregistrement" class="grey" target="_blank">conditions d\'installation</a> pour vérifier si votre emplacement est adapté.',
-    'warning-body-2' => '<strong>Nous utilisons le transfert de données mobiles via les réseaux LTE-M ou NB-IoT</strong>. Vérifiezla couverture réseau de votre opérateur dans votre région/pays. <br> En cas de doute, contactez-nous <a href=mailto:support@telraam.net?body=coverage class="grey">par e-mail</a>, nous vous aiderons.',
+    'warning-body-2' => '<strong>Nous utilisons le transfert de données mobiles via les réseaux LTE-M ou NB-IoT</strong>. Vérifiez la couverture réseau de votre opérateur dans votre région/pays. <br> En cas de doute, contactez-nous <a href=mailto:support@telraam.net?body=coverage class="grey">par e-mail</a>, nous vous aiderons.',
 
   'product-1-title' => 'Telraam S2 - Basique',
     'product-1-description' => 'Petit, intelligent et performant. Comptage du trafic sans effort dans votre rue',

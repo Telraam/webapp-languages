@@ -44,8 +44,8 @@ return [
     <br>Les outils de l\'abonnement Réseau simplifient le recrutement, la candidature et la sélection des citoyens. Ils apprennent à installer leur propre compteur de trafic entièrement automatisé et à mieux comprendre les données. Ces participants deviennent des scientifiques citoyens capables de contribuer de manière construtive et objective à l\'élaboration des politiques locales.<br>
     <br>Les données Telraam peuvent également être utilisées par les chercheurs, les habitants et d\'autres parties intéressées pour, par exemple, appuyer des demandes de modification des plans de circulation locaux grâce à des arguments basés sur des données objectives.',
 
-    'section2-block3-title' => 'Données ouvertes et transparence',
-    'section2-block3-text' => 'Les organisations peuvent renforcer la confiance des citoyens en s\'engageant via Telraam. Une grande partie des données de comptage est librement accessible en tant que données ouvertes, et la technologie ainsi que les performances des capteurs Telraam sont bien documentées.<br>
+    'section2-opendata-title' => 'Données ouvertes et transparence',
+    'section2-opendata-text' => 'Les organisations peuvent renforcer la confiance des citoyens en s\'engageant via Telraam. Une grande partie des données de comptage est librement accessible en tant que données ouvertes, et la technologie ainsi que les performances des capteurs Telraam sont bien documentées.<br>
     <br>Les acteurs externes peuvent également exploiter ces données et leur apporter de la valeur. De nombreuses options sont disponibles pour consulter et interagir avec les données, que ce soit via la carte interactive Telraam en accès libren les API publiques et avancées, ou encore les tableaux de bord détaillés des segments et du réseau.<br>
 <ul class="text-list">
     <li>Toutes les données de circulation de base sont accessibles au public via la carte interactive et les pages de segments sur le site de Telraam, ou directement via l\'API publique sous licence ouverte et non commerciale.</li>
@@ -85,7 +85,7 @@ return [
     </ul>',
 
     'features-4-title' => 'Analyse avancées des données',
-    'features-4-text' => '<p>Avec l\'abonnement Réseau, vous avez accès aux données avancées de tous les capteurs et segments du réseau, ainsi qu\'à des outils analityques supplémentaires pour comparer des périodes ou étudier les tendances globales.</p>',
+    'features-4-text' => '<p>Avec l\'abonnement Réseau, vous avez accès aux données avancées de tous les capteurs et segments du réseau, ainsi qu\'à des outils analytiques supplémentaires pour comparer des périodes ou étudier les tendances globales.</p>',
 
     'features-4-reports-title' => 'Rapports de données :',
     'features-4-reports-list' => '

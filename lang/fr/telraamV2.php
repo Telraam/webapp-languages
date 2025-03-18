@@ -4,7 +4,7 @@ return [
 
     'title'           => 'Telraam S2',
 
-    'subtitle'          => 'Notre nouveau capteur<br>Petit, intelligent et puissant<br>Un comptage du trafic sans effort pour toutes les rues.',
+    'subtitle'          => 'Notre nouveau capteur<br>Petit, intelligent et puissant<br>Un comptage du trafic sans effort pour toutes les rues',
 
     'section1-block1-text'        => '<p><strong>La solution idéale pour collecter des données détaillées sur le trafic</strong> dans n\'importe quelle rue, que ce soit pour les particuliers et militants, ou encore pour les autorités locales et les professionnels de la mobilité dans les villes intelligentes. </p>
     <p><strong>Suivez plusieurs modalités simultanément</strong> avec le S2 pour observer l\'impact des interventions ou des évolutions des habitudes locales.</p>',
@@ -67,7 +67,7 @@ Actuellement, nos efforts se concentrent sur l\'amélioration de la connectivit�
     'spec-table-row-1-details' => 'puce K210 pour l\'edge computing',
 
     'spec-table-row-2-subject'     => 'Connexion',
-    'spec-table-row-2-details' => 'Mobile via LTE-M ou NB-IoT<br>, sans besoin de connexion wifi',
+    'spec-table-row-2-details' => 'Mobile via LTE-M ou NB-IoT<br>sans besoin de connexion wifi',
 
     'spec-table-row-3-subject'     => 'Caméra',
     'spec-table-row-3-details' => 'Objectif grand-angle fixe<br>Sélection automatique de la région d\'intérêt',

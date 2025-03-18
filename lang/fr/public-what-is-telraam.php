@@ -8,7 +8,7 @@ return [
     'section1-block1-text' => 'Telraam est une solution citoyenne conçue pour collecter des données multimodales sur le trafic grâce à un compteur de circulation abordable et facile à utiliser.<br>
     <br>Notre capteur Telraam surveille en continu une rue depuis la fenêtre d\'un citoyen, fournissant des données essentielles sur différents modes de transport, y compris les véhicules motorisés, les cyclistes, les piétons et bien plus encore. Les réseaux Telraam permettent également d\'ouvrir le dialogue entre les urbanistes, les autorités locales et les communautés les plus concernées: les citoyens qui vivent et se déplacent dans ces rues. Telraam transforme ainsi le comptage du trafic en un projet de science participative ouvert et accessible.<br><br>',
 
-    'section1-block1-extra' => 'Que vous soyez un résidenr, un militant, un employé d\'une organisation publique ou privée, ou encore un acteur gouvernemental, un projet Telraam vous apporte des données fiables pour atteindre vos objectifs.',
+    'section1-block1-extra' => 'Que vous soyez résident, militant, employé d\'une organisation ou représentant gouvernemental, un projet Telraam vous fournit des données fiables pour atteindre vos objectifs.',
 
     // des questions
     'section2-intro-question' => 'Trafic de transit. Trajets scolaires. Sécurité routière. Pollution de l\'air. Mobilité active. Ces enjeux complexes nécessitent des données quantitatives sur la circulation. Comment les obtenir ?',
@@ -16,10 +16,10 @@ return [
 
     // fond gris
     'section2-block1-title' => 'Alimenter le débat',
-    'section2-block1-text' => 'Les problèmes complexes liés à la circulation nécessitent des données quantitatives pour mieux les comprendre et trouver des solutions adaptées.<br><br> Collecter ces données sur l\'ensemble  d\'un réseau de rues est souvent difficile ou coûteux avec des outils traditionnels comme les compteurs pneumatiques ou les relevés manuels.<br><br> Les capteurs et réseaux Telraam offrent une solution aux citoyens et à leurs représentants locaux.',
+    'section2-block1-text' => 'Les problèmes complexes liés à la circulation nécessitent des données quantitatives pour mieux les comprendre et trouver des solutions adaptées.<br><br> Collecter ces données sur l\'ensemble  d\'un réseau de rues est souvent difficile ou coûteux avec des outils traditionnels, comme les compteurs pneumatiques ou les relevés manuels.<br><br> Les capteurs et réseaux Telraam offrent une solution aux citoyens et à leurs représentants locaux.',
 
     'section2-block2-title' => 'Des données de circulation pour des rues plus agréables',
-    'section2-block2-text' => 'Telraam crée des réseaux personnalisés de capteurs qui s\'appuient sur les connaissances et l\'implication des habitants. Grâce à l\'intelligence artificielle (IA), ces capteursfournissent des données précises, cohérentes et en temps opportun, permettant d\'optimiser les infrastructures, la gestion du trafic et les plans de mobilité.<br><br> Impliquer les citoyens et publier des données ouvertes favorise l\'échange entre chercheurs, décideurs politiques et riverains, encourageant ainsi le dialogue, la co-création et d\'autres formes de participation.',
+    'section2-block2-text' => 'Telraam crée des réseaux personnalisés de capteurs qui s\'appuient sur les connaissances et l\'implication des habitants. Grâce à l\'intelligence artificielle (IA), ces capteurs fournissent des données précises, cohérentes et en temps opportun, permettant d\'optimiser les infrastructures, la gestion du trafic et les plans de mobilité.<br><br> Impliquer les citoyens et publier des données ouvertes favorise l\'échange entre chercheurs, décideurs politiques et riverains, encourageant ainsi le dialogue, la co-création et d\'autres formes de participation.',
 
     'section2-cta' => 'Parlons-en dès aujourd\'hui pour un comptage Telraam dans votre rue',
 
@@ -36,7 +36,7 @@ return [
     'section3-block1-text' => 'Le Telraam S2 est notre tout dernier appareil. Il compte et classe les usagers de la route, fournissant des données anonymes et agrégées par mode de transport et par direction, avec une résolution de 15 minutes. Il estime également la distribution des vitesses V85 des voitures.<br><br> Le Telraam S2 utilise une IA spécialisée et un algorithme propriétaire de suivi pour détecter, classer et compter les usagers de la route avec une grande précision, dans une large variété d\'environnements urbains. Installé à la fenêtre d\'un citoyen, il collecte des données qui peuvent être partagées avec les autorités locales et les décideurs sous forme de données ouvertes.<br><br> Les capteurs Telraam peuvent être installés par des citoyens sur leurs propres rues ou par des groupes de mobilisation et des collectivités qui financent des réseaux citoyens de collecte de données.<br><br> <a href="/fr/S2">En savoir plus sur le capteur S2</a>',
 
     'section3-block2-title' => 'Que fait un capteur Telraam S2?',
-    'section3-block2-text' => 'Le Telraam S2 est un appareil conçu sur mesure qui s\'installe à votre fenêtre. Une fois connecté, vous n\'avez rien à faire, vous pouvez simplement observer les comptages en temps réel.<br><br> Il est équipé d\'une caméra basse résolution (garantissant la confidentialité), d\'une puce AI pour détecter et catégoriser les usagers de la route, ainsi que d\'une connexion de données mobile intégrée qui envoie des données anonymes et agrégées aux serveurs Telraam. Il suffit d\'alimenter et de le fixer à l\'intérieur d\'une fenêtre en hauteur avec une vue dégagée sur la rue.',
+    'section3-block2-text' => 'Le Telraam S2 est un appareil conçu sur mesure qui s\'installe à votre fenêtre. Une fois connecté, vous n\'avez rien à faire, vous pouvez simplement observer les comptages en temps réel.<br><br> Il est équipé d\'une caméra basse résolution (garantissant la confidentialité), d\'une puce IA pour détecter et catégoriser les usagers de la route, ainsi que d\'une connexion de données mobile intégrée qui envoie des données anonymes et agrégées aux serveurs Telraam. Il suffit d\'alimenter et de le fixer à l\'intérieur d\'une fenêtre en hauteur avec une vue dégagée sur la rue.',
 
     'section3-block3-title' => 'Faites en sorte que votre vue compte',
     'section3-block3-text' => 'Prêt à commencer à collecter vos propres données? Lisez notre guide <a href="/fr/self-measure">Commencer à compter</a> pour voir à quel point il est facile de démarrer et comment créer votre propre réseau de comptage.<br><br> En un rien de temps, vous aurez un rapport détaillé sur toutes les activités de votre rue, quartier ou ville.<br><br> C\'est votre point de vue. Faites que ça compte!',
@@ -44,23 +44,23 @@ return [
     // Make your view count
     'make-view-count-title' => 'Comment installer des capteurs Telraam près de chez moi ?',
     'make-view-count-text' => '<p>Vous pouvez choisir d\'héberger un appareil individuel dans votre rue ou travailler avec les autorités locales ou un groupe de mobilisation pour mettre en place un réseau couvrant plusieurs rues.</p>
-    <p>Telraam met à disposition les outils nécessaires pour que des citoyens motivés puissent surveiller la circulation dans leur propre rue. Mais au-delà d\'un simple suivi individuel, ces capteurs permettent aussi de créer des réseaux collaboratifs, où des communautes entièeres peuvent unir leurs efforts pour un impact plus large.</p>
-    <p>Découvrez notre <a href="network">offre d\'abonnement réseau</a> et nos outils pour voir comment vous pouvez créer le vôtre.</p>',
+    <p>Telraam met à disposition les outils nécessaires pour que des citoyens motivés puissent surveiller la circulation dans leur propre rue. Mais au-delà d\'un simple suivi individuel, ces capteurs permettent aussi de créer des réseaux collaboratifs, où des communautes entières peuvent unir leurs efforts pour un impact plus large.</p>
+    <p>Découvrez notre <a href="network">offre d\'abonnement Réseau</a> et nos outils pour voir comment vous pouvez créer le vôtre.</p>',
 
     // use cases
-    'use-cases-title' => 'Cas d\'utilisation',
+    'use-cases-title' => 'Cas d\'usage',
 
     'use-cases-case-1-title' => 'Modèles de trafic',
     'use-cases-case-1-text' => 'Utilisez Telraam pour calibrer les modèles de trafic et fournir des informations sur les volumes de trafic au niveau local.<br><br><div class="tiny">Découvrez <a href="https://traffic-scout.net/" target="_blank">Traffic scout</a> pour une application prête à l\'emploi construite sur notre API.</div>' ,
 
-    'use-cases-case-2-title' => 'Des rues plus sûres',
-    'use-cases-case-2-text' => 'Les principales causes de danger sont les véhicules à moteur, il va donc de soi que nous devons mesurer comment ceux-ci utilisent la rue, en termes de part modale, de volume et de vitesse.' ,
+    'use-cases-case-2-title' => 'Circuler en toute sécurité',
+    'use-cases-case-2-text' => 'Les véhicules motorisés sont la principale source de danger. Il est donc essentiel de mesurer leur usage de la rue : part modale, volume et vitesse.' ,
 
-    'use-cases-case-3-title' => 'Air pur',
-    'use-cases-case-3-text' => 'Les cartes de la qualité de l\'air peuvent mettre en évidence un lien entre la mauvaise qualité de l\'air et les niveaux de trafic élevés, mais pour réduire les trajets en voiture, vous devez savoir combien de voitures utilisent réellement la route, et quand.',
+    'use-cases-case-3-title' => 'Qualité de l\'air',
+    'use-cases-case-3-text' => 'Les cartes de pollution montrent souvent un lien entre la mauvaise qualité de l\'air et trafic intense. Mais pour réduire l\'usage de la voiture, il faut d\'abord savoir combien de véhicules circulent et à quel moment.',
 
-    'use-cases-case-4-title' => 'Rues de l\'école',
-    'use-cases-case-4-text' => 'Arriver et quitter une école doit être une expérience sûre, saine et agréable pour les enfants, les parents et les résidents locaux. Mesurer la mise en œuvre et le succès',
+    'use-cases-case-4-title' => 'Rues scolaires',
+    'use-cases-case-4-text' => 'L\'entrée et la sortie des classes doivent être des moments sécurisés, sains et agréables pour les enfants, les parents et les résidents locaux. Suivez l\'impact des aménagements et leur efficacité.',
 
     // block start counting
     'start-counting-section-1-title' => 'Envie que votre point de vue compte?',
