@@ -33,7 +33,7 @@ return [
 
     // new 12 juni 2024
     'device-is-not-free'            => 'Device is still owned by somebody',
-    'device-is-not-free'            => 'Device is still owned by',
+    'device-is-not-free-with-name'            => 'Device is still owned by',
     'device-is-not-free-button'     => "Ask the previous owner to officially stop this device.",
     'device-is-not-free-extra-info' => 'This action will notify the owner and network manager.<br>
     Once they officially stopped this device, you can proceed with the installation.',
