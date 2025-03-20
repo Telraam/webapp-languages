@@ -34,6 +34,7 @@ return [
 
         // new 12 juni 2024
     'device-is-not-free'            => 'L\'appareil appartient encore à quelqu\'un',
+    'device-is-not-free'            => 'L\'appareil appartient encore à',
     'device-is-not-free-button'     => "Demandez au précédent propriétaire d'arrêter officiellement cet appareil.",
     'device-is-not-free-extra-info' => 'Cette action informera le propriétaire et le gestionnaire du réseau.<br>
      Une fois l\'appareil officiellement arrêté, vous pourrez poursuivre l\'installation.',

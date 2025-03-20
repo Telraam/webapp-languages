@@ -33,7 +33,8 @@ return [
     'to-get-up' => 'gebruiken om dit Telraam weer actief te krijgen.',
 
         // new 12 juni 2024
-    'device-is-not-free'            => 'Het toestel is nog steeds eigendom van iema',
+    'device-is-not-free'            => 'Het toestel is nog steeds eigendom van iemand',
+    'device-is-not-free-with-name'  => 'Het toestel is nog steeds eigendom van',
     'device-is-not-free-button'     => "Vraag de vorige eigenaar om het toestel officieel te stoppen.",
     'device-is-not-free-extra-info' => 'Hierdoor worden de eigenaar en de netwerkbeheerder op de hoogte gebracht.<br>
     Zodra dit toestel officieel is gestopt, kun je doorgaan met de installatie.',
