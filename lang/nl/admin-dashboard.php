@@ -54,4 +54,9 @@ return [
 
     'edit'                        => 'Mijn profiel & plan',
     'logout'                      => 'Logout',
+
+    // 27 mar 2025
+    'my-own-telraam-network'    => 'Mijn eigen Telraam (network)',
+    'my-own-telraam-dashboard'  => 'Mijn dashboard'
+
 ];

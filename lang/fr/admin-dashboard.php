@@ -55,4 +55,9 @@ return [
     'edit'                        => 'Profil & plan',
     'logout'                      => 'Déconnexion',
 
+    // 27 mar 2025
+    'my-own-telraam-network'    => 'Mon propre réseau Telraam',
+    'my-own-telraam-dashboard' => 'Mon tableau de bord'
+
+
 ];
