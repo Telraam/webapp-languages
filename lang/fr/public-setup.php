@@ -46,8 +46,16 @@ return [
     'want-to-install-as-network-admin' => 'Je veux poursuivre l\'installation en tant <i>qu\'administrateur de réseau.</i>',
     'start-setup-as-network-admin-btn'   => 'Lancer l\'installation d\'un appareil en auto-gestion',
 
-    //
+    // network
     'want-to-install-as-network-admin-mulitple-networks' => 'Je souhaite procéder à l\'installation d\'un appareil en auto-gestion en tant qu\'<i>administrateur de réseau</i>.',
+    'device-is-in-your-network' => 'Cet appareil est présent sur votre réseau, mais il est toujours installé par l\'utilisateur. <br>
+Pour réinstaller cet appareil, veuillez',
+    'device-is-in-your-network-remote-install' => 'Cet appareil est dans votre réseau en tant qu\'installation à distance. <br>Pour réinstaller cet appareil, veuillez',
+    'stop-the-current-installation' => 'arrêter l\'installation en cours',
+
+    'device-installed-by-you' => 'L\'appareil est installé par vous',
+    'device-installed-by-you-as-admin' => 'L\'appareil est installé en tant que configuration auto-administrée dans votre réseau',
+
 
 
 ];

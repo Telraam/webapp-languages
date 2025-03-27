@@ -48,5 +48,13 @@ return [
 
     //
     'want-to-install-as-network-admin-mulitple-networks' => 'Ik wil de installatie van een toestel in eigen-beheer uitvoeren als <i>netwerkbeheerder</i>',
+    'device-is-in-your-network' => 'Dit toestel bevindt zich in uw netwerk, maar is nog steeds actief geïnstalleerd door de gebruiker. <br>
+Om dit apparaat opnieuw te installeren, gelieve',
+    'device-is-in-your-network-remote-install' => 'Dit toestel bevindt zich in uw netwerk als een remote installatie. <br>Om dit apparaat opnieuw te installeren, gelieve',
+    'stop-the-current-installation' => 'de huidige installatie te stoppen',
+
+    'device-installed-by-you' => 'Het toestel was door u geïnstalleerd',
+    'device-installed-by-you-as-admin' => 'Het toestel is geïnstalleerd als een zelfbeheerde installatie in uw netwerk',
+
 
 ];

@@ -45,9 +45,15 @@ return [
     'want-to-install-as-network-admin' => 'I want to proceed the installation as a <i>network admin</i>',
     'start-setup-as-network-admin-btn'   => 'Start set-up of a self-administered device',
 
-    //
-    'want-to-install-as-network-admin-mulitple-networks' => 'I want to proceed the installation for a self-administered device as a <i>network admin</i>',
+    // new 27 march 2025
+    'want-to-install-as-network-admin-multiple-networks' => 'I want to proceed the installation for a self-administered device as a <i>network admin</i>',
+    'device-is-in-your-network' => 'This device is in your network, but still actively installed by the user. <br>
+    To re-install this device, please',
+    'device-is-in-your-network-remote-install' => 'This device is in your network as a remote installation. <br>To re-install this device, please',
+    'stop-the-current-installation' => 'stop the current installation',
 
+    'device-installed-by-you' => 'Device has been installed by you',
+    'device-installed-by-you-as-admin' => 'Device has been installed as a self-administered setup in your network',
 
 
 
