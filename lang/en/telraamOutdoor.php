@@ -17,17 +17,21 @@ is blocked by a tree? Or maybe you want to monitor a path with no windows nearby
     'row-1-s2'      => 'Citizen',
     'row-1-outdoor' => 'Professional',
 
-    'row-2-header'  => 'Power',
-    'row-2-s2'      => 'Standard plug with USB-C',
-    'row-2-outdoor' => 'DC connection <br>Optional solar panel & battery',
+    'row-2-header'  => 'Clients',
+    'row-2-s2'      => 'Citizens & Professionals',
+    'row-2-outdoor' => 'Professionals',
 
-    'row-3-header'  => 'Positioning',
-    'row-3-s2'      => 'Window, indoors',
-    'row-3-outdoor' => 'Suitable elevated location outdoors (posts, buildings & structures, trees, etc.)',
+    'row-3-header'  => 'Power',
+    'row-3-s2'      => 'Standard plug with USB-C',
+    'row-3-outdoor' => 'USB-C <br>Optional solar panel & battery',
 
-    'row-4-header'  => 'Design',
-    'row-4-s2'      => 'Attractive design with interactive LCD display & online dashboard',
-    'row-4-outdoor' => 'Unobtrusive weatherproof enclosure & online dashboard controls',
+    'row-4-header'  => 'Positioning',
+    'row-4-s2'      => 'Window, indoors',
+    'row-4-outdoor' => 'Suitable elevated location outdoors (posts, buildings & structures, trees, etc.)',
+
+    'row-5-header'  => 'Design',
+    'row-5-s2'      => 'Attractive design with interactive LCD display & online dashboard',
+    'row-5-outdoor' => 'Unobtrusive weatherproof enclosure & online dashboard controls',
 
     // block more info: Why choose Telraam S2 Outdoor?
     'section-more-title' => 'Why choose Telraam S2 Outdoor?',

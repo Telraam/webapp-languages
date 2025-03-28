@@ -19,6 +19,9 @@ return [
     'participate-as-counter' => 'Ik wil een Telraam installeren.',
     'participate-checkbox-mandatory' => 'Geef aan hoe u wilt deelnemen',
 
+    'apply'     => 'Doe mee',
+    'register'  => 'Inschrijven',
+
     'select-network'      => 'Selecteer je netwerk',
     'no-active-networks'   => 'Geen active netwerken op dit moment',
 

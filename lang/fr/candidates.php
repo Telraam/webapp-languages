@@ -31,6 +31,9 @@ return [
     'participate-as-counter' => 'Je veux installer un Telraam.',
     'participate-checkbox-mandatory' => 'Veuillez préciser comment vous souhaitez participer',
 
+    'apply'     => 'Postulez',
+    'register'  => 'S\'inscrire',
+
     'select-network'      => 'Sélectionnez votre réseau de comptage svp',
     'no-active-networks'   => 'Pas de réseaux actives pour l’instant',
 

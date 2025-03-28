@@ -23,17 +23,21 @@ est bloquée par cet arbre gênant ? Évidemment, vous ne voulez pas couper l\'a
     'row-1-s2'      => 'Particulier',
     'row-1-outdoor' => 'Professionnel',
 
-    'row-2-header'  => 'Alimentation',
-    'row-2-s2'      => 'Prise standard avec USB-C',
-    'row-2-outdoor' => 'Connexion DC <br>Panneau solaire et batterie en option',
+    'row-2-header'  => 'Clients',
+    'row-2-s2'      => 'Particuliers & professionnels',
+    'row-2-outdoor' => 'Professionnels',
 
-    'row-3-header'  => 'Positionnement',
-    'row-3-s2'      => 'Fenêtre, à l\'intérieur',
-    'row-3-outdoor' => 'Emplacement extérieur élevé adapté (poteaux, bâtiments et structures, arbres, etc.)',
+    'row-3-header'  => 'Alimentation',
+    'row-3-s2'      => 'Prise standard avec USB-C',
+    'row-3-outdoor' => 'USB-C <br>Panneau solaire et batterie en option',
 
-    'row-4-header'  => 'Design',
-    'row-4-s2'      => 'Design attractif avec écran LCD interactif et tableau de bord en ligne',
-    'row-4-outdoor' => 'Boîtier discret et étanche aux intempéries avec commandes via tableau de bord en ligne',
+    'row-4-header'  => 'Positionnement',
+    'row-4-s2'      => 'Fenêtre, à l\'intérieur',
+    'row-4-outdoor' => 'Emplacement extérieur élevé adapté (poteaux, bâtiments et structures, arbres, etc.)',
+
+    'row-5-header'  => 'Design',
+    'row-5-s2'      => 'Design attractif avec écran LCD interactif et tableau de bord en ligne',
+    'row-5-outdoor' => 'Boîtier discret et étanche aux intempéries avec commandes via tableau de bord en ligne',
 
     // block more info: Why choose Telraam S2 Outdoor?
     'section-more-title' => 'Pourquoi choisir Telraam S2 Outdoor ?',

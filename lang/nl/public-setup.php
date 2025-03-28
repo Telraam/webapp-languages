@@ -33,8 +33,8 @@ return [
     'to-get-up' => 'gebruiken om dit Telraam weer actief te krijgen.',
 
         // new 12 juni 2024
-    'device-is-not-free'            => 'Het toestel is nog steeds eigendom van iemand',
-    'device-is-not-free-with-name'  => 'Het toestel is nog steeds eigendom van',
+    'device-is-not-free'            => 'Het toestel is nog geregistreerd door iemand',
+    'device-is-not-free-with-name'  => 'Het toestel is nog geregistreerd door',
     'device-is-not-free-button'     => "Vraag de vorige eigenaar om het toestel officieel te stoppen.",
     'device-is-not-free-extra-info' => 'Hierdoor worden de eigenaar en de netwerkbeheerder op de hoogte gebracht.<br>
     Zodra dit toestel officieel is gestopt, kun je doorgaan met de installatie.',
@@ -56,5 +56,11 @@ Om dit apparaat opnieuw te installeren, gelieve',
     'device-installed-by-you' => 'Het toestel was door u geïnstalleerd',
     'device-installed-by-you-as-admin' => 'Het toestel is geïnstalleerd als een zelfbeheerde installatie in uw netwerk',
 
+    // faq
+    'faq-user-link' => 'https://faq-nl.telraam.net/article/280/hoe-kan-ik-stoppen-met-tellen',
+    'faq-user-text' => 'FAQ: Hoe kan een gebruiker stoppen met tellen?',
+
+    'faq-network-admin-link' => 'https://faq.telraam.net/article/260/user-outboarding-processes-and-best-practices',
+    'faq-network-admin-text' => 'FAQ: Outboarding van gebruikers: processen en best practices',
 
 ];

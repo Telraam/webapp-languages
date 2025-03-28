@@ -19,6 +19,9 @@ return [
     'participate-as-counter' => 'I want to install a Telraam.',
     'participate-checkbox-mandatory' => 'Please specify how to want to participate',
 
+    'apply'     => 'Apply',
+    'register' => 'Register',
+
     'select-network'      => 'Select you network.',
     'no-active-networks'   => 'No active networks for the moment.',
 

@@ -32,7 +32,7 @@ return [
    'support' => 'support',
     'to-get-up' => 'pour remettre cet appareil en service.',
 
-        // new 12 juni 2024
+    // new 12 juni 2024
     'device-is-not-free'            => 'L\'appareil appartient encore à quelqu\'un',
     'device-is-not-free-with-name'  => 'L\'appareil appartient encore à',
     'device-is-not-free-button'     => "Demandez au précédent propriétaire d'arrêter officiellement cet appareil.",
@@ -56,6 +56,11 @@ Pour réinstaller cet appareil, veuillez',
     'device-installed-by-you' => 'L\'appareil est installé par vous',
     'device-installed-by-you-as-admin' => 'L\'appareil est installé en tant que configuration auto-administrée dans votre réseau',
 
+    // faq
+    'faq-user-link' => 'https://faq-fr.telraam.net/article/281/comment-puis-je-arreter-de-compter',
+    'faq-user-text' => 'FAQ - Comment un utilisateur peut-il arrêter de compter ?',
 
+    'faq-network-admin-link' => 'https://faq.telraam.net/article/260/user-outboarding-processes-and-best-practices',
+    'faq-network-admin-text' => 'FAQ - L\'intégration des utilisateurs: processus et meilleures pratiques',
 
 ];

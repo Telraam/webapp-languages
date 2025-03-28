@@ -24,20 +24,24 @@ gecombineerd met een klein zonnepaneel en een interne batterij, omdat het zeer w
 
     // table
     'row-1-header'  => 'Installatie & onderhoud',
-    'row-1-s2'      => 'Citizen',
+    'row-1-s2'      => 'Burgers',
     'row-1-outdoor' => 'Professioneel',
 
-    'row-2-header'  => 'Stroom',
-    'row-2-s2'      => 'Standaard stekker met USB-C',
-    'row-2-outdoor' => 'DC-aansluiting <br>Optioneel zonnepaneel & batterij',
+    'row-2-header'  => 'Klanten',
+    'row-2-s2'      => 'Burgers & professionelen',
+    'row-2-outdoor' => 'Professionelen',
 
-    'row-3-header'  => 'Positionering',
-    'row-3-s2'      => 'Raam, binnen',
-    'row-3-outdoor' => 'Geschikte verhoogde locatie buiten (palen, gebouwen & structuren, bomen, etc.)',
+    'row-3-header'  => 'Stroom',
+    'row-3-s2'      => 'Standaard stekker met USB-C',
+    'row-3-outdoor' => 'USB-C <br>Optioneel zonnepaneel & batterij',
 
-    'row-4-header'  => 'Ontwerp',
-    'row-4-s2'      => 'Aantrekkelijk ontwerp met interactief LCD-scherm & online dashboard',
-    'row-4-outdoor' => 'Onopvallende weerbestendige behuizing & online dashboardbediening',
+    'row-4-header'  => 'Positionering',
+    'row-4-s2'      => 'Raam, binnen',
+    'row-4-outdoor' => 'Geschikte verhoogde locatie buiten (palen, gebouwen & structuren, bomen, etc.)',
+
+    'row-5-header'  => 'Ontwerp',
+    'row-5-s2'      => 'Aantrekkelijk ontwerp met interactief LCD-scherm & online dashboard',
+    'row-5-outdoor' => 'Onopvallende weerbestendige behuizing & online dashboardbediening',
 
     // block more info: Why choose Telraam S2 Outdoor?
     'section-more-title' => 'Waarom kiezen voor Telraam S2 Outdoor?',

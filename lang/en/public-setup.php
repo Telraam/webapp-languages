@@ -32,8 +32,8 @@ return [
     'to-get-up' => 'to get this device up and running again.',
 
     // new 12 juni 2024
-    'device-is-not-free'            => 'Device is still owned by somebody',
-    'device-is-not-free-with-name'            => 'Device is still owned by',
+    'device-is-not-free'            => 'Device is still registered by somebody',
+    'device-is-not-free-with-name'            => 'Device is still registered by',
     'device-is-not-free-button'     => "Ask the previous owner to officially stop this device.",
     'device-is-not-free-extra-info' => 'This action will notify the owner and network manager.<br>
     Once they officially stopped this device, you can proceed with the installation.',
@@ -55,6 +55,12 @@ return [
     'device-installed-by-you' => 'Device has been installed by you',
     'device-installed-by-you-as-admin' => 'Device has been installed as a self-administered setup in your network',
 
+    // faq
+    'faq-user-link' => 'https://faq.telraam.net/article/279/how-can-i-stop-counting',
+    'faq-user-text' => 'FAQ: How can a user stop counting?',
+
+    'faq-network-admin-link' => 'https://faq.telraam.net/article/260/user-outboarding-processes-and-best-practices',
+    'faq-network-admin-text' => 'FAQ: User outboarding: processes and best practices',
 
 
 ];
