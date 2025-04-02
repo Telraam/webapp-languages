@@ -34,7 +34,7 @@ return [
     'client'                   => 'Klant',
     'services-provided'        => 'Geleverde diensten',
     'number-telraam-devices'   => 'Aantal Telraam-toestellen',
-    'use-cases'                 => 'Use cases',
+    'use-cases'                 => 'Toepassingen',
     'responsible'               => 'Verantwoordelijke',
     'project-duration'         => 'Projectduur',
     'project-budget'            => 'Projectbudget',
