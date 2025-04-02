@@ -63,8 +63,8 @@ Bekijk de  <a href="https://faq-nl.telraam.net/article/75/vereisten-voor-de-plaa
  //   'product-1-title' => 'Telraam S2 - Professional',
     'product-1-title' => 'Telraam S2 - Basis',
     'product-1-description' => 'Klein, slim en krachtig. Moeiteloos verkeer tellen in jouw straat.',
-    'product-1-price' => '€160',
-    'product-1-note' => 'excl BTW',
+    'product-1-price' => '€199',
+    'product-1-note' => 'incl BTW',
     'product-1-link' => 'Koop',
 
     'product-2-title' => 'Telraam S2 - Premium',

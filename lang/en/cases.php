@@ -1,6 +1,32 @@
 <?php
 
 return [
+
+    // overview page
+    'title'             => 'References and projects',
+    'sub-title'         => 'Take a journey through the many Telraam networks gathering traffic data across the world, and maybe discover a local network seeking candidates.',
+
+    'case-studies'      => 'Case studies',
+    'in-good-company'   => 'In Good Company',
+    'our-networks'      => 'Our networks',
+
+    // overview page: quotes
+    'quote1'                => 'Low-cost insights on the most important indicators of healthy streets that are accessible to all.',
+    'quote1-name'           => 'Graham Stanley',
+    'quote1-function'       => 'Innovation Delivery Lead, Oxford',
+
+    'quote2'                => 'Telraam makes it very easy to consult data and receive insights in traffic flow.',
+    'quote2-name'           => 'Steven Bogaert',
+    'quote2-function'       => 'Schepen mobiliteit, Lichtervelde',
+
+    'quote3'                => 'Telraam provides not only insights through data but also understanding through interaction with residents, local and provincial government.',
+    'quote3-name'         => 'Eric van Dijk',
+    'quote3-function'       => 'Smart mobility policy expert, Province of Utrecht',
+
+    'quote4'                => 'Telraam gives citizens the traffic data they need to amplify their voice, ensuring that decision-makers listen to their concerns and the conversations can move beyond subjective and anecdotal evidence.',
+    'quote4-name'         => 'Professor Enda Hayes',
+    'quote4-function'       => 'University of the West of England',
+
     // highlighted block key elements
     'city'                     => 'City',
     'population'               => 'Population',

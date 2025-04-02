@@ -54,8 +54,8 @@ return [
 
   'product-1-title' => 'Telraam S2 - Basique',
     'product-1-description' => 'Petit, intelligent et performant. Comptage du trafic sans effort dans votre rue',
-    'product-1-price' => '€ 160',
-    'product-1-note' => 'hors TVA',
+    'product-1-price' => '€ 199',
+    'product-1-note' => 'TVA comprise',
     'product-1-link' => 'Acheter',
 
     'product-2-title' => 'Telraam S2 - Premium',

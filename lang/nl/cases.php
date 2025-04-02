@@ -1,6 +1,32 @@
 <?php
 
 return [
+
+    // overview page
+    'title'             => 'Referenties en projecten',
+    'sub-title'         => 'Ontdek de Telraam-netwerken die verkeersgegevens over de hele wereld verzamelen en misschien kom je wel een lokaal netwerk tegen dat kandidaten zoekt.',
+
+    'case-studies'      => 'Praktijkvoorbeelden',
+    'in-good-company'   => 'In Good Company',
+    'our-networks'      => 'Networken',
+
+    // overview page: quotes
+    'quote1'                => 'Toegankelijke inzichten in de belangrijkste indicatoren voor gezonde straten die voor iedereen toegankelijk zijn..',
+    'quote1-name'           => 'Graham Stanley',
+    'quote1-function'       => 'Innovation Delivery Lead, Oxford',
+
+    'quote2'                => 'Telraam maakt het heel eenvoudig om gegevens te raadplegen en inzicht te krijgen in de verkeersstroom.',
+    'quote2-name'           => 'Steven Bogaert',
+    'quote2-function'       => 'Schepen mobiliteit, Lichtervelde',
+
+    'quote3'                => 'Telraam levert niet alleen inzichten door data maar ook begrip door de interactie met bewoners, de lokale en de provinciale overheid.',
+    'quote3-name'           => 'Eric van Dijk',
+    'quote3-function'       => 'Beleidsmedewerker slimme mobiliteit, provincie Utrecht',
+
+    'quote4'                => 'Telraam geeft burgers de verkeersdata die ze nodig hebben om hun stem te versterken, zodat besluitvormers naar hun zorgen luisteren en de gesprekken verder kunnen gaan dan louter subjectief en anekdotisch bewijsmateriaal.',
+    'quote4-name'           => 'Professor Enda Hayes',
+    'quote4-function'       => 'University of the West of England',
+
     // highlighted block key elements
     'city'                     => 'Stad',
     'population'               => 'Bevolking',

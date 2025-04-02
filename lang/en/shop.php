@@ -65,8 +65,8 @@ reach out to us <a href=mailto:support@telraam.net?body=coverage class="grey">vi
  //   'product-1-title' => 'Telraam S2 - Professional',
     'product-1-title' => 'Telraam S2 - Basic',
     'product-1-description' => 'Small, smart, and powerful. Effortless traffic counting on your street.',
-    'product-1-price' => '€160',
-    'product-1-note' => 'excl VAT',
+    'product-1-price' => '€199',
+    'product-1-note' => 'incl VAT',
     'product-1-link' => 'Buy',
 
     'product-2-title' => 'Telraam S2 - Premium',
