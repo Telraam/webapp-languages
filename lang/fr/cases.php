@@ -34,10 +34,10 @@ return [
     'client'                   => 'Client',
     'services-provided'        => 'Services fournis',
     'number-telraam-devices'   => 'Nombre de capteurs Telraam',
-    'use-cases'                 => 'Cas d\'usage',
+    'use-cases'                 => 'Applications',
     'responsible'               => 'Responsable',
     'project-duration'         => 'Durée du project',
-    'project-budget'            => 'Budget du projet (fourchette)',
+    'project-budget'            => 'Budget du projet',
 
     // clients
     'local_authority'       => 'Autorité locale',
