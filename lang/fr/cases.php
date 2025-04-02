@@ -10,6 +10,8 @@ return [
     'in-good-company'   => 'Ils nous font confiance',
     'our-networks'      => 'Nos réseaux',
 
+    'devices'           => 'devices',
+
     // overview page: quotes
     'quote1'                => 'Des analyses accessibles à tous sur les indicateurs clés d’une rue agréable et vivante.',
     'quote1-name'           => 'Graham Stanley',
@@ -72,5 +74,8 @@ return [
     'medium'        => 'Moyen (10k€ - 30k€)',
     'large'         => 'Grand (30k€ - 100k€)',
     'research'      => 'Recherche (>100k€)',
+
+    // contact
+    'get-in-touch' => 'Vous avez un projet similaire en tête ? N\'hésitez pas à nous contacter.'
 
 ];

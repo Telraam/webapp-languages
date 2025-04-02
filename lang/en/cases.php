@@ -10,6 +10,8 @@ return [
     'in-good-company'   => 'In Good Company',
     'our-networks'      => 'Our networks',
 
+    'devices'           => 'devices',
+
     // overview page: quotes
     'quote1'                => 'Low-cost insights on the most important indicators of healthy streets that are accessible to all.',
     'quote1-name'           => 'Graham Stanley',
@@ -72,5 +74,8 @@ return [
     'medium'        => 'Medium (10k€ - 30k€)',
     'large'         => 'Large (30k€ - 100k€)',
     'research'      => 'Research (>100k€)',
+
+    // contact
+    'get-in-touch' => 'Heb je een gelijkaardig project in gedachten?<br> Aarzel niet om contact op te nemen.'
 
 ];
