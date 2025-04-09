@@ -11,7 +11,7 @@ return [
     'nav-press-kit' => 'Pers',
     'nav-blog' => 'Blog',
     'nav-talks' => 'Telraam Talks',
-    'nav-browse-networks' => 'Bekijk netwerken',
+    'nav-references-projects' => 'Referenties en projecten',
     'nav-partners' => 'Partners',
     'nav-jobs' => 'Jobs',
     'nav-about-us' => 'Over ons',

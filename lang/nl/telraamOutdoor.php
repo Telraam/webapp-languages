@@ -2,17 +2,20 @@
 
 return [
 
-    'title'           => 'Telraam Outdoor',
-    'nav-title'         => 'Outdoor',
+    'title'             => 'Telraam S2 Outdoor',
+    'nav-title'         => 'S2 Outdoor',
 
     'subtitle'          => 'Volledig autonoom Telraam S2 voor outdoor gebruik',
 
+    'section1-block1-title'       => 'Blokeert een book met zicht?',
     'section1-block1-text'        => '<p>Wil je ook een Telraam-sensor installeren om het verkeer in je straat te tellen,
  maar wordt het zicht geblokkeerd door die boom?
  Of misschien wil je een wandelpad data zonder dat er woningen in de buurt zijn?
  Je wilt natuurlijk geen bomen omhakken, maar je wilt toch het verkeer tellen, dus het zou ideaal
-  zijn om een Telraam buiten te hebben, ... misschien zelfs bevestigd aan de boom.</p>
-<p>We hebben van veel gebruikers gehoord dat er moeilijke omstandigheden zijn waarbij sommige toestellen
+  zijn om een Telraam buiten te hebben, ... misschien zelfs bevestigd aan de boom.</p>',
+
+    'section1-block2-title'       => 'Meer flexibiliteit',
+    'section1-block2-text'        => '<p>We hebben van veel gebruikers gehoord dat er moeilijke omstandigheden zijn waarbij sommige toestellen
 in een netwerk buiten moeten worden geplaatst. Of dit nu over fietspaden in open ruimtes gaat,
 om het toestel in de dakrand van een gebouw, op een balkon
 dat het zicht belemmert, of misschien de buitenkant van een gebouw om toch een goed zicht te bekomen.
@@ -84,5 +87,19 @@ te vullen of door contact met ons op te nemen via <a href="mailto:info@telraam.n
  	'question-5'           => 'Hoe en wanneer wordt mijn Telraam S2 Outdoor geleverd?',
  	'answer-5'           => 'Telraam S2 Outdoor-toestellen worden per post geleverd. Voor de laatste informatie rond
 levertijden kunt u contact met ons opnemen via <a href="mailto:info@telraam.net">info@telraam.net</a>.',
+
+
+    // tech table
+    'spec-table-title' => 'Technische specificaties',
+
+    'spec-table-intro-details' => 'Alle onderdelen zijn identiek aan het <a href="S2">Telraam S2</a> toestel.',
+
+    'spec-table-row-1-subject'     => 'Afmetingen',
+    'spec-table-row-1-details' => '<div class="tiny">Alleen de behuizing:</div> 100 mm x 150 mm x 55 mm<br><br>
+<div class="tiny">Inclusief profielen van de montagebeugel en kabeldoorvoer:</div>100 mm x 168 mm x 69 mm<br>
+<br><div class="tiny">Gewicht:</div> 310 g',
+
+    'spec-table-row-2-subject'     => 'Power',
+    'spec-table-row-2-details' => '< 1.5 W <br>USB-C Connectie<br>',
 
 ];

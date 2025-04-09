@@ -12,6 +12,7 @@ return [
     'nav-press-kit' => 'Kit Presse',
     'nav-blog' => 'Blog',
     'nav-talks' => 'Telraam Talks',
+    'nav-references-projects' => 'Références et projets',
     'nav-partners' => 'Partenaires',
     'nav-faq-support' => 'FAQ et support',
     'nav-login' => 'Se connecter',

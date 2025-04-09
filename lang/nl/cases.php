@@ -76,6 +76,6 @@ return [
     'research'      => 'Onderzoek (>100k€)',
 
     // contact
-    'get-in-touch' => 'Have a similar project in mind?<br> Feel to free to get in touch'
+    'get-in-touch' => 'Meer weten over dit project?<br> Aarzel niet om contact op te nemen.'
 
 ];

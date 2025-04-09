@@ -2,15 +2,20 @@
 
 return [
 
-    'title'           => 'Telraam Outdoor',
-    'nav-title'         => 'Outdoor',
+    'title'           => 'Telraam S2 Outdoor',
+    'nav-title'         => 'S2 Outdoor',
 
     'subtitle'          => 'Fully autonomous Telraam S2 for outdoor deployment',
 
+    'section1-block1-title'       => 'Is a tree blocking the view?',
     'section1-block1-text'        => '<p>Do you want to install a Telraam device to count traffic in a street, but the view
-is blocked by a tree? Or maybe you want to monitor a path with no windows nearby? Obviously, you don\'t want to cut down trees, but you still want to count traffic, so it would be ideal to have a Telraam actually outside, ... maybe even attached to the tree.</p>
+is blocked by a tree? Or maybe you want to monitor a path with no windows nearby? Obviously, you don\'t want to cut down trees, but you still want
+to count traffic, so it would be ideal to have a Telraam actually outside, ... maybe even attached to the tree.</p>',
 
-<p>We\'ve heard from many users that there are circumstances that require some devices in a network to be placed in outside locations. Whether this is for cycle paths in open spaces, to raise the device into the eaves of a single-storey building, on a balcony that otherwise obscures the window view, or maybe on the outside of a building to avoid overhangs and other structures in the way. To address this need, we have been on a journey to develop a version of the Telraam S2 device which you can install outdoors and even be powered autonomously. We still wanted to keep the simplicity of installation, so our approach has been to put our existing S2 device in a weather-safe enclosure which can be plugged in to residential power if available, but also, because it consumes very little power, make it possible to combine it with a small solar panel and internal battery.</p>',
+    'section1-block2-title'       => 'More flexibility',
+    'section1-block2-text'        => '<p>We\'ve heard from many users that there are circumstances that require some devices in a network to be placed in outside locations. Whether this is for cycle paths in open spaces, to raise the
+device into the eaves of a single-storey building, on a balcony that otherwise obscures the window view, or maybe on the outside of a building to avoid overhangs and other structures in the way. To address this need, we have been on a journey to develop a version of the Telraam S2 device which you can install outdoors and even be powered autonomously. We still wanted to keep the simplicity of installation, so our approach has been to put our existing S2 device in a weather-safe enclosure which can be plugged in to residential power if available, but also, because it consumes very little power, make it possible to combine it with a small solar panel and internal battery.</p>',
+
 
     // table
     'row-1-header'  => 'Installation & maintenance',
@@ -72,5 +77,18 @@ Technical expertise is only required to supply the outdoor device with power, bu
     'question-5'         => 'How and when will my Telraam S2 Outdoor be delivered?',
     'answer-5'           => 'Telraam S2 Outdoor devices are delivered by post. For the latest information on delivery times, please contact us at <a href="mailto:info@telraam.net">info@telraam.net</a>.',
 
+
+    // tech table
+    'spec-table-title' => 'Technical specifications',
+
+    'spec-table-intro-details' => 'All internal components are identical to our <a href="S2">Telraam S2</a> device.',
+
+    'spec-table-row-1-subject'     => 'Dimensions',
+    'spec-table-row-1-details' => '<div class="tiny">Only the main casing:</div> 100 mm x 150 mm x 55 mm<br><br>
+<div class="tiny">Including extrusions of the mounting bracket and cable gland:</div>100 mm x 168 mm x 69 mm<br>
+<br><div class="tiny">Weight:</div> 310 g',
+
+    'spec-table-row-2-subject'     => 'Power',
+    'spec-table-row-2-details' => '< 1.5 W <br>USB-C Connection<br>',
 
 ];

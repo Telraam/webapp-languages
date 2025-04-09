@@ -2,15 +2,23 @@
 
 return [
 
-    'title'           => 'Telraam Outdoor',
-    'nav-title'       => 'Outdoor',
+    'title'           => 'Telraam S2 Outdoor',
+    'nav-title'       => 'S2 Outdoor',
 
     'subtitle'        => 'Telraam S2 entièrement autonome pour une installation en extérieur',
 
+    'section1-block1-title'       => 'Un arbre bloque-t-il la vue ?',
     'section1-block1-text' => '<p>Vous voulez un capteur Telraam pour compter le trafic dans votre rue, mais la vue
-est bloquée par cet arbre gênant ? Évidemment, vous ne voulez pas couper l\'arbre, mais vous souhaitez compter le trafic. Dans ce cas, il serait idéal d\'avoir un Telraam installé à l\'extérieur, peut-être attaché à l\'arbre.</p>
+est bloquée par cet arbre gênant ? Évidemment, vous ne voulez pas couper l\'arbre, mais vous souhaitez compter le trafic. Dans ce cas, il serait
+idéal d\'avoir un Telraam installé à l\'extérieur, peut-être attaché à l\'arbre.</p>',
 
-<p>Vous n\'êtes pas le seul dans ce cas et nous avons entendu votre appel. Pour répondre à ce besoin, nous avons lancé un nouveau projet de développement pour créer un capteur Telraam S2 autonome que vous pourrez installer à l\'extérieur. Nous voulons conserver la simplicité de l\'installation, donc pas de câbles d\'alimentation ni de connexions wifi à gérer. Notre solution consiste à intégrer notre capteur S2 existant dans un boîtier sécurisé et à l\'équiper d\'un petit panneau solaire et d\'une batterie interne. Comme notre dispositif consomme très peu d\'énergie, un petit panneau solaire et une batterie suffisent.</p>',
+    'section1-block2-title'       => 'Plus de flexibilité',
+    'section1-block2-text' => '<p>Vous n\'êtes pas le seul dans ce cas et nous avons entendu votre appel. Pour répondre à ce besoin, nous avons lancé
+un nouveau projet de développement pour créer un capteur Telraam S2 autonome que vous pourrez installer à l\'extérieur.
+Nous voulons conserver la simplicité de l\'installation, donc pas de câbles d\'alimentation ni de connexions wifi à gérer.
+ Notre solution consiste à intégrer notre capteur S2 existant dans un boîtier sécurisé et à l\'équiper d\'un petit panneau solaire et
+ d\'une batterie interne. Comme notre dispositif consomme très peu d\'énergie, un petit panneau solaire et une batterie suffisent.</p>',
+
 
     // timeline
     'timeline-step1-title'        => 'Conception & développement',
@@ -67,6 +75,21 @@ Des connaissances techniques sont nécessaires uniquement pour alimenter l\'unit
  	'answer-2'          => 'Le prix du capteur est nettement plus élevé par rapport au modèle Telraam S2 pour l\'intérieur. Le panneau solaire n\'est pas inclus dans notre offre et peut être acheté à un prix supplémentaire, uniquement en Belgique. Nous ne livrons pas le kit solaire + batterie à l\'international.',
 
  	'question-3'        => 'L\'appareil est-il complètement autonome en énergie ?',
- 	'answer-3'          => 'Presque. Vous pouvez obtenir 100% d\'autonomie avec un grand panneau solaire et une batterie, mais il y a un compromis raisonnable entre la taille de la batterie, du panneau solaire et le coût. Nous pensons avoir trouvé le bon équilibre pendant la phase de prototype.'
+ 	'answer-3'          => 'Presque. Vous pouvez obtenir 100% d\'autonomie avec un grand panneau solaire et une batterie, mais il y a un compromis
+ 	 raisonnable entre la taille de la batterie, du panneau solaire et le coût. Nous pensons avoir trouvé le bon équilibre pendant la phase de prototype.',
+
+
+    // tech table
+    'spec-table-title' => 'Spécifications techniques',
+
+    'spec-table-intro-details' => 'Toutes les pièces sont identiques au <a href="S2">Telraam S2</a>',
+
+    'spec-table-row-1-subject'     => 'Dimensions',
+    'spec-table-row-1-details' => '<div class="tiny">Boîtier uniquement:</div> 100 mm x 150 mm x 55 mm<br><br>
+<div class="tiny">Y compris les profils de support de montage et les passe-câbles:</div>100 mm x 168 mm x 69 mm<br>
+<br><div class="tiny">Poids:</div> 310 g',
+
+    'spec-table-row-2-subject'     => 'Électricité',
+    'spec-table-row-2-details' => '< 1.5 W <br>USB-C Connectie<br>',
 
 ];

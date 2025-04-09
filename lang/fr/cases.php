@@ -76,6 +76,6 @@ return [
     'research'      => 'Recherche (>100k€)',
 
     // contact
-    'get-in-touch' => 'Vous avez un projet similaire en tête ? N\'hésitez pas à nous contacter.'
+    'get-in-touch' => 'Vous souhaitez en savoir plus sur ce projet?<br> N\'hésitez pas à nous contacter.'
 
 ];

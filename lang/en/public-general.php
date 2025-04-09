@@ -11,7 +11,7 @@ return [
     'nav-press-kit' => 'Press Kit',
     'nav-blog' => 'Blog',
     'nav-talks' => 'Telraam Talks',
-    'nav-browse-networks' => 'Browse networks',
+    'nav-references-projects' => 'References & Projects',
     'nav-partners' => 'Partners',
     'nav-jobs' => 'Jobs',
      'nav-about-us' => 'About Us',
