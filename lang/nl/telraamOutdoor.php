@@ -5,7 +5,7 @@ return [
     'title'             => 'Telraam S2 Outdoor',
     'nav-title'         => 'S2 Outdoor',
 
-    'subtitle'          => 'Volledig autonoom Telraam S2 voor outdoor gebruik',
+    'subtitle'          => 'Een Telraam S2 in een volledig weerbestendige behuizing',
 
     'section1-block1-title'       => 'Blokeert een book met zicht?',
     'section1-block1-text'        => '<p>Wil je ook een Telraam-sensor installeren om het verkeer in je straat te tellen,
@@ -20,8 +20,8 @@ in een netwerk buiten moeten worden geplaatst. Of dit nu over fietspaden in open
 om het toestel in de dakrand van een gebouw, op een balkon
 dat het zicht belemmert, of misschien de buitenkant van een gebouw om toch een goed zicht te bekomen.
 Om in deze behoefte te voorzien, hebben we een versie van het Telraam S2-toestel ontwikkeld die je
-buiten kunt installeren waarbij autonoom stroom kan worden voorzien. De eenvoudige installatie is behouden,
-maar we hebben bestaande S2-toestel in een weerbestendige behuizing
+buiten kunt installeren waarbij autonoom stroom kan worden voorzien. <br><br>De eenvoudige installatie is behouden,
+maar we hebben het bestaande S2-toestel in een weerbestendige behuizing
 geplaatst die, indien beschikbaar, kan worden aangesloten op een stopcontact. Het Outdoor toestel kan worden
 gecombineerd met een klein zonnepaneel en een interne batterij, omdat het zeer weinig stroom verbruikt.</p>',
 
@@ -50,25 +50,25 @@ gecombineerd met een klein zonnepaneel en een interne batterij, omdat het zeer w
     'section-more-title' => 'Waarom kiezen voor Telraam S2 Outdoor?',
 
     'section-more-block-1-title' => ' Laag stroomverbruik',
-    'section-more-block-1-body' => 'Telraam S2 is ontworpen om zeer weinig stroom te verbruiken. De buitenunit verbruikt minder dan 0,8 W en kan indien nodig eenvoudig worden ondersteund door bestaande aansluitingen.
+    'section-more-block-1-body' => 'Telraam S2 en dus ook Telraam S2 Outdoor zijn ontworpen om zeer weinig stroom te verbruiken. De buitenunit verbruikt minder dan 0,8 W en kan indien nodig eenvoudig worden ondersteund door bestaande aansluitingen.
 De Telraam Outdoor-unit wordt gevoed door DC. Een ingebouwde DC-omvormer heeft slechts 12-24 V stroom nodig.',
 
     'section-more-block-2-title' => 'Multimodaal',
-    'section-more-block-2-body' => 'Alle Telraam S2-toestellen tellen, categoriseren en rapporteren alle activiteiten op straat: auto\'s, fietsen, voetgangers, bussen, vrachtwagens en meer.
+    'section-more-block-2-body' => 'Beide Telraam S2-toestellen tellen, categoriseren en rapporteren alle activiteiten op straat: auto\'s, fietsen, voetgangers, bussen, vrachtwagens en meer.
 Door het toestel buiten te plaatsen, is er een breder scala aan tellocaties mogelijk naast woonstraten.',
 
     'section-more-block-3-title' => 'Eenvoudige installatie',
     'section-more-block-3-body' => 'Telraam-toestellen zijn ontworpen om gebruiksvriendelijk en eenvoudig te installeren te zijn en de prestaties kunnen worden bewaakt met behulp van een online platform.
-Technische expertise is alleen vereist om het buitentoestel van stroom te voorzien, maar een handleiding en ondersteuningsmaterialen zijn inbegrepen.',
+Technische expertise is alleen vereist om het buitentoestel van stroom te voorzien, maar een handleiding en ondersteuningsmaterialen zijn inbegrepen.<br>
+Het registreren van een Telraam S2 Outdoor op telraam.net verschilt niet van een Telraam S2-toestel.',
 
     'section-more-block-4-title' => 'Privacy',
     'section-more-block-4-body' => 'Telraam-toestel gebruiken AI de videobeelden lokaal op het toestel te verwerken. Alleen verkeerstellingen en gecategoriseerde gegevens (bijvoorbeeld auto\'s, voetgangers, fietsen) worden naar de cloud verzonden. De ruwe videobeelden worden niet opgeslagen of verzonden.',
 
 
-
     // FAQ
     'faq-title'         => 'FAQ',
-    'question-1'           => 'Is er een verschil tussen de standaard S2 en deze outdoor sensor?',
+    'question-1'           => 'Is er een verschil tussen de standaard S2 en S2 Outdoor sensor?',
 	'answer-1'           => 'De interne componenten blijven hetzelfde, met in de outdoorversie een extra toevoeging voor een LED-statuslampje. De behuizing is verbeterd om bestand te zijn tegen weersinvloeden.
  Het Telraam functioneert net zoals de indoor Telraam S2 en draait dezelfde software om verkeer te detecteren. Dit betekent dat het dezelfde <a href="https://faq-nl.telraam.net/article/75/vereisten-voor-de-plaatsing-van-mijn-telraam-op-een-raam">locatievereisten</a> heeft als de Telraam S2 voor binnen.',
 
@@ -94,12 +94,14 @@ levertijden kunt u contact met ons opnemen via <a href="mailto:info@telraam.net"
 
     'spec-table-intro-details' => 'Alle onderdelen zijn identiek aan het <a href="S2">Telraam S2</a> toestel.',
 
-    'spec-table-row-1-subject'     => 'Afmetingen',
-    'spec-table-row-1-details' => '<div class="tiny">Alleen de behuizing:</div> 100 mm x 150 mm x 55 mm<br><br>
-<div class="tiny">Inclusief profielen van de montagebeugel en kabeldoorvoer:</div>100 mm x 168 mm x 69 mm<br>
-<br><div class="tiny">Gewicht:</div> 310 g',
+    'spec-table-row-size-details' => '100 mm x 168 mm x 69 mm<br>310 g',
+    'spec-table-row-power-details' => '~0.8 W<br>USB-C Connection',
+    'spec-table-row-includes-details' => 'Montagebeugel<br>Kabeldoos voor weerbestendige USB-C-aansluiting',
 
-    'spec-table-row-2-subject'     => 'Power',
-    'spec-table-row-2-details' => '< 1.5 W <br>USB-C Connectie<br>',
+    'spec-table-row-rating-title' => 'IP rating',
+    'spec-table-row-rating-details' => 'IP 67',
+
+    'spec-table-row-led-title' => 'LED',
+    'spec-table-row-led-details' => 'RGB LED met verschillende statusmeldingen',
 
 ];
