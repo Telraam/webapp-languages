@@ -7,7 +7,7 @@ return [
 
     'subtitle'        => 'Un Telraam S2 dans un boîtier entièrement étanche',
 
-    'section1-block1-title'       => 'Un arbre bloque-t-il la vue ?',
+    'section1-block1-title'       => 'Lieux difficiles?',
     'section1-block1-text' => '<p>Vous voulez un capteur Telraam pour compter le trafic dans votre rue, mais la vue
 est bloquée par cet arbre gênant ? Évidemment, vous ne voulez pas couper l\'arbre, mais vous souhaitez compter le trafic. Dans ce cas, il serait
 idéal d\'avoir un Telraam installé à l\'extérieur, peut-être attaché à l\'arbre.</p>',
@@ -68,7 +68,7 @@ L\'enregistrement d\'une Telraam S2 Outdoor sur telraam.net n\'est pas différen
 
     // FAQ
     'faq-title'         => 'FAQ',
-    'question-1'        => 'Y a-t-il une différence entre le S2 classique et cet capteur S2 Extérieur ?',
+    'question-1'        => 'Y a-t-il une différence entre le Telraam S2 classique et cet capteur Telraam S2 Outdoor?',
 	'answer-1'          => 'Les composants internes restent les mêmes, mais le boîtier extérieur a été mis à jour pour être résistant aux intempéries.
  L\'appareil fonctionne de la même manière que le S2 classique pour une utilisation en intérieur et utilise le même logiciel pour détecter le trafic. Cela signifie qu\'il a les mêmes <a href="https://faq-fr.telraam.net/article/147/conditions-a-respecter-pour-lemplacement-dun-telraam-sur-ma-fenetre">exigences de localisation</a> que le Telraam S2 intérieur.',
 
