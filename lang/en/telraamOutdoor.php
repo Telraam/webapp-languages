@@ -7,7 +7,7 @@ return [
 
     'subtitle'          => 'A Telraam S2 in a fully weatherproof enclosure',
 
-    'section1-block1-title'       => 'Is a tree blocking the view?',
+    'section1-block1-title'       => 'Challenging locations?',
     'section1-block1-text'        => '<p>Do you want to install our sensor to count traffic in a street, but there are
 no suitable windows nearby to host a Telraam S2 with a citizen? It can happen: there are trees in the way, the street
 is in an industrial area or in a national park far from residential buildings, or simply you want to monitor a cycle
@@ -73,7 +73,7 @@ Registering a Telraam S2 Outdoor on telraam.net is no different from a Telraam S
     // FAQ
     'faq-title'         => 'FAQ',
 
-    'question-1'           => 'Is there a difference between the regular S2 and Telraam S2 outdoor device?',
+    'question-1'           => 'Is there a difference between the regular Telraam S2 and a Telraam S2 Outdoor device?',
     'answer-1'           => 'The internal components remain the same, with the outdoor version including a small additional part for the LED status light. The outer casing has been updated to be weather-resistant.
  Functionally, it works just like the indoor Telraam S2 and runs the same software to detect traffic. This also means it shares the same <a href="https://faq.telraam.net/article/3/requirements-for-the-installation-of-a-telraam-in-my-window">location requirements</a> as the indoor Telraam S2.',
 
