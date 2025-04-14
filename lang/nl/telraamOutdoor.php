@@ -7,7 +7,7 @@ return [
 
     'subtitle'          => 'Een Telraam S2 in een volledig weerbestendige behuizing',
 
-    'section1-block1-title'       => 'Blokeert een book met zicht?',
+    'section1-block1-title'       => 'Uitdagende locaties?',
     'section1-block1-text'        => '<p>Wil je ook een Telraam-sensor installeren om het verkeer in je straat te tellen,
  maar wordt het zicht geblokkeerd door die boom?
  Of misschien wil je een wandelpad data zonder dat er woningen in de buurt zijn?
@@ -68,7 +68,7 @@ Het registreren van een Telraam S2 Outdoor op telraam.net verschilt niet van een
 
     // FAQ
     'faq-title'         => 'FAQ',
-    'question-1'           => 'Is er een verschil tussen de standaard S2 en S2 Outdoor sensor?',
+    'question-1'           => 'Is er een verschil tussen de standaard Telraam S2 en de Telraam S2 Outdoor sensor?',
 	'answer-1'           => 'De interne componenten blijven hetzelfde, met in de outdoorversie een extra toevoeging voor een LED-statuslampje. De behuizing is verbeterd om bestand te zijn tegen weersinvloeden.
  Het Telraam functioneert net zoals de indoor Telraam S2 en draait dezelfde software om verkeer te detecteren. Dit betekent dat het dezelfde <a href="https://faq-nl.telraam.net/article/75/vereisten-voor-de-plaatsing-van-mijn-telraam-op-een-raam">locatievereisten</a> heeft als de Telraam S2 voor binnen.',
 
