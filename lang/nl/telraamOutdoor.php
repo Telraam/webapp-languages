@@ -95,7 +95,7 @@ levertijden kunt u contact met ons opnemen via <a href="mailto:info@telraam.net"
     'spec-table-intro-details' => 'Alle onderdelen zijn identiek aan het <a href="S2">Telraam S2</a> toestel.',
 
     'spec-table-row-size-details' => '100 mm x 168 mm x 69 mm<br>310 g',
-    'spec-table-row-power-details' => '~0.8 W<br>USB-C Connection',
+    'spec-table-row-power-details' => '~0.8 W met USB-C Connection',
     'spec-table-row-includes-details' => 'Montagebeugel<br>Kabeldoos voor weerbestendige USB-C-aansluiting',
 
     'spec-table-row-rating-title' => 'IP rating',

@@ -86,7 +86,7 @@ L\'enregistrement d\'une Telraam S2 Outdoor sur telraam.net n\'est pas différen
     'spec-table-intro-details' => 'Toutes les pièces sont identiques au <a href="S2">Telraam S2</a>',
 
     'spec-table-row-size-details'      => '100 mm x 168 mm x 69 mm<br>310 g',
-    'spec-table-row-power-details' => '~0.8 W<br>USB-C Connection',
+    'spec-table-row-power-details' => '~0.8 W avec USB-C Connection',
     'spec-table-row-includes-details' => 'Support de montage<br>Boîte de jonction pour une connexion USB-C
     résistante aux intempéries.',
 
