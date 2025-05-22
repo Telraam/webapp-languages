@@ -44,6 +44,8 @@ Involving citizens and publishing open data brings researchers and policy makers
     'quote2-author' => 'Eric van Dijk',
     'quote2-function' => 'Beleidsmedewerker smart mobility, Province of Utrecht',
 
+    'section3-block0-title' => 'Join the count!', // title on top of the video
+
     'section3-block1-title' => 'Comment fonctionne notre compteur de trafic?',
 
     'section3-block1-title' => 'How does our traffic counter work?',

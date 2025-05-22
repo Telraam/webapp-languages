@@ -49,7 +49,6 @@ return [
     'camera-is-set-up' => 'Camera is opgezet',
     'camera-is-set-up-but-no-data' => '<strong>Camera is opgezet, maar kreeg nog geen data binnen.</strong> <br>Indien succesvol, zal je hier na maximaal 20 minuten de boodschap krijgen dat jouw toestel inderdaad data verzendt. Als het langer duurt, dan is er iets fout gelopen. <a href=https://faq-nl.telraam.net/article/138/mijn-telraam-heeft-nog-niet-geteld target=_blank>Probeer deze stappen</a>',
 
-
     'camera-received-data' =>'Camera is opgezet en de server ontving data op',
     'fully-ready' => 'Volledig klaar',
     'did-not-pass-test' => 'Twintig minuten zijn voorbij en we kregen nog geen data package binnen. <a href=https://faq-nl.telraam.net/article/138/mijn-telraam-heeft-nog-niet-geteld target=_blank>Probeer deze stappen</a>',
@@ -118,5 +117,12 @@ return [
     'typical-for-a' => 'Typisch voor een',
     'typical-at' => 'om ',
     'typical-info' => 'Typisch verkeer berekend over een jaar eindigend op',
+
+    // 12 may 2025
+    'quality_level_low_accuracy'        => 'De classificatienauwkeurigheid voor dit segment ligt onder de norm. Hoewel de totaaltellingen nog steeds redelijk betrouwbaar zouden moeten zijn, werken we actief aan verbeteringen.',
+    'quality_level_test_device'         => 'Dit is een testapparaat, dus de nauwkeurigheid kan lager zijn dan normaal.',
+    'quality_level_low_connectivity'    => 'We hebben connectiviteitsproblemen gedetecteerd. Dit kan van invloed zijn op het uploaden van gegevens en de prestaties van het apparaat',
+    'quality_level_hardware'            => 'We hebben een mogelijk hardware- of firmwareprobleem gedetecteerd. We zijn het aan het onderzoeken. Dit kan van invloed zijn op het uploaden van gegevens en de prestaties van het apparaat.',
+
 
 ];

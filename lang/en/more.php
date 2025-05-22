@@ -121,6 +121,10 @@ return [
     'max-14-days' => 'Max 14 day interval',
     'max-3-months' => 'Max 3 month interval',
 
-
+    // 12 may 2025
+    'quality_level_low_accuracy'        => 'The classification accuracy for this segment is below standards. While total counts should still be fairly reliable, we’re actively working on improvements.',
+    'quality_level_test_device'         => 'This is a test device, so the accuracy may be lower than usual.',
+    'quality_level_low_connectivity'    => 'We’ve detected connectivity issues. This can affect data uploads and device performance.',
+    'quality_level_hardware'            => 'We’ve detected a potential hardware or firmware issue. We’re looking into it. This can affect data uploads and device performance.',
 
 ];

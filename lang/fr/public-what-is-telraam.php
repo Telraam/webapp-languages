@@ -32,6 +32,8 @@ return [
     'quote2-author' => 'David Tailleur',
     'quote2-function' => 'coach d\'équipe de police de quartier, Lubbeek',
 
+    'section3-block0-title' => 'Participez au décompte !', // title on top of the video
+
     'section3-block1-title' => 'Comment fonctionne notre compteur de trafic?',
     'section3-block1-text' => 'Le Telraam S2 est notre tout dernier appareil. Il compte et classe les usagers de la route, fournissant des données anonymes et agrégées par mode de transport et par direction, avec une résolution de 15 minutes. Il estime également la distribution des vitesses V85 des voitures.<br><br> Le Telraam S2 utilise une IA spécialisée et un algorithme propriétaire de suivi pour détecter, classer et compter les usagers de la route avec une grande précision, dans une large variété d\'environnements urbains. Installé à la fenêtre d\'un citoyen, il collecte des données qui peuvent être partagées avec les autorités locales et les décideurs sous forme de données ouvertes.<br><br> Les capteurs Telraam peuvent être installés par des citoyens sur leurs propres rues ou par des groupes de mobilisation et des collectivités qui financent des réseaux citoyens de collecte de données.<br><br> <a href="/fr/S2">En savoir plus sur le capteur S2</a>',
 

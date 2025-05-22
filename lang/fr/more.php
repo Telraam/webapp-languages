@@ -113,4 +113,11 @@ la mobilité et la sécurité routière, car elle est considérée comme représ
     'typical-at' => 'à ',
     'typical-info' => 'Trafic typique calculé sur une année se terminant le',
 
+    // 12 may 2025
+    'quality_level_low_accuracy'        => 'La précision de la classification pour ce segment est inférieure aux normes. Les comptages totaux devraient rester relativement fiables, mais nous travaillons activement à leur amélioration.',
+    'quality_level_test_device'         => 'Il s\'agit d\'un appareil de test, la précision peut donc être inférieure à la normale.',
+    'quality_level_low_connectivity'    => 'Nous avons détecté des problèmes de connectivité. Cela peut affecter les téléchargements de données et les performances de l\'appareil',
+    'quality_level_hardware'            => 'Nous avons détecté un problème potentiel de matériel ou de micrologiciel. Nous sommes en train de l\'étudier. Ce problème peut affecter les téléchargements de données et les performances de l\'appareil.',
+
+
 ];

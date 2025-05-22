@@ -54,6 +54,8 @@ Het betrekken van burgers en het publiceren van open data brengt onderzoekers en
     'quote2-author' => 'Eric van Dijk',
     'quote2-function' => 'Beleidsmedewerker smart mobility, Province of Utrecht',
 
+    'section3-block0-title' => 'Tel mee!', // title on top of the video
+
     'section3-block1-title' => 'Hoe werkt onze verkeersteller?',
     'section3-block1-text' => 'Telraam S2 is ons nieuwste toestel. Het telt en classificeert weggebruikers en levert anonieme, geaggregeerde gegevens
 per verkeersmodus en per richting met een resolutie van
