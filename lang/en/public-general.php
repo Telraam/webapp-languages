@@ -21,7 +21,7 @@ return [
      'nav-registrer' => 'Registreer',
 
     'seo-title-data' => 'Data',
-    'seo-title-traffic-counter' => 'Traffic Counting with Citizens',
+    'seo-title-traffic-counter' => 'Smart traffic counters for all transport modes - indoor and outdoor models.',
     'seo-title-network' => 'Build a Network',
     'seo-title-pricing' => 'Prices & shop',
     'seo-title-browse-networks' => 'Check our networks',
@@ -35,10 +35,9 @@ return [
     'seo-title-register' => 'Register',
 
     'footer-follow-us' => 'Follow us',
-    'footer-what-is' => 'Telraam is fully owned and maintained by Rear Window BV (BE0762.549.266), a spin-off initiative by <a href="https://tmleuven.be">TML</a>, <a href="https://www.mobiel21.be/">Mobiel 21</a> and
-                <a href="https://waanz.in">Waanz.in</a>',
-    'footer-what-is-2' => 'Telraam was developed with the support from the Smart Mobility Belgium fund by the Belgian federal government and European Union’s
-     Horizon 2020 research and innovation programme in the <a href="https://we-count.net/" target="_blank">WeCount</a>-project, under grant agreement No. 872743.',
+    'footer-what-is-info' => 'AI-powered, privacy-friendly traffic counters for pedestrians, cyclists, cars, and heavy vehicles — available in both indoor and outdoor models. Includes an intuitive dashboard and an open API for easy integration.',
+    'footer-what-is-legal' => 'Telraam is fully owned and maintained by Rear Window BV (BE0762.549.266)',
+
     'footer-subscribe' => 'Sign up for our mailing list:',
     'footer-subscribe-btn' => 'Register',
     'business-terms' => 'Business Terms',

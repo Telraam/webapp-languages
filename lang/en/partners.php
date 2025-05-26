@@ -71,4 +71,7 @@ A background in mobility is a plus.',
     // form
     'block-5-title'           => 'Interested?',
     'block-5-intro'           => "Don't hesistate to get in touch!",
+
+    // logos
+    'partnerships'             => 'Partnerships'
 ];

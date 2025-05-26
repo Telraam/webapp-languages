@@ -19,7 +19,7 @@ return [
     'nav-registrer' => 'S\'enregistrer',
 
     'seo-title-data' => 'Data',
-    'seo-title-traffic-counter' => 'Comptage du trafic avec les citoyens',
+    'seo-title-traffic-counter' => 'Compteurs de trafic intelligents pour tous les modes de transport - modèles intérieurs et extérieurs.',
     'seo-title-network' => 'Mise en place d\'un réseau',
     'seo-title-pricing' => 'Prix et Boutique',
     'seo-title-browse-networks' => 'Parcourir les réseaux',
@@ -33,13 +33,9 @@ return [
     'seo-title-register' => 'S\'inscrire',
 
     'footer-follow-us' => 'Suivez-nous',
-    'footer-what-is' => 'Telraam est une initiative de <a href="https://tmleuven.be">TML</a>, <a href="https://www.mobiel21.be/">Mobiel 21</a> et
-                <a href="https://waanz.in">Waanz.in</a>, avec le soutien du Fonds Smart Mobility Belgium de l’État fédéral.',
-
-    'footer-what-is' => 'Telraam est entièrement détenu et maintenu par Rear Window BV (BE0762.549.266), une initiative dérivée de <a href="https://tmleuven.be">TML</a>, <a href="https://www.mobiel21.be/">Mobiel 21</a> et
-                <a href="https://waanz.in">Waanz.in</a>',
-    'footer-what-is-2' => 'Telraam was developed with the support from the Smart Mobility Belgium fund by the Belgian federal government and European Union’s
-     Horizon 2020 de l\'Union européenne dans le cadre du projet <a href="https://we-count.net/" target="_blank">WeCount</a>, sous la convention de subvention n° 872743.',
+    'footer-what-is-info' => 'Compteurs de trafic alimentés par l\'IA et respectueux de la vie privée pour les piétons, les cyclistes, les voitures et les véhicules lourds - disponibles en modèles intérieurs et extérieurs.
+    Comprend un tableau de bord intuitif et une API ouverte pour une intégration facile.',
+    'footer-what-is-legal' => 'Telraam est entièrement détenu et maintenu par Rear Window BV (BE0762.549.266)',
 
     'footer-subscribe' => 'Inscrivez-vous à notre liste de contacts :',
     'footer-subscribe-btn' => 'S’enregistrer',
