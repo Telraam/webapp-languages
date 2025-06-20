@@ -4,9 +4,6 @@ return [
 
     'title'             => 'Junior Sales Accountmanager voor Nederland',
 
-    'intro' => 'Momenteel heeft Telraam meer dan 2200 verkeerstellers actief, voornamelijk in België en o.a. in mindere mate in Nederland. We
-willen onze aanwezigheid op de Nederlandse markt verder uitbouwen en de installed base van Telraam sensoren laten groeien, door
-netwerken van sensoren te verkopen aan professionele klanten.',
 
     'responsibilities-title' => 'Je missie en belangrijkste verantwoordelijkheden:',
     'responsibilities-text' => '<ul>

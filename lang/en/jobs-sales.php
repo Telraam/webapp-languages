@@ -3,16 +3,7 @@
 return [
 
     'title'             => 'Junior Sales Accountmanager for Netherlands',
-  'intro' => 'Local mobility remains one of the most important topics of citizens when liveability is a concern.
-New technological evolutions (IoT, low-cost sensors, edge computing) strengthen the possibilities of
-citizen science and enable citizens to actively contribute to the collection and interpretation of
-data themselves. In this way, citizens can help develop solutions to local mobility problems.<br>
-<br>
-At Telraam, we are empowering citizens to collect traffic data and we are bringing citizens and local governments
- together. We support the development of local networks of our sensors for the automatic counting of traffic data
- by citizens in cooperation with local authorities.<br>
-<br>
-Currently Telraam has more than 2000 devices active, mostly in Flanders and to a lesser extent in the Netherlands.
+    'intro' => 'Currently Telraam has more than 2000 devices active, mostly in Flanders and to a lesser extent in the Netherlands.
 We want to further establish our presence in the Dutch market and grow the installed base of Telraam sensors, by
 selling networks of sensors to professional clients. We are looking for an enthusiastic and creative person for
  B2B and B2G sales.',
