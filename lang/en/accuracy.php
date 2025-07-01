@@ -14,7 +14,7 @@ return [
 
     'location-req-2-title' => 'Distance to street',
     'location-req-2-txt' => 'Must be far enough to fully capture large vehicles (e.g., vans), especially on narrow streets.
-                If it\'s further away than 15m from the middle of the street the performance for pedestrians and cyclists on the far side weakens.',
+                If it\'s further away than 15 m from the middle of the street the performance for pedestrians and cyclists on the far side weakens.',
 
     'location-req-3-title' => 'Clear line of sight',
     'location-req-3-txt' => 'No obstructions: trees, hedges, balconies, fly screens, parked high vehicles, etc. Ensure the road and footpath are fully visible.',
@@ -54,7 +54,7 @@ return [
                 Feel free to read more in <a href="https://faq.telraam.net/article/265/objective-evaluation-of-the-results-of-your-quick-validation">our FAQ about the process.</a>',
 
     // tubes
-    'tubes-title' => 'Tubes - vs - Unintrusive and multi-modal',
+    'tubes-title' => 'Tubes vs Unintrusive and multi-modal',
     'tubes-txt' => 'These days pneumatic tubes are the standard for traffic counting.
 However independent real world tests showed even these have a <a href="https://nap.nationalacademies.org/read/22223/chapter/6#77" target="_blank">10-20% error margin</a><sup>1 2</sup>,
                 mostly undercounts. We typically achieve at least the same accuracy with less hassle. Tube installations are labor intensive, need maintance, and have a short life span.
