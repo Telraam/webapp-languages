@@ -5,6 +5,8 @@ return [
     'title'      => 'Accuracy and precision',
     'subtitle'   => 'How to make sure your Telraam counts well<br> How to install the device correctly and avoid some common issues, to get the best results.',
 
+    'intro' => 'Telraam S2 devices offer flexibility, ease of installation and reliable accuracy as high as 90-95% for motorized vehicles, but there are some requirements to bear in mind in order to achieve the best results.',
+    // location
     'location-title' => 'What is a suitable window or location?',
 
     'location-req-1-title' => 'Height and floor level',
@@ -84,7 +86,7 @@ Telraam is easy to install, it counts all modes out of the box, and it will keep
 <a href="https://faq.telraam.net/article/41/speed-measurements-with-telraam-s2">FAQ article about speed measurements</a>.',
 
     'more-3-title' => 'Performance tests by version',
-    'more-3-txt' => 'For an overview of our own validation counts and experiments to evaluate the accuracy of the various versions of our AI model, see the 
+    'more-3-txt' => 'For an overview of our own validation counts and experiments to evaluate the accuracy of the various versions of our AI model, see the
                 <a href="https://github.com/Telraam/Telraam-S2/blob/main/count-performance-validation.md">count performance tests of our current and previous K210 firmware versions</a>.',
 
 ];
