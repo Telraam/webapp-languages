@@ -10,7 +10,7 @@ return [
     'location-title' => 'What is a suitable window or location?',
 
     'location-req-1-title' => 'Height and floor level',
-    'location-txt-1-txt' => 'The device must be installed at least on the first floor (+1 above ground) or above 3-4m in height — ground floor locations are generally speaking not preferred.',
+    'location-req-1-txt' => 'The device must be installed at least on the first floor (+1 above ground) or above 3-4 m in height — ground floor locations are generally speaking not preferred.',
 
     'location-req-2-title' => 'Distance to street',
     'location-req-2-txt' => 'Must be far enough to fully capture large vehicles (e.g., vans), especially on narrow streets.
