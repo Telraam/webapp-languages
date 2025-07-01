@@ -62,7 +62,7 @@ Telraam is easy to install, it counts all modes out of the box, and it will keep
                 <div class="tiny grey jump-in" style="line-height: 13px; margin-top: 20px;">
                     <sup style="top:0">1</sup>&nbsp;<a href="https://nap.nationalacademies.org/read/22223/chapter/6#77" target="_blank" class="tiny grey">Guidebook on Pedestrian and Bicycle Volume Data Collection. Washington, DC:
                                 The National Academies Press.</a><br><br>
-                    <sup style="top:0">2</sup>&nbsp; <a href="https://www.researchgate.net/publication/298805209_Accuracy_of_Bicycle_Counting_with_Pneumatic_Tubes_in_Oregon" class="tiny grey"  target="_blank">Accuracy of Bicycle Counting with Pneumatic Tubes in Oregon</a>
+                    <sup style="top:0">2</sup>&nbsp;<a href="https://www.researchgate.net/publication/298805209_Accuracy_of_Bicycle_Counting_with_Pneumatic_Tubes_in_Oregon" class="tiny grey"  target="_blank">Accuracy of Bicycle Counting with Pneumatic Tubes in Oregon</a>
                 </div>',
 
     // what to expect
