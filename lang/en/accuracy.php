@@ -3,22 +3,22 @@
 return [
 
     'title'      => 'Accuracy and precision',
-    'subtitle'   => 'How to make sure your Telraam counts fine?<br> What are some of the most common pitfalls, how to prevent them, and what to expect.',
+    'subtitle'   => 'How to make sure your Telraam counts well<br> How to install the device correctly and avoid some common issues, to get the best results.',
 
     'location-title' => 'What is a suitable window or location?',
 
     'location-req-1-title' => 'Height and floor level',
-    'location-txt-1-txt' => 'The device must be installed at least on the first floor (+1) or above 3-4 m in height — ground floor locations are generally speaking not preferred.',
+    'location-txt-1-txt' => 'The device must be installed at least on the first floor (+1 above ground) or above 3-4m in height — ground floor locations are generally speaking not preferred.',
 
     'location-req-2-title' => 'Distance to street',
     'location-req-2-txt' => 'Must be far enough to fully capture large vehicles (e.g., vans), especially on narrow streets.
-                If it\'s further away then 15 m from the middle of the street the performance for pedestrians and cyclists on the far side weakens.',
+                If it\'s further away than 15m from the middle of the street the performance for pedestrians and cyclists on the far side weakens.',
 
-    'location-req-3-title' => 'Clear view of sight',
+    'location-req-3-title' => 'Clear line of sight',
     'location-req-3-txt' => 'No obstructions: trees, hedges, balconies, fly screens, parked high vehicles, etc. Ensure the road and footpath are fully visible.',
 
-    'location-req-4-title' => 'No cross-roads',
-    'location-req-4-txt' => ' The camera should exclusively view straight-through segment of a street (perpendicular view) and must not include intersections,
+    'location-req-4-title' => 'No junctions',
+    'location-req-4-txt' => ' The camera should exclusively view a straight segment of a street (perpendicular view) and must not include intersections,
             crossroads, playgrounds, or parking lots – only left‑to‑right or right‑to‑left moving traffic.',
 
 
@@ -34,7 +34,7 @@ return [
                 <ul class="jump-in">
                     <li>If objects are obscured or too distant, the device may struggle. </li>
                     <li>If the angle or distance is very different from the classic setup it might underperform.</li>
-                    <li>Pedestrians or bikes, especially when there are individually obscured by walking / cycling in groups or far away from the camera may be wrongly classified or not correctly counted.</li>
+                    <li>Pedestrians or bikes, especially when there are individuals obscured because they are walking / cycling in groups or far away from the camera, may be wrongly classified or not correctly counted.</li>
                 </ul>',
 
     // location more
@@ -45,16 +45,16 @@ return [
 
     // privacy
     'privacy-title' => 'Cloud based AI vs Privacy',
-    'privacy-txt' => 'Unlike many more expensive camera systems, Telraam performs classification and counting directly on the device itself. This is the only way we can truly ensure privacy
+    'privacy-txt' => 'Unlike many more expensive camera systems, Telraam performs the classification and counting directly on the device itself. This is the only way we can truly ensure privacy
                 and we believe that protecting privacy is essential.<br>
-                The Telraam S2 contains a low resolution camera and does not store any images.<br>
-                We do welcome validation counts or video recordings to improve our algorithms.
+                The Telraam S2 includes a low resolution camera and does not store any images.<br>
+                We do welcome validation counts to help us improve our algorithms.
                 Feel free to read more in <a href="https://faq.telraam.net/article/265/objective-evaluation-of-the-results-of-your-quick-validation">our FAQ about the process.</a>',
 
     // tubes
-    'tubes-title' => 'Tubes vs Unintrusive and multi-modal',
+    'tubes-title' => 'Tubes - vs - Unintrusive and multi-modal',
     'tubes-txt' => 'These days pneumatic tubes are the standard for traffic counting.
-However independent real world tests showed <a href="https://nap.nationalacademies.org/read/22223/chapter/6#77" target="_blank">10-20% error margin</a><sup>1 2</sup>,
+However independent real world tests showed even these have a <a href="https://nap.nationalacademies.org/read/22223/chapter/6#77" target="_blank">10-20% error margin</a><sup>1 2</sup>,
                 mostly undercounts. We typically achieve at least the same accuracy with less hassle. Tube installations are labor intensive, need maintance, and have a short life span.
 Telraam is easy to install, it counts all modes out of the box, and it will keep counting for a longer period without any maintenance.<br>
                 <div class="tiny grey jump-in" style="line-height: 13px; margin-top: 20px;">
