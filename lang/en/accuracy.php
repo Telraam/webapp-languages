@@ -56,7 +56,7 @@ return [
     // tubes
     'tubes-title' => 'Tubes vs Unintrusive and multi-modal',
     'tubes-txt' => 'These days pneumatic tubes are the standard for traffic counting.
-However independent real world tests showed even these have a <a href="https://nap.nationalacademies.org/read/22223/chapter/6#77" target="_blank">10-20% error margin</a><sup>1 2</sup>,
+However independent real world tests showed even these have a <a href="https://nap.nationalacademies.org/read/22223/chapter/6#77" target="_blank">10-20% error margin</a><sup>1&nbsp;2</sup>,
                 mostly undercounts. We typically achieve at least the same accuracy with less hassle. Tube installations are labor intensive, need maintance, and have a short life span.
 Telraam is easy to install, it counts all modes out of the box, and it will keep counting for a longer period without any maintenance.<br>
                 <div class="tiny grey jump-in" style="line-height: 13px; margin-top: 20px;">
