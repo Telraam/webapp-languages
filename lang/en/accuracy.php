@@ -3,7 +3,7 @@
 return [
 
     'title'      => 'Accuracy and precision',
-    'subtitle'   => 'How to make sure your Telraam counts well<br> How to install the device correctly and avoid some common issues, to get the best results.',
+    'subtitle'   => 'Getting the best results from your Telraam S2<br> How to install the device correctly and addressing some common issues',
 
     'intro' => 'Telraam S2 devices offer flexibility, ease of installation and reliable accuracy as high as 90-95% for motorized vehicles, but there are some requirements to bear in mind in order to achieve the best results.',
     // location
