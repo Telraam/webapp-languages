@@ -42,7 +42,7 @@ return [
     // location more
     'location-more-title' => 'Want to read more about location requirements?',
     'location-more-txt' => 'If you\'re unsure, you can consult a <a href="https://faq.telraam.net/article/3/requirements-for-a-suitable-window-and-location">dedicated FAQ article for more details</a> or
-                <a href="here https://faq.telraam.net/article/357/location-guidelines-for-telraam-s2-outdoor">a separate, comprehensive article about the Telraam S2 Outdoor requirements</a>.',
+                <a href="https://faq.telraam.net/article/357/location-guidelines-for-telraam-s2-outdoor">a separate, comprehensive article about the Telraam S2 Outdoor requirements</a>.',
 
 
     // privacy
