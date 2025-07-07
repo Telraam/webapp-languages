@@ -20,7 +20,7 @@ return [
     'location-req-3-txt' => 'No obstructions: trees, hedges, balconies, fly screens, parked high vehicles, etc. Ensure the road and footpath are fully visible.',
 
     'location-req-4-title' => 'No junctions',
-    'location-req-4-txt' => ' The camera should exclusively view a straight segment of a street (perpendicular view) and must not include intersections,
+    'location-req-4-txt' => 'The camera should exclusively view a straight segment of a street (perpendicular view) and must not include intersections,
             crossroads, playgrounds, or parking lots – only left‑to‑right or right‑to‑left moving traffic.',
 
 
@@ -77,7 +77,7 @@ Telraam is easy to install, it counts all modes out of the box, and it will keep
     'more-title'    => 'More on accuracy, speed data, etc.',
 
     'more-1-title'  => 'Edge cases',
-    'more-1-txt'    => ' If you\'d like to deepen your understanding further of what can cause inaccuracies with our sensors and how to avoid them, you can learn more in the
+    'more-1-txt'    => 'If you\'d like to deepen your understanding further of what can cause inaccuracies with our sensors and how to avoid them, you can learn more in the
 <a href="https://faq.telraam.net/article/43/potential-inaccuracies-with-telraam-s2">FAQ article about potentional edge cases</a>.',
 
     'more-2-title' => 'Speed',
