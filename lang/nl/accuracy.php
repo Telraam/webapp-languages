@@ -3,15 +3,16 @@
 return [
 
     'title'      => 'Nauwkeurigheid en precisie',
-    'subtitle'   => 'De beste resultaten uit uw Telraam S2 halen<br> Het apparaat correct installeren en enkele veelvoorkomende problemen oplossen',
+    'subtitle'   => 'Hoe de beste resultaten uit uw Telraam S2 halen?<br> Het toestel correct installeren en enkele veelvoorkomende problemen oplossen',
 
-    'intro' => 'Telraam S2-apparaten bieden flexibiliteit, installatiegemak en een betrouwbare nauwkeurigheid tot 90-95% voor gemotoriseerde voertuigen, maar er zijn enkele vereisten waarmee rekening moet worden gehouden om de beste resultaten te behalen.',
+    'intro' => 'Telraam S2-toestellen bieden flexibiliteit, installatiegemak en een betrouwbare nauwkeurigheid tot 90-95% voor gemotoriseerde voertuigen, maar er zijn enkele vereisten waarmee rekening moet worden gehouden om de beste resultaten te behalen.',
 
     // location
     'location-title' => 'Wat is een geschikt raam of geschikte locatie?',
 
-    'location-req-1-title' => 'Hoogte en gelijkvloers',
-    'location-req-1-txt' => 'Het apparaat moet minstens op de eerste verdieping (+1 boven de grond) of hoger dan 3-4 m geïnstalleerd worden - locaties op de begane grond hebben over het algemeen niet de voorkeur.',
+    'location-req-1-title' => 'Hoogte',
+    'location-req-1-txt' => 'Het toestel moet minstens op de eerste verdieping (+1 boven de grond) of hoger dan 3-4 m geïnstalleerd
+     worden. Locaties op de begane grond hebben over het algemeen niet de voorkeur.',
 
     'location-req-2-title' => 'Afstand tot de straat',
     'location-req-2-txt' => 'Moet ver genoeg zijn om grote voertuigen (bijv. bestelwagens) volledig op te vangen, vooral in smalle straten.
@@ -35,8 +36,8 @@ return [
                 <br>
                  Geen enkel systeem is perfect. Dus wat zijn moeilijke situaties?<br>
                 <ul class="jump-in">
-                    <li>Indien objecten verborgen of te ver weg zijn, kan het apparaat problemen hebben. </li>
-                    <li>Indien de hoek of afstand erg verschilt van de klassieke opstelling, kan het apparaat onderpresteren.</li>
+                    <li>Indien objecten verborgen of te ver weg zijn, kan het toestel problemen hebben. </li>
+                    <li>Indien de hoek of afstand erg verschilt van de klassieke opstelling, kan het toestel onderpresteren.</li>
                     <li>Voetgangers of fietsen, vooral als personen groepen verhullen of ver weg van de camera zijn, kunnen verkeerd worden geclassificeerd of niet correct worden geteld.</li>
                 </ul>',
 
@@ -48,7 +49,7 @@ return [
 
     // privacy
     'privacy-title' => 'Cloudgebaseerde AI vs Privacy',
-    'privacy-txt' => 'In tegenstelling tot veel duurdere camerasystemen, voert Telraam de classificatie en telling direct op het apparaat zelf uit. Dit is de enige manier waarop we privacy echt kunnen garanderen
+    'privacy-txt' => 'In tegenstelling tot veel duurdere camerasystemen, voert Telraam de classificatie en telling direct op het toestel zelf uit. Dit is de enige manier waarop we privacy echt kunnen garanderen
  en we geloven dat het beschermen van privacy essentieel is.<br>
  De Telraam S2 bevat een lage resolutie camera en slaat geen beelden op.<br>
  We verwelkomen validatietellingen om ons te helpen onze algoritmen te verbeteren.
@@ -58,8 +59,8 @@ return [
     'tubes-title' => 'Slangentellingen vs discreet en multimodaal',
     'tubes-txt' => 'Tegenwoordig zijn pneumatische slangentellingen de standaard voor verkeerstelling.
 Onafhankelijke praktijktests toonden echter aan dat zelfs deze <a href="https://nap.nationalacademies.org/read/22223/chapter/6#77" target="_blank">een foutmarge van 10-20% hebben</a><sup>1&nbsp;2</sup>,
-               vooral ondertellingen. We bereiken doorgaans minstens dezelfde nauwkeurigheid met minder gedoe. Buisinstallaties zijn arbeidsintensief, vereisen onderhoud en hebben een korte levensduur.
-Telraam is eenvoudig te installeren, het telt alle modi uit de doos en het zal voor een langere periode blijven tellen zonder enig onderhoud.<br>
+               vooral ondertellingen. We bereiken doorgaans minstens dezelfde nauwkeurigheid met minder gedoe. Tube-installaties zijn arbeidsintensief, vereisen onderhoud en hebben een korte levensduur.
+Telraam is eenvoudig te installeren, het telt standaard alle modi en het zal voor een langere periode blijven tellen zonder enig onderhoud.<br>
                 <div class="tiny grey jump-in" style="line-height: 13px; margin-top: 20px;">
                     <sup style="top:0">1</sup>&nbsp;<a href="https://nap.nationalacademies.org/read/22223/chapter/6#77" target="_blank" class="tiny grey">Guidebook on Pedestrian and Bicycle Volume Data Collection. Washington, DC:
                                 The National Academies Press.</a><br><br>
@@ -78,7 +79,7 @@ Telraam is eenvoudig te installeren, het telt alle modi uit de doos en het zal v
     'more-title'    => 'Meer over nauwkeurigheid, snelheidsgegevens, enz.',
 
     'more-1-title'  => 'Bijzondere situaties',
-    'more-1-txt'    => 'Als u meer wilt weten over wat onnauwkeurigheden kan veroorzaken met onze sensoren en hoe u deze kunt vermijden, kunt u meer informatie vinden in het
+    'more-1-txt'    => 'Als u meer wilt weten over wat onnauwkeurigheden kan veroorzaken met onze sensoren en hoe u deze kunt vermijden, dan kunt u meer informatie vinden in het
 <a href="https://faq.telraam.net/article/43/potential-inaccuracies-with-telraam-s2">FAQ-artikel over mogelijke grensgevallen</a>.',
 
     'more-2-title' => 'Snelheid',
