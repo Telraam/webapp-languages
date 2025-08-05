@@ -10,7 +10,7 @@ return [
     deze schat aan verkeersdata snel en moeiteloos ingezet worden voor professionele doelen.',
 
     // section 1 with 3 columns
-    'section-1-title' => '<Verwerf inzicht in de lokale mobiliteit dankzij Telraam\'s Data Pool',
+    'section-1-title' => 'Verwerf inzicht in de lokale mobiliteit dankzij Telraam\'s Data Pool',
 
     'section-1-what-title' => 'Wat is de Data Pool?', 'section-1-what-text' => 'Telraam\'s Data Pool
     is een gebruiksvriendelijke tool binnen het Netwerkabonnement waarmee men toegang krijgt tot
