@@ -41,7 +41,7 @@ return [
     'location-more-txt' => 'Si vous avez des doutes sur l’emplacement idéal, consultez notre 
 <a href="https://faq-fr.telraam.net/article/147/conditions-a-respecter-pour-une-fenetre-et-la-location-ideale">article de FAQ sur les conditions requises pour une fenêtre adaptée</a>, 
 ou explorez 
-<a href="https://faq-fr.telraam.net/article/373/directives-dinstallation-pour-telraam-s2-outdoor">notre guide complet d’installation pour le Telraam S2 Outdoor</a>.'
+<a href="https://faq-fr.telraam.net/article/373/directives-dinstallation-pour-telraam-s2-outdoor">notre guide complet d’installation pour le Telraam S2 Outdoor</a>.',
 
     // privacy
     'privacy-title' => 'IA embarquée & protection de la vie privée',
