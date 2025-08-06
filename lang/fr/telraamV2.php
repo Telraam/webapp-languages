@@ -43,7 +43,12 @@ return [
 
     'section-features-block5-title' => 'Précis',
     'section-features-block5-subtitle'     => 'IA pour la précision, l\'exactitude et l\'anonymisation des données',
-    'section-features-block5-body' => '<p>Telraam S2 utilise une nouvelle méthode de comptage par rapport à notre premier capteur basé sur Raspberry Pi, en s\'appuyant sur l\'intelligence artificielle (IA) et les réseaux neuronaux. Cela garantit une plus grande cohérence, précision et exactitude, avec un potentiel d\'amélioration continue. Consultez l\'article de la FAQ sur <a href="https://faq-fr.telraam.net/article/143/performance-et-validation-des-donnees">la performance et la validation des données (Telraam S2)</a> pour en savoir plus.</p>',
+    'section-features-block5-body' => '<p>Telraam S2 utilise une nouvelle méthode de comptage par rapport à notre premier capteur basé sur Raspberry Pi, 
+en s\'appuyant sur l\'intelligence artificielle (IA) et les réseaux neuronaux. Cela garantit une plus grande cohérence, précision et exactitude, 
+avec un potentiel d\'amélioration continue. 
+   Vous pouvez en savoir plus sur la précision et l\'exactitude et sur la manière d\'obtenir les meilleurs résultats dans          
+   <a href="https://telraam.net/fr/accuracy-and-precision-of-the-s2-traffic-counter">notre article spécialisé</a>.
+</p>',
 
     'section-features-block6-title' => 'Respect de la vie privée',
     'section-features-block6-subtitle'     => 'Détection des objets, pas d\'identification',
