@@ -44,8 +44,12 @@ return [
 
     'section-features-block5-title' => 'Precise',
     'section-features-block5-subtitle'     => 'AI for accuracy, precision and anonymous data',
-    'section-features-block5-body' => '<p>Telraam S2 uses a completely new counting method compared to our first Raspberry Pi-based sensor, using Artificial Intelligence (AI) and Neural Networks. This results in improved consistency, precision, and accuracy and the potential for improvements over time. Read the FAQ article on
-    <a href="https://faq.telraam.net/article/15/data-performance-and-validation">Data performance and validation (of Telraam S2)</a> for further updates on this topic.</p>',
+    'section-features-block5-body' => '<p>Telraam S2 uses a completely new counting method compared to our first Raspberry Pi-based sensor,
+ using Artificial Intelligence (AI) and Neural Networks. This results in improved consistency, precision, and accuracy and the potential for improvements 
+ over time. 
+        You can read more about the accuracy and precision and how get the best results in
+         <a href="https://telraam.net/en/accuracy-and-precision-of-the-s2-traffic-counter">our dedicated article</a>
+ </p>',
 
     'section-features-block6-title' => 'Privacy',
     'section-features-block6-subtitle'     => 'Object detection not identification',
