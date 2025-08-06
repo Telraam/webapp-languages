@@ -51,6 +51,9 @@ return [
     <li>Toutes les données de circulation de base sont accessibles au public via la carte interactive et les pages de segments sur le site de Telraam, ou directement via l\'API publique sous licence ouverte et non commerciale.</li>
     <li>Les administrateurs et participants d\'un réseau bénéficient d\'un accès complet aux données de leurs capteurs Telraam S2 via leurs tableaux de bord et des API dédiées.</li>
     <li>Le tableau de bord Telraam permet aux autorités locales de suivre l\'état des capteurs Telraam dans leur zone de projet, d\'exporter les données et d\'effectuer diverses analyses en temps réel.</li>
+        <li>Nous proposons un module de pool de données destiné aux professionnels, qui permet de générer des rapports, d\'effectuer des analyses et d\'accéder
+        à l\'API avancée pour des emplacements spécifiques.
+Cela rend également l\'API accessible à une utilisation plus large.  Vous trouverez plus d\'informations sur notre page <a href="/fr/data-pool">data pool</a>.</li>
     </ul>',
 
     // fonctionnalités en vedette

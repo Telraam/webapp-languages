@@ -55,9 +55,26 @@ beschikbaar als open data, en zowel de technologie als de performantie van Telra
      te exploreren en ermee te interageren. Dit variërend van de volledig open, live Telraam-kaart tot de openbare en geavanceerde API\'s of de specifieke, geavanceerde datadashboards op segment- en netwerkniveau.<br>
 <ul class="text-list">
     <li>Alle verzamelde basisverkeersgegevens zijn beschikbaar voor het publiek via de interactieve kaart en segmentpagina\'s op de Telraam-website, of rechtstreeks via de openbare Telraam API onder een open, niet-commerciële datalicentie.</li>
-    <li>Netwerkeigenaars en deelnemers hebben extra toegang tot de volledige gegevens van hun Telraam S2-apparaten via hun netwerkdashboards en exclusieve API end-points.</li>
+    <li>Netwerkeigenaars en deelnemers hebben extra toegang tot de volledige gegevens van hun Telraam S2-toestellen via hun netwerkdashboards en exclusieve API end-points.</li>
     <li>Met het Telraam Netwerk dashboard kunnen lokale overheden de Telraam sensoren in hun projectgebied monitoren, hun gegevens exporteren en verschillende live analyses uitvoeren.</li>
     </ul>',
+
+    // new 24 april 2024
+    'section2-opendata-title' => 'Maak je data publiek',
+    'section2-opendata-text' => 'Telraam helpt steden vertrouwen op te bouwen door duidelijke, begrijpelijke
+gegevens te verstrekken en burgers te betrekken bij de besluitvorming. Wij zijn van mening dat telgegevens open en
+toegankelijk moeten zijn, aangezien mobiliteit een maatschappelijke uitdaging is die transparantie vereist.  Zelfs één gegevenspunt kan
+ een groot verschil maken bij het beheer van het verkeer, de planning van steden en het voeren van zinvolle gesprekken
+ met burgers.<br><br>
+We delen onze gegevens op verschillende manieren:
+ <ul class="text-list">
+    <li>Basisverkeersgegevens zijn toegankelijk via een interactieve kaart op onze website.</li>
+    <li>De meeste telgegevens zijn vrij beschikbaar als open data, met een niet-commerciële licentie.</li>
+    <li>Met het Telraam Network-dashboard kunnen lokale overheden hun Telraam-toestellen
+    in hun projectgebied monitoren, gegevens exporteren en live analyses uitvoeren.</li>
+    <li>Wij bieden een datapoolmodule voor professionals, die rapportage, analyse en toegang tot de geavanceerde API voor specifieke locaties.
+Dit maakt de API ook toegankelijk voor breder gebruik. Meer informatie vindt u op onze <a href="/nl/data-pool">data pool</a> pagina.</li>
+ </ul>',
 
     // features in focus
     'features-title' => 'Features',

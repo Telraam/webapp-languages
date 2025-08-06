@@ -45,16 +45,6 @@ return [
     <br>Network subscription tools streamline the recruitment, application, and selection process of citizens. They learn how to set-up their own fully automated traffic counter and how to better understand the data. Participants become citizen scientists that can make constructive, objective, data-driven contributions to the local policy-making process.<br>
     <br>Telraam data can also be used by researchers, residents, and interested parties to, e.g., validate their requests for changes in the local circulation plans, making objective, data-driven contributions to the discussions.',
 
-    // can be removed
-    'section2-block3-title' => 'Open data and trust',
-    'section2-block3-text' => 'Organisations can build trust with citizens by engaging through Telraam. A large part of the count data is freely available as open data, and both the technology and performance of Telraam sensors are well documented.<br>
-    <br>Third parties can also add value to the datasets. There are many ways for parties within and outside of a network to browse and interact with your data, ranging from the fully open, live Telraam map, to public and advanced APIs, or the specific, advanced segment- and network-level data dashboards.<br>
-<ul class="text-list">
-    <li>All basic traffic data collected is available to the public via the interactive map and segment pages on the Telraam website, or directly via the public Telraam API under an open, non-commercial data licence.</li>
-    <li>Network owners and participants have additional access to the full data from their Telraam S2 devices through their dashboards and exclusive API endpoints.</li>
-    <li>The Telraam Network dashboard allows local authorities to monitor the Telraam devices in their project area, export their data, and perform various live analyses.</li>
-    </ul>',
-
     // new 24 april 2024
     'section2-opendata-title' => 'Open up the data',
     'section2-opendata-text' => 'Telraam helps cities build trust by providing clear, understandable
@@ -63,7 +53,7 @@ accessible, as mobility is a social challenge that requires transparency.  Even 
  make a big difference in managing traffic, planning cities, and having meaningful conversations
  with citizens.<br><br>
 We share our data in a few different ways:
- <ul>
+ <ul class="text-list">
     <li>Basic traffic data is accessible through an interactive map on our website.</li>
     <li>Most count data is freely available as open data, with a non-commercial licence.</li>
     <li>The Telraam Network dashboard lets local authorities monitor their Telraam
