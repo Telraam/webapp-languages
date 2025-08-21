@@ -44,8 +44,8 @@ return [
     'section-features-block5-title' => 'Nauwkeurigheid',
     'section-features-block5-subtitle'     => 'AI voor nauwkeurigheid, precisie, nachttellingen en anonieme data',
     'section-features-block5-body' => '<p>Telraam S2 werkt, in tegenstelling tot de V1, met kunstmatige intelligentie (AI) op het toestel. Dit resulteert in een verbeterde precisie en nauwkeurigheid.
-  U kunt meer lezen over de nauwkeurigheid en precisie en hoe u de beste resultaten kunt behalen in
-         <a href="https://telraam.net/nl/accuracy-and-precision-of-the-s2-traffic-counter">volgend artikel.</p>',
+  U kunt meer lezen over de <a href="https://telraam.net/nl/accuracy-and-precision-of-the-s2-traffic-counter">nauwkeurigheid en precisie</a> en hoe u de beste resultaten kunt behalen in
+         <a href="https://telraam.net/nl/accuracy-and-precision-of-the-s2-traffic-counter">volgend artikel</a>.</p>',
 
     'section-features-block6-title' => 'Privacy',
     'section-features-block6-subtitle'     => 'Objectdetectie, geen identificatie',
