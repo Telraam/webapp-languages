@@ -56,7 +56,7 @@ return [
   <a href="https://faq.telraam.net/article/13/speed-measurements-how-to-read-the-speed-chart">more information on how to interpret these data</a>',
 
     'speed-remark-v85' => 'The V85 is a widely used indicator in the world of mobility and road safety, as it is deemed
-    to be representative of the speed one can reasonably maintain on a road. <a href="https://faq-fr.telraam.net/article/164/la-mesure-des-vitesses-v85-explique" target="_blank">Read more about V85</a>',
+    to be representative of the speed one can reasonably maintain on a road. <a href="https://faq.telraam.net/article/14/speed-measurement-v85-explained" target="_blank">Read more about V85</a>',
 
 
     // 22 feb
