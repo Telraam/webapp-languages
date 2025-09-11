@@ -14,7 +14,8 @@ return [
     'member-since'            => 'Membre depuis ...',
     'visualisation-info-1'    => 'Les données de comptage de votre rue sont joliment publiées sur ',
     'visualisation-info-2'    => 'N\'hésitez pas à les partager !',
-    'visualisation-info-3'    => ' Vous pouvez trouver des rapports encore plus détaillés <a href="report">sous l\'onglet rapport</a>',
+    'visualisation-info-3'    => 'Vous pouvez trouver des rapports encore plus détaillés',
+    'visualisation-info-4'    => 'sous l\'onglet rapport',
 
      'camera-status'            => 'Statut de caméra',
      'please-complete'          => 'Veuillez d’abord terminer la procédure d’installation',

@@ -14,7 +14,8 @@ return [
     'member-since'            => 'Member since',
     'visualisation-info-1'        => 'The counting data from your street is nicely published on ',
     'visualisation-info-2'    => 'Feel free to share!',
-    'visualisation-info-3'    => 'You can find even more detailed reports <a href="report">under the report tab</a>',
+    'visualisation-info-3'    => 'You can find even more detailed reports',
+    'visualisation-info-4'    => 'under the reports tab',
 
     'camera-status'            => 'Camera status',
     'please-complete'          => 'Please first complete the setup',

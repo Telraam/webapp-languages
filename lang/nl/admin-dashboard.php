@@ -14,7 +14,8 @@ return [
     'visualisation-more'        => 'Vind meer visualisaties op de ',
     'visualisation-info-1'    => 'De telgegevens van jouw straat worden overzichtelijk gepubliceerd op ',
     'visualisation-info-2'    => 'Aarzal niet om ze te delen!',
-    'visualisation-info-3'    => 'Je kunt nog meer gedetailleerde rapporten vinden <a href="report">onder het tabblad Rapport</a>',
+    'visualisation-info-3'    => 'Je kunt nog meer gedetailleerde rapporten vinden',
+    'visualisation-info-4'    => 'onder het tabblad Rapport',
 
 
      'camera-status'            => 'Camerastatus',
