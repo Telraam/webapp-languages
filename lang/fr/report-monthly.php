@@ -39,7 +39,8 @@ return [
     'subtitle-speed'       => 'Proportion des vitesses relevées pour les voitures, par catégorie (30+, 50+, 70+ km/h) sur l\'ensemble des mesures effectuées dans votre rue le mois dernier.',
 
     'title-trends'       => 'Tendances de votre Telraam',
-    'subtitle-trends'      => 'Volumes quotidiens mesurés par mode de transport dans votre rue.',
+    'daily-trends'       => 'Volumes quotidiens mesurés par mode de transport',
+    'hourly-trends'      => 'Volumes horaires moyens par heure mesurés par mode de transport',
 
     // mail
      'view-more-stats-btn'      => 'Voir plus de statistiques',

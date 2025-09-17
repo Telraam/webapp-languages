@@ -39,7 +39,8 @@ return [
     'subtitle-speed'       => 'De procentuele verhouding van gemeten snelheden van auto’s per snelheidscategorie (30+, 50+, 70+) voor alle metingen de afgelopen maand in jouw straat',
 
     'title-trends'       => 'Tendensen van jouw Telraam deze maand',
-    'subtitle-trends'      => 'De gemeten dagelijkse volumes per verplaatsingswijze voor jouw straat',
+    'hourly-trends'      => 'De gemeten dagelijkse volumes per vervoerswijze',
+    'daily-trends'       => 'Gemiddelde volumes per uur en per vervoerswijze',
 
     // mail
      'view-more-stats-btn'      => 'Bekijk meer statistieken',

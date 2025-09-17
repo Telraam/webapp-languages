@@ -39,7 +39,8 @@ return [
     'subtitle-speed'       => 'The percentage ratio of measured speeds of cars per speed category (30+, 50+, 70+) for all measurements in your street over the past month.',
 
     'title-trends'         => 'Trends for your Telraam',
-    'subtitle-trends'      => 'The measured daily volumes per mode of transport for your street.',
+    'daily-trends'      => 'The measured daily volumes per mode of transport',
+    'hourly-trends'      => 'Volumes horaires moyens par heure mesurés par mode de transport ',
 
     // mail
      'view-more-stats-btn'      => 'View more statistics',
