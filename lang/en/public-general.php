@@ -18,7 +18,7 @@ return [
      'nav-faq-support' => 'Faq & Support',
      'nav-contact-us' => 'Contact Us',
      'nav-login' => 'Login',
-     'nav-registrer' => 'Registreer',
+     'nav-registrer' => 'Register',
 
     'seo-title-data' => 'Data',
     'seo-title-traffic-counter' => 'Smart traffic counters for all transport modes - indoor and outdoor models.',
