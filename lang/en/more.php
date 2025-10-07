@@ -20,6 +20,7 @@ return [
     'looks-like-camera-is-not-sending-data' => 'The camera does not send any data at the moment.',
     'camera-registered-last-hour' => 'Live measurements last hour',
     'camera-night-or-down' => 'Camera is connected but does not detect movement at the moment',
+    'lang-relative-title-popup' => 'Relative data',
 
     'objects-per-hour' => 'objects an hour',
     'camera-shown-after-full-day' => "We haven't received any counting data yet, please be patient.",
@@ -126,5 +127,11 @@ return [
     'quality_level_test_device'         => 'This is a test device, so the accuracy may be lower than usual.',
     'quality_level_low_connectivity'    => 'We’ve detected connectivity issues. This can affect data uploads and device performance.',
     'quality_level_hardware'            => 'We’ve detected a potential hardware or firmware issue. We’re looking into it. This can affect data uploads and device performance.',
+
+    // 7 oct 2025
+    'map-type-live-tooltip'         => 'Live data from past hour.<br><br> Read more on the <a href="faq.telraam.net">FAQ</a>',
+    'map-type-typical-tooltip'      => 'Current and past devices visualised with their historical data.<br> Read more on the <a href="faq.telraam.net">FAQ</a>',
+    'map-type-relative-tooltip'     => 'How is the live data compared to what we would expect?<br> Read more on the <a href="faq.telraam.net">FAQ</a>',
+
 
 ];
