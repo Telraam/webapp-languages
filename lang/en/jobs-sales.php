@@ -2,20 +2,20 @@
 
 return [
 
-    'title'             => 'Junior Sales Account Manager for Netherlands',
+    'title'             => 'Junior Sales Accountmanager for Netherlands',
     'intro' => 'Currently Telraam has more than 2000 devices active, mostly in Flanders and to a lesser extent in the Netherlands.
-We want to further establish our presence in the Dutch market, and grow the installed base of Telraam sensors, by
+We want to further establish our presence in the Dutch market and grow the installed base of Telraam sensors, by
 selling networks of sensors to professional clients. We are looking for an enthusiastic and creative person for
  B2B and B2G sales.',
 
     'responsibilities-title' => 'Your mission & key responsibilities:',
     'responsibilities-text' => '<ul>
 <li>Proactively contact potential clients (private/government sector) and scout for grant opportunities in Netherlands;</li>
-<li>You will need to understand and be able to convey our value proposition to key decision makers how Telraam can solve their
+<li>You understand and are able to convey our value proposition to the key decision makers how Telraam can solve their
  challenges;</li>
-<li>Represent Telraam at Dutch events and exhibitions, with a focus on acquiring new contacts to convert to sales;</li>
-<li>Build your own pipeline of leads and carry through from first contact to conversion</li>
-<li>Learn about Telraam products and services and tailor pitches to potential clients.</li>
+<li>Represent Telraam at Dutch events and exhibitions, with a focus to acquire new contacts to convert to sales;</li>
+<li>Build your own pipeline of leads and carry trough from first contact to conversion</li>
+<li>Learn about the Telraam products and services and tailor pitches to potential clients.</li>
 </ul>',
 
     'profile-title' => 'Profile:',

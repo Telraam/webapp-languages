@@ -124,5 +124,6 @@ return [
     'quality_level_low_connectivity'    => 'We hebben connectiviteitsproblemen gedetecteerd. Dit kan van invloed zijn op het uploaden van gegevens en de prestaties van het apparaat',
     'quality_level_hardware'            => 'We hebben een mogelijk hardware- of firmwareprobleem gedetecteerd. We zijn het aan het onderzoeken. Dit kan van invloed zijn op het uploaden van gegevens en de prestaties van het apparaat.',
 
-
+    // 9 oct 2025
+    'this-is-v1-only'               => 'Dit segment bevat enkel V1-toestellen. De modi 10, 15 minuten en nacht zijn niet beschikbaar op de V1..'
 ];

@@ -133,5 +133,6 @@ return [
     'map-type-typical-tooltip'      => 'Current and past devices visualised with their historical data.<br> Read more on the <a href="faq.telraam.net">FAQ</a>',
     'map-type-relative-tooltip'     => 'How is the live data compared to what we would expect?<br> Read more on the <a href="faq.telraam.net">FAQ</a>',
 
-
+    // 9 oct 2025
+    'this-is-v1-only'               => 'This segment contains V1 devices only. 10 modes, 15 minutes and night modes are not available on the V1.'
 ];

@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'addressing' => 'Cher.e',
-     'body' => 'Nous vous remercions d\'avoir acheté un Telraam S2 dans notre boutique en ligne. Nous vous sommes très reconnaissants d\'avoir décidé de rejoindre notre réseau croissant de compteurs de trafic dans le monde entier. 
+    'addressing' => 'Bonjour',
+     'body' => 'Nous vous remercions d\'avoir acheté un Telraam S2 dans notre boutique en ligne. Nous vous sommes très reconnaissants d\'avoir décidé de rejoindre notre réseau croissant de compteurs de trafic dans le monde entier.
  <br>
 <br>
 Nous savons que vous souhaitez commencer à compter le plus rapidement possible, alors voici un aperçu des délais d\'expédition de votre package Telraam.  <br>
@@ -22,4 +22,5 @@ Pour les pays en dehors de l\'UE :<br>
 Si vous n\'avez pas de nouvelles ou si vous n\'avez pas reçu votre appareil Telraam après quelques semaines, n\'hésitez pas à <a href=mailto:support@telraam.net>prendre contact avec Telraam</a>.<br>
 <br><br>
 Bon comptage !<br>
-L\'équipe Telraam'];
+L\'équipe Telraam'
+];
