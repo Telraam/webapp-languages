@@ -3,7 +3,7 @@
 return [
 
     'title' => 'Outdoor placement tool',
-    'subtitle' => 'Is your location suitable?',
+    'subtitle' => 'Positioning your Telraam S2 Outdoor',
 
     'near-side' => 'Distance pole to street',
     'width-street' => 'Width street',
@@ -18,10 +18,10 @@ return [
     'val-block-1-good-info' => 'All objects on the near side are in field of view and are recognizable.',
 
     'val-block-1-poor-title' => 'Distance is 1 to 2 meters OR the angle to the nearest side of the monitoring area is 10° to 20°',
-    'val-block-1-poor-info' => 'All objects on the near side are in field of view and are recognizable.',
+    'val-block-1-poor-info' => 'You may miss some objects on the near side.',
 
     'val-block-1-bad-title' => 'Distance is less than 1 m OR the angle to the nearest side of the monitoring area is less than 10°',
-    'val-block-1-bad-info' => 'All objects on the near side are in field of view and are recognizable.',
+    'val-block-1-bad-info' => 'You will miss most objects on the near side..',
 
     // 2. blocking view
     'val-block-2-title' => 'Blocking view',
@@ -54,7 +54,10 @@ return [
     'val-block-4-good-info' => 'Well out of reach; this height requires deliberate action and equipment for vandals to remove/break the unit.',
 
     'val-block-4-bad-title' => 'Installation is below 3 m',
-    'val-block-4-bad-info' => ' Too low, your Telraam S2 Outdoor is easily vandalized.',
+    'val-block-4-bad-info' => ' Too low, your Telraam S2 Outdoor could be easily vandalized.',
+
+    // warning
+    'warning' => "Not all warnings are deal-breakers. Evaluate each one based on what matters most for your traffic counting goals."
 
 
 ];

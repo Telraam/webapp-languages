@@ -56,5 +56,8 @@ return [
     'val-block-4-bad-title' => 'Installation en dessous de 3 m',
     'val-block-4-bad-info' => 'Trop bas ; votre Telraam S2 Outdoor est facilement vulnérable au vandalisme.',
 
+    // warning
+    'warning' => "Toutes les alertes ne sont pas rédhibitoires. Évaluez chacune d'entre elles en fonction de ce qui importe le plus pour vos objectifs en matière de comptage du trafic."
+
 
 ];

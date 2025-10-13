@@ -56,5 +56,7 @@ return [
     'val-block-4-bad-title'     => 'Installatie is lager dan 3 m',
     'val-block-4-bad-info'      => 'Te laag, je Telraam S2 Outdoor kan gemakkelijk worden gevandaliseerd.',
 
+    // warning
+    'warning' => "Niet alle waarschuwingen zijn dealbreakers. Evalueer elke waarschuwing op basis van wat het belangrijkst is voor uw doelstellingen op het gebied van verkeerstelling."
 
 ];
