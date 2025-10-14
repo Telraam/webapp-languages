@@ -23,6 +23,8 @@ return [
     'camera-night-or-down' => 'La caméra est connectée mais ne détecte pas de mouvement au niveau du moment',
     'objects-per-hour' => 'objets par heure',
     'camera-shown-after-full-day' => "Nous n'avons pas encore reçu de données de comptage, veuillez patienter.",
+    'lang-relative-title-popup' => 'Données relatives',
+    'lang-date' => 'Date',
 
     'hour' => 'h',
     'loc-det-overview-per-day' => 'Aperçu par jour',

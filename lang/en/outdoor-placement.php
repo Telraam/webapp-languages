@@ -38,7 +38,7 @@ return [
     'val-block-3-info' => 'Will my Telraam S2 Outdoor see all objects on the far side?',
 
     'val-block-3-good-title' => 'Objects are within 25 m',
-    'val-block-3-good-info' => 'All objects will big enough to be detected by Telraam.',
+    'val-block-3-good-info' => 'All objects will be big enough to be detected by Telraam.',
 
     'val-block-3-poor-title' => 'Objects are between 25 m and 40 m',
     'val-block-3-poor-info' => 'You may miss some objects on the far side, especially smaller objects like pedestrians.',

@@ -21,6 +21,7 @@ return [
     'camera-registered-last-hour' => 'Live measurements last hour',
     'camera-night-or-down' => 'Camera is connected but does not detect movement at the moment',
     'lang-relative-title-popup' => 'Relative data',
+    'lang-date' => 'Date',
 
     'objects-per-hour' => 'objects an hour',
     'camera-shown-after-full-day' => "We haven't received any counting data yet, please be patient.",
@@ -135,4 +136,6 @@ return [
 
     // 9 oct 2025
     'this-is-v1-only'               => 'This segment contains V1 devices only. 10 modes, 15 minutes and night modes are not available on the V1.'
+
+
 ];

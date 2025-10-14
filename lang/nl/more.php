@@ -27,6 +27,8 @@ return [
     'objects-per-hour' => 'objecten per uur',
     'camera-shown-after-full-day' => 'We hebben nog geen telgegevens ontvangen, nog even geduld.',
     'camera-night-or-down' => 'De camera is aangesloten maar detecteert momenteel geen beweging.',
+    'lang-relative-title-popup' => 'Relatieve gegevens',
+    'lang-date' => 'Date',
 
     'hour' => 'uur',
 
