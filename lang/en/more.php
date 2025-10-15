@@ -21,7 +21,7 @@ return [
     'camera-registered-last-hour' => 'Live measurements last hour',
     'camera-night-or-down' => 'Camera is connected but does not detect movement at the moment',
     'lang-relative-title-popup' => 'Relative data',
-    'lang-date' => 'Date',
+    'lang-date' => 'Relative data for',
 
     'objects-per-hour' => 'objects an hour',
     'camera-shown-after-full-day' => "We haven't received any counting data yet, please be patient.",
