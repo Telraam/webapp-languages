@@ -121,6 +121,11 @@ la mobilité et la sécurité routière, car elle est considérée comme représ
     'quality_level_low_connectivity'    => 'Nous avons détecté des problèmes de connectivité. Cela peut affecter les téléchargements de données et les performances de l\'appareil',
     'quality_level_hardware'            => 'Nous avons détecté un problème potentiel de matériel ou de micrologiciel. Nous sommes en train de l\'étudier. Ce problème peut affecter les téléchargements de données et les performances de l\'appareil.',
 
+    // 7 oct 2025
+    'map-type-live-tooltip'         => 'Données en direct de la dernière heure.<br><br> En savoir plus dans la <a href="https://faq-fr.telraam.net/article/392/que-representent-les-differentes-couches-de-la-carte-telraam" target="_blank">FAQ</a>',
+    'map-type-typical-tooltip'      => 'Appareils actuels et passés visualisés avec leurs données historiques.<br> En savoir plus dans la <a href="https://faq-fr.telraam.net/article/392/que-representent-les-differentes-couches-de-la-carte-telraam"  target="_blank">FAQ</a>',
+    'map-type-relative-tooltip'     => 'Comment les données en direct se comparent-elles à ce que nous attendrions ?<br> En savoir plus dans la <a href="https://faq-fr.telraam.net/article/392/que-representent-les-differentes-couches-de-la-carte-telraam" target="_blank">FAQ</a>',
+
     // 9 oct 2025
     'this-is-v1-only'               => 'Ce segment ne contient que des appareils V1. Les modes 10, 15 minutes et nuit ne sont pas disponibles sur le V1.'
 ];

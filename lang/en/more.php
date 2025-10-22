@@ -130,9 +130,9 @@ return [
     'quality_level_hardware'            => 'We’ve detected a potential hardware or firmware issue. We’re looking into it. This can affect data uploads and device performance.',
 
     // 7 oct 2025
-    'map-type-live-tooltip'         => 'Live data from past hour.<br><br> Read more on the <a href="faq.telraam.net">FAQ</a>',
-    'map-type-typical-tooltip'      => 'Current and past devices visualised with their historical data.<br> Read more on the <a href="faq.telraam.net">FAQ</a>',
-    'map-type-relative-tooltip'     => 'How is the live data compared to what we would expect?<br> Read more on the <a href="faq.telraam.net">FAQ</a>',
+    'map-type-live-tooltip'         => 'Live data from past hour.<br><br> Read more on the <a href="https://faq.telraam.net/article/390/what-do-the-different-telraam-map-layers-represent" target="_blank">FAQ</a>',
+    'map-type-typical-tooltip'      => 'Current and past devices visualised with their historical data.<br> Read more on the <a href="https://faq.telraam.net/article/390/what-do-the-different-telraam-map-layers-represent"  target="_blank">FAQ</a>',
+    'map-type-relative-tooltip'     => 'How is the live data compared to what we would expect?<br> Read more on the <a href="https://faq.telraam.net/article/390/what-do-the-different-telraam-map-layers-represent" target="_blank">FAQ</a>',
 
     // 9 oct 2025
     'this-is-v1-only'               => 'This segment contains V1 devices only. 10 modes, 15 minutes and night modes are not available on the V1.'

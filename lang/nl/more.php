@@ -126,6 +126,13 @@ return [
     'quality_level_low_connectivity'    => 'We hebben connectiviteitsproblemen gedetecteerd. Dit kan van invloed zijn op het uploaden van gegevens en de prestaties van het apparaat',
     'quality_level_hardware'            => 'We hebben een mogelijk hardware- of firmwareprobleem gedetecteerd. We zijn het aan het onderzoeken. Dit kan van invloed zijn op het uploaden van gegevens en de prestaties van het apparaat.',
 
+
+    // 7 oct 2025
+    'map-type-live-tooltip'         => 'Live gegevens van het afgelopen uur.<br><br> Lees meer op de <a href="https://faq-nl.telraam.net/article/393/wat-vertegenwoordigen-de-verschillende-telraam-kaartlagen" target="_blank">FAQ</a>',
+    'map-type-typical-tooltip'      => 'Huidige en eerdere toestellen weergegeven met hun historische gegevens.<br> Lees meer op de <a href="https://faq-nl.telraam.net/article/393/wat-vertegenwoordigen-de-verschillende-telraam-kaartlagen"  target="_blank">FAQ</a>',
+    'map-type-relative-tooltip'     => 'Hoe verhouden de live gegevens zich tot wat we zouden verwachten?<br> Lees meer op de <a href="https://faq-nl.telraam.net/article/393/wat-vertegenwoordigen-de-verschillende-telraam-kaartlagen" target="_blank">FAQ</a>',
+
+
     // 9 oct 2025
     'this-is-v1-only'               => 'Dit segment bevat enkel V1-toestellen. De modi 10, 15 minuten en nacht zijn niet beschikbaar op de V1..'
 ];
