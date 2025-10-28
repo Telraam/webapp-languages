@@ -16,15 +16,15 @@ return [
     'night' => 'Nuit',
     'measurements-last-week' => 'Comptages de la semaine dernière',
     'more-data' => 'Plus de données...',
-    'received-last-data-package-on' => 'Dernier données',
 
+    'received-last-data-package-on' => 'Dernier données',
     'looks-like-camera-is-not-sending-data' => "La caméra n'envoie pas de données pour le moment.",
     'camera-registered-last-hour' => 'Mesures en direct de la dernière heure',
     'camera-night-or-down' => 'La caméra est connectée mais ne détecte pas de mouvement au niveau du moment',
     'objects-per-hour' => 'objets par heure',
     'camera-shown-after-full-day' => "Nous n'avons pas encore reçu de données de comptage, veuillez patienter.",
     'lang-relative-title-popup' => 'Données relatives',
-    'lang-date' => 'Données relatives pour',
+    'lang-relative-date-popup-bottom' => 'Données relatives pour',
 
     'hour' => 'h',
     'loc-det-overview-per-day' => 'Aperçu par jour',

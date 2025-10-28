@@ -16,12 +16,13 @@ return [
     'night' => 'Night',
     'measurements-last-week' => 'Measurements last week',
     'more-data' => 'More data...',
+
     'received-last-data-package-on' => 'Last data',
     'looks-like-camera-is-not-sending-data' => 'The camera does not send any data at the moment.',
     'camera-registered-last-hour' => 'Live measurements last hour',
     'camera-night-or-down' => 'Camera is connected but does not detect movement at the moment',
     'lang-relative-title-popup' => 'Relative data',
-    'lang-date' => 'Relative data for',
+    'lang-relative-date-popup-bottom' => 'Relative data for',
 
     'objects-per-hour' => 'objects an hour',
     'camera-shown-after-full-day' => "We haven't received any counting data yet, please be patient.",

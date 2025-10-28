@@ -21,14 +21,13 @@ return [
     'more-data' => 'Meer gegevens...',
 
     'received-last-data-package-on' => 'Laatste data',
-
     'looks-like-camera-is-not-sending-data' => 'De Telraam camera stuurt geen data op dit moment.',
     'camera-registered-last-hour' => 'Live metingen laatste uur',
     'objects-per-hour' => 'objecten per uur',
     'camera-shown-after-full-day' => 'We hebben nog geen telgegevens ontvangen, nog even geduld.',
     'camera-night-or-down' => 'De camera is aangesloten maar detecteert momenteel geen beweging.',
     'lang-relative-title-popup' => 'Relatieve gegevens',
-    'lang-date' => 'Relatieve gegevens',
+    'lang-relative-date-popup-bottom' => 'Relatieve gegevens',
 
     'hour' => 'uur',
 
