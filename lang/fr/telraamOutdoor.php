@@ -70,7 +70,9 @@ L\'enregistrement d\'une Telraam S2 Outdoor sur telraam.net n\'est pas différen
     'faq-title'         => 'FAQ',
     'question-1'        => 'Y a-t-il une différence entre le Telraam S2 classique et cet capteur Telraam S2 Outdoor?',
 	'answer-1'          => 'Les composants internes restent les mêmes, mais le boîtier extérieur a été mis à jour pour être résistant aux intempéries.
- L\'appareil fonctionne de la même manière que le S2 classique pour une utilisation en intérieur et utilise le même logiciel pour détecter le trafic. Cela signifie qu\'il a les mêmes <a href="https://faq-fr.telraam.net/article/147/conditions-a-respecter-pour-lemplacement-dun-telraam-sur-ma-fenetre">exigences de localisation</a> que le Telraam S2 intérieur.',
+ L\'appareil fonctionne de la même manière que le S2 classique pour une utilisation en intérieur et utilise le même logiciel pour détecter le trafic.<br>
+  Nous avons créé un <a href="https://faq-fr.telraam.net/article/373/directives-dinstallation-pour-telraam-s2-outdoor" target="_blank">article FAQ</a> dédié
+ à la version extérieure, avec des exemples. Nous avons également développé <a href="/fr/outdoor-placement-tool" target="_blank">un outil convivial</a> pour évaluer votre emplacement par rapport aux exigences.',
 
     'question-2'        => 'Quel est le coût ?',
  	'answer-2'          => 'Le prix du capteur est nettement plus élevé par rapport au modèle Telraam S2 pour l\'intérieur. Le panneau solaire n\'est pas inclus dans notre offre et peut être acheté à un prix supplémentaire, uniquement en Belgique. Nous ne livrons pas le kit solaire + batterie à l\'international.',
@@ -78,6 +80,12 @@ L\'enregistrement d\'une Telraam S2 Outdoor sur telraam.net n\'est pas différen
  	'question-3'        => 'L\'appareil est-il complètement autonome en énergie ?',
  	'answer-3'          => 'Presque. Vous pouvez obtenir 100% d\'autonomie avec un grand panneau solaire et une batterie, mais il y a un compromis
  	 raisonnable entre la taille de la batterie, du panneau solaire et le coût. Nous pensons avoir trouvé le bon équilibre pendant la phase de prototype.',
+
+    'question-4' => 'Comment commander un Telraam S2 Outdoor ?',
+    'answer-4' => 'Vous pouvez commander un Telraam S2 Outdoor en remplissant notre <a href="../fr/contact-us">formulaire de contact</a> ou en nous contactant à l\'adresse <a href="mailto:info@telraam.net">info@telraam.net</a>.',
+
+	'question-5' => 'Comment et quand mon Telraam S2 Outdoor sera-t-il livré ?',
+'answer-5' => 'Les appareils Telraam S2 Outdoor sont livrés par la poste. Pour obtenir les dernières informations sur les délais de livraison, veuillez nous contacter à l\'adresse <a href="mailto:support@telraam.net">support@telraam.net</a>.',
 
 
     // tech table

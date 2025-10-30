@@ -75,7 +75,9 @@ Registering a Telraam S2 Outdoor on telraam.net is no different from a Telraam S
 
     'question-1'           => 'Is there a difference between the regular Telraam S2 and a Telraam S2 Outdoor device?',
     'answer-1'           => 'The internal components remain the same, with the outdoor version including a small additional part for the LED status light. The outer casing has been updated to be weather-resistant.
- Functionally, it works just like the indoor Telraam S2 and runs the same software to detect traffic. This also means it shares the same <a href="https://faq.telraam.net/article/3/requirements-for-the-installation-of-a-telraam-in-my-window">location requirements</a> as the indoor Telraam S2.',
+ Functionally, it works just like the indoor Telraam S2 and runs the same software to detect traffic.<br>
+ We created a dedicated <a href="https://faq.telraam.net/article/389/location-guidelines-for-telraam-s2-outdoor" target="_blank">FAQ article</a>
+ for the outdoor version including examples. We also developed <a href="/en/outdoor-placement-tool" target="_blank">a user-friendly tool</a> to assess your location against the requirements.',
 
     'question-2'           => ' Is the device fully power independent?',
     'answer-2' 			=> 'Almost. You can get 100% full autonomy with a large solar panel + battery, but there\'s a sensible trade-off
@@ -88,7 +90,7 @@ Registering a Telraam S2 Outdoor on telraam.net is no different from a Telraam S
     'answer-4'           => 'You can order a Telraam S2 Outdoor by filling out our <a href="../en/contact-us">contact form</a> or reaching out to us at <a href="mailto:info@telraam.net">info@telraam.net</a>.',
 
     'question-5'         => 'How and when will my Telraam S2 Outdoor be delivered?',
-    'answer-5'           => 'Telraam S2 Outdoor devices are delivered by post. For the latest information on delivery times, please contact us at <a href="mailto:info@telraam.net">info@telraam.net</a>.',
+    'answer-5'           => 'Telraam S2 Outdoor devices are delivered by post. For the latest information on delivery times, please contact us at <a href="mailto:support@telraam.net">support@telraam.net</a>.',
 
 
     // tech table

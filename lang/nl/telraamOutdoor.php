@@ -70,7 +70,9 @@ Het registreren van een Telraam S2 Outdoor op telraam.net verschilt niet van een
     'faq-title'         => 'FAQ',
     'question-1'           => 'Is er een verschil tussen de standaard Telraam S2 en de Telraam S2 Outdoor sensor?',
 	'answer-1'           => 'De interne componenten blijven hetzelfde, met in de outdoorversie een extra toevoeging voor een LED-statuslampje. De behuizing is verbeterd om bestand te zijn tegen weersinvloeden.
- Het Telraam functioneert net zoals de indoor Telraam S2 en draait dezelfde software om verkeer te detecteren. Dit betekent dat het dezelfde <a href="https://faq-nl.telraam.net/article/75/vereisten-voor-de-plaatsing-van-mijn-telraam-op-een-raam">locatievereisten</a> heeft als de Telraam S2 voor binnen.',
+ Het Telraam functioneert net zoals de indoor Telraam S2 en draait dezelfde software om verkeer te detecteren.<br>
+   We hebben evenwel een afzonderlijk <a href="https://faq-nl.telraam.net/locatie-en-installatievereisten-voor-telraam-s2-outdoor" target="_blank">FAQ-artikel</a>
+ voor de outdoorversie gemaakt, inclusief voorbeelden. Ook hebben we <a href="/nl/outdoor-placement-tool" target="_blank">een gebruiksvriendelijke tool</a> ontwikkeld om te beoordelen of jouw locatie aan de vereisten voldoet.',
 
  	'question-2'           => 'Is de sensor volledig stroomonafhankelijk?',
  	'answer-2' 			=> 'Bijna. Je kunt 100% volledige autonomie krijgen met een groot zonnepaneel + batterij, maar er is een verstandige afweging
@@ -86,7 +88,7 @@ te vullen of door contact met ons op te nemen via <a href="mailto:info@telraam.n
 
  	'question-5'           => 'Hoe en wanneer wordt mijn Telraam S2 Outdoor geleverd?',
  	'answer-5'           => 'Telraam S2 Outdoor-toestellen worden per post geleverd. Voor de laatste informatie rond
-levertijden kunt u contact met ons opnemen via <a href="mailto:info@telraam.net">info@telraam.net</a>.',
+levertijden kunt u contact met ons opnemen via <a href="mailto:support@telraam.net">support@telraam.net</a>.',
 
 
     // tech table
