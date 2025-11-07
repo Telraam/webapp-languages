@@ -40,6 +40,10 @@ return [
 
     'footer-subscribe' => 'Sign up for our mailing list:',
     'footer-subscribe-btn' => 'Register',
+    'footer-subscribe-citizen' => 'Citizen',
+    'footer-subscribe-org' => 'Organisation / Professional',
+    'footer-subscribe-press' => 'Press',
+
     'business-terms' => 'Business Terms',
 
     /* 18 maa */

@@ -39,6 +39,10 @@ return [
     'footer-what-is-info' => 'AI-gestuurde, privacy-vriendelijke verkeerstellers voor voetgangers, fietsers, auto\'s en zware voertuigen - beschikbaar in binnen- als buitenmodellen. Inclusief een intuïtief dashboard en open API voor eenvoudige integratie',
     'footer-subscribe' => 'Schrijf je in op onze mailinglijst:',
     'footer-subscribe-btn' => 'Inschrijven',
+    'footer-subscribe-citizen' => 'Burger',
+    'footer-subscribe-org' => 'Organisatie / Professioneel',
+    'footer-subscribe-press' => 'Pers',
+
     'business-terms' => 'Zakelijke voorwaarden',
 
     /* 18 maa */

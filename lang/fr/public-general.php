@@ -39,6 +39,10 @@ return [
 
     'footer-subscribe' => 'Inscrivez-vous à notre liste de contacts :',
     'footer-subscribe-btn' => 'S’enregistrer',
+    'footer-subscribe-citizen' => 'Citoyen',
+    'footer-subscribe-org' => 'Organisation / Professionnel',
+    'footer-subscribe-press' => 'Presse',
+
     'business-terms' => 'Conditions générales de vente',
 
     /* 18 maa */
