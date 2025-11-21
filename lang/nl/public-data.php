@@ -103,7 +103,7 @@ Verkeerstellingen per rijrichting voor 10 verschillende weggebruikerscategorieë
     'extra-features-3-title' => 'Ruwe data export',
     'extra-features-3-text' => 'Download ruwe tellingen (in spreadsheets of als CSV-bestanden) om meer gepersonaliseerde analyses uit te voeren.
     <ul class="jump-in">
-        <li>DMet de data-exporttool kunnen organisaties die geen grote data lakes of BI-systemen hebben, rapporten exporteren, hergebruiken en personaliseren vanaf één of zelfs meerdere sensoren.</li>
+        <li>Met de data-exporttool kunnen organisaties die geen grote data lakes of BI-systemen hebben, rapporten exporteren, hergebruiken en personaliseren vanaf één of zelfs meerdere sensoren.</li>
 <li>De gegevensexport omvat grafieken, berekeningen, typische waarden en ruwe gegevens van de Telraam sensor.</li>
 <li>Pas de rapporten aan om items op te nemen die bijzonder relevant zijn voor jouw straat: modal shift patronen, snelheidsveranderingen voor of na interventies, verkeersvolumes in de loop van de tijd en meer.</li>
 </ul>',
