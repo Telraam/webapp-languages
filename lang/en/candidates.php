@@ -78,8 +78,9 @@ from a bird\'s eye view, facing the street <a href="https://faq.telraam.net/arti
     'update_extrainfo_thanks'                  => 'Thank you for this additional information.',
 
     // auto reply direct na invullen van eerste formulier
-    'form_default_email_autoreply_interested_body' => 'Dear, <br><br>We have received your registration. <br>Thank you that you are interested in collaboration.
-    We will contact you again soon with more information.
+    'form_default_email_autoreply_interested_body' => 'Dear, <br><br>
+Thank you! This is to let you know that we have received your application.<br><br>
+We are grateful for your interest in being part of this traffic counting project. The selection process for a network can take some time, but we will be in touch again soon with more information.<br>
 <br>
 Greetings,<br>
 Team Telraam', // en naam netwerk eventueel? vb. gemeente Zandhoven
