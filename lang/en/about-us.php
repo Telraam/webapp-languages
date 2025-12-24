@@ -90,4 +90,10 @@ human-focused, multimodal traffic culture. </p>',
     global reality. Fluent in English, French, Portuguese, and Spanish, she\'s always up for a friendly chat about cultures,
      cuisines, or scaling SaaS businesses. In her free time, you\'ll find her on the yoga mat, dance floor, or getting creative
       in the kitchen!',
+
+    'role-prashanth'        => 'Machine learning engineer',
+    'sentence-prashanth'    => 'A computer scientist with a flair for technologies related to AI and ML. Loves adding his own innovative twist to existing methods.
+    When not tinkering with AI models, you can find him gaming or going for an occasional run or two.',
+
+
 ];

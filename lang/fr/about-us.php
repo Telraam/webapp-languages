@@ -15,7 +15,7 @@ return [
 2023, <a href="https://telraam.net/en/S2">un capteur spécialement conçu</a> pour collecter des données avec les citoyens.</p>',
 
     'section-2-title'            => 'Mission',
-    'section2-block1-text'        => '<p> Notre mission chez Telraam est de devenir une plateforme internationale en pleine croissance qui aide et 
+    'section2-block1-text'        => '<p> Notre mission chez Telraam est de devenir une plateforme internationale en pleine croissance qui aide et
 éduque les citoyens à devenir les techniciens et ingénieurs du trafic de demain, capables d\'apporter leurs connaissances locales,
 et de jouer un rôle actif dans les débats sur les politiques de mobilité urbaine qui impactentleur communautés. </p>
 
@@ -80,7 +80,7 @@ Porte-parole et hispanoparlante, il trouve aussi du temps pour s\'impliquer dans
 Grand amateur de vin, il ne manque jamais une occasion de partager une bonne histoire. Lorsqu\'il n\'est pas au travail, il se consacre à sa passion pour les bonsaïs dans son jardin.',
 
     'role-laurens'  => 'Atelier-héros et ventes',
-    'sentence-laurens'    => 'Laurens travaille au cœur de Telraam, accompagnant les futurs clients dans la recherche de solutions adaptées à leurs besoins, tout en restant en contact avec les utilisateurs finaux. 
+    'sentence-laurens'    => 'Laurens travaille au cœur de Telraam, accompagnant les futurs clients dans la recherche de solutions adaptées à leurs besoins, tout en restant en contact avec les utilisateurs finaux.
 Polyglotte, il aide à mettre en place des projets en néerlandais, anglais, français et allemand. Lorsqu\'il n\'est pas au bureau, vous pouvez le retrouver dans ses baskets ou en train de laisser libre cours à sa passion pour la cuisine en tant que chef amateur enthousiaste.',
 
     'role-ana'     => 'Croissance internationale',
@@ -88,4 +88,9 @@ Polyglotte, il aide à mettre en place des projets en néerlandais, anglais, fra
     l\'anglais, le français, le portugais et l\'espagnol, elle est toujours prête à discuter les cultures,
      les cuisines ou les entreprises SaaS. Pendant son temps libre, vous pouvez la trouver sur un tapis de yoga, une piste de
      danse ou en train de faire preuve de créativité dans la cuisine!',
+
+    'role-prashanth'        => 'Ingénieur en apprentissage automatique',
+    'sentence-prashanth'    => 'Informaticien doué pour les technologies liées à l\'IA et au ML. Il adore apporter sa touche innovante aux méthodes existantes.
+Quand il ne bricole pas des modèles d\'IA, vous pouvez le trouver en train de jouer à des jeux vidéo ou de faire un jogging de temps en temps.',
+
 ];
