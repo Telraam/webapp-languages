@@ -64,6 +64,11 @@ belemmeren.<br><br>Er mogen geen vliegenramen, gordijnen of rolluiken voor het r
     'step-5-long-title' => 'Laatste stap! Bevestig je locatie',
     'step-5-description-manual'  => "Laat ons je locatie weten. Zoom in om je straat te vinden, selecteer het juiste straatsegment en aan welke kant van de straat je huis zich bevindt.",
 
+    'step-5-unavailable-segment' => 'Heb je een nieuwe weg die niet selecteerbaar is op de officiële Open Street Maps? Weet je het zeker?',
+    'step-5-add-link' => 'Voeg een aangepast straat segment toe',
+    'step-5-zoom-in-and-select' => 'Zoom in en selecteer de positie van je toestel',
+    'step-5-loading' => 'Straatsegmenten worden<br> aangemaakt en geladen...',
+
 
     // Step 6: done
     'step-6-long-title' => 'Klaar!',

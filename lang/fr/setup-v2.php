@@ -62,6 +62,10 @@ car chaque compte ne peut gérer qu\'un seul capteur à la fois. Besoin d\'aide 
     'step-5-long-title' => 'Dernière étape ! Confirmez votre emplacement',
     'step-5-description-manual'  => "Indiquez-nous où vous êtes. Zoomez pour trouver votre rue, sélectionnez le bon tronçon et le côté de la rue où votre capteur est installé.",
 
+    'step-5-unavailable-segment' => 'Avez-vous une nouvelle route non sélectionnable sur les cartes officielles Open Street Maps ? Êtes-vous sûr ?',
+    'step-5-add-link' => 'Ajouter un segment personnalisé',
+    'step-5-zoom-in-and-select' => 'Zoomez et sélectionnez la position de votre appareil',
+    'step-5-loading' => 'Création et chargement<br> des segments de rue...',
 
     // Step 6: done
     'step-6-long-title' => 'C\'est prêt !',

@@ -3,9 +3,8 @@
 return [
 
 
-    'overview-info-box'                => 'Our API allows a developer to read the data and reports for the available Telraam street segments.
-                        The API token is a unique identifier to request access to the telraam api service.
-                         You can find the documentation on <a href="https://telraam-api.net/">the dedicated api website</a>.',
+    'overview-info-box'                => 'Our API enables developers to access data and reports for available Telraam street segments. An API token, which serves as a unique identifier, is required to authenticate requests to the Telraam API service.
+Full documentation is available on <a href="https://telraam-api.net/">the dedicated api website</a>.',
 
 
     // create a token
@@ -40,5 +39,6 @@ return [
     something commercial, I’ll contact Telraam first via info@telraam.net.',
 
     'request' => 'Create token',
+    'update'  => 'Update token information'
 
 ];

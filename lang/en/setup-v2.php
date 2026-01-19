@@ -62,6 +62,10 @@ No fly screens, curtains or roller shutters that will block the camera.',
     'step-5-long-title' => 'Last step! Please confirm your location',
     'step-5-description-manual'  => "Tell us your location. Zoom in to find your street. Select the right segment, and what side of the street you are on.",
 
+    'step-5-unavailable-segment' => 'You can have a new road or pavement not selectable on the official Open Streeet Maps? Are you sure?',
+    'step-5-add-link' => 'Add a custom street segment',
+    'step-5-zoom-in-and-select' => 'Zoom in and select your device position',
+    'step-5-loading' => 'Creating and loading<br> street segments...',
 
     // Step 6: Done
     'step-6-long-title' => 'Ready',

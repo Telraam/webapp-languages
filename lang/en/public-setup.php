@@ -7,7 +7,7 @@ return [
     'subtitle' => 'Gather detailed information on traffic on any street',
     'description' => 'Telraam allows you to collect multi-modal traffic data. In the next steps we explain how to instal the device.',
 
-   'current-installation-title' => 'Current installation of this device',
+     'current-installation-title' => 'Current installation of this device',
     'is-counting' => 'Is counting',
     'counted-before' => 'Counted before',
     'no-counting-yet' => 'No counting done yet',
@@ -49,7 +49,7 @@ return [
     'want-to-install-as-network-admin-multiple-networks' => 'I want to proceed the installation for a self-administered device as a <i>network admin</i>',
     'device-is-in-your-network' => 'This device is in your network, but still actively installed by the user. <br>
     To re-install this device, please',
-    'device-is-in-your-network-remote-install' => 'This device is in your network as a remote installation. <br>To re-install this device, please',
+    'device-is-in-your-network-remote-install' => 'This device is connected to your network as a remote installation.. <br>To re-install this device, please',
     'stop-the-current-installation' => 'stop the current installation',
 
     'device-installed-by-you' => 'Device has been installed by you',
