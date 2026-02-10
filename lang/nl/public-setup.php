@@ -18,7 +18,7 @@ return [
     'start-installation-not-new-title' => 'Meer...',
 
     'ready-to-install' => 'Ben je klaar om het Telraam te installeren?',
-    'ready-to-install-new-owner' => 'Wil je het Telraam op een nieuwe locatie installeren of heeft het een nieuwe eigenaar?',
+    'ready-to-install-two-options' => 'Hoe wilt u dit apparaat installeren?',
 
     'log-in' => 'Log in',
     'or' => 'of',
@@ -42,12 +42,15 @@ return [
     'want-to-install-with' => 'Prima! Ik wil de installatie voortzetten als ',
     'login-if-this-is-your-device' => 'Of log in als dit uw toestel is',
 
-    // one network
-    'want-to-install-as-network-admin' => 'Ik wil de installatie uitvoeren als <i>netwerkbeheerder</i>',
-    'start-setup-as-network-admin-btn'   => 'Starten met de installatie van een toestel in eigen-beheer',
+    // network manager one network
+    'want-to-install-as-network-admin' => 'Gebruik deze optie om toestellen te registreren voor uw organisatie, openbare locaties of namens anderen.<br> U kunt op deze manier meerdere toestellen registreren.',
+    'start-setup-as-network-admin-btn' => 'Start installatie als netwerkbeheerd toestel',
+    'want-to-install-to-personal-account' => 'Gebruik deze optie om het toestel te registreren op uw persoonlijke (burger) account',
+    'start-setup-to-personal-network-btn' => 'Start installatie als burger op mijn persoonlijke account',
 
     //
-    'want-to-install-as-network-admin-mulitple-networks' => 'Ik wil de installatie van een toestel in eigen-beheer uitvoeren als <i>netwerkbeheerder</i>',
+    'want-to-install-as-network-admin-multiple-networks' => 'Gebruik deze optie om toestellen te registreren voor uw organisatie, openbare locaties of namens anderen.
+<br> U kunt op deze manier meerdere toestellen registreren.<br> Start installatie als netwerkbeheerd toestel.',
     'device-is-in-your-network' => 'Dit toestel bevindt zich in uw netwerk, maar is nog steeds actief geïnstalleerd door de gebruiker. <br>
 Om dit apparaat opnieuw te installeren, gelieve',
     'device-is-in-your-network-remote-install' => 'Dit toestel bevindt zich in uw netwerk als een remote installatie. <br>Om dit apparaat opnieuw te installeren, gelieve',

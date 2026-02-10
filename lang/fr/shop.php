@@ -76,6 +76,12 @@ return [
     'product-4-note' => 'hors TVA',
     'product-4-link' => 'Acheter',
 
+    //  packages small
+    'product-bracket-title' => 'Supports',
+    'product-bracket-description' => 'Support supplémentaire pour le Telraam S2 avec ruban adhésif double face inclus',
+    'product-bracket-price' => '€15',
+    'product-bracket-note' => 'TVA comprise',
+    'product-bracket-link' => 'Acheter',
 
     // other / custom
     'custom-packages-title' => 'Offre sur mesure ou des questions ?',

@@ -63,4 +63,7 @@ return [
     // register page used as invite link
     'invite-token-success' => 'Welcome, you are invited to join a network admin',
 
+    'typeofdevice' => 'Type of device',
+    'selecttypeofdevice' => 'Please select the type of device you want to install'
+
 ];

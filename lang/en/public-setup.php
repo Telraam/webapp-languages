@@ -19,6 +19,7 @@ return [
     'start-installation-not-new-title' => 'More...',
 
     'ready-to-install' => 'You are ready to install the Telraam device?',
+    'ready-to-install-two-options' => 'How do you want to set up this device?',
 
     'log-in' => 'Log in',
     'or' => 'or',
@@ -41,12 +42,15 @@ return [
     'want-to-install-with' => 'Great! I want to proceed the installation as ',
     'login-if-this-is-your-device' => 'Or log in if this is your device',
 
-    // one network
-    'want-to-install-as-network-admin' => 'I want to proceed the installation as a <i>network admin</i>',
-    'start-setup-as-network-admin-btn'   => 'Start set-up of a self-administered device',
+    // network manager one network
+    'want-to-install-as-network-admin' => 'Use this to register devices for your organizaton, public locations or on behalf of others.<br> You can register multiple devices this way.',
+    'start-setup-as-network-admin-btn'   => 'Start set-up as a network managed device',
+    'want-to-install-to-personal-account'   => 'Use this to register device to your personal (citizen) account',
+    'start-setup-to-personal-network-btn'   => 'Start set-up as citizen to my personal account',
 
     // new 27 march 2025
-    'want-to-install-as-network-admin-multiple-networks' => 'I want to proceed the installation for a self-administered device as a <i>network admin</i>',
+    'want-to-install-as-network-admin-multiple-networks' => 'Use this to register devices for your organizaton, public locations or on behalf of others.
+<br> You can register multiple devices this way.<br> Start set-up as a network managed device.',
     'device-is-in-your-network' => 'This device is in your network, but still actively installed by the user. <br>
     To re-install this device, please',
     'device-is-in-your-network-remote-install' => 'This device is connected to your network as a remote installation.. <br>To re-install this device, please',

@@ -85,6 +85,13 @@ Bekijk de  <a href="https://faq-nl.telraam.net/article/75/vereisten-voor-de-plaa
     'product-4-note' => 'excl. BTW',
     'product-4-link' => 'Koop',
 
+    //  packages small
+    'product-bracket-title' => 'Beugels',
+    'product-bracket-description' => 'Extra beugel voor een Telraam S2 inclusief dubbelzijdige plakband',
+    'product-bracket-price' => '€15',
+    'product-bracket-note' => 'incl. btw',
+    'product-bracket-link' => 'Kopen',
+
     // other / custom
     'custom-packages-title'    => 'Wilt u een pakket op maat of heeft u vragen ?',
     'custom-packages-intro'  => '<p> Wilt u meer sensoren met een Data abonnement, of wilt u met een groter netwerk starten? Neem met ons <a href="https://telraam.net/nl/contact-us">contact op</a> voor een offerte op maat en meer gedetailleerde informatie.

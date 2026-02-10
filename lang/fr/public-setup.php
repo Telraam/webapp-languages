@@ -17,8 +17,8 @@ return [
     'start-installation-title' => 'Démarrer l\'installation', //  install with device never used
     'start-installation-not-new-title' => 'Plus...',
 
-    'ready-to-install' => 'Êtes-vous prêt à installer le capteur Telraam ?',
-    'ready-to-install-new-owner' => 'Souhaitez-vous installer le Telraam à un nouvel emplacement ou changer de propriétaire ?',
+    'ready-to-install'              => 'Êtes-vous prêt à installer le capteur Telraam ?',
+    'ready-to-install-two-options' => 'Comment souhaitez-vous configurer cet appareil ?',
 
     'log-in' => 'Connectez-vous',
     'or' => 'ou',
@@ -42,13 +42,15 @@ return [
     'want-to-install-with' => 'Super ! Je veux poursuivre l\'installation en tant que ',
     'login-if-this-is-your-device' => 'Ou connectez-vous si ce Telraam vous appareil',
 
-    // one network
-    'want-to-install-as-network-admin' => 'Je veux poursuivre l\'installation en tant <i>qu\'administrateur de réseau.</i>',
-    'start-setup-as-network-admin-btn'   => 'Lancer l\'installation d\'un appareil en auto-gestion',
+    // network manager one network
+    'want-to-install-as-network-admin' => 'Utilisez cette option pour enregistrer des appareils pour votre organisation, des lieux publics ou au nom d\'autres personnes.<br> Vous pouvez enregistrer plusieurs appareils de cette manière.',
+    'start-setup-as-network-admin-btn' => 'Démarrer la configuration en tant qu\'appareil géré par le réseau',
+    'want-to-install-to-personal-account' => 'Utilisez cette option pour enregistrer l\'appareil sur votre compte personnel (citoyen)',
+    'start-setup-to-personal-network-btn' => 'Démarrer la configuration en tant que citoyen sur mon compte personnel',
 
     // network
-    'want-to-install-as-network-admin-mulitple-networks' => 'Je souhaite procéder à l\'installation d\'un appareil en auto-gestion en tant qu\'<i>administrateur de réseau</i>.',
-    'device-is-in-your-network' => 'Cet appareil est présent sur votre réseau, mais il est toujours installé par l\'utilisateur. <br>
+    'want-to-install-as-network-admin-multiple-networks' => 'Utilisez cette option pour enregistrer des appareils pour votre organisation, des lieux publics ou au nom d\'autres personnes.
+<br> Vous pouvez enregistrer plusieurs appareils de cette manière.<br> Démarrer la configuration en tant qu\'appareil géré par le réseau.',    'device-is-in-your-network' => 'Cet appareil est présent sur votre réseau, mais il est toujours installé par l\'utilisateur. <br>
 Pour réinstaller cet appareil, veuillez',
     'device-is-in-your-network-remote-install' => 'Cet appareil est dans votre réseau en tant qu\'installation à distance. <br>Pour réinstaller cet appareil, veuillez',
     'stop-the-current-installation' => 'arrêter l\'installation en cours',

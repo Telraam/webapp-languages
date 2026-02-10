@@ -5,6 +5,7 @@ return [
     'nav-step-1'        => 'Device',
     'nav-step-2'        => 'Address',
     'nav-step-3'        => 'Window',
+    'nav-step-3-remote'  => 'Positioning',
     'nav-step-4'        => 'Attach',
     'nav-step-5'        => 'Location',
     'nav-step-6'        => 'Ready',
@@ -21,7 +22,7 @@ Need help? Contact <a href="mailto:support@telraam.net">support@telraam.net</a>.
     'step-2-long-title' => 'What is the address of the Telraam installation?',
     'step-2-description'  => "Please confirm your address.",
 
-    // Step 3: Window
+    // Step 3: Window / Location
     'step-3-long-title' => 'What\'s the most suitable window?',
     'step-3-description'  => "It’s important to select the best location. Your window needs to have a clear view of activity on the street.",
 
@@ -37,6 +38,22 @@ No fly screens, curtains or roller shutters that will block the camera.',
 
     'step-3-instructions-title-4' => '4. Ensure the glass is clean',
     'step-3-instructions-title-4-more' => 'Ensure good adhesion. Clean the window with a wet cloth without soap. Soap residue could cause the adhesive tapes to loosen.',
+
+    // Step 3: outdoor
+    'step-3-outdoor-long-title' => 'What\'s the most suitable location?',
+    'step-3-outdoor-description' => "It’s important to select the best location. Your device needs to have a clear view of activity on the street.",
+
+    'step-3-instructions-outdoor-title-1' => '1. Choose the right height and distance',
+    'step-3-instructions-outdoor-title-1-more' => 'To collect accurate and reliable traffic data, your Telraam S2 Outdoor needs to be installed in the right spot. A poorly chosen location can lead to missed or misclassified objects.
+    We developed <a href="https://telraam.net/en/outdoor-placement-tool" target="_blank">a user-friendly tool</a> to assess your location against the requirements.<br> <br>
+    You can also make read more in our <a href="https://faq.telraam.net/article/389/location-guidelines-for-telraam-s2-outdoor">FAQ</a>.',
+
+    'step-3-instructions-outdoor-title-2' => '2. Check the view is clear',
+    'step-3-instructions-outdoor-title-2-more' => 'There should be no poles, trees or tall shrubs in front of the device that obstruct the view of the street.',
+
+    'step-3-instructions-outdoor-title-3' => '3. Powering your device',
+    'step-3-instructions-outdoor-title-3-more' => 'Make sure there is an electrical outlet near the window. <br><br> A 3m cord is supplied. If this is not long enough, you can replace this with a longer one, or use an extension cord.',
+
 
     // Step 4: Attach
     'step-4-long-title' => 'How to attach your device?',
@@ -56,6 +73,32 @@ No fly screens, curtains or roller shutters that will block the camera.',
 
     'step-4-instructions-title-5' => '5. Power your Telraam',
     'step-4-instructions-title-5-more' => 'Plug the power cord into the bottom of the device, then into a wall outlet.',
+
+    // Step 4: outdoor
+    'step-4-outdoor-long-title' => 'How to attach and connect your device?',
+    'step-4-outdoor-description' => "The position is well defined now. So what to do next?",
+
+    'step-4-outdoor-instructions-title-1' => '1. Define your power source',
+    'step-4-outdoor-instructions-title-1-more' => 'Can be solar-battery, standard power adapter, combined power bank and power adapter, or external battery.
+<br><br>
+Read more in <a href="https://faq.telraam.net/article/359/power-supply-for-telraam-s2-outdoor"  target="_blank">FAQ</a> article.',
+
+    'step-4-outdoor-instructions-title-2' => '2. Solar-battery attention points',
+    'step-4-outdoor-instructions-title-2-more' => '<ul>
+<li>Install the photovoltaic panel facing between south-east and south-west with no shading or obstructions (e.g. trees, buildings).</li>
+<li>The solar panel should be mounted higher on the pole than the Telraam sensor to avoid shading.</li>
+<li>Ensure a safe placement so that swerving vehicles cannot damage the setup.</li> </ul> ',
+
+    'step-4-outdoor-instructions-title-3' => '3. Mount Telraam S2 Outdoor to the pole',
+    'step-4-outdoor-instructions-title-3-more' => 'Locate the mounting anchor(s) on your device (one or two depending on version). Use cable
+ties through the mounting anchors to attach the device securely to the pole—metal cable ties for long-term installations or plastic
+ ones for short-term use. Place the box perfectly perpendicular to the road segment.
+    <br><br>See <a href="https://faq.telraam.net/https-faq-telraam-net-article-358-installing-the-telraam-s2-outdoor"  target="_blank">FAQ article</a>.',
+
+    'step-4-outdoor-instructions-title-4' => '4. Check',
+    'step-4-outdoor-instructions-title-4-more' => 'This way you can verify if the device is powered and connected.<br>
+Cable management and sticker: Ensure all cables are safely stowed and cut off any excess zip ties. Add a sticker to clearly indicate that it is a traffic meter.<br>
+    See <a href="https://faq.telraam.net/article/342/what-do-the-led-lights-on-telraam-s2-outdoor-mean" target="_blank">FAQ article</a> for LED meanings.',
 
 
     // Step 5: gps

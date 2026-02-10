@@ -62,6 +62,7 @@ Review the <a href="https://faq.telraam.net/article/3/requirements-for-the-insta
 reach out to us <a href=mailto:support@telraam.net?body=coverage class="grey">via email</a> so we can assist.',
 
 
+
  //   'product-1-title' => 'Telraam S2 - Professional',
     'product-1-title' => 'Telraam S2 - Basic',
     'product-1-description' => 'Small, smart, and powerful. Effortless traffic counting on your street.',
@@ -86,6 +87,14 @@ reach out to us <a href=mailto:support@telraam.net?body=coverage class="grey">vi
     'product-4-price' => '€4,600',
     'product-4-note' => 'excl. VAT',
     'product-4-link' => 'Buy',
+
+    //  packages small
+    'product-bracket-title' => 'Brackets',
+    'product-bracket-description' => 'Extra bracket for the Telraam S2 including double-sided adhesive tape',
+    'product-bracket-price' => '€15',
+    'product-bracket-note' => 'incl. VAT',
+    'product-bracket-link' => 'Buy',
+
 
     // other / custom
     'custom-packages-title'    => 'Custom-made package or questions?',
