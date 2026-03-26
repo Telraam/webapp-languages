@@ -5,8 +5,8 @@ return [
 
     'title-1' => '1. Inleiding en toepassingsgebied',
     'content-1' => 'Deze Cookie Policy is van toepassing op de website www.telraam.net (de <strong>“Website”</strong>), aangeboden,
-     eigendom van en ter beschikking gesteld door Rear Window BV, met maatschappelijke zetel te Diestsesteenweg 71,
-     Leuven 3010, België en met ondernemingsnummer 0762.549.266, hierna <strong>“Telraam”</strong>, <strong>“wij”</strong> of <strong>“ons”</strong>.',
+     eigendom van en ter beschikking gesteld door Rear Window BV, met maatschappelijke zetel te Vital Decosterstraat 67/A,
+     Leuven 3000, België en met ondernemingsnummer 0762.549.266, hierna <strong>“Telraam”</strong>, <strong>“wij”</strong> of <strong>“ons”</strong>.',
 
     'title-2' => '2. Wat zijn cookies?',
     'content-2' => 'Cookies zijn kleine stukjes informatie in de vorm van tekstbestanden die op de harde schijf van uw computer worden geplaatst wanneer u de Website bezoekt. ',

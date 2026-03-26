@@ -110,14 +110,14 @@ En tant qu\'utilisateur existant, vous pouvez également ouvrir un ticket d\'ass
 
     'return-info-block-2' => '
                     Telraam à l\'att. de Retours<br>
-                    Diestsesteenweg 71<br>
-                    3010 Louvain <br>
+                    Vital Decosterstraat 67/A<br>
+                    3000 Louvain <br>
                     Belgique',
 
     'return-success-message' => 'Merci ! Veuillez envoyer votre appareil pour inspection à :<br>
                         Telraam à l\'att. de Retours<br>
-                        Diestsesteenweg 71<br>
-                        3010 Louvain <br>
+                        Vital Decosterstraat 67/A<br>
+                        3000 Louvain <br>
                         Belgique',
 
 

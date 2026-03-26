@@ -6,7 +6,7 @@ return [
     'title-1' => '1. Inleiding en toepassingsgebied',
     'content-1' => 'Deze privacy policy (“Privacy Policy”) regelt de verwerking van uw persoonsgegevens in
      het kader van uw gebruik van onze website www.telraam.net (de “<strong>Website</strong>”). <br><br>
-Rear Window BV, met maatschappelijke zetel te Diestsesteenweg 71, Leuven 3010, België en met ondernemingsnummer
+Rear Window BV, met maatschappelijke zetel te Vital Decosterstraat 67/A, Leuven 3000, België en met ondernemingsnummer
  0762.549.266, hierna <strong>“Telraam”</strong>, <strong>“wij”</strong> of <strong>“ons”</strong> treedt in het kader van deze verwerkingen op als verwerkingsverantwoordelijke.<br><br>
 Uw persoonsgegevens en uw privacy worden beschermd door Telraam in overeenstemming met de Belgische en Europese
  regelgeving inzake de bescherming van de persoonlijke levenssfeer, waaronder de Algemene Verordening Gegevensbescherming (“<strong></strong>AVG</strong>”). <br><br>

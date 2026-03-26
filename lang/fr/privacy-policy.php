@@ -7,7 +7,7 @@ return [
     'content-1' => "La présente politique de confidentialité (politique de confidentialité) régit le traitement de vos données
 à caractère personnel dans
      le contexte de votre utilisation de notre site web www.telraam.net (le \"<strong>Site web</strong>\"). <br><br>
-Rear Window BV, dont le siège social est situé à Diestsesteenweg 71, Leuven 3010, Belgique et dont le numéro d'entreprise est 0762.549.266, ci-après <strong>\"Telraam\"</strong> ou <strong>\"nous\"</strong> agit en tant que responsable
+Rear Window BV, dont le siège social est situé à Vital Decosterstraat 67/A, Leuven 3000, Belgique et dont le numéro d'entreprise est 0762.549.266, ci-après <strong>\"Telraam\"</strong> ou <strong>\"nous\"</strong> agit en tant que responsable
 du traitement des données aux fins de ces opérations de traitement.<br><br>
 Vos données personnelles et votre vie privée seront protégées par Telraam conformément aux règlements relatifs à la protection de la vie privée, notamment le règlement général sur la
  protection des données (\"<strong>RGDP</strong>\", aussi \"AVG\" ou \"GDPR\"). <br />Veuillez lire très attentivement cette politique de confidentialité. Il décrit non seulement vos droits, mais aussi la manière dont vous pouvez les exercer.<br><br>
@@ -142,7 +142,7 @@ Malgré les mesures de Telraam susmentionnées, vous devez être conscient que l
    </ul>
 
        Vous pouvez exercer ces droits en envoyant un courrier électronique à <a href=mailto:privacy@telraam.net>privacy@telraam.net</a>. <br><br>
-Vous avez le droit d'introduire une plainte auprès de l'autorité de surveillance compétente si 
+Vous avez le droit d'introduire une plainte auprès de l'autorité de surveillance compétente si
 le traitement de vos données personnelles viole la réglementation applicable. En Belgique, l'autorité compétente est l'Autorité de Protection des Données
 (<a href=https://www.gegevensbeschermingsautoriteit.be>www.gegevensbeschermingsautoriteit.be</a>,
 <a href=mailto:contact@apd-gba.be>contact@apd-gba.be</a>, rue du Press 35, 1000 Bruxelles).

@@ -4,8 +4,8 @@ return [
     'title' => 'Participation conditions Telraam',
 
     'policy-list-1-title' => 'Scope',
-    'policy-list-1-content' => '<li>Telraam is operated by Rear Window BV, with registered office at Diestsesteenweg 71,
-    Leuven 3010, Belgium and with company number 0762.549.266 (hereinafter "<strong>“Telraam”</strong>, <strong>“we”</strong>
+    'policy-list-1-content' => '<li>Telraam is operated by Rear Window BV, with registered office at Vital Decosterstraat 67/A,
+    Leuven 3000, Belgium and with company number 0762.549.266 (hereinafter "<strong>“Telraam”</strong>, <strong>“we”</strong>
 or <strong>“us”</strong>).</li>
  <li>These Conditions of Participation (“<strong>Conditions of Participation</strong>”) apply exclusively to participants
  who register for Telraam as natural persons and outside the scope of their professional activities.

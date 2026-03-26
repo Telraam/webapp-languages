@@ -4,7 +4,7 @@ return [
     'title' => 'Conditions de participation Telraam',
 
     'policy-list-1-title' => 'Domaine d\'application',
-    'policy-list-1-content' => '<li>Telraam est exploité par Rear Window BV, dont le siège social est situé Diestsesteenweg 71, Louvain 3010, Belgique, sous le numéro d\'entreprise 0762.549.266 (ci-après "<strong>Telraam</strong>", "<strong>nous</strong>" ou "<strong>notre</strong>").</li>
+    'policy-list-1-content' => '<li>Telraam est exploité par Rear Window BV, dont le siège social est situé Vital Decosterstraat 67/A, Louvain 3010, Belgique, sous le numéro d\'entreprise 0762.549.266 (ci-après "<strong>Telraam</strong>", "<strong>nous</strong>" ou "<strong>notre</strong>").</li>
 <li>Les présentes conditions de participation ("<strong>Conditions de participation</strong>") s\'appliquent exclusivement aux participants qui s\'inscrivent à Telraam en tant que personnes physiques et en dehors du cadre de leurs activités professionnelles. Si vous souhaitez utiliser Telraam en tant que partenaire professionnel (consultant, administration publique, université, organisation à but non lucratif, etc.), veuillez nous contacter à info@telraam.net.</li>
 <li>Pour certains projets, des conditions spécifiques supplémentaires peuvent s\'appliquer, par exemple des conditions imposées par
 les opérateurs de réseaux Telraam concernés (universités, municipalités participantes, etc.) ("<strong>Conditions spécifiques</strong>").

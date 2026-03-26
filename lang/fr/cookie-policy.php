@@ -5,8 +5,8 @@ return [
 
     'title-1' => '1. Introduction et portée',
     'content-1' => 'Cette politique en matière de cookies s\'applique au site web www.telraam.net (le <strong>"site web"</strong>), proposé,
-     détenu et fourni par Rear Window BV, dont le siège social est situé à Diestsesteenweg 71,
-     Leuven 3010, Belgique et portant le numéro d\'entreprise 0762.549.266, ci-après <strong>"Telraam"</strong> ou <strong>"nous"</strong>.',
+     détenu et fourni par Rear Window BV, dont le siège social est situé à Vital Decosterstraat 67/A,
+     Leuven 3000, Belgique et portant le numéro d\'entreprise 0762.549.266, ci-après <strong>"Telraam"</strong> ou <strong>"nous"</strong>.',
 
     'title-2' => '2. Que sont les cookies ?',
     'content-2' => 'Les cookies sont de petits éléments d\'information sous forme de fichiers texte qui sont placés sur le disque
