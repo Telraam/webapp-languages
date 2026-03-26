@@ -17,6 +17,7 @@ return [
     'viz-road'      => 'Chaussée',
     'viz-house'     => 'Maison',
     'viz-bikelane'  => 'Piste cyclable',
+    'viz-parking'   => 'Bande de stationnement',
 
     'road_width_question' =>'Quelle est la largeur de la <strong>chaussée</strong>, de trottoir à trottoir ?',
     'road_width' => 'Largeur de la chaussée, sans pistes cyclables ni trottoirs et sans caniveau, en mètres.',

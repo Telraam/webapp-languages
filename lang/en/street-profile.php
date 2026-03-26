@@ -17,6 +17,7 @@ return [
     'viz-road' => 'Road',
     'viz-house' => 'House',
     'viz-bikelane' => 'Cycle path',
+    'viz-parking'  => 'Parking',
 
     'road_width_question' => 'How wide is the <strong>road</strong>, from kerb to kerb?',
     'road_width' => 'Width of roadway, without cycle lanes and pavements and without gutter, in metres',

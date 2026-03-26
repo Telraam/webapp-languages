@@ -25,6 +25,8 @@ return [
     'support-mail'             => 'You can mail us at <a href="mailto:support@telraam.net">support@telraam.net</a>',
     'photo-street'              => 'Photo street',
     'upload-note'              => 'Upload a picture of your street here. Preferably a horizontal image.',
+    'street-photo-hint'         => 'Add a photo of your street to personalise your <a href=":url" target="_blank">segment page</a>. Horizontal (landscape) images work best. Avoid showing legible license plates or identifiable people.',
+
     'address'                   => 'Address',
     'my-setup'                  => 'My Setup',
 

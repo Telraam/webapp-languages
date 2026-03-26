@@ -17,6 +17,7 @@ return [
     'viz-road'      => 'Weg',
     'viz-house'     => 'Huis',
     'viz-bikelane'  => 'Fietspad',
+    'viz-parking'   => 'Parkeerstrook',
 
     'road_width_question' =>'Hoe breed is de <strong>rijweg</strong>, van stoeprand tot stoeprand?',
     'road_width' => 'Breedte rijweg, zonder fietspaden en voetpaden en zonder de goot, in meter.',
