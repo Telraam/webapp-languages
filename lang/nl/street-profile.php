@@ -74,6 +74,7 @@ return [
     'bus_service_no'            => 'Geen buslijn',
 
     'speed_question'     => '<strong>Maximum toegelaten snelheid</strong>',
+    'speed_select'      => 'Selecteer uw snelheid',
     'speed_20'          => '20 km/u',
     'speed_30'          => '30 km/u',
     'speed_40'          => '40 km/u',

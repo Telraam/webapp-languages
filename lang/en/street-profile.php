@@ -74,6 +74,7 @@ return [
 
 
     'speed_question'     => '<strong>Maximum permitted speed</strong>',
+    'speed_select'      => 'Please select your speed',
     'speed_20'          => '20 km/h',
     'speed_30'          => '30 km/h',
     'speed_40'          => '40 km/u',

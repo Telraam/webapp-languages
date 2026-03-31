@@ -110,13 +110,13 @@ Als bestaande gebruiker kun je ook een supportticket openen door een e-mail te s
 
     'return-info-block-2' => '
                     Telraam t.a.v. Retourzendingen<br>
-                    Vital Decosterstraat 67/A<br>
+                    Vital Decosterstraat 67A<br>
                     3000 Leuven <br>
                     België',
 
     'return-success-message' => 'Bedankt! Stuur je toestel voor inspectie naar:<br>
                         Telraam t.a.v. Retourzendingen<br>
-                        Vital Decosterstraat 67/A<br>
+                        Vital Decosterstraat 67A<br>
                         3000 Leuven <br>
                         België',
 

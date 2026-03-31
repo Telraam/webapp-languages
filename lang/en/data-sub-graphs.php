@@ -33,7 +33,10 @@ return [
 
     // installations
     'installations-nav-title'      => 'Installations',
-    'hourly'        => 'Hourly'
+    'hourly'        => 'Hourly',
+
+    // speed v85
+    'max-permitted-speed'   => 'Max permitted speed',
 
 ];
 

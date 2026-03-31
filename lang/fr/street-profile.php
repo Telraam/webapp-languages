@@ -75,6 +75,7 @@ utiliser toute la largeur de la voie.</span>',
     'bus_service_no'            => 'Non, il n\'y a pas de ligne de bus',
 
     'speed_question'     => '<strong>Vitesse maximale autorisée</strong>',
+    'speed_select'      => 'Veuillez sélectionner votre vitesse',
     'speed_20'          => '20 km/h',
     'speed_30'          => '30 km/h',
     'speed_40'          => '40 km/h',

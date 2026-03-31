@@ -60,7 +60,7 @@ return [
   <a href="https://faq-fr.telraam.net/article/163/la-mesure-des-vitesses-comment-interpreter-le-graphique-de-la-vitesse">plus d\'informations sur la façon d\'interpréter ces données</a>',
 
     'speed-remark-v85' => 'Le V85 est un indicateur très utilisé dans le monde de la mobilité et de la sécurité routière.
-la mobilité et la sécurité routière, car elle est considérée comme représentative de la vitesse qui peut raisonnablement être maintenue sur une route. <a href="https://faq-fr.telraam.net/article/164/la-mesure-des-vitesses-v85-explique" target="_blank">En savoir plus sur le V85</a>',
+la mobilité et la sécurité routière, car elle est considérée comme représentative de la vitesse qui peut raisonnablement être maintenue sur une route. <a href="https://faq-fr.telraam.net/article/164/la-mesure-des-vitesses-v85-explique" target="_blank">En savoir plus sur le V85</a>.<br> Le propriétaire de cet appareil peut définir une vitesse maximale autorisée via le profil de rue.',
     // 22 feb
     'faq-interpret-data-link' => 'https://faq-fr.telraam.net/article/158/imprecisions-possibles-avec-telraam',
     'faq-interpret-data-text' => 'Comment interpréter les données de la Telraam ?',

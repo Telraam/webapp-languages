@@ -65,7 +65,7 @@ return [
     'speed-remark' => 'Snelheden zijn indicatief. De metingen kunnen 10% afwijken van effectieve snelheden. <br>Hier vind
  je <a href="https://faq-nl.telraam.net/article/88/snelheidsmeting-hoe-de-snelheidsgrafiek-interpreteren">meer informatie hoe je deze data kan interpreteren</a>',
     'speed-remark-v85' => 'De V85 is een veelgebruikte indicator in de wereld van de mobiliteit en de verkeersveiligheid, omdat hij geacht wordt representatief te
-    zijn voor de snelheid die men op een weg redelijkerwijs kan aanhouden. <a href="https://faq-nl.telraam.net/article/90/snelheidsmeting-v85-uitgelegd" target="_blank">Lees meer over de V85</a>',
+    zijn voor de snelheid die men op een weg redelijkerwijs kan aanhouden. <a href="https://faq-nl.telraam.net/article/90/snelheidsmeting-v85-uitgelegd" target="_blank">Lees meer over de V85</a>.<br> De eigenaar van dit toestel kan een maximaal toegestane snelheid instellen via het straatprofiel.',
 
     // 22 feb
     'faq-interpret-data-link' => 'https://faq-nl.telraam.net/article/86/raadplegen-en-interpreteren-van-telraam-gegevens-een-algemeen-overzicht',
