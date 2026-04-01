@@ -4,7 +4,7 @@ return [
     'title' => 'Participation conditions Telraam',
 
     'policy-list-1-title' => 'Scope',
-    'policy-list-1-content' => '<li>Telraam is operated by Rear Window BV, with registered office at Vital Decosterstraat 67A,
+    'policy-list-1-content' => '<li>Telraam is operated by Rear Window BV, with registered office at Vital Decosterstraat 67A bus 1010,
     Leuven 3000, Belgium and with company number 0762.549.266 (hereinafter "<strong>“Telraam”</strong>, <strong>“we”</strong>
 or <strong>“us”</strong>).</li>
  <li>These Conditions of Participation (“<strong>Conditions of Participation</strong>”) apply exclusively to participants

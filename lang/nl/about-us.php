@@ -82,5 +82,7 @@ In haar vrije tijd vindt u haar op de yogamat, dansvloer of creatief in de keuke
     'sentence-prashanth'    => 'Een computerwetenschapper met een talent voor technologieën op het gebied van AI en ML. Hij houdt ervan om zijn eigen innovatieve draai te geven aan bestaande methoden.
 Als hij niet bezig is met AI-modellen, kun je hem vinden achter zijn gameconsole of af en toe aan het hardlopen.',
 
+    'role-paul'    => 'Partnerships & Sales<br>(freelance)',
+    'sentence-paul'  => 'Civic tech-enthousiasteling met een doctoraat in urban interaction design. Paul brengt graag mensen, data en mobiliteit samen. Bij Telraam richt hij zich op klantenwerving en projectontwikkeling in Duitsland en Oostenrijk. In zijn vrije tijd bouwt hij aan zijn campervan of trekt hij ermee de natuur in.',
 
 ];

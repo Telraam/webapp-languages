@@ -93,4 +93,7 @@ Polyglotte, il aide à mettre en place des projets en néerlandais, anglais, fra
     'sentence-prashanth'    => 'Informaticien doué pour les technologies liées à l\'IA et au ML. Il adore apporter sa touche innovante aux méthodes existantes.
 Quand il ne bricole pas des modèles d\'IA, vous pouvez le trouver en train de jouer à des jeux vidéo ou de faire un jogging de temps en temps.',
 
+    'role-paul'    => 'Partnerships & Sales<br>(freelance)',
+    'sentence-paul'  => 'Passionné de civic tech avec un doctorat en urban interaction design. Paul aime connecter les gens, les données et la mobilité. Chez Telraam, il se concentre sur l\'acquisition de clients et le développement de projets en Allemagne et en Autriche. Pendant son temps libre, il construit son camping-car ou part le tester à l\'aventure.',
+
 ];

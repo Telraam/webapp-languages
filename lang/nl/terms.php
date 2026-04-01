@@ -4,7 +4,7 @@ return [
     'title' => 'Deelnamevoorwaarden Telraam',
 
     'policy-list-1-title' => 'Toepassingsgebied',
-    'policy-list-1-content' => '<li>Telraam wordt uitgebaat door Rear Window BV, met maatschappelijke zetel te Vital Decosterstraat 67A,
+    'policy-list-1-content' => '<li>Telraam wordt uitgebaat door Rear Window BV, met maatschappelijke zetel te Vital Decosterstraat 67A bus 1010,
 Leuven 3000, België en met ondernemingsnummer 0762.549.266 (hierna <strong>“Telraam”</strong>, <strong>“wij”</strong>
 of <strong>“ons”</strong>).</li>
  <li>Deze deelnamevoorwaarden (“<strong>Deelnamevoorwaarden</strong>”) zijn uitsluitend van toepassing op deelnemers die zich als natuurlijke personen en

@@ -82,7 +82,7 @@ human-focused, multimodal traffic culture. </p>',
     'sentence-rob'    => 'Community-driven communicator, trying to make change happen by bringing people together. Has plenty of wine stories, and outside of work is usually found in the garden, working on bonsai trees.',
 
 
-    'role-paul'      => 'Freelance Partnerships & Sales',
+    'role-paul'      => 'Partnerships & Sales<br>(freelance)',
     'sentence-paul'    => 'Civic tech enthusiast with a PhD in urban interaction design. Paul loves to connect people, data and mobility, at Telraam, he focuses on customer acquisition and project development across Germany and Austria. In his free time, he’s either building his campervan or out testing it in the wild.',
 
 

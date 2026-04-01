@@ -110,13 +110,13 @@ As an existing user you can also open a support ticket by sending an email to <a
 
     'return-info-block-2' => '
                     Telraam c/o Returns<br>
-                    Vital Decosterstraat 67A<br>
+                    Vital Decosterstraat 67A bus 1010<br>
                     3000 Leuven <br>
                     Belgium',
 
     'return-success-message' => 'Thanks!  Please send your device for inspection to:<br>
                         Telraam c/o Returns<br>
-                        Vital Decosterstraat 67A<br>
+                        Vital Decosterstraat 67A bus 1010<br>
                         3000 Leuven <br>
                         Belgium',
 

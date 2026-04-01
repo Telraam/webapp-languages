@@ -6,7 +6,7 @@ return [
     'title-1' => '1. Introduction and Scope',
     'content-1' => 'This privacy policy ("Privacy Policy") governs the processing of your personal data in
      the context of your use of our website telraam.net (the "<strong>Website</strong>"). <br><br>
-Rear Window BV, with registered office at Vital Decosterstraat 67A, Leuven 3000, Belgium and with company number
+Rear Window BV, with registered office at Vital Decosterstraat 67A bus 1010, Leuven 3000, Belgium and with company number
  0762.549.266, hereinafter <strong>"Telraam"</strong>, <strong>"we"</strong> or <strong>"us"</strong> is acting as
   data controller for the purposes of these processing operations.<br><br>
 Your personal data and privacy will be protected by Telraam in accordance with the Belgian and European

@@ -110,13 +110,13 @@ En tant qu\'utilisateur existant, vous pouvez également ouvrir un ticket d\'ass
 
     'return-info-block-2' => '
                     Telraam à l\'att. de Retours<br>
-                    Vital Decosterstraat 67A<br>
+                    Vital Decosterstraat 67A bus 1010<br>
                     3000 Louvain <br>
                     Belgique',
 
     'return-success-message' => 'Merci ! Veuillez envoyer votre appareil pour inspection à :<br>
                         Telraam à l\'att. de Retours<br>
-                        Vital Decosterstraat 67A<br>
+                        Vital Decosterstraat 67A bus 1010<br>
                         3000 Louvain <br>
                         Belgique',
 
