@@ -101,4 +101,8 @@ human-focused, multimodal traffic culture. </p>',
     When not tinkering with AI models, you can find him gaming or going for an occasional run or two.',
 
 
+    'role-veerle'        => 'Accountancy',
+    'sentence-veerle'    => 'Our internal accountant has a natural love for numbers, brings true team spirit to everything she does and recently discovered a passion for diving, both in spreadsheets and beneath the waves.',
+
+
 ];

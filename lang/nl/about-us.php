@@ -85,4 +85,6 @@ Als hij niet bezig is met AI-modellen, kun je hem vinden achter zijn gameconsole
     'role-paul'    => 'Partnerships & Sales<br>(freelance)',
     'sentence-paul'  => 'Civic tech-enthousiasteling met een doctoraat in urban interaction design. Paul brengt graag mensen, data en mobiliteit samen. Bij Telraam richt hij zich op klantenwerving en projectontwikkeling in Duitsland en Oostenrijk. In zijn vrije tijd bouwt hij aan zijn campervan of trekt hij ermee de natuur in.',
 
+    'role-veerle'        => 'Boekhouding',
+    'sentence-veerle'    => 'Onze interne boekhouder heeft een aangeboren liefde voor cijfers, brengt een echte teamgeest in alles wat ze doet en ontdekte onlangs een passie voor duiken, zowel in spreadsheets als onder water.'
 ];

@@ -96,4 +96,7 @@ Quand il ne bricole pas des modèles d\'IA, vous pouvez le trouver en train de j
     'role-paul'    => 'Partnerships & Sales<br>(freelance)',
     'sentence-paul'  => 'Passionné de civic tech avec un doctorat en urban interaction design. Paul aime connecter les gens, les données et la mobilité. Chez Telraam, il se concentre sur l\'acquisition de clients et le développement de projets en Allemagne et en Autriche. Pendant son temps libre, il construit son camping-car ou part le tester à l\'aventure.',
 
+    'role-veerle'        => 'Comptabilité',
+    'sentence-veerle'    => 'Notre comptable interne a un amour naturel pour les chiffres, apporte un véritable esprit d\'équipe dans tout ce qu\'elle fait et a récemment découvert une passion pour la plongée, aussi bien dans les feuilles de calcul que sous les flots.',
+
 ];
