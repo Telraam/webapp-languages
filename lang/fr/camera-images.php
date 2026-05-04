@@ -2,10 +2,6 @@
 
 return [
     'nav-title'             => 'Images de la caméra',
-    'no-image-available'    => 'Aucune image disponible',
-    'no-images-available'   => "Aucune image n'est encore disponible",
-    'no-images-available-advice' => 'Assurez-vous que la dernière version du logiciel Telraam est installée et que le paramètre d\'image est activé lors de l\'installation',
-    'date-image'            => 'Date de l\'image',
     'camera-images'         => 'Image(s) de la caméra',
 
     'roi-still-to-be-set' => 'ROI à définir',
@@ -13,8 +9,6 @@ return [
     'what-are-the-camera-images' => 'Les images capturées par la caméra servent uniquement de fond et sont envoyées à notre serveur pour vérifier si la position de votre caméra est toujours correcte. Une première image est envoyée au démarrage de votre Telraam,
 et ensuite une image est envoyée une fois par jour lorsque votre Telraam fonctionne normalement.<br> Pour en savoir plus,
     <a href="https://faq.telraam.net/article/30/background-image" target="_blank"> lisez cet article</a>',
-    'not-receiving-data'         => "Il semble que nous ne recevions pas encore de données de votre Telraam.",
-
     'software-version' => 'Version du logiciel installé sur le dispositif',
 
     // S2 ROI
@@ -39,7 +33,6 @@ après la configuration initiale de la zone d\'intérêt (ROI). Le ROI peut êtr
     <a href="https://faq.telraam.net/article/30/background-image-">Pour en savoir plus, consultez notre FAQ</a>',
 
     'roi-set-to' => 'Roi prêt à',
-    'on' => 'sur',
 
     'device-not-available-for-roi' => 'L\'appareil n\'est pas en ligne pour le moment. Réessayez plus tard.',
 

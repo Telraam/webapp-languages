@@ -61,10 +61,5 @@ href="/nl/contact-us">Contacteer ons! </a>.',
     voldoende credits hebt</li> </ol>',
 
 
-    // section 4
-    'section-4-title' => 'Beta', 'section-4-text'  => 'Momenteel zit de Data pool nog in testfase.
-    <br> Wilt u alvast toegang? <a href="/nl/contact-us">Contacteer ons!</a>!<br><br>',
-
-
 
 ];

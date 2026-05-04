@@ -3,7 +3,7 @@
 return [
 
     'nav-map' => 'Carte',
-    'nav-what-is' => 'Qu’est-ce que Telraam',
+    'nav-what-is' => 'Qu\'est-ce que Telraam',
     'nav-device' => 'Dispositif',
     'nav-data' => 'Données',
     'nav-network' => 'Réseau',
@@ -15,7 +15,6 @@ return [
     'nav-references-projects' => 'Références et projets',
     'nav-partners' => 'Partenaires',
     'nav-faq-support' => 'FAQ et support',
-    'nav-login' => 'Se connecter',
     'nav-registrer' => 'S\'enregistrer',
 
     'seo-title-data' => 'Data',
@@ -24,7 +23,6 @@ return [
     'seo-title-pricing' => 'Prix et Boutique',
     'seo-title-browse-networks' => 'Parcourir les réseaux',
     'seo-title-partners' => 'Partenaires Ecosystème',
-    'seo-title-press-kit' => 'Presse',
     'seo-title-blog' => 'Blog',
     'seo-title-jobs' => 'Emplois',
     'seo-title-about-us' => 'A propos de nous',
@@ -38,7 +36,7 @@ return [
     'footer-what-is-legal' => 'Telraam est entièrement détenu et maintenu par Rear Window BV (BE0762.549.266)',
 
     'footer-subscribe' => 'Inscrivez-vous à notre liste de contacts :',
-    'footer-subscribe-btn' => 'S’enregistrer',
+    'footer-subscribe-btn' => 'S\'enregistrer',
     'footer-subscribe-citizen' => 'Citoyen',
     'footer-subscribe-org' => 'Organisation / Professionnel',
     'footer-subscribe-press' => 'Presse',
@@ -56,15 +54,10 @@ return [
     'privacy-policy' => 'Politique de confidentialité',
     'cookie-policy' => 'Politique en matière de cookies',
     'terms-of-use' => 'Termes d\'utilisation',
-    'manage-cookies' => 'Gérer les cookies',
-
     /* 1 sept */
     'open-dashboard' => 'Ouvrir le tableau de bord',
     'logout' => 'Se déconnecter',
     'login' => 'Se connecter',
     'dashboard' => 'Tableau de bord',
-    'my-telraam' => 'Ma propre Telraam',
-    'street-profile' => 'Profil de la rue',
-    'reports' => 'Rapports',
     'export' => 'Exporter vos données',
 ];

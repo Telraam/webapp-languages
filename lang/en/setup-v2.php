@@ -51,9 +51,6 @@ No fly screens, curtains or roller shutters that will block the camera.',
     'step-3-instructions-outdoor-title-2' => '2. Check the view is clear',
     'step-3-instructions-outdoor-title-2-more' => 'There should be no poles, trees or tall shrubs in front of the device that obstruct the view of the street.',
 
-    'step-3-instructions-outdoor-title-3' => '3. Powering your device',
-    'step-3-instructions-outdoor-title-3-more' => 'Make sure there is an electrical outlet near the window. <br><br> A 3m cord is supplied. If this is not long enough, you can replace this with a longer one, or use an extension cord.',
-
 
     // Step 4: Attach
     'step-4-long-title' => 'How to attach your device?',
@@ -130,7 +127,6 @@ Two important things to fully complete the installation:
     'save-button-step-2'  => 'Next step',
     'save-button-step-3'  => 'I\'m ready,',
     'save-button-step-4'  => 'OK, go!',
-    'save-button-step-5'  => 'Confirm!',
     'save-button-step-6'  => 'To my dashboard',
 
     'set-position' => 'When you are sure you selected the correct street and the side of the road, please confirm.',

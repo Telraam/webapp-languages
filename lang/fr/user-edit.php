@@ -3,7 +3,6 @@
 return [
 
     'title' => 'Modifier les données de votre compte utilisateur',
-    'account-info' => 'Informations du compte',
     'language' => 'Langue',
     'your-installed-camera' => 'Votre caméra installée',
     'no-installed-camera' => 'L\'utilisateur n\'a pas encore installé de caméra Telraam.',
@@ -19,7 +18,6 @@ return [
     'button' => 'Mettre à jour',
 
     // delete
-    'i-want-to-be-removed-title' => 'Supprimez-moi complètement en tant qu\'utilisateur',
     'i-want-to-be-removed-content' => 'Un utilisateur supprimé ne pourra plus se reconnecter. ',
     'i-want-to-be-removed-warning' => 'Comme certains de nos jeux de données sont publics et ouverts, vos anciennes données resteront accessibles au public.',
     'label-delete-form' => 'Pour confirmer, tapez "Supprimer mon compte" ci-dessous.',

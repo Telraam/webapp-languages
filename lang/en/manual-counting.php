@@ -2,8 +2,6 @@
 
 return [
 
-    'title'            => 'Manual counting',
-
     // header
     'overview'                 => 'Overview',
     'add-new-location'         => 'Add new location',
@@ -47,7 +45,6 @@ return [
 
     // table overview
     'date' => 'Date',
-    'time' => 'Time',
     'measured' => 'Measured',
     'measured-hourly' => 'Hourly base',
 
@@ -55,7 +52,6 @@ return [
     'objects-per-hour-average' => 'Through manual counting we have an average count per hour of:',
 
     // quality
-    'quality'       => 'Quality',
     'object-counting' => 'Object counting',
     'modal-share-difference' => 'Modal Share',
     'cars-vs-heavy' => 'Cars vs Heavy',

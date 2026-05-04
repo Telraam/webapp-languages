@@ -47,12 +47,9 @@ Het betrekken van burgers en het publiceren van open data brengt onderzoekers en
     // testimonials
     'quote1' => 'Door analyse van de V85 norm krijgen we een indicatie, op welk tijdstip, snelheidscontroles het best wordt ingezet om
     een maximaal effect te ressorteren met het oog op gedragswijziging van de weggebruikers.',
-    'quote1-author' => 'David Tailleur',
     'quote2-function' => 'Teamcoach wijkwerking Politiezone Lubbeek ',
 
     'quote2' => 'Telraam levert niet alleen inzichten door data maar ook begrip door de interactie met bewoners, de lokale en de provinciale overheid.',
-    'quote2-author' => 'Eric van Dijk',
-    'quote2-function' => 'Beleidsmedewerker smart mobility, Province of Utrecht',
 
     'section3-block0-title' => 'Tel mee!', // title on top of the video
 
@@ -136,8 +133,6 @@ Deze werkwijze en de open toegang tot de verzamelde verkeersgegevens, democratis
     'methodology-item-B' => 'Mobiliteitsprofessionals en lokale overheden analyseren de gegevens om inzicht te krijgen in het lokale verkeer en oplossingen voor te stellen voor specifieke problemen.',
     'methodology-item-C' => 'Burgers en professionals werken samen om de gegevens te bekijken, te doorgronden en samen manieren te bedenken om betere verkeersplannen uit te voeren.',
     'methodology-item-D' => 'De Telraam toestellen kunnen na de implementatie van de verkeersmaatregelen worden gebruikt om de doorgevoerde veranderingen te controleren, te evalueren en waar nodig bij te sturen.',
-
-    'methodology-part-3' => '<p>Als geëngageerde burger kunt u uw eigen persoonlijke Telraam toestel aankopen, installeren en uw eigen gegevens analyseren. De gegevens die uw Telraam verzamelt worden ook voor iedereen als Open Data beschikbaar gesteld via de Telraam API.</p>',
 
     // Why Citizen Science?
     'cit-science-title' => 'Waarom burgerwetenschap?',

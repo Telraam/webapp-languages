@@ -5,7 +5,6 @@ return [
 
     // onglets
     'header-general' => 'Informations Générales',
-    'header-timeline' => 'Que se passe-t-il ?',
     'header-apply' => 'Postuler en tant que candidat',
 
     // chronologie
@@ -34,7 +33,6 @@ return [
     <br>Grâce à la technologie basée sur l\'IA et au modèle de déploiement unique des <a href="https://www.telraam.net/fr/S2">capteurs Telraam</a>, nous proposons une méthode de comptage multi-modal alternative, à la fois économique et fiable, qui a prouvé son éfficacité dans des nombreuses conditions.<br>
     <br>Telraam offre un abonnement Réseau pour les organisations qui gèrent plusieurs capteurs, notamment les autorités locales, régionales et nationales ainsi que les groupes militants. En déployant un réseau dense de capteurs Telraam alimentés par la science citoyenne, le comptage du trafic devient plus efficace, avec une collecte continue de données multi-modales, tout en réduisant les coûts.',
 
-    'section2-small-title' => 'Comment ça fonctionne ?',
     'section2-block1-title' => 'Une solution complète pour votre projet',
     'section2-block1-text' => 'Un abonnement Réseau fournit tous les outils nécessaires à la gestion et à l\'analyse des données tout au long de la durée de vie du projet. Il comprend des outils administratifs pour planifier, déployer et gérer un réseau de capteurs Telraam hébergés par des citoyens sur une période prolongée (généralement de 6 à 12 mois), ainsi que des outils d\'analyse pour surveiller et étudier le trafic, à la fois au niveau des segments de rue et de l\'ensemble du réseau. <br>
     <br>Les données en temps réel et historiques peuvent être consultées et analysées à tout moment, ou exportées pour une analyse hors ligne. L\'équipe Telraam vous accompagne tout au long du processus, du début à la fin.',

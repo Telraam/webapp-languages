@@ -3,7 +3,6 @@
 return [
     'nav-title'        => 'Preparation',
     'title' =>          'Preparation',
-    'intro'            => '',
     'subtitle-1' =>          'Which window?',
     'to-do-list-1' => '<li>A room on an upper floor, with a clear view of the street.  That means no poles, no tall shrubs, no trees in front of the window that obstruct a full view. A roller shutter can only be lowered when it is dark, as the Telraam does not count when it is dark. A window without a flyscreen, because that also obstructs the view. </li>
 <li>A window with an electrical socket nearby (this can be done with an extension cable) </li><li>A window in a room where there is a wifi connection.</li>',
@@ -20,8 +19,6 @@ return [
   The adapter can be used if the
  <a href="https://faq.telraam.net/article/37/updating-the-telraam-software-by-yourself" target="_blank">you need to update or install the software</a>. This is usually not necessary.<br></li>
 ',
-
-    'btn-next' =>          'Okay, continue',
 
     'accordion-tell-more' => 'Tell more'
 

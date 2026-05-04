@@ -92,8 +92,6 @@ reach out to us <a href=mailto:support@telraam.net?body=coverage class="grey">vi
     'product-bracket-title' => 'Brackets',
     'product-bracket-description' => 'Extra bracket for the Telraam S2 including double-sided adhesive tape',
     'product-bracket-price' => '€15',
-    'product-bracket-note' => 'incl. VAT',
-    'product-bracket-link' => 'Buy',
 
 
     // other / custom
@@ -101,23 +99,12 @@ reach out to us <a href=mailto:support@telraam.net?body=coverage class="grey">vi
     'custom-packages-intro'  => '<p>Would you like to have more information or build a bigger network? Please <a href="https://telraam.net/en/contact-us">get in touch with us</a> for a personalised quote or more detailed information.
  We look forward to hearing from you.</p>',
 
-    // personal
-    'personal-title' => 'Telraam S2 with free data',
-    'personal-intro-personal' => 'With a premium subscription you get access to the advanced data and you support the Telraam community.
-    Organisations, cities or organisations are obliged to offer the citizens an account with advanced data.',
-
-
     // pricing
-    'per-device' => 'Per device',
     'device' => 'device',
     'incl-vat' => '(incl. VAT)',
-    'excl-vat' => '(excl. VAT)',
     'note-below-price' => '(excl. VAT, billed annually)',
     'one-time-hardware' => 'One time hardware cost',
     'month' => 'month',
-    'subscription' => 'Subscription',
-    'network-subscription' => 'Annual subscription',
-    'tailer-made' => 'Tailor made solutions',
     'free' => 'Free',
     'make-private' => 'Make the installation private',
     'make-private-info' => 'Some users or organizations may want to keep their data private <a href="https://faq.telraam.net/article/329/can-i-make-my-data-private">Read more</a>'

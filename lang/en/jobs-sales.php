@@ -42,6 +42,5 @@ relationships for the business;</li>
 <li>Flexible working hours and ample opportunity to work from home.</li>
 </ul>',
 
-    'closing' => 'Interested? <a mailto:jobs@telraam.net>jobs@telraam.net</a>'
 
 ];

@@ -1,8 +1,6 @@
 <?php
 
 return [
-    'nav-title'                 => 'Dashboard',
-    'title'                     => 'Dashboard',
     'setup-first'               => 'You have to complete the installation procedure.',
     'overview'                  => 'Overview - last 7 days',
     'overview-current'          => 'Current status',
@@ -10,14 +8,11 @@ return [
 
     'no-data'                   => 'No data available yet',
     'camera-position'           => 'Camera position',
-    'network'                   => 'Network',
-    'member-since'            => 'Member since',
     'visualisation-info-1'        => 'The counting data from your street is nicely published on ',
     'visualisation-info-2'    => 'Feel free to share!',
     'visualisation-info-3'    => 'You can find even more detailed reports',
     'visualisation-info-4'    => 'under the reports tab',
 
-    'camera-status'            => 'Camera status',
     'please-complete'          => 'Please first complete the setup',
     'setup-status'              => 'Setup Status',
     'status-done'              => 'You have completed the installation procedure',
@@ -33,15 +28,11 @@ return [
     'is-counting'               => 'Telraam is counting',
     'was-counting'             => "Telraam isn't counting anymore",
     'was-counting-link-v1'        => '<a href="https://faq.telraam.net/article/51/my-telraam-isnt-counting-anymore" target="_blank">Troubleshooting</a>',
-    'was-counting-link-S2'   => '<a href="https://faq.telraam.net/article/206/troubleshooting-with-the-s2" target="_blank">Troubleshooting</a>',
-
     'is-not-counting'          => 'Telraam is not counting yet',
     'is-not-counting-link-v1'   => '<a href="https://faq.telraam.net/article/49/no-data-is-coming-from-my-telraam-yet" target="_blank">Troubleshooting</a>',
     'is-not-counting-link-S2'   => '<a href="https://faq.telraam.net/article/206/troubleshooting-with-the-s2" target="_blank">Troubleshooting</a>',
 
-    'software-version'              => 'Telraam Software version',
     'software-up-to-date'           => 'The Telraam software is up-to-date. Your telraam contains version 10.' ,
-    'software-not-up-to-date'       => 'There is an update available for your Telraam.',
     'software-might-not-up-to-date' => 'We could not yet verify whether your Telraam has the latest software version (V10).',
 
     'software-update-read-more'   => '<a href="https://faq.telraam.net/article/37/updating-the-telraam-software-by-yourself" target="_blank">Read how to update</a>',

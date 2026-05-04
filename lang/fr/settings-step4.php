@@ -3,7 +3,6 @@
 return [
     'nav-title'        => 'Préparation',
     'title'            =>   'Préparation',
-    'intro'            => '',
     'subtitle-1'       =>  "Quelle fenêtre choisir ?",
     'to-do-list-1'   =>  '<li>Une fenêtre au premier étage ou plus haut, avec une vue dégagée sur la rue. Cela signifie pas de poteaux, pas de grands buissons ou d\'arbres devant la fenêtre qui obstruent une vue complète. Un volet roulant ne peut être abaissé que lorsqu\'il fait nuit. Une fenêtre sans moustiquaire, car cela obstrue également la vue. </li>
 <li>Une fenêtre avec une prise électrique à proximité (cela peut être fait avec une rallonge).</li>',
@@ -23,6 +22,5 @@ connecterez à l\'appareil Telraam pour connecter votre Telraam à votre propre 
  <a href="https://faq-fr.telraam.net/article/183/mettre-a-jour-le-software-telraam-soi-meme" target="_blank">vous devez mettre à jour ou installer le software.</a>. Cela n\'est généralement pas nécessaire.<br></li>
 ',
 
-  'btn-next' => "Ok, suivant",
     "accordion-tell-more" => "En savoir plus"
 ];

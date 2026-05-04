@@ -50,5 +50,5 @@ Si la connexion n\'a pas abouti, il y a probablement une faute de frappe dans le
     'faq-no-images-text' => 'Je ne vois aucune image de caméra sur my.telraam.net',
 
     'faq-no-data-link' => 'https://faq-fr.telraam.net/article/189/mon-telraam-ne-compte-pas-encore',
-    'faq-no-data-text' => 'Il n’y a pas encore de données qui transitent par ma Telraam'
+    'faq-no-data-text' => 'Il n\'y a pas encore de données qui transitent par ma Telraam'
 ];

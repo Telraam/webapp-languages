@@ -17,10 +17,7 @@ return [
     'public-feat-3' => 'Dagelijkse en uurlijkse overzichten, snelheid, modal split',
     'public-feat-4' => 'Ranglijst',
 
-    'sub-title' => 'Krijg direct inzicht in het verkeer in jouw straat.<br>
-Ontvang tellingen van auto’s, fietsen, voetgangers, zware voertuigen en meer!',
-
-    'dashboard-feat-1' => 'Flexibele datumbereik selectie',
+    ‘dashboard-feat-1’ => 'Flexibele datumbereik selectie',
     'dashboard-feat-2' => 'Maandelijks verkeersrapport',
     'dashboard-feat-3' => 'Exporteer ruwe data',
     'dashboard-feat-4' => 'Tellingen & reisrichting voor 10 categorieën',

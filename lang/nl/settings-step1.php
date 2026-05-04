@@ -6,9 +6,7 @@ return [
     'intro'            => 'Er zijn 2 mogelijkheden om tot een telklaar Telraam-toestel te komen. Selecteer wat voor jou van toepassing is.',
     'option-1'         => 'Ik ben ingeschreven voor een workshop',
     'option-2'         => 'Ik bestel een pakket online en/of assembleer zelf',
-    'skip'             => 'Ik heb alle onderdelen',
     'save'             => 'Bevestig en volgende',
-    'assembly-save' => 'Ok, uitgevoerd',
 
 
     /* NEW */

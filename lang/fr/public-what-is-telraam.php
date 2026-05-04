@@ -25,12 +25,9 @@ return [
 
     // témoignages
     'quote1' => 'En analysant la norme V85, nous pouvons identifier les meilleurs moments pour effectuer des contrôles de vitesse. Ces contrôles permettent de modifier le comportement des usagers de la route.',
-    'quote1-author' => 'Lotte Demeestere',
     'quote1-function' => 'experte en mobilité pour la ville de Kortijk',
 
     'quote2' => 'Telraam ne fournit pas seulement des informations grâce aux données, mais permet aussi une meilleure compréhension grâce à l\'interaction avec les habitants et les autorités locales et provinciales.',
-    'quote2-author' => 'David Tailleur',
-    'quote2-function' => 'coach d\'équipe de police de quartier, Lubbeek',
 
     'section3-block0-title' => 'Participez au décompte !', // title on top of the video
 
@@ -39,9 +36,6 @@ return [
 
     'section3-block2-title' => 'Que fait un capteur Telraam S2?',
     'section3-block2-text' => 'Le Telraam S2 est un appareil conçu sur mesure qui s\'installe à votre fenêtre. Une fois connecté, vous n\'avez rien à faire, vous pouvez simplement observer les comptages en temps réel.<br><br> Il est équipé d\'une caméra basse résolution (garantissant la confidentialité), d\'une puce IA pour détecter et catégoriser les usagers de la route, ainsi que d\'une connexion de données mobile intégrée qui envoie des données anonymes et agrégées aux serveurs Telraam. Il suffit d\'alimenter et de le fixer à l\'intérieur d\'une fenêtre en hauteur avec une vue dégagée sur la rue.',
-
-    'section3-block3-title' => 'Faites en sorte que votre vue compte',
-    'section3-block3-text' => 'Prêt à commencer à collecter vos propres données? Lisez notre guide <a href="/fr/self-measure">Commencer à compter</a> pour voir à quel point il est facile de démarrer et comment créer votre propre réseau de comptage.<br><br> En un rien de temps, vous aurez un rapport détaillé sur toutes les activités de votre rue, quartier ou ville.<br><br> C\'est votre point de vue. Faites que ça compte!',
 
     // Make your view count
     'make-view-count-title' => 'Comment installer des capteurs Telraam près de chez moi ?',
@@ -82,8 +76,6 @@ return [
     'methodology-item-B' => 'Les professionnels de la mobilité et les autorités locales analysent les données pour mieux comprendre le trafic et proposer des solutions adaptées aux problèmes spécifiques.',
     'methodology-item-C' => 'Citoyens et experts collaborent pour interpréter les données et co-concevoir des plans d\'amélioration de la circulation.',
     'methodology-item-D' => 'Les capteurs Telraam permettent ensuite de suivre, d\'évaluer et d\'ajuster les mesures mises en place.',
-
-    'methodology-part-3' => '<p>En tant que personne intéressée, vous pouvez avoir votre propre capteur Telraam et analyser vos propres données, mais les données collectées par votre capteur sont également mises à la disposition de tous les autres en tant que données ouvertes via l\'API Telraam.</p>',
 
     // Why Citizen Science?
     'cit-science-title' => 'Pourquoi la science participative ?',
@@ -146,7 +138,7 @@ return [
      'how-to-start-option-C-button' => '<a href="network" class="button">Créez et gérez votre propre réseau</a></p>',
 
      //
-     'section4-cta-text' => 'Une question ? Un projet en tête ? N’hésitez pas à nous écrire, nous serons ravis d’échanger avec vous.',
+     'section4-cta-text' => 'Une question ? Un projet en tête ? N\'hésitez pas à nous écrire, nous serons ravis d\'échanger avec vous.',
      'section4-cta-btn' => 'Nous contacter',
 
 ];

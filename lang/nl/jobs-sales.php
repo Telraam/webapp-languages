@@ -44,6 +44,5 @@ als extern te netwerken en duurzame relaties voor het bedrijf op te bouwen;</li>
 <li>Flexibele werktijden en voldoende mogelijkheden om thuis te werken.</li>
 </ul>',
 
-    'closing' => 'Geïnteresseerd? <a mailto:jobs@telraam.net>jobs@telraam.net</a>'
 
 ];

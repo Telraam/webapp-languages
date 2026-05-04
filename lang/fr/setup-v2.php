@@ -86,7 +86,6 @@ Deux points importants pour finaliser l\'installation :<br>
     'save-button-step-2'  => 'L\'étape suivante',
     'save-button-step-3'  => 'Je suis prêt',
     'save-button-step-4'  => 'Ok, vas-y',
-    'save-button-step-5'  => 'Confirmer !',
     'save-button-step-6'  => 'Aller à mon tableau de bord',
 
     'set-position' => 'Lorsque vous êtes sûr d\'avoir sélectionné la bonne rue et le bon côté de la route, veuillez confirmer.',

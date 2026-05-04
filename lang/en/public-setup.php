@@ -16,7 +16,6 @@ return [
     'view-the-measurements' => 'View the measurements',
 
     'start-installation-title' => 'Start the installation', //  install with device never used
-    'start-installation-not-new-title' => 'More...',
 
     'ready-to-install' => 'You are ready to install the Telraam device?',
     'ready-to-install-two-options' => 'How do you want to set up this device?',
@@ -26,7 +25,6 @@ return [
     'create-an-account' => 'Create an account',
 
     'start-setup' => 'Start the setup',
-    'want-to-install-with-another-user' => 'I want to install it with another user',
 
     'i-could-use' => 'Oh no, I could use',
    'support' => 'support',

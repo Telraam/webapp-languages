@@ -10,8 +10,6 @@ return [
     <p><strong>Track multiple modes simultaneously</strong> with the S2 to see the impact of any interventions or changes in local habits.</p>',
     'section1-block2-text'        => '<p>Learn more about the features of the Telraam S2 below, check out the packages available, and get in touch to discuss the ideal solution for your needs.</p>',
 
-    'section-features-title'       => 'Features',
-
     'section-features-block1-title'  => 'Multimodal',
     'section-features-block1-subtitle'     => 'Streets are not just for cars',
     'section-features-block1-body'     => '<p>The Telraam S2 device counts, categorises, and reports all activity on the street: cars, bikes, pedestrians, buses, trucks, and more. </p><p> Get an accurate picture of who uses the street, discover patterns and anomalies, and start to have meaningful data-driven conversations about local traffic and mobility plans.',
@@ -62,10 +60,6 @@ Currently, our focus is on improving both connectivity and stability.</p>',
     'section-features-block7-body-extra' => 'For a complete history of firmware updates see the <a href="https://github.com/Telraam/Telraam-S2/blob/main/changelog_NRF.md"  target="_blank">NRF changelog</a> and the
 <a href="https://github.com/Telraam/Telraam-S2/blob/main/changelog_K210.md"  target="_blank">K210 changelog</a>.',
 
-    'section-features-block8-title' => 'Make it count!',
-    'section-features-block8-subtitle'     => 'A solution for every street',
-    'section-features-block8-body' => '<p>Whether you are a private citizen in need of a single device for your street, or a professional looking to setup a whole network in your city, Telraam is there to help. Each device is ready to start counting. Packages include tools for building and managing local networks, whether for a small neighbourhood or a metropolis. Check out the options that best suit you below to get started.</p>',
-
     // tech table
     'spec-table-title' => 'Technical specifications',
 
@@ -93,14 +87,6 @@ Currently, our focus is on improving both connectivity and stability.</p>',
     'spec-table-row-8-subject'     => 'Includes',
     'spec-table-row-8-details' => 'USB-C Cable<br> Adapter',
 
-
-    // pricing
-    // pricing content in sep. lang file
-    'section-features-block-pricing'  => 'Pricing',
-
-    // modal
-    'modal-title'    => 'Sign up to receive the latest Telraam S2 updates',
-    'modal-body'    => 'Please complete this short form and a Telraam team member will be in touch',
 
     // individual package promo
     'section-package-title' => 'Need traffic data for your street?',

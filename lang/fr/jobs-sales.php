@@ -31,7 +31,7 @@ als extern te netwerken en duurzame relaties voor het bedrijf op te bouwen;</li>
 <li>Je spreekt vloeiend Nederlands en Engels; Andere talen zijn een pluspunt</li>
 </ul>',
 
-    'foryou-title' => 'What’s in it for you?',
+    'foryou-title' => 'What\'s in it for you?',
     'foryou-text' => '<ul>
 <li>Fulltime (flexibel);</li>
 <li>Je maakt deel uit van een spannende, zichtbare en impactvolle start-up;</li>
@@ -41,6 +41,5 @@ als extern te netwerken en duurzame relaties voor het bedrijf op te bouwen;</li>
 <li>Flexibele werktijden en voldoende mogelijkheden om thuis te werken.</li>
 </ul>',
 
-    'closing' => 'Geïnteresseerd? <a mailto:jobs@telraam.net>jobs@telraam.net</a>'
 
 ];

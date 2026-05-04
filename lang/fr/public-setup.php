@@ -15,7 +15,6 @@ return [
     'view-the-measurements' => 'Voir les données',
 
     'start-installation-title' => 'Démarrer l\'installation', //  install with device never used
-    'start-installation-not-new-title' => 'Plus...',
 
     'ready-to-install'              => 'Êtes-vous prêt à installer le capteur Telraam ?',
     'ready-to-install-two-options' => 'Comment souhaitez-vous configurer cet appareil ?',
@@ -26,7 +25,6 @@ return [
 
     'want-to-install-with' => 'Super ! Je veux poursuivre l\'installation en tant que ',
     'start-setup' => 'Démarrer la configuration',
-    'want-to-install-with-another-user' => 'Je veux l\'installer avec un autre utilisateur',
 
     'i-could-use' => 'Oh non, j\'aurais besoin de',
    'support' => 'support',

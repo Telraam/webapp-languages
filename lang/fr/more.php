@@ -5,8 +5,6 @@ return [
     'auth-password'  => 'Mot de passe',
     'auth-forgot-password'  => 'Mot de passe oublié ?',
     'auth-remember-me' => 'Se souvenir de moi',
-    'nav-dashboard' => 'Tableau de bord',
-    'nav-installation' => 'Installation',
     'all' => 'Tous',
     'pedestrian' => 'Piétons',
     'bike' => 'Deux-roues',
@@ -40,7 +38,6 @@ return [
     'set-position' => "Confirmez votre position en sélectionnant l'icône de la caméra verte, qui correspond au côté de la bande de circulation de votre Telraam.",
     'save-position' => 'Enregistrer position.',
     'check-for-telraam-data' => 'Contrôlez si des données sont correctement assimilées par la Telraam',
-    'camera-not-found' => "La caméra n'a pas encore été trouvée",
     'camera-is-set-up' => 'La camera est installée',
     'camera-is-set-up-but-no-data' => '<strong>La camera est installée, mais ne reçoit pas encore de données.</strong> <br>En cas de succès, au bout de 20 minutes maximum, vous recevrez le message que votre appareil envoie effectivement des données. Si cela prend plus de temps, c\'est que quelque chose a mal tourné. <a href=https://faq-fr.telraam.net/article/189/mon-telraam-ne-compte-pas-encore target=_blank>Essayez les étapes suivantes</a>',
 
@@ -74,10 +71,6 @@ la mobilité et la sécurité routière, car elle est considérée comme représ
     'timerangetoolong1month'    => 'L\'écart entre les deux dates est trop grand. Le maximum est d\'un mois.',
     'timerangetoolong14days'    => 'L\'écart entre les deux dates est trop grand. Le maximum est de deux semaines sur la page publique.',
 
-    // 17 mei
-    'no-callibration' => 'Le rapport entre la voiture et les gros véhicules n\'est pas correct? Veuillez être patient, Telraam a besoin de temps pour se
- calibrer. <a href="https://faq-fr.telraam.net/article/159/le-calibrage-de-votre-telraam">Faq article</a>',
-
     // 7 juni location detail
     'header-data'           => 'Data',
     'header-ranking'        => 'Ranking',
@@ -89,8 +82,6 @@ la mobilité et la sécurité routière, car elle est considérée comme représ
     'weekdays-only' => 'Jours de semaine uniquement',
     'weekend-only'  => 'Week-ends uniquement',
     'show-together' => 'Jours de semaine et week-ends',
-    'date-from'     => 'De',
-    'date-to'       => 'à',
     'update'        => 'Actualiser',
     'km-hour-unit'  => 'km/h',
 

@@ -3,7 +3,6 @@
 return [
 
     'title' => 'Editeer gegevens van je gebruikers account',
-    'account-info' => 'Account info',
     'language' => 'Taal',
     'your-installed-camera' => 'Uw geïnstalleerde camera',
     'no-installed-camera' => 'Gebruiker heeft nog geen Telraam camera geïnstalleerd',
@@ -19,7 +18,6 @@ return [
     'button' => 'Update',
 
     // delete
-    'i-want-to-be-removed-title' => 'Verwijder mij volledig als gebruiker',
     'i-want-to-be-removed-content' => 'Een gebruiker die verwijderd is zal in de toekomst niet meer kunnen inloggen. Aangezien onze datasets sommige datasets openbaar en open zijn, blijven ook uw historische gegevens beschikbaar als openbaar goed.',
     'i-want-to-be-removed-warning' => 'Zodra uw gebruikersaccount is verwijderd, kan Telraam uw gegevens niet meer herstellen.',
     'label-delete-form' => 'Ter controle typt u hieronder "Verwijder mijn account"',

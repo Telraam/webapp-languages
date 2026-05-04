@@ -6,9 +6,7 @@ return [
     'intro'            => 'Il existe deux manières d\'obtenir un capteur Telraam prêt à être utilisé. Sélectionnez l\'option qui vous convient.',
     'option-1'         => 'Je me suis inscrit à un atelier',
     'option-2'         => 'Je commande un package en ligne et/ou je l\'assemble moi-même',
-    'skip'             => 'J\'ai déjà touts les composants',
     'save'             => 'Confirmer et continuer',
-    'assembly-save' => 'D\'accord, terminé',
 
       /* NEW */
     'selection-selected' => 'Bienvenue dans l\'inscription Telraam ! Félicitations, vous avez été sélectionné et vous avez déjà reçu votre capteur. Passez à l\'étape suivante.',

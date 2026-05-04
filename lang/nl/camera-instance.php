@@ -11,7 +11,6 @@ return [
     'btn-new-mac' => 'Een nieuw toestel ontvangen',
 
     'btn-edit-address' => 'Wijzig huidig adres (bv. typo)',
-    'btn-new-address' => 'Ik wil tellen op een nieuw adres',
 
 
     'title-edit-address' => 'Uw huidig adres:',
@@ -27,20 +26,11 @@ Dit bevat 15 cijfers en 2 validatietekens.<br> <a href="https://faq-nl.telraam.n
 
     // page serial number /new-serial-number
     'title-new-mac' => 'Je hebt een nieuw Telraam-toestel ontvangen?',
-    'info-serial-extensive-with-new-device' => 'Elke Telraam heeft een uniek serienummer. Bij het opstarten van uw Telraam kunt u uw serienummer vinden op  <a href="http://my.telraam.net">my.telraam.net</a>. Het bevat 15 nummers. De twee extra karakters functioneren als controlekarakters.',
 
     // move to new segment
     'title-moved-to-new-position' => 'Verplaats naar een nieuwe positie:',
     'info-new-position' => 'U wilt uw oude gegevens bewaren waar ze zijn, maar onlangs is uw Telraam naar een andere plaats verhuisd?',
     'btn-header-start-new-location' => 'Start nieuwe setup',
-
-    // modal
-    'modal-are-you-sure-title' => 'Weet u zeker dat u een nieuwe installatie wilt starten?',
-    'modal-are-you-sure-body' => 'Het creëren van een nieuwe setup-locatie betekent dat u de setup-stappen opnieuw moet doorlopen.<br>
-    Wanneer u de camera op een nieuwe locatie wilt plaatsen, is dit de juiste manier om te gaan..<br> <br>
-     Als u echter een huidige positie of informatie van de huidige setup wilt wijzigen, bijvoorbeeld vanwege een fout, bewerk dan de bestaande instantie.',
-    'btn-start-new'     => 'Start nieuwe setup',
-    'btn-cancel'        => 'Oh nee, wijzig',
 
     // via admin pages
     'no-segment-selected-yet' => 'Nog geen straatsegment geselecteerd',
@@ -59,8 +49,6 @@ Met het kiezen van een nieuwe positie zullen je gegevens verplaatst worden naar 
 
     'info-new-camera-title' => 'Nieuw toestel',
     'info-new-camera-info' => 'Je hebt een nieuwe toestel ontvangen en wil deze installeren op je huidige locatie?',
-    'info-new-camera-btn-cancel' => 'Annuleer',
-    'info-new-camera-btn-ok' => 'Bevestig',
     'info-new-camera-btn-new-v1' => 'Ik heb een nieuwe v1',
     'info-new-camera-btn-new-S2' => 'Ik heb een nieuwe S2',
 

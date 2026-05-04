@@ -10,7 +10,7 @@ return [
     'section1-block1-text'        => '<p>Telraam est le fruit de deux organisations basées à Louvain (BE) :
 <a href="https://www.tmleuven.be/" target="_blank">Transport & Mobility Leuven (TML)</a>, un cabinet de conseil en ingénierie du trafic, et <a href="https://www.mobiel21.be/" target="_blank">Mobiel21</a>, une ONG axée sur la participation citoyenne dans le domaine de la mobilité .<p>
 
-<p>Inspirés par le succès des projets de science citoyenne dans des domaines tels que la qualité de l’air, nous nous sommes dit : pourquoi ne pas faire de même pour les données  de comptage de trafic ?
+<p>Inspirés par le succès des projets de science citoyenne dans des domaines tels que la qualité de l\'air, nous nous sommes dit : pourquoi ne pas faire de même pour les données  de comptage de trafic ?
  Ainsi, en 2019, nous avons commencé à développer <a href="https://telraam.net/en/v1">un capteur simple</a>, avant de créer, en
 2023, <a href="https://telraam.net/en/S2">un capteur spécialement conçu</a> pour collecter des données avec les citoyens.</p>',
 
@@ -82,12 +82,6 @@ Grand amateur de vin, il ne manque jamais une occasion de partager une bonne his
     'role-laurens'  => 'Atelier-héros et ventes',
     'sentence-laurens'    => 'Laurens travaille au cœur de Telraam, accompagnant les futurs clients dans la recherche de solutions adaptées à leurs besoins, tout en restant en contact avec les utilisateurs finaux.
 Polyglotte, il aide à mettre en place des projets en néerlandais, anglais, français et allemand. Lorsqu\'il n\'est pas au bureau, vous pouvez le retrouver dans ses baskets ou en train de laisser libre cours à sa passion pour la cuisine en tant que chef amateur enthousiaste.',
-
-    'role-ana'     => 'Croissance internationale',
-    'sentence-ana' => 'Ana est enthousiaste à l\'idée de faire découvrir au monde le potentiel de Telraam. Parlant couramment
-    l\'anglais, le français, le portugais et l\'espagnol, elle est toujours prête à discuter les cultures,
-     les cuisines ou les entreprises SaaS. Pendant son temps libre, vous pouvez la trouver sur un tapis de yoga, une piste de
-     danse ou en train de faire preuve de créativité dans la cuisine!',
 
     'role-prashanth'        => 'Ingénieur en apprentissage automatique',
     'sentence-prashanth'    => 'Informaticien doué pour les technologies liées à l\'IA et au ML. Il adore apporter sa touche innovante aux méthodes existantes.

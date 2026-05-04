@@ -4,7 +4,6 @@ return [
 
     // tabs
     'header-general' => 'General Information',
-    'header-timeline' => 'What\'s happening',
     'header-apply' => 'Apply as candidate',
     'header-stats' => 'Data',
 
@@ -35,7 +34,6 @@ return [
     <br>Thanks to AI-driven technology and the unique deployment-model of <a href="https://www.telraam.net/en/S2">Telraam devices</a>, we provide an alternative, cost-efficient, multi-modal counting method that has been proven both <a href="https://github.com/Telraam/Telraam-S2/blob/main/count-performance-validation.md">accurate and precise</a> in a wide variety of conditions.<br>
     <br>Telraam offers a Network subscription for organisations running multiple devices, such as governments and authorities from local to national level as well as activist groups. By deploying a finely meshed network of Telraam devices powered by citizen science, the traffic counting process can be much improved, gathering multi-modal data on a continuous basis, while reducing the costs.',
 
-    'section2-small-title' => 'How does it work?',
     'section2-block1-title' => 'A comprehensive project solution',
     'section2-block1-text' => 'A Network subscription provides the necessary management and data-analytics tools needed throughout the lifetime of a project. It includes administrative tools to plan, deploy, and manage a network of Telraam devices hosted by private citizens over longer periods (usually 6-12 months), and data analytics tools to monitor and analyse traffic on both street-segment and network level. <br>
     <br>Real-time and historical data can be assessed and analysed any time, or it can be exported for off-line analysis. Support is provided by the Telraam team throughout the process, from start to finish.',

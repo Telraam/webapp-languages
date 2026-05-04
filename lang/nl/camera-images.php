@@ -2,12 +2,6 @@
 
 return [
     'nav-title'                 => 'Camera beelden',
-    'no-image-available'        => 'Geen beelden beschikbaar',
-    'no-images-available'       => 'Nog geen beelden beschikbaar',
-    'no-images-available-advice' => 'Zorg ervoor dat de laatste versie van de Telraam software is geïnstalleerd op je Telraam en dat de "images" instelling vervolgens is aangevinkt tijdens de nieuwe installatie. Hoe doe je dat?',
-
-    'no-images-available-info' => '<ol><li>Download <a href="https://telraam-api.net/telraam-sd-image.zip">de laatste software</a></li><li>Installeer deze software op je Telraam: <a href="https://faq-nl.telraam.net/article/136/de-telraam-software-zelf-updaten">Telraam zelf updaten</a></li></ol>',
-    'date-image'        => 'Datum beeld',
     'last-camera-image' => 'Laatste camera beeld',
     'last-days'         => 'Laatste dagen',
     'camera-images'     => 'Camera beeld(en)',
@@ -17,8 +11,6 @@ return [
     'what-are-the-camera-images' => 'De camerabeelden zijn achtergrondbeelden die naar onze server worden gestuurd om te controleren of uw camerapositie nog in orde is.
     Een beeld wordt verstuurd na het opstarten van uw Telraam en eenmaal per dag als uw Telraam in werking is. <br>
     <a href="https://faq.telraam.net/article/30/background-image">Lees meer info op onze faq</a>',
-    'not-receiving-data'         => 'Het lijkt erop dat we op dit moment (nog) geen gegevens van uw Telraam ontvangen.',
-
     'software-version' => 'Softwareversie geïnstalleerd toestel',
 
     // S2 ROI
@@ -43,7 +35,6 @@ nadat het initiële interessegebied (ROI) automatisch door de camera of handmati
     <a href="https://faq.telraam.net/article/30/background-image-">Lees meer info op onze faq</a>',
 
     'roi-set-to' => 'Roi vastgezet n',
-    'on' => 'op',
 
     'device-not-available-for-roi' => 'Het toestel is op dit moment niet online. Probeer later opnieuw',
 ];

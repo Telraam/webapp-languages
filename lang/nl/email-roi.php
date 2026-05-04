@@ -2,7 +2,6 @@
 
 return [
 
-    'subject'        => 'Uw S2-toestel werkt het best als u een interessegebied instelt',
     'addressing' => 'Beste',
     'body' => "U heeft met succes een Telraam S2 toestel geïnstalleerd. Prima!<br><br>
      Maar om ervoor te zorgen dat het toestel nauwkeurig telt, willen we u vragen het beste interessegebied (ROI) voor uw camera te selecteren.<br><br>

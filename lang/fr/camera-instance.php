@@ -11,7 +11,6 @@ return [
     'btn-new-mac' => 'A reçu un nouvel appareil',
 
     'btn-edit-address' => "Modifier l'adresse actuelle (p.e. une faute de frappe)",
-    'btn-new-address' => 'Vous voulez commencer à compter sur une nouvelle adresse',
 
 
     'title-edit-address' => 'Votre adresse actuelle:',
@@ -28,21 +27,12 @@ Le numéro de série contient 15 chiffres et 2 caractères de validation.<br> <a
 
     // page serial number /new-serial-number
     'title-new-mac' => 'Avez-vous reçu un nouvel appareil ?',
-    'info-serial-extensive-with-new-device' => 'Chaque Telraam a un numéro de série unique. Lors du démarrage de votre Telraam, vous pouvez trouver votre numéro de série sur <a href="http://my.telraam.net">my.telraam.net</a>.  Il contient 15 numéros. Les deux caractères supplémentaires fonctionnent comme des caractères de contrôle. ',
 
     // move to new segment
     'title-moved-to-new-position' => 'Passer à un nouveau poste:',
     'info-new-position' => 'Vous souhaitez conserver vos anciennes données là où elles se trouvent, mais vous avez récemment déplacé votre
     Telraam ailleurs ?',
     'btn-header-start-new-location' => 'Démarrer une nouvelle installation',
-
-    // modal
-    'modal-are-you-sure-title' => 'Vous êtes sûr de vouloir commencer une nouvelle installation ?',
-    'modal-are-you-sure-body' => "Créer un nouveau point d\'installation signifie que vous devrez refaire toutes les étapes de configuration.<br>
-    Si vous souhaitez repositionner la caméra à un nouvel emplacement, c'est la procédure à suivre.<br> <br>
-     Cependant, si vous souhaitez modifier les informations de l\'installation actuelle (par exemple, en raison d'une erreur), il est préférable d\'éditer l'instance existante.",
-    'btn-start-new'     => 'Démarrer une nouvelle installation',
-    'btn-cancel'        => 'Oh non, éditer.',
 
     // via admin pages
     'no-segment-selected-yet' => "Aucun segment de rue n'a encore été sélectionné",
@@ -61,8 +51,6 @@ En choisissant une nouvelle position, vos données seront déplacées vers ce no
 
     'info-new-camera-title' => 'Nouveau Telraam',
     'info-new-camera-info' => 'Vous avez reçu un nouveau capteur Telraam et souhaitez l\'installer à votre emplacement actuel ?',
-    'info-new-camera-btn-cancel' => 'Annuler',
-    'info-new-camera-btn-ok' => 'Confirmer',
     'info-new-camera-btn-new-v1' => 'J\'ai un nouveau capteur v1',
     'info-new-camera-btn-new-S2' => 'J\'ai un nouveau capteur S2',
 

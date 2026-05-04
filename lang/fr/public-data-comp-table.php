@@ -17,9 +17,6 @@ return [
     'public-feat-3' => 'Aperçus quotidiens et horaires, vitesse, répartition modale',
     'public-feat-4' => 'Classement',
 
-    'sub-title' => 'Obtenez un aperçu direct de la circulation dans votre rue.<br>
-Recevez les comptages de voitures, vélos, piétons, poids lourds et plus encore !',
-
     'dashboard-feat-1' => 'Sélection flexible des dates de la plage de données',
     'dashboard-feat-2' => 'Rapport mensuel de circulation',
     'dashboard-feat-3' => 'Export de données brutes',

@@ -14,7 +14,7 @@ return [
     'val-block-1-title' => 'Côté proche',
     'val-block-1-info' => 'Mon Telraam S2 Outdoor peut-il détecter les objets du côté proche?',
 
-    'val-block-1-good-title' => 'Distance d’au moins 2 m ET angle vers le côté le plus proche de la zone de surveillance d’au moins 20°',
+    'val-block-1-good-title' => 'Distance d\'au moins 2 m ET angle vers le côté le plus proche de la zone de surveillance d\'au moins 20°',
     'val-block-1-good-info' => 'Tous les objets du côté proche sont dans le champ de vision et reconnaissables.',
 
     'val-block-1-poor-title' => 'Distance inférieure à 1 m OU angle inférieur à 10°',
@@ -51,7 +51,7 @@ return [
     'val-block-4-info' => 'Mon Telraam S2 Outdoor est-il installé assez haut?',
 
     'val-block-4-good-title' => 'Installation au-delà de 3 m',
-    'val-block-4-good-info' => 'Bien hors de portée; à cette hauteur, il faut une action délibérée et du matériel pour retirer ou endommager l’appareil.',
+    'val-block-4-good-info' => 'Bien hors de portée; à cette hauteur, il faut une action délibérée et du matériel pour retirer ou endommager l\'appareil.',
 
     'val-block-4-bad-title' => 'Installation en dessous de 3 m',
     'val-block-4-bad-info' => 'Trop bas ; votre Telraam S2 Outdoor est facilement vulnérable au vandalisme.',

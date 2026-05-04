@@ -21,7 +21,6 @@ return [
 
     'som-gotron-title' => 'Bestel een Telraam online',
     'som-gotron-text' => 'Ik wil het Telraam-toestel bestellen bij <a href="https://telraam.net/nl/shop" target="blanco">de Telraam shop</a>',
-    'som-gotron-order-link' => 'https://telraam.net/nl/shop',
 
 
      /* van instelling stap 1 met enkele updates*/

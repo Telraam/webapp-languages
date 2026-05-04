@@ -6,19 +6,6 @@ return [
     'sub-title' => 'Krijg inzicht in het verkeer in jouw straat.<br>
 Verzamel data over het aantal auto’s, fietsen, voetgangers, zware voertuigen en meer!',
 
-    // pricing box
-    'pricing-1-title' => 'Premium abonnement <span class="green">€15 <span class="month">/ maand</span>',
-    'pricing-1-subtitle' => 'Inclusief de 10 soorten weggebruikers, dataresolutie van 15 minuten, meer tools en betere rapporten',
-    'pricing-1-info' => 'Wil je meerdere Telramen installeren? Of toegang krijgen tot data van bestaande Telramen?
-                            <div style="padding-left: 20px">
-                                Overweeg het <a href="../en/network">Netwerk</a> abonnement.
-                                Dit omvat een Premium-abonnement voor alle Telramen die je bezit, een uitgebreide set netwerkbeheertools,
-                                en toegang tot de <a href="../en/data-pool">Data Pool-functie</a>.
-                            </div>',
-
-    'pricing-2-title' => 'Basic <span class="green">Gratis voor persoonlijk gebruik</span>',
-    'pricing-2-subtitle' => 'Beperkt tot de 4 standaard modi en uurlijkse data.',
-
     // tab titles
     'tab-1-title' => 'Publieke pagina',
     'tab-2-title' => 'Persoonlijk dashboard',
@@ -39,7 +26,6 @@ Als het Telraam een premium of netwerk abonnement heeft, zijn extra functies zoa
 
     // tab C advanced info
     'section-advanced-big-title' => 'Monitor live verkeer bijna in real-time, detecteer afwijkingen, ontdek trends en krijg je tellingen over 10 verschillende modi om moeiteloos geïnformeerde beslissingen te nemen met uitgebreide data.',
-    'section-advanced-intro' => 'Premium-abonnees krijgen toegang tot tellingen met vier keer hogere tijdsresolutie dan onze basisdataset, en een uitgebreidere set weggebruikerscategorieën bij het bekijken van modal shares. Deze hogere resolutie betekent ook een veel lagere vertraging, waarmee professionele gebruikers live verkeersdata bijna in real-time kunnen volgen.',
 
     'section-advanced-block1' => '<strong>15 minuten resolutie</strong><br>
     <br>

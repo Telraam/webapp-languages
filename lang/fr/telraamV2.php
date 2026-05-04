@@ -10,8 +10,6 @@ return [
     <p><strong>Suivez plusieurs modalités simultanément</strong> avec le S2 pour observer l\'impact des interventions ou des évolutions des habitudes locales.</p>',
     'section1-block2-text'        => '<p>Apprenez-en plus sur les fonctionnalités du Telraam S2 ci-dessous, découvrez les offres disponibles et contactez-nous pour trouver la solution idéale adaptéee à vos besoins.</p>',
 
-    'section-features-title'       => 'Fonctionnalités',
-
     'section-features-block1-title'  => 'Multimodal',
     'section-features-block1-subtitle'     => 'Les rues ne sont pas réservées aux voitures',
     'section-features-block1-body'     => '<p>Le capteur Telraam S2 compte, catégorise et enregistre toute activité dans les rues : voitures, vélos, piétons, bus, camions et bien plus encore.</p><p> Obtenez une image précise des usagers de la rue, identifiez les tendances et les anomalies, et commencez à engager des discussions basées sur des données concrètes concernant le trafic et la mobilité locale.',
@@ -61,10 +59,6 @@ Actuellement, nos efforts se concentrent sur l\'amélioration de la connectivit�
     'section-features-block7-body-extra' => 'Pour consulter l\'historique complet des mises à jour du micrologiciel, rendez-vous sur le <a href="https://github.com/Telraam/Telraam-S2/blob/main/changelog_NRF.md" target="_blank">NRF changelog</a> et le
 <a href="https://github.com/Telraam/Telraam-S2/blob/main/changelog_K210.md"  target="_blank">K210 changelog</a>.',
 
-    'section-features-block8-title' => 'Faites la différence !',
-    'section-features-block8-subtitle'     => 'Une solution pour chaque rue',
-    'section-features-block8-body' => '<p>Que vous soyez un particulier souhaitant obtenir des données pour votre rue ou un professionnel cherchant à mettre en place un réseau à l\'échelle d’une ville, Telraam est là pour vous aider. Chaque capteur est prêt à compter. Nos offres incluent des outils pour créer et gérer des réseaux locaux, qu\'il s\'agisse d\'un quartier ou d\'une métropole. Découvrez ci-dessous les options qui vous conviennent le mieux pour vous lancer.</p>',
-
     // tech table
     'spec-table-title' => 'Spécifications techniques',
 
@@ -92,14 +86,6 @@ Actuellement, nos efforts se concentrent sur l\'amélioration de la connectivit�
     'spec-table-row-8-subject'     => 'Inclus',
     'spec-table-row-8-details' => 'Câble USB-C<br> Adaptateur',
 
-
-    // pricing
-    // pricing content in sep. lang file
-    'section-features-block-pricing'  => 'Prix',
-
-    // modal
-    'modal-title'    => 'Recevez les dernières actualités sur Telraam S2',
-    'modal-body'    => 'Veuillez remplir ce court formulaire et un membre de l\'équipe Telraam vous contactera.',
 
     // individual package promo
     'section-package-title' => 'Besoin de données sur le trafic dans votre rue ?',

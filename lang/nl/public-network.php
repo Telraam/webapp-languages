@@ -4,7 +4,6 @@ return [
 
     // tabs
     'header-general' => 'Algemeen',
-    'header-timeline' => 'Wat gebeurt er?',
     'header-apply' => 'Stel je kandidaat',
 
     // timeline
@@ -35,7 +34,6 @@ return [
     <br>Dankzij AI-gestuurde technologie en het unieke model van <a href="https://www.telraam.net/nl/S2">Telraam-sensoren</a>, bieden we een alternatieve, kostenefficiënte, multimodale telmethode die zowel <a href="https://github.com/Telraam/Telraam-S2/blob/main/count-performance-validation.md">nauwkeurig</a> als stabiel is gebleken onder uiteenlopende omstandigheden.<br>
     <br>Telraam biedt een netwerkabonnement voor organisaties die meerdere apparaten gebruiken, zoals bovenlokale overheden, lokale besturen en burgergroeperingen. Door het inzetten van een fijnmazig netwerk van Telraam-sensoren, dankzij citizen science, kan het proces van verkeerstellingen sterk worden verbeterd, waarbij multimodale gegevens op een continue basis worden verzameld, terwijl de kost wordt gereduceerd.',
 
-    'section2-small-title' => 'Hoe werkt het?',
     'section2-block1-title' => 'Een complete projectoplossing',
     'section2-block1-text' => 'Een netwerkabonnement levert de nodige tools voor het beheer en de gegevensanalyse noodzakelijk tijdens de looptijd van een project.
 Het omvat administratieve tools voor het plannen, implementeren en beheren van een netwerk van Telraam-sensoren, die door particulieren voor langere perioden (meestal 6-12 maanden) worden geïnstalleeerd.

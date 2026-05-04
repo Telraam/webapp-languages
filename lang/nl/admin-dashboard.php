@@ -1,8 +1,6 @@
 <?php
 
 return [
-    'nav-title'                 => 'Dashboard',
-    'title'                     => 'Dashboard',
     'setup-first'               => 'Je dient de installatieprocedure nog te doorlopen.',
     'overview'                  => 'Overzicht laatste 7 dagen',
     'overview-current'          => 'Actuele status',
@@ -10,7 +8,6 @@ return [
 
     'no-data'                   => 'Nog geen gegevens beschikbaar',
     'camera-position'           => 'Camerapositie',
-    'network'                   => 'Netwerk',
     'visualisation-more'        => 'Vind meer visualisaties op de ',
     'visualisation-info-1'    => 'De telgegevens van jouw straat worden overzichtelijk gepubliceerd op ',
     'visualisation-info-2'    => 'Aarzal niet om ze te delen!',
@@ -18,7 +15,6 @@ return [
     'visualisation-info-4'    => 'onder het tabblad Rapport',
 
 
-     'camera-status'            => 'Camerastatus',
      'please-complete'          => 'Gelieve de installatieprocedure eerst te vervolledigen',
     'setup-status'              => 'Setup Status',
     'status-done'              => 'Je hebt de installatieprocedure doorgelopen',
@@ -41,9 +37,7 @@ return [
      'is-not-counting-link-s2'        => '<a href="https://faq-nl.telraam.net/article/207/probleemoplossing-met-de-s2" target="_blank">Troubleshooting</a>',
 
 
-    'software-version'              => 'Telraam versie',
     'software-up-to-date'           => 'Je telraam software is up to date. Je telraam beschikt over versie 10.' ,
-    'software-not-up-to-date'        => 'Er is een update (V10) beschikbaar voor uw telraam',
     'software-might-not-up-to-date'  => 'We konden nog niet verifiëren of je Telraam over de laatste software versie (V10) beschikt.',
 
     'software-update-read-more'     => '<a href="https://faq-nl.telraam.net/article/136/de-telraam-software-zelf-updaten">Telraam zelf updaten</a>',

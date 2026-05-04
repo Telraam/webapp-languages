@@ -52,7 +52,7 @@ Nous voulons conserver la simplicité de l\'installation, donc pas de câbles d\
 
     'section-more-block-1-title' => 'Faible consommation d\'énergie',
     'section-more-block-1-body' => 'Telraam S2 et donc Telraam S2 Outdoor ont été conçu pour utiliser très peu d\'énergie. L\'unité extérieure consomme moins de 0,8W et peut facilement être alimentée par des connexions existantes si nécessaire.
-L’unité extérieure Telraam fonctionne en courant continu (DC). Un convertisseur DC intégré nécessite seulement une alimentation de 12-24V.',
+L\'unité extérieure Telraam fonctionne en courant continu (DC). Un convertisseur DC intégré nécessite seulement une alimentation de 12-24V.',
 
     'section-more-block-2-title' => 'Multimodal',
     'section-more-block-2-body' => 'Les deux capteurs Telraam S2 comptabilisent, catégorisent et rapportent toute l\'activité dans la rue : voitures, vélos, piétons, bus, camions, etc.

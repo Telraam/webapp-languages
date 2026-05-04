@@ -40,6 +40,5 @@ en France ;</li>
 <li>Visites fréquentes au siège de Telraam à Louvain, Belgique.</li>
 </ul>',
 
-    'closing' => 'Geïnteresseerd? <a mailto:jobs@telraam.net>jobs@telraam.net</a>'
 
 ];

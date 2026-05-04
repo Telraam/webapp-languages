@@ -18,10 +18,6 @@ return [
     'public-feat-4' => 'Ranking',
 
 
-    'sub-title' => 'Get instant insights into your streets’ traffic.<br>
-Get car, bike, pedestrian, heavy vehicle counts and more!',
-
-
     'dashboard-feat-1' => 'Flexible data range selection',
     'dashboard-feat-2' => 'Monthly traffic report',
     'dashboard-feat-3' => 'Export raw data',

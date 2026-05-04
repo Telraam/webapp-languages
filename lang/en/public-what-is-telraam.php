@@ -37,12 +37,9 @@ Involving citizens and publishing open data brings researchers and policy makers
 
 // testimonials
     'quote1' => 'By analysing the V85 standard, we get an indication of the best times for performing speed checks. These checks are used to achieve a change in the behaviour of the road users.',
-    'quote1-author' => 'David Tailleur',
     'quote2-function' => 'Teamcoach wijkwerking Politiezone Lubbeek ',
 
     'quote2' => 'Telraam provides not only insights through data but also understanding through interaction with residents, and the local and provincial governments.',
-    'quote2-author' => 'Eric van Dijk',
-    'quote2-function' => 'Beleidsmedewerker smart mobility, Province of Utrecht',
 
     'section3-block0-title' => 'Join the count!', // title on top of the video
 
@@ -62,15 +59,6 @@ Telraam devices can be set up by citizens on their individual streets, or by loc
 Once connected, you don’t need to do anything, just watch the counts as they happen.<br>
 <br>
 The Telraam S2 has a low resolution camera (for privacy), an AI chip for detecting and categorising street users, and a built in mobile data connection that relays aggregated, anonymous data to the Telraam servers. The device simply needs to be powered and mounted on the inside of an upper-floor window with an unobstructed view over the street.',
-
-    'section3-block3-title' => 'Make your view count',
-    'section3-block3-text' => 'Ready to start collecting your own data? Read our <a href="/en/self-measure">Start counting</a> guide to see
-    how easy it is to get going, and how to set up your own counting network.<br>
-<br>
-In no time you will have a detailed insight report on all the activity on your street, neighbourhood or city.<br>
-<br>
-It’s your view. Make it count! <br>
-<a href="/en/data-subscription">Read more about the S2 data and reports</a>',
 
     // Make your view count
     'make-view-count-title' => 'How can I get Telraam devices on the streets near me?',
@@ -123,9 +111,6 @@ It’s your view. Make it count! <br>
     'methodology-item-B' => 'Mobility professionals and local authorities analyse the data to understand the local traffic and propose solutions to specific issues',
     'methodology-item-C' => 'Citizens and professionals work together to review the data and co-design ways to implement better traffic management plans',
     'methodology-item-D' => 'Telraam sensors can be used further to monitor, evaluate, and adjust the implemented changes',
-
-    'methodology-part-3' => '<p>As an interested individual you can have your own personal Telraam sensor and analyse your own data, but the data that your sensor collects is also made available to everyone else as Open Data via the Telraam API.</p>',
-
 
     // Why Citizen Science?
     'cit-science-title' => 'Why Citizen Science?',

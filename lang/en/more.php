@@ -5,8 +5,6 @@ return [
     'auth-password'  => 'Password',
     'auth-forgot-password'  => 'Forgot Password?',
     'auth-remember-me' => 'Remember me',
-    'nav-dashboard' => 'Dashboard',
-    'nav-installation' => 'Installation',
     'all' => 'All',
     'pedestrian' => 'Pedestrians',
     'bike' => 'Two-wheelers',
@@ -40,7 +38,6 @@ return [
     'set-position' => ' Confirm your positon by selecting the green camera icon corresponding with the side of the road of your Telraam.',
     'save-position' => 'Save position.',
     'check-for-telraam-data' => 'We are checking whether Telraam is receiving data from your camera',
-    'camera-not-found' => 'Camera not found',
     'camera-is-set-up' => 'Camera has been installed',
     'camera-is-set-up-but-no-data' => '<strong>Camera was installed, but no data received yet.</strong> <br>If successful, after no more than 20 minutes you\'ll receive a message here that data is indeed received and your sensor is installed. If it takes longer, something went wrong.
     <a href=https://faq.telraam.net/article/49/no-data-is-coming-from-my-telraam-yet target=_blank>Try these steps</a>',
@@ -75,9 +72,6 @@ return [
     'timerangetoolong1month' => 'The difference between the two dates is too long. The maximum is one months.',
     'timerangetoolong14days' => 'The difference between the two dates is too long. The maximum is two weeks on the public page.',
 
-    // 17 mei
-    'no-callibration' => 'Ratio auto/large vehicles not correct? Be patient, Telraam needs time to calibrate itself. <a href="https://faq.telraam.net/article/20/telraam-calibration-and-the-ratio-auto-large-vehicles">Faq article</a>',
-
     // 7 juni location detail
     'header-data' => 'Data',
     'header-ranking' => 'Ranking',
@@ -88,8 +82,6 @@ return [
     'weekdays-only' => 'Weekdays only',
     'weekend-only'  =>  'Weekend only',
     'show-together' => 'Weekend vs. Weekdays',
-    'date-from' => 'Date From',
-    'date-to' => 'Date To',
     'update'    => 'Update',
     'km-hour-unit' => 'km/h',
 

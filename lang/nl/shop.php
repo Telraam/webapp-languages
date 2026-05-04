@@ -89,30 +89,18 @@ Bekijk de  <a href="https://faq-nl.telraam.net/article/75/vereisten-voor-de-plaa
     'product-bracket-title' => 'Beugels',
     'product-bracket-description' => 'Extra beugel voor een Telraam S2 inclusief dubbelzijdige plakband',
     'product-bracket-price' => '€15',
-    'product-bracket-note' => 'incl. btw',
-    'product-bracket-link' => 'Kopen',
 
     // other / custom
     'custom-packages-title'    => 'Wilt u een pakket op maat of heeft u vragen ?',
     'custom-packages-intro'  => '<p> Wilt u meer sensoren met een Data abonnement, of wilt u met een groter netwerk starten? Neem met ons <a href="https://telraam.net/nl/contact-us">contact op</a> voor een offerte op maat en meer gedetailleerde informatie.
  We would love to hear from you.</p>',
 
- // personal
-    'personal-title' => 'Telraam S2 met gratis data',
-    'personal-intro-personal' => 'Met een premium abonnement krijg je toegang tot de uitgebreide data en ondersteun je de Telraam-gemeenschap.
-    Organisaties, steden of organisaties zijn verplicht om burgers een account met uitgebreide data aan te bieden.',
-
       // pricing
-    'per-device' => 'Per sensor',
     'device' => 'sensor',
     'incl-vat' => '(incl. BTW)',
-    'excl-vat' => '(excl. BTW)',
     'note-below-price' => '(excl. BTW, jaarlijks gefactureerd)',
     'one-time-hardware' => 'Eenmalige hardwarekosten',
     'month' => 'maand',
-    'subscription' => 'Abonnement',
-    'network-subscription' => 'netwerk abonnement',
-    'tailer-made' => 'oplossing op maat',
     'free' => 'Gratis',
     'make-private' => 'Maak de installatie privé',
     'make-private-info' => 'Sommige gebruikers of organisaties willen hun gegevens privé houden <a href="https://faq-nl.telraam.net/article/331/kan-ik-mijn-gegevens-prive-maken">Lees meer</a>'

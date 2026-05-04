@@ -10,8 +10,6 @@ return [
     <p><strong>Tel meerdere (10) modaliteiten tegelijk</strong> met Telraam S2 om het effect te zien van eventuele ingrepen of veranderingen in lokale gewoonten.</p>',
     'section1-block2-text'        => '<p>Lees hieronder meer over de functies van Telraam S2, bekijk de beschikbare opties en neem contact op met ons. Wij helpen je om de geschikte oplossing voor jouw behoeften te kiezen.</p>',
 
-    'section-features-title'       => 'Kenmerken',
-
     'section-features-block1-title'  => 'Multimodaal',
     'section-features-block1-subtitle'     => 'Straten zijn er niet enkel voor auto\'s',
     'section-features-block1-body'     => '<p>Het Telraam S2 toestel telt, categoriseert en geeft de drukte op straat weer: het aantal auto\'s, fietsen, voetgangers, bussen, vrachtwagens en meer.</p><p> Krijg een nauwkeurig beeld van wie de straat gebruikt, ontdek patronen en anomalieën en start zinvolle datagestuurde gesprekken over lokale verkeers- en mobiliteitsplannen.',
@@ -61,10 +59,6 @@ Momenteel ligt onze focus op het verbeteren van zowel de connectiviteit als de s
     'section-features-block7-body-extra' => 'Voor een volledige geschiedenis van firmware-updates zie de <a href="https://github.com/Telraam/Telraam-S2/blob/main/changelog_NRF.md" target="_blank">NRF changelog</a> en de
 <a href="https://github.com/Telraam/Telraam-S2/blob/main/changelog_K210.md"  target="_blank">K210 changelog</a>.',
 
-    'section-features-block8-title' => 'Tel mee!',
-    'section-features-block8-subtitle'     => 'Een oplossing voor elke straat',
-    'section-features-block8-body' => '<p>Of je nu een particulier bent die één toestel nodig heeft om het verkeer in eigen straat te meten, of een professional die een heel netwerk in zijn stad wil opzetten, Telraam is er om je te helpen. Je kan ook kiezen voor hulpmiddelen voor het bouwen en beheren van lokale netwerken, of het nu gaat om een kleine wijk of een metropool. Bekijk hieronder de optie die het beste bij jou past om aan de slag te gaan.</p>',
-
     // tech table
     'spec-table-title' => 'Technische specificaties',
 
@@ -92,14 +86,6 @@ Momenteel ligt onze focus op het verbeteren van zowel de connectiviteit als de s
     'spec-table-row-8-subject'     => 'Inclusief',
     'spec-table-row-8-details' => 'USB-C kabel<br> Adapter',
 
-
-    // pricing
-    // pricing content in sep. lang file
-    'section-features-block-pricing'  => 'Prijzen',
-
-    // modal
-    'modal-title'    => 'Meld je aan om de nieuwste Telraam S2 updates te ontvangen',
-    'modal-body'    => 'Vul dit formulier in en iemand van Telraam zal contact met je opnemen',
 
     // individual package promo
     'section-package-title' => 'Verkeersgegevens nodig voor jouw straat?',

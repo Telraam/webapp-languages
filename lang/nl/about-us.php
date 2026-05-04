@@ -73,11 +73,6 @@ Bent u op zoek naar een betaalbare, multimodale oplossing voor de verkeersmonito
     'role-laurens'  => 'Workshop-hero and sales',
     'sentence-laurens'    => 'Ondersteunt toekomstige klanten bij het vinden van oplossingen op maat voor hun use case. Dit terwijl hij contact onderhoudt met de eindgebruikers. Deze polyglot helpt bij het opzetten van projecten in het Nederlands, Engels, Frans en Duits. Wanneer hij niet op kantoor is, kan je Laurens vinden in zijn hardloopschoenen of in de keuken, als enthousiaste hobbykok.',
 
-    'role-ana'     => 'International Growth',
-    'sentence-ana'    => 'Ana wil graag de wereld kennis laten maken met het potentieel van Telraam. Ze spreekt vloeiend Engels,
-    Frans, Portugees en Spaans en staat altijd klaar voor een gezellig praatje over culturen, keukens of SaaS-bedrijven.
-In haar vrije tijd vindt u haar op de yogamat, dansvloer of creatief in de keuken!',
-
     'role-prashanth'        => 'Machine learning-ingenieur',
     'sentence-prashanth'    => 'Een computerwetenschapper met een talent voor technologieën op het gebied van AI en ML. Hij houdt ervan om zijn eigen innovatieve draai te geven aan bestaande methoden.
 Als hij niet bezig is met AI-modellen, kun je hem vinden achter zijn gameconsole of af en toe aan het hardlopen.',

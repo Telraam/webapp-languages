@@ -1,0 +1,42 @@
+<?php
+
+return [
+
+    'title'           => 'FAQ',
+
+    'question-1'           => 'Kann ich meinen Telraam V1 eintauschen und ein Telraam S2-Gerät zu einem reduzierten Preis erwerben?',
+    'answer-1'           => 'Nein. Aufgrund des technologischen Fortschritts, den das Telraam S2-Gerät gegenüber dem Telraam V1-Sensor bietet, können wir bestehenden Telraam V1-Besitzern keinen Eintauschrabatt auf neue Telraam S2-Käufe gewähren. Wenn Sie jedoch ein Telraam V1 besitzen, können Sie die Komponenten Ihres Geräts (Raspberry Pi 3A+-Computer und Raspberry Pi-Kameramodul) auf dem Hobbymarkt für Elektronik verkaufen, um den Preis eines neuen Telraam S2 teilweise zu finanzieren. Alternativ können Sie Ihre lokale Behörde dazu bewegen, ein neues, gefördertes Telraam-Projekt aufzusetzen und auf diesem Weg möglicherweise ein neues Telraam S2-Gerät zu erhalten. In der Zwischenzeit werden alle Telraam V1-Geräte weiterhin funktionieren, und Sie können auch in Zukunft Daten Ihres Telraam V1-Geräts im Telraam-Netzwerk einsehen. Allerdings werden keine weiteren Funktionserweiterungen für Telraam V1-Geräte bereitgestellt.',
+    'question-2'           => 'Welche Art von Daten werden von einem Telraam S2-Gerät gesendet?',
+    'answer-2' 			=> 'Datenschutz hat bei Telraam immer höchste Priorität. KI-basierte Bilderkennung und Objektverfolgung sind streng auf die Edge-Geräte beschränkt (d. h., sie finden auf dem Gerät selbst statt), und nur die resultierenden aggregierten Zähl- (und Geschwindigkeits-)daten werden alle 15 Minuten an den Telraam-Server gesendet. Da die Daten aggregiert werden, werden keine individuellen Objektparameter übertragen.',
+    'question-3'           => 'Welche Art von Netzwerkverbindung benötigt das Telraam S2 zum Senden von Daten?',
+    'answer-3' 			=> 'Unsere Telraam S2-Geräte verfügen über eine integrierte Thingstream-SIM-Karte, die eine energiesparende mobile Datenverbindung über das LTE-M- oder NB-IoT-Frequenzband des lokalen Mobilfunkanbieters bereitstellt. Während diese Technologien bereits nahezu weltweit verfügbar sind, empfehlen wir Ihnen, vor dem Kauf eines Telraam S2-Geräts die <a href="https://www.u-blox.com/en/iot-network-coverage" target="_blank">Netzabdeckungskarte</a> zu prüfen, um sicherzustellen, dass Ihr neuer Sensor Daten an die Telraam-Server senden kann. Das Telraam S2 benötigt keine WLAN-Verbindung, und es gibt keine Möglichkeit, WLAN anstelle der bereitgestellten mobilen Datenverbindung zu nutzen.',
+    'question-4'           => 'Welche Arten von Verkehrsteilnehmern kann das Telraam S2 erkennen?',
+    'answer-4' 			=> 'Der neue KI-Chip im Telraam S2 kann zwischen zehn Verkehrsarten unterscheiden: Fußgänger, Kinderwagen, Fahrräder, Motorräder, PKW, leichte Lastkraftwagen, Anhänger, LKW und Busse. Derzeit werden die Verkehrsdaten von Telraam S2-Geräten auf dieselbe Weise visualisiert wie die Daten von Telraam V1-Geräten: Zählungen werden in vier Kategorien aggregiert – Fußgänger, Zweiräder, PKW und Großfahrzeuge. Im Hintergrund werden für Telraam S2-Geräte bereits Daten für jede der zehn Kategorien gespeichert, und die Web-Oberfläche sowie die Verkehrs-API werden in naher Zukunft aktualisiert, um alle neuen Kategorien einzubeziehen.',
+    'question-5'           => 'Wie genau und präzise ist das Telraam S2?',
+    'answer-5' 			=> 'Die Genauigkeit und Präzision des Telraam S2 wird kontinuierlich validiert und dokumentiert. Unsere Dokumentationen umfassen <a href="https://github.com/Telraam/Telraam-S2/blob/main/count-performance-validation.md" target="_blank">Zählgenauigkeit</a>, <a href="https://github.com/Telraam/Telraam-S2/blob/main/count-consistency-validation.md" target="_blank">Zählpräzision</a> und <a href="https://faq.telraam.net/article/41/speed-measurements-with-telraam-s2" target="_blank">Geschwindigkeitsmessungen</a>. Generell liegt die aktuelle Tagesgenauigkeit für eine große Stichprobe an Teststandorten typischerweise bei 90–95 %, wobei Fußgänger in bestimmten Situationen deutlich schlechtere Werte aufweisen können. Präzision ist kein limitierender Faktor, da die Gerät-zu-Gerät-Streuung gering ist. Für optimale Leistung stellen Sie sicher, dass Ihr Telraam S2 an einem geeigneten Standort installiert ist (siehe „Wo kann ich ein Telraam S2 installieren?") und legen Sie während der Registrierung einen <a href="https://faq.telraam.net/article/66/region-of-interest-roi-and-roi-selection-with-telraam-s2" target="_blank">Interessensbereich (ROI)</a> fest.',
+    'question-7'           => 'Wo kann ich ein Telraam S2 installieren?',
+    'answer-7' 			=> 'Telraam S2-Geräte sollten installiert werden
+<ul class="jump-in">
+<li>in einem Fenster, das einen freien, ungehinderten Blick auf die gesamte Breite der darunterliegenden Straße bietet (keine großen Bäume, keine breiten Pfosten oder Geländer, kein ausgedehntes Straßeninventar im Sichtfeld)</li>
+<li>an einer Straße, die parallel zum Fenster verläuft, ohne Kreuzungen (Ecken, Kurven) im Blickfeld</li>
+<li>nicht im Erdgeschoss, damit das Gerät den Verkehr leicht von oben betrachten kann (das erste Obergeschoss ist in den meisten Fällen optimal; höhere Etagen können für sehr breite Straßen mit mehreren Fahrspuren geeignet sein, sodass der Verkehr in einem Winkel von 30–45 Grad gesehen wird).</li>
+</ul>
+<br>
+Einige Beispiele für gute und schlechte Standorte finden Sie in unserem FAQ-Artikel <a href="https://faq.telraam.net/article/3/requirements-for-the-installation-of-a-telraam-in-my-window"  target="_blank">Anforderungen für die Installation von Telraam an meinem Fenster</a>.',
+
+    'question-8'           => 'Kann ich den LCD-Bildschirm meines Telraam S2-Geräts ausschalten?',
+    'answer-8' 			=> 'Ja! Drücken Sie einfach die Taste, bis der Bildschirm dunkel wird. Keine Sorge, das Gerät zählt auch bei ausgeschaltetem Bildschirm weiter. Sie können den Bildschirm durch erneutes Drücken der Taste wieder aktivieren.',
+    'question-9'           => 'Mein Telraam S2 scheint einige Fahrzeuge zu übersehen. Was kann ich tun?',
+    'answer-9' 			=> 'Stellen Sie zunächst sicher, dass Ihr Telraam korrekt installiert ist, und legen Sie den Interessensbereich (ROI) fest, falls dies während der Installation nicht geschehen ist. Wenn Sie das bereits getan haben, prüfen Sie bitte, ob der gewählte Interessensbereich tatsächlich die gesamte Breite der Straße abdeckt. Selbst mit der besten Einstellung ist es oft nicht möglich, Fußgänger zu erkennen, die direkt unter dem Fenster gehen – erwarten Sie daher nicht, dass diese Verkehrsteilnehmer vom Telraam S2 gezählt werden. Wenn ein Bereich der Straße im Interessensbereich nicht sichtbar ist, werden dort vorbeigehende Verkehrsteilnehmer nicht gezählt. Ebenso wird Ihr Telraam Schwierigkeiten haben, einzelne Fußgänger zu zählen, die auf dem gegenüberliegenden Gehweg teilweise durch eine Baumreihe oder geparkte Autos verdeckt sind. Sehr dichte, große Gruppen von Fußgängern und Radfahrern sind aufgrund der technologischen Einschränkungen eines so kleinen Geräts ebenfalls schwierig präzise zu zählen. Wenn Sie der Meinung sind, dass Ihr Telraam auch nach Berücksichtigung aller oben genannten Faktoren genauer zählen sollte, können Sie jederzeit ein stabiles (nicht freihand aufgenommenes), hochauflösendes (mindestens 1080p), weitwinkeliges Video (sodass die gesamte Straßenoberfläche sichtbar ist) mit Ihrem Smartphone oder einer GoPro-Kamera mit 15 Minuten Verkehr vom Fenster aufnehmen, wo Ihr Telraam S2 installiert ist, und es uns zusenden. Wir können dieses Video verwenden, um zu verstehen, warum Ihr Gerät unterdurchschnittlich abschneidet, und möglicherweise dazu nutzen, unseren Erkennungsalgorithmus in der Zukunft zu verbessern.',
+
+    'text-final' 			=>'Wenn Sie noch spezifische Fragen haben, kontaktieren Sie uns gerne per E-Mail unter <a href="mailto:support@telraam.net"  target="_blank">support@telraam.net</a>',
+
+    'disclaimer' => 'Das Gerät wird mit einer SIM-Karte und einem Datenabonnement geliefert, das eine Verbindung zum LTE-M- oder NB-IoT-Mobilfunknetz herstellt. In einigen Ländern ist diese Kommunikationstechnologie noch nicht verfügbar. Wenn Sie unsicher sind, wenden Sie sich bitte an Ihren lokalen Anbieter.<br>
+<br>
+Das Gerät verfügt über eine CE-Zulassung sowie eine <a href="/downloads/FCC-certificate.pdf" target="_blank">FCC-Zulassung</a>.<br>
+<br>
+Das Gerät wird mit einer kleinen Halterung zur Montage am Fenster geliefert. Kleberückstände sind entfernbar.<br>',
+
+
+
+];

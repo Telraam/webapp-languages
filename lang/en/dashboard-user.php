@@ -19,7 +19,6 @@ return [
 
     'som-gotron-title' => 'Order a Telraam online',
     'som-gotron-text'  => 'I want to order the Telraam device at <a href="https://telraam.net/en/shop" target="blank">the Telraam shop</a>',
-    'som-gotron-order-link'  => 'https://telraam.net/en/shop',
 
 
     /* from setting step 1  with some updates*/

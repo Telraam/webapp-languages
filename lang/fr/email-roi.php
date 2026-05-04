@@ -1,7 +1,6 @@
 <?php
 
 return [
-    'subject'        => 'Votre capteur S2 fonctionne mieux si vous définissez une région d\'intérêt',
      'addressing' => 'Bonjour',
         'body' => "Vous avez installé avec succès un appareil Telraam S2. Merci !<br><br>
           Cependant, pour nous assurer que l'appareil compte avec précision, nous vous demandons de sélectionner la meilleure zone d'intérêt (ROI) pour votre caméra.<br><br>

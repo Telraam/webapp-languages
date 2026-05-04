@@ -3,7 +3,6 @@
 return [
     'nav-title'        => 'Voorbereiding',
     'title'            => 'Voorbereiding',
-    'intro'            => '',
     'subtitle-1' =>     'Welk raam kies je uit?',
     'to-do-list-1' => '<li>Een raam op de eerste verdieping of hoger, met een vrij zicht op de straat. Dat wil zeggen geen palen, geen hoge struiken, geen bomen voor het raam, die een volledig zicht belemmeren. Een rolluik kan enkel naar beneden indien het donker is, aangezien het Telraam bij duisternis niet telt. Een raam zonder vliegenraam, want dat hindert het zicht ook. </li>
 <li>Een raam met een stopcontact in de buurt (dat kan met verlengkabel).</li><li>Een raam in een ruimte waar een wifiverbinding is.</li>',
@@ -22,6 +21,5 @@ return [
   <a href="https://faq-nl.telraam.net/article/136/de-telraam-software-zelf-updaten">software dient te installeren/updaten</a>. Dit is meestal niet nodig.<br></li>
 ',
 
-    'btn-next' =>          'Ok, volgende',
     'accordion-tell-more' => 'Vertel meer hierover'
 ];

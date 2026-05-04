@@ -4,7 +4,7 @@ return [
     'title' => 'Prix',
     'subtitle'        => 'Options pour les citoyens et les professionnels pour mener des projets de mobilité.',
 
-    'general-intro' => 'Commencez avec un capteur et choisissez l\'abonnement qui correspond à vos besoins — qu’il s’agisse de données de trafic de base, d’analyses approfondies ou d’une solution en réseau complète. Explorez nos forfaits prêts à l’emploi ou personnalisez votre propre configuration.',
+    'general-intro' => 'Commencez avec un capteur et choisissez l\'abonnement qui correspond à vos besoins — qu\'il s\'agisse de données de trafic de base, d\'analyses approfondies ou d\'une solution en réseau complète. Explorez nos forfaits prêts à l\'emploi ou personnalisez votre propre configuration.',
 
  // pricing simple
     'device-title'        => 'Capteur',
@@ -39,7 +39,7 @@ return [
   'network-features-title'   => 'Tout ce qui est inclus dans le forfait Premium, plus :',
     'network-features-1'       => 'Installation de plusieurs capteurs',
     'network-features-3'       => 'Tableau de bord réseau avec tous les outils nécessaires pour gérer et suivre vos capteurs. Inclut également des rapports détaillés au niveau du réseau et de chaque capteur.',
-    'network-features-3-info'  => 'Gérez plusieurs capteurs et leurs données depuis un seul espace centralisé. Plus d’infos sur la <a href="https://telraam.net/en/network">page réseau</a>.',
+    'network-features-3-info'  => 'Gérez plusieurs capteurs et leurs données depuis un seul espace centralisé. Plus d\'infos sur la <a href="https://telraam.net/en/network">page réseau</a>.',
     'network-features-4'       => 'Accès aux données avancées pour tous les capteurs Telraams',
     'network-features-4-info'  => 'Les données avancées incluent 10 modes, une résolution de 15 minutes, des tendances de trafic typiques et plus encore.',
     'network-features-5'       => 'Support prioritaire',
@@ -80,31 +80,19 @@ return [
     'product-bracket-title' => 'Supports',
     'product-bracket-description' => 'Support supplémentaire pour le Telraam S2 avec ruban adhésif double face inclus',
     'product-bracket-price' => '€15',
-    'product-bracket-note' => 'TVA comprise',
-    'product-bracket-link' => 'Acheter',
 
     // other / custom
     'custom-packages-title' => 'Offre sur mesure ou des questions ?',
     'custom-packages-intro' => '<p>Besoin de plus d\'informations ou d\'un réseau plus étendu ? Veuillez <a href="https://telraam.net/en/contact-us">nous contacter</a> pour un devis personnalisé ou plus de détails. Nous serions ravis d\'en discuter avec vous.</p>',
 
-    // personal
-  'personal-title' => 'Telraam S2 avec données gratuites',
-    'personal-intro-personal' => 'Avec un abonnement Premium, vous accédez aux données avancées et soutenez la communauté Telraam.
-Les organisations, villes ou collectivités doivent offrir aux citoyens un compte avec accès aux données avancées.',
-
   // pricing
-    'per-device' => 'Par capteur',
     'device' => 'capteur',
     'incl-vat' => '(TTC)',
-    'excl-vat' => '(HT)',
     'note-below-price' => '(HT, facturé annuellement)',
     'one-time-hardware' => 'Coût unique du matériel',
     'month' => 'mois',
-    'subscription' => 'Abonnement',
-    'network-subscription' => 'Abonnement Réseau',
-    'tailer-made' => 'Solutions sur mesure',
     'free' => 'Gratuit',
-    'make-private' => 'Rendre l’installation privée',
+    'make-private' => 'Rendre l\'installation privée',
     'make-private-info' => 'Certains utilisateurs ou organisations peuvent souhaiter garder leurs données privées. <a href="https://faq-fr.telraam.net/article/332/puis-je-rendre-mes-donnees-privees">En savoir plus</a>'
 
 

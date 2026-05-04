@@ -17,7 +17,6 @@ return [
      'nav-about-us' => 'About Us',
      'nav-faq-support' => 'Faq & Support',
      'nav-contact-us' => 'Contact Us',
-     'nav-login' => 'Login',
      'nav-registrer' => 'Register',
 
     'seo-title-data' => 'Data',
@@ -26,7 +25,6 @@ return [
     'seo-title-pricing' => 'Prices & shop',
     'seo-title-browse-networks' => 'Check our networks',
     'seo-title-partners' => 'Partners',
-    'seo-title-press-kit' => 'Press',
     'seo-title-blog' => 'Blog',
     'seo-title-jobs' => 'Jobs',
     'seo-title-about-us' => 'About us',
@@ -57,16 +55,11 @@ return [
     'privacy-policy' => 'Privacy Policy',
     'cookie-policy' => 'Cookie Policy',
     'terms-of-use' => 'Terms of Use',
-    'manage-cookies' => 'Manage Cookies',
-
     /* 1 sept */
     'open-dashboard' => 'Open dashboard',
     'logout' => 'Logout',
     'login' => 'Login',
     'dashboard' => 'Dashboard',
-    'my-telraam' => 'My Telraam',
-    'street-profile' => 'Street profiel',
-    'reports' => 'Reports',
     'export' => 'Export'
 
 

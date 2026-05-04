@@ -6,19 +6,6 @@ return [
     'sub-title' => 'Get instant insights into your streets’ traffic.<br>
 Get car, bike, pedestrian, heavy vehicles count and more!',
 
-    // pricing box
-    'pricing-1-title' => 'Premium subscription <span class="green">€15 <span class="month">/ month</span>',
-    'pricing-1-subtitle' => 'Includes the 10 road user classes, 15 minute data resolution, more tools, and better reports',
-    'pricing-1-info' => 'Want to install multiple devices? Or get access to data from existing devices?
-                            <div style="padding-left: 20px">
-                                Consider the <a href="../en/network">Network</a> subscription.
-                                It includes a Premium subscription for all owned devices, a rich set of network-management tools,
-                                and access to the <a href="../en/data-pool">Data Pool feature</a>.
-                            </div>',
-
-    'pricing-2-title' => 'Basic <span class="green">Free for personal use only</span>',
-    'pricing-2-subtitle' => 'Limited to the 4 default modes and hourly data.',
-
     // tab titles
     'tab-1-title' => 'Public page',
     'tab-2-title' => 'Personal dashboard',
@@ -39,10 +26,6 @@ If the device has a premium or network subscription, additional features like li
 
     // tab C advanced info
     'section-advanced-big-title' => 'Monitor live traffic in near real-time, detect anomalies, uncover trends, and get your counts across 10 different modes to make informed decisions effortlessly with advanced data.',
-    'section-advanced-intro' => 'Premium subscribers get access to count data that has four times higher temporal
-    resolution than our basic dataset, and an extended set of road user
-    classes when looking at modal shares. This higher resolution also means a much
-    reduced delay which enables professional users to follow live traffic data in much more real-time.',
 
     'section-advanced-block1' => '<strong>15 minute resolution</strong><br>
     <br>

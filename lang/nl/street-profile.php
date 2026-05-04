@@ -66,8 +66,6 @@ return [
     'parking_lane_no'           => 'Geen parkeerstrook of -mogelijkheid aanwezig',
     'parking_lane_one_side'      => 'Parkeerstrook aanwezig aan één kant of wisselend van kant (geschrankt)',
     'parking_lane_both_sides'   => 'Parkeerstrook aanwezig aan beide kanten',
-    'parking_lane_more'         => 'Speciale situatie met bvb. een parkeerstrook in het midden of dwarsparkeren ',
-
     'bus_service_question'      => 'Rijdt er een <strong>buslijn</strong> in deze straat?',
     'bus_service_no_idea'       => 'Geen idee',
     'bus_service_yes'           => 'Buslijn aanwezig',
@@ -141,7 +139,6 @@ return [
     'in-a-radius-of'=> 'In omtrek van ',
 
     'ranking-title' => 'Hoe verhoudt het verkeer in deze straat zich ten opzichte van andere straten?',
-    'ranking-subtitle' => 'Selectie van de straten',
 
     'an-average-day-contains' => 'Een gemiddelde dag van deze straat bevat',
     'in-own-network-are' => 'In dit netwerk zijn er',

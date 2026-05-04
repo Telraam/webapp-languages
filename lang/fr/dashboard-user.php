@@ -19,7 +19,6 @@ petite échelle. <a href=https://telraam.net/fr/governments target=_blank>Plus d
 
     'som-gotron-title'      => 'Commander un Telraam en ligne',
     'som-gotron-text'       => "Je veux commander un Telraam sur <a href=https://telraam.net/fr/shop target=blank>la boutique en ligne de Telraam</a>",
-    'som-gotron-order-link' => "https://telraam.net/fr/shop",
 
     /* de l'étape de paramétrage 1 avec quelques mises à jour */
     'selection-selected' => "Bienvenue à l'enregistrement Telraam ! Félicitations, vous avez été sélectionné. Vous avez votre Telraam ou vous le recevrez bientôt",

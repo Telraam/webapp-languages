@@ -3,13 +3,9 @@
 return [
     'intro' => 'Join the network to unlock more features.',
 
-    //
-    'body' => 'Telraam works best within a local network. Not joined a network here? You can do it here!',
-
     // Not logged in
     'not-logged-in-body' => 'Oh, but please login first or create an account.<br> That way we can match your account with the network.',
     'log-in' => 'Log in',
-    'or' => 'or',
     'create-an-account' => 'Create an account',
 
     // Logged in

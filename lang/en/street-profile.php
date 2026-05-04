@@ -65,8 +65,6 @@ return [
     'parking_lane_no' => 'No parking lane or possibility available',
     'parking_lane_one_side' => 'Parking lane present on one side or changing side (platted)',
     'parking_lane_both_sides' => 'Parking lane present on both sides',
-    'parking_lane_more' => 'Special situation with e.g. a parking lane in the middle or cross parking',
-
     'bus_service_question' => 'Is there a <strong>bus line</strong> in this street?',
     'bus_service_no_idea' => 'No idea',
     'bus_service_yes' => 'Bus service available',
@@ -142,7 +140,6 @@ return [
     'in-a-radius-of'=> 'Within a radius of ',
 
     'ranking-title' => 'How does the traffic in this street compare to other streets?',
-    'ranking-subtitle' => 'Selection of streets',
 
     'an-average-day-contains' => 'An average day of this street contains',
     'in-own-network-are' => 'In this network there are',

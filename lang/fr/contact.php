@@ -4,7 +4,6 @@ return [
 
     // MAIN
     'title'     =>  'Contactez-nous',
-    'intro'             =>  'Merci pour votre intérêt pour Telraam.',
 
     // make the selection
     'select-purpose'    => 'Que recherchez-vous ?',

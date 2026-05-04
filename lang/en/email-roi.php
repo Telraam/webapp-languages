@@ -1,7 +1,6 @@
 <?php
 
 return [
-    'subject'        => 'Your S2 device works best if you set a Region of Interest',
     'addressing' => 'Hi',
      'body' => "You have successfully installed a Telraam S2 device. Thanks!<br><br>
         However to make sure the device counts accurately we would like to ask you to select the best region of interest (ROI) for your camera.<br><br>

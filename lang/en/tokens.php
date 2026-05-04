@@ -29,7 +29,6 @@ Full documentation is available on <a href="https://telraam-api.net/">the dedica
     'q3-needsupport'  => 'I might need some help; I’ll check Telraam Talks or reach out via support@telraam.net',
     'q3-custom'       => 'I may need a custom API endpoint or development support from Telraam (consultancy assignment)',
 
-    'contact-details' => 'Contact Details',
     'name' => 'Name',
     'company' => 'Company',
     'website' => 'Website',

@@ -90,7 +90,6 @@ Twee belangrijke dingen om de installatie volledig te voltooien:
     'save-button-step-2'  => 'Volgende stap',
     'save-button-step-3'  => 'Ik ben klaar',
     'save-button-step-4'  => 'Ok, klaar',
-    'save-button-step-5'  => 'Bevestig!',
     'save-button-step-6'  => 'Naar mijn dashboard',
 
     'set-position' => 'Indien je zeker weet dat je de juiste straat en de juiste kant van de weg hebt gekozen, bevestig dit dan.',

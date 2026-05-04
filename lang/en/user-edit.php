@@ -4,7 +4,6 @@ return [
 
     // new 16 july
     'title' => 'Edit data from your user account',
-    'account-info' => 'Account info',
     'language' => 'Language',
     'your-installed-camera' => 'Your installed camera',
     'no-installed-camera' => 'User didn\'t installed a Telraam camera yet',
@@ -21,7 +20,6 @@ return [
     'button' => 'Update',
 
     // delete
-    'i-want-to-be-removed-title' => 'Please remove me completely as a user',
     'i-want-to-be-removed-content' => 'A user that is removed will not be able to login anymore in the future. As our datasets some datasets are public and open, also your historic data will stay available as public good.',
     'i-want-to-be-removed-warning' => 'Once your user account has been deleted, Telraam cannot restore your credentials.',
     'label-delete-form' => 'To verify, type "Delete my account" below',

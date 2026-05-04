@@ -15,7 +15,6 @@ return [
     'view-the-measurements' => 'Bekijk de metingen',
 
     'start-installation-title' => 'Start de installatie', //  install with device never used
-    'start-installation-not-new-title' => 'Meer...',
 
     'ready-to-install' => 'Ben je klaar om het Telraam te installeren?',
     'ready-to-install-two-options' => 'Hoe wilt u dit apparaat installeren?',
@@ -26,7 +25,6 @@ return [
 
     'want-to-install-with' => 'Geweldig! Ik wil dit toestel installeren met',
     'start-setup' => 'Start de setup',
-    'want-to-install-with-another-user' => 'Ik wil het met een andere gebruiker installeren',
 
     'i-could-use' => 'Oh nee, ik kan',
    'support' => 'support',

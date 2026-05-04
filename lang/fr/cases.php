@@ -13,7 +13,7 @@ return [
     'devices'           => 'devices',
 
     // overview page: quotes
-    'quote1'                => 'Des analyses accessibles à tous sur les indicateurs clés d’une rue agréable et vivante.',
+    'quote1'                => 'Des analyses accessibles à tous sur les indicateurs clés d\'une rue agréable et vivante.',
     'quote1-name'           => 'Graham Stanley',
     'quote1-function'       => 'Innovation Delivery Lead, Oxford',
 

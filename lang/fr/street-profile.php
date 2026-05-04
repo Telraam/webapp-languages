@@ -67,8 +67,6 @@ utiliser toute la largeur de la voie.</span>',
     'parking_lane_no'           => 'Aucune bande de stationnement ou possibilité de stationner',
     'parking_lane_one_side'      => 'Bande de stationnement d\'un seul côté ou alternée',
     'parking_lane_both_sides'   => 'Bande de stationnement de chaque côté de la rue',
-    'parking_lane_more'         => 'Situation particulière avec, par exemple, une bande de stationnement au milieu ou un stationnement en épi ',
-
     'bus_service_question'      => 'Y a-t-il une <strong>ligne de bus</strong> dans cette rue ?',
     'bus_service_no_idea'       => 'Aucune idée',
     'bus_service_yes'           => 'Oui, il y a une ligne de bus',
@@ -143,7 +141,6 @@ utiliser toute la largeur de la voie.</span>',
     'in-a-radius-of'=> 'Dans un rayon de ',
 
     'ranking-title' => 'Comment la circulation dans cette rue se compare-t-elle à celle des autres rues ?',
-    'ranking-subtitle' => 'Sélection des rues',
 
     'an-average-day-contains' => 'Une journée moyenne dans cette rue compte',
     'in-own-network-are' => 'Dans ce réseau, il y a',

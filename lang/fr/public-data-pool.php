@@ -49,12 +49,5 @@ Nous organisons environ 5 séances numériques par an pour recueillir des contri
 </ol>',
 
 
-    // section 4
-    'section-4-title' => 'Bêta',
-    'section-4-text'  => 'Actuellement, le Data Pool est uniquement en version bêta.
-    <br>
-    Toutefois, si vous souhaitez y accéder, n\'hésitez pas à <a href="/fr/contact-us"> demander l\'accès</a>!<br><br>',
-
-
 
 ];

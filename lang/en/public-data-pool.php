@@ -55,12 +55,5 @@ please <a href="/en/contact-us">get in touch</a>.',
 </ol>',
 
 
-    // section 4
-    'section-4-title' => 'Beta',
-    'section-4-text'  => 'Currently the data pool is in beta only.
-    <br>
-    However if you want access do not hesitate to <a href="/en/contact-us">request for access</a>!<br><br>',
-
-
 
 ];

@@ -6,9 +6,6 @@ return [
     'auth-forgot-password'  => 'Paswoord vergeten?',
     'auth-remember-me' => 'Onthoud me',
 
-    'nav-dashboard' => 'Dashboard',
-    'nav-installation' => 'Installatie',
-
     'all' => 'Alle',
     'pedestrian' => 'Voetgangers',
     'bike' => 'Tweewielers',
@@ -46,7 +43,6 @@ return [
 
     'check-for-telraam-data' => 'Controle of er daadwerkelijk data binnenkomt bij Telraam voor Camera',
 
-    'camera-not-found' => 'Camera werd nog niet gevonden',
     'camera-is-set-up' => 'Camera is opgezet',
     'camera-is-set-up-but-no-data' => '<strong>Camera is opgezet, maar kreeg nog geen data binnen.</strong> <br>Indien succesvol, zal je hier na maximaal 20 minuten de boodschap krijgen dat jouw toestel inderdaad data verzendt. Als het langer duurt, dan is er iets fout gelopen. <a href=https://faq-nl.telraam.net/article/138/mijn-telraam-heeft-nog-niet-geteld target=_blank>Probeer deze stappen</a>',
 
@@ -80,9 +76,6 @@ return [
     'timerangetoolong1month' => 'Het verschil tussen de twee data is te lang. Het maximum is één maand.',
     'timerangetoolong14days' => 'Het verschil tussen de twee data is te groot. Het maximum is twee weken op de openbare pagina.',
 
-    // 17 mei
-    'no-callibration' => 'Verhouding auto/grote voertuigen is niet correct? Nog even geduld, Telraam heeft tijd nodig om zichzelf te kalibreren. <a href="https://faq-nl.telraam.net/article/78/telraam-kalibratie-en-de-verhouding-auto-grote-voertuigen">Faq artikel</a>',
-
     // 7 juni location detail
     'header-data' => 'Data',
     'header-ranking' => 'Ranking',
@@ -93,8 +86,6 @@ return [
     'weekdays-only' => 'Enkel weekdagen',
     'weekend-only'  =>  'Enkel weekend',
     'show-together' => 'Weekdagen vs weekend',
-    'date-from' => 'Datum van',
-    'date-to' => 'Datum tot',
     'update'    => 'Update',
     'km-hour-unit' => 'km/u',
 
