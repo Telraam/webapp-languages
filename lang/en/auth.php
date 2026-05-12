@@ -23,4 +23,9 @@ return [
     'reset_password_line2' => 'This password reset link will expire in :count minutes.',
     'reset_password_line3' => 'If you did not request a password reset, no further action is required.',
 
+    'auth-login'          => 'Login',
+    'auth-password'       => 'Password',
+    'auth-forgot-password' => 'Forgot Password?',
+    'auth-remember-me'    => 'Remember me',
+
 ];

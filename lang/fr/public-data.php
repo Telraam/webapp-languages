@@ -106,5 +106,8 @@ Si le Telraam dispose un abonnement Premium ou Réseau, des fonctionnalités sup
 </li>
 </ul>',
 
+    'share-your-results-on-Facebook' => 'Partagez vos résultats sur Facebook',
+    'share-your-results-on-Bluesky' => 'Partagez vos résultats sur Bluesky',
+    'discuss-on-telraam-talks' => 'Discuter sur Telraam Talks',
 
 ];

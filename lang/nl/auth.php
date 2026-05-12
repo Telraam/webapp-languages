@@ -23,4 +23,9 @@ return [
     'reset_password_line2' => 'Deze link verloopt over :count minuten.',
     'reset_password_line3' => 'Als u geen wachtwoordreset hebt aangevraagd, hoeft u niets te doen.',
 
+    'auth-login'          => 'Login',
+    'auth-password'       => 'Paswoord',
+    'auth-forgot-password' => 'Paswoord vergeten?',
+    'auth-remember-me'    => 'Onthoud me',
+
 ];

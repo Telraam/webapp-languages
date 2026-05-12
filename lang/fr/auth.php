@@ -22,4 +22,9 @@ return [
     'reset_password_line2' => 'Ce lien de réinitialisation expirera dans :count minutes.',
     'reset_password_line3' => 'Si vous n\'avez pas demandé de réinitialisation, aucune action n\'est requise.',
 
+    'auth-login'          => 'Se connecter',
+    'auth-password'       => 'Mot de passe',
+    'auth-forgot-password' => 'Mot de passe oublié ?',
+    'auth-remember-me'    => 'Se souvenir de moi',
+
 ];

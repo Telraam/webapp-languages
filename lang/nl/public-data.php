@@ -94,5 +94,8 @@ Verkeerstellingen per rijrichting voor 10 verschillende weggebruikerscategorieë
 <li>Pas de rapporten aan om items op te nemen die bijzonder relevant zijn voor jouw straat: modal shift patronen, snelheidsveranderingen voor of na interventies, verkeersvolumes in de loop van de tijd en meer.</li>
 </ul>',
 
+    'share-your-results-on-Facebook' => 'Deel je resultaten op Facebook',
+    'share-your-results-on-Bluesky' => 'Deel je resultaten op Bluesky',
+    'discuss-on-telraam-talks' => 'Bespreek op Telraam Talks',
 
 ];

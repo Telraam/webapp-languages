@@ -24,6 +24,7 @@ return [
     'i-want-to-be-removed-warning' => 'Once your user account has been deleted, Telraam cannot restore your credentials.',
     'label-delete-form' => 'To verify, type "Delete my account" below',
     'delete' => 'Delete',
+    'cancel' => 'Cancel',
 
     // telraam talks
     'talks-avatar-info' => 'Avatar for use in the <a href="http://talks.telraam.net/" target="_blank">Telraam Talks forum</a>',

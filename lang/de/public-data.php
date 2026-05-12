@@ -105,5 +105,8 @@ Verkehrszählungen je Fahrtrichtung für 10 verschiedene Verkehrsteilnehmerklass
 </li>
 </ul>',
 
+    'share-your-results-on-Facebook' => 'Teilen Sie Ihre Ergebnisse auf Facebook',
+    'share-your-results-on-Bluesky' => 'Teilen Sie Ihre Ergebnisse auf Bluesky',
+    'discuss-on-telraam-talks' => 'Diskutieren Sie auf Telraam Talks',
 
 ];

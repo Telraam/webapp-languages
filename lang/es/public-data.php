@@ -106,5 +106,8 @@ Recuentos de tráfico por sentido de circulación para 10 clases diferentes de u
 </li>
 </ul>',
 
+    'share-your-results-on-Facebook' => 'Comparte tus resultados en Facebook',
+    'share-your-results-on-Bluesky' => 'Comparte tus resultados en Bluesky',
+    'discuss-on-telraam-talks' => 'Debate en Telraam Talks',
 
 ];

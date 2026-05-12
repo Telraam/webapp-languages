@@ -108,5 +108,8 @@ Traffic counts per direction of travel for 10 different road user classes (non-s
 </li>
 </ul>',
 
+    'share-your-results-on-Facebook' => 'Share your results on Facebook',
+    'share-your-results-on-Bluesky' => 'Share your results on Bluesky',
+    'discuss-on-telraam-talks' => 'Discuss on Telraam Talks',
 
 ];

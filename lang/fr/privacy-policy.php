@@ -64,7 +64,7 @@ contacter à l'adresse électronique suivante : <a href=mailto:privacy@telraam.n
         <td>Passants</td>
         <td>Image d'arrière-plan statique à faible résolution</td>
         <td>intérêt légitime</td>
-        <td>7 jours</td>
+        <td>pour V1 : image quotidienne automatique conservée 7 jours<br>pour S2 : uniquement sur demande de l'utilisateur, seule la dernière image conservée pour max. 1 an</td>
     </tr>
 
     </table>

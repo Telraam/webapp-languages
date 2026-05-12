@@ -66,7 +66,7 @@ Bei Fragen oder Anmerkungen zu dieser Datenschutzerklärung können Sie uns jede
             <td>Passanten</td>
             <td>Statisches Hintergrundbild mit niedriger Auflösung</td>
             <td>Berechtigtes Interesse</td>
-            <td>7 Tage</td>
+            <td>für V1: automatisches tägliches Bild, 7 Tage aufbewahrt<br>für S2: nur auf Nutzeranfrage, nur das neueste Bild für max. 1 Jahr aufbewahrt</td>
         </tr>
     </table>
 

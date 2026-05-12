@@ -69,7 +69,7 @@ Voor vragen of opmerkingen inzake deze privacy policy kan u ons steeds contacter
         <td>Passanten</td>
         <td>Statisch lage-resolutie achtergrondbeeld</td>
         <td>gerechtvaardigd belang</td>
-        <td>7 dagen</td>
+        <td>voor V1: automatisch dagelijks beeld bewaard gedurende 7 dagen<br>voor S2: enkel op verzoek van de gebruiker, enkel het meest recente beeld bewaard voor max. 1 jaar</td>
     </tr>
 
     </table>

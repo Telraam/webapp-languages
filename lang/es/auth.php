@@ -23,4 +23,9 @@ return [
     'reset_password_line2' => 'Este enlace de restablecimiento de contraseña caducará en :count minutos.',
     'reset_password_line3' => 'Si no has solicitado un restablecimiento de contraseña, no es necesario que hagas nada más.',
 
+    'auth-login'          => 'Iniciar sesión',
+    'auth-password'       => 'Contraseña',
+    'auth-forgot-password' => '¿Has olvidado tu contraseña?',
+    'auth-remember-me'    => 'Recuérdame',
+
 ];

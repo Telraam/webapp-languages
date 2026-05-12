@@ -23,4 +23,9 @@ return [
     'reset_password_line2' => 'Dieser Link zum Zurücksetzen des Passworts läuft in :count Minuten ab.',
     'reset_password_line3' => 'Wenn Sie kein Zurücksetzen des Passworts angefordert haben, sind keine weiteren Schritte erforderlich.',
 
+    'auth-login'          => 'Anmelden',
+    'auth-password'       => 'Passwort',
+    'auth-forgot-password' => 'Passwort vergessen?',
+    'auth-remember-me'    => 'Angemeldet bleiben',
+
 ];

@@ -66,7 +66,7 @@ Para preguntas o comentarios sobre esta política de privacidad, siempre puedes 
             <td>Transeúntes</td>
             <td>Imagen de fondo estática de baja resolución</td>
             <td>Interés legítimo</td>
-            <td>7 días</td>
+            <td>para V1: imagen diaria automática conservada durante 7 días<br>para S2: solo a petición del usuario, solo se conserva la última imagen durante un máximo de 1 año</td>
         </tr>
     </table>
 

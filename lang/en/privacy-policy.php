@@ -66,7 +66,7 @@ For questions or remarks about this privacy policy you can always contact us at 
             <td>Passers-by</td>
             <td>Static low resolution background picture</td>
             <td>Legitimate concern</td>
-            <td>7 days</td>
+            <td>for V1: automatic daily image kept for 7 days<br>for S2: on user request only, only latest image kept for max 1 year</td>
         </tr>
     </table>
 
