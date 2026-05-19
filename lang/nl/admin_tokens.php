@@ -21,8 +21,8 @@ return [
     'no-token-yet' => 'Nog geen token',
 
     // Advanced API info box
-    'advanced-token-info' => 'Een geavanceerd API-token biedt extra toegang tot bepaalde straatstukken, instanties en apparaten',
+    'advanced-token-info' => 'Een geavanceerd API-token biedt extra toegang tot bepaalde straatstukken, instanties en toestellen',
     'segments' => 'Straatstukken',
     'instances' => 'Instanties',
-    'devices' => 'Apparaten',
+    'devices' => 'Toestellen',
 ];

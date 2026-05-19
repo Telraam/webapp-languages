@@ -2,9 +2,9 @@
 
 return [
     // Header
-    'users-devices' => 'Gebruikers & apparaten',
+    'users-devices' => 'Gebruikers & toestellen',
     'counted-or-counting' => 'die geteld hebben of nog aan het tellen zijn',
-    'add-device' => 'Apparaat toevoegen',
+    'add-device' => 'Toestel toevoegen',
     'invite-users' => 'Gebruikers uitnodigen',
     'export' => 'Exporteer',
 
@@ -14,7 +14,7 @@ return [
     'reports' => 'Rapporten',
 
     // Overview filters
-    'all-users-devices' => 'Alle gebruikers & apparaten (:count)',
+    'all-users-devices' => 'Alle gebruikers & toestellen (:count)',
     'to-start' => 'Te starten (:count)',
     'installing' => 'Aan het installeren (:count)',
     'installed-no-counts' => 'Geïnstalleerd, maar geen tellingen (:count)',
@@ -32,13 +32,13 @@ return [
     // Table headers
     'col-date' => 'Datum',
     'col-name' => 'Naam',
-    'col-device-status' => 'Apparaatstatus',
+    'col-device-status' => 'Toestelstatus',
     'col-address' => 'Adres',
 
     // Overview row labels
-    'new-device-sent' => 'Nieuw apparaat is verzonden',
-    'device-returned-repair' => 'Apparaat is teruggestuurd voor reparatie',
-    'device-returned' => 'Apparaat teruggestuurd',
+    'new-device-sent' => 'Nieuw toestel is verzonden',
+    'device-returned-repair' => 'Toestel is teruggestuurd voor reparatie',
+    'device-returned' => 'Toestel teruggestuurd',
     'new-sd-sent' => 'Nieuwe SD-kaart is verzonden',
     'outboarded' => 'Uitgestapt',
     'network-label' => 'Netwerk',
@@ -50,11 +50,11 @@ return [
     'archive' => 'Archiveren',
     'nothing-found' => 'Niets gevonden',
     'nothing-found-dots' => 'Niets gevonden...',
-    'empty-info' => 'Een gebruiker heeft een Telraam-account. Een gebruikersaccount bestaat uit inloggegevens (e-mail, wachtwoord) en alle informatie die met de gebruiker verband houdt. In de meeste gevallen had of heeft een gebruiker een Telraam-apparaat. Een gebruiker kan slechts één actief apparaat tegelijk hebben.',
+    'empty-info' => 'Een gebruiker heeft een Telraam-account. Een gebruikersaccount bestaat uit inloggegevens (e-mail, wachtwoord) en alle informatie die met de gebruiker verband houdt. In de meeste gevallen had of heeft een gebruiker een Telraam-toestel. Een gebruiker kan slechts één actief toestel tegelijk hebben.',
 
     // Add device modal
-    'add-network-device-title' => 'Door netwerk beheerd apparaat toevoegen',
-    'add-network-device-body' => 'Een door het netwerk beheerd apparaat wordt door jou als netwerkbeheerder geïnstalleerd en beheerd. Deze functionaliteit is alleen beschikbaar voor apparaten met een netwerkabonnement.',
+    'add-network-device-title' => 'Door netwerk beheerd toestel toevoegen',
+    'add-network-device-body' => 'Een door het netwerk beheerd toestel wordt door jou als netwerkbeheerder geïnstalleerd en beheerd. Deze functionaliteit is alleen beschikbaar voor toestellen met een netwerkabonnement.',
     'read-more-faq' => 'Lees meer in de FAQ',
     'start-setup' => 'Beginnen met de installatie',
 
@@ -70,7 +70,7 @@ return [
     'setup-page' => 'Installatiepagina',
     'network-header' => 'Netwerk',
     'tab-general' => 'Algemeen',
-    'tab-device' => 'Apparaat',
+    'tab-device' => 'Toestel',
     'tab-installation' => 'Installatie',
     'tab-email' => 'E-mail',
     'tab-roi' => 'ROI',
@@ -89,7 +89,7 @@ return [
     'quality-low-accuracy' => 'Algemeen nauwkeurigheidsprobleem',
     'quality-bad-connectivity' => 'Connectiviteitsgerelateerd probleem',
     'quality-hardware-issue' => 'Hardware- of firmwareprobleem',
-    'quality-testing-device' => 'Testapparaat in gebruik',
+    'quality-testing-device' => 'Testtoestel in gebruik',
     'member-since' => 'Lid sinds',
     'street-segment' => 'Straatstuk',
     'no-street-segment' => 'Gebruiker heeft nog geen straatstuk geselecteerd',
@@ -102,9 +102,9 @@ return [
 
     // Edit support block
     'outboarding' => 'Uitstappen',
-    'device-handed-back' => 'Apparaat teruggebracht',
+    'device-handed-back' => 'Toestel teruggebracht',
     'candidate' => 'Kandidaat',
-    'received-device' => 'apparaat ontvangen',
+    'received-device' => 'toestel ontvangen',
     'on' => 'op',
     'on-unknown-date' => 'op onbekende datum',
     'status' => 'Status',
@@ -128,8 +128,8 @@ return [
     'photo-setup-note' => '(de beste foto is er een waarop zowel de weg, de batterij als het zonnepaneel zichtbaar zijn)',
 
     // ROI tab
-    'roi-title' => 'Afbeeldingen en ROI van het apparaat',
-    'roi-not-active' => 'Dit apparaat is niet actief (status: :status). ROI kan alleen worden ingesteld op actieve apparaten.',
+    'roi-title' => 'Afbeeldingen en ROI van het toestel',
+    'roi-not-active' => 'Dit toestel is niet actief (status: :status). ROI kan alleen worden ingesteld op actieve toestellen.',
     'roi-set-button' => 'Regio van interesse instellen (ROI)',
     'roi-request-image' => 'Afbeelding opvragen',
     'roi-explicitly-set' => 'ROI expliciet ingesteld op',
@@ -210,7 +210,7 @@ return [
     // Config tab
     'fw-up-to-date' => 'FW up-to-date',
     'fw-upgrade-pending' => 'FW-upgrade in afwachting',
-    'device-config-title' => 'Apparaatconfiguratie',
+    'device-config-title' => 'Toestelconfiguratie',
     'update-config-btn' => 'Configuratie bijwerken',
     'firmware-config-title' => 'Firmwareconfiguratie',
     'firmware-config-note' => 'één veld tegelijk',

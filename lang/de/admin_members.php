@@ -36,4 +36,7 @@ return [
     'level' => 'Ebene',
     'cancel' => 'Abbrechen',
     'add' => 'Hinzufügen',
+    'is-spoc' => 'Einziger Ansprechpartner (SPOC)',
+    'is-spoc-hint' => 'Der SPOC ist die primäre Kontaktperson für dieses Netzwerk und erhält Benachrichtigungen, wenn die Abonnement-Credits des Netzwerks ihre Grenze nähern.',
+    'spoc' => 'SPOC',
 ];

@@ -29,6 +29,8 @@ return [
     'talks-avatar-info' => 'Avatar para usar en el <a href="http://talks.telraam.net/" target="_blank">foro Telraam Talks</a>',
     'talks-bio-info' => 'Biografía para usar en el <a href="http://talks.telraam.net/" target="_blank">foro Telraam Talks</a>',
 
+    'cancel' => 'Cancelar',
+
     // webhook / mail checks
     'automatic-mails' => 'Correos automáticos',
     'automatic-mails-note' => 'Defina cuándo desea recibir una notificación sobre la actividad o inactividad de su propio sensor',

@@ -3,7 +3,8 @@
 return [
 
     'title'             => 'Junior Sales Accountmanager voor Nederland',
-
+    'intro' => 'Telraam heeft momenteel meer dan 2000 actieve toestellen, voornamelijk in Vlaanderen en in mindere mate in Nederland.
+We willen onze aanwezigheid op de Nederlandse markt verder uitbouwen en de geïnstalleerde basis van Telraam-sensoren laten groeien door netwerken van sensoren te verkopen aan professionele klanten. We zijn op zoek naar een enthousiast en creatief persoon voor B2B- en B2G-verkoop.',
 
     'responsibilities-title' => 'Je missie en belangrijkste verantwoordelijkheden:',
     'responsibilities-text' => '<ul>

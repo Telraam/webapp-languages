@@ -4,7 +4,7 @@ return [
     // Camera instances overview
     'camera-instances-header' => 'Camera-instanties',
     'current-installation' => 'Huidige installatie',
-    'network-device-installation' => 'Netwerkapparaat-installatie',
+    'network-device-installation' => 'Netwerktoestel-installatie',
     'old-installations' => 'Oude installaties',
     'view-setup-page' => 'Installatiepagina bekijken :name',
 
@@ -21,7 +21,7 @@ return [
     'make-private' => 'Privé maken',
     'edit-details' => 'Details bewerken',
     'edit-current-position' => 'Huidige positie bewerken',
-    'new-remote-installation' => 'Nieuwe installatie op afstand met dit apparaat',
+    'new-remote-installation' => 'Nieuwe installatie op afstand met dit toestel',
     'more' => 'Meer',
 
     // Modal: edit address typo
@@ -94,7 +94,7 @@ return [
     'detail-non-active-4weeks' => 'Inactief 4+ weken',
     'detail-non-active' => 'Inactief',
     'detail-active-after-problematic' => 'Actief na problematisch',
-    'detail-diff-mac' => 'Ander apparaat',
+    'detail-diff-mac' => 'Ander toestel',
     'detail-outboarded' => 'Gebruiker uitgestapt',
     'detail-reason-unknown' => 'Reden onbekend',
     'detail-network-admin-stopped' => 'Gestopt door netwerkbeheerder',

@@ -27,5 +27,16 @@ return [
     'talks-avatar-info' => 'Avatar voor gebruik in het <a href="http://talks.telraam.net/" target="_blank">Telraam Talks forum</a>',
     'talks-bio-info' => 'Bio voor gebruik in het <a href="http://talks.telraam.net/" target="_blank">Telraam Talks forum</a>',
 
+    'cancel' => 'Annuleren',
+
+    // webhook / mail checks
+    'automatic-mails' => 'Automatische mails',
+    'automatic-mails-note' => 'Stel in wanneer je een melding wilt ontvangen over de (in)activiteit van je eigen sensor',
+    'mail_non_active_1day' => 'Mail verstuurd na één dag inactiviteit',
+    'mail_non_active_1week' => 'Mail verstuurd na één week inactiviteit',
+    'mail_non_active_2weeks' => 'Mail verstuurd na twee weken inactiviteit',
+    'mail_non_active_3weeks' => 'Mail verstuurd na drie weken inactiviteit',
+    'mail_non_active_4weeks' => 'Mail verstuurd na vier weken inactiviteit',
+    'mail_active_after_being_non_active' => 'Mail verstuurd wanneer het toestel opnieuw is beginnen tellen',
 
 ];

@@ -9,7 +9,7 @@ U haalt de onderdelen, wij de software en het dataplatform<br>',
 
     'warning' => ' <p>Het Telraam V1 was de eerste concept-sensor van Telraam en startte een revolutie op het gebied van verkeerstellen. Deze hebben we nu naar een hoger niveau getild dankzij onze speciaal gebouwde Telraam S2 sensor.</p>
 <p>
-Hoewel we geloven dat de Telraam S2 sensor meer nauwkeurigheid en precisie biedt alsook een sterk verbeterde gebruikerservaring biedt voor citizen science, zullen we de komende jaren ook de bestaande Telraam V1-apparaten blijven ondersteunen.</p>',
+Hoewel we geloven dat de Telraam S2 sensor meer nauwkeurigheid en precisie biedt alsook een sterk verbeterde gebruikerservaring biedt voor citizen science, zullen we de komende jaren ook de bestaande Telraam V1-toestellen blijven ondersteunen.</p>',
 
 
     'section1-title'        => 'Achtergrond',
@@ -20,9 +20,9 @@ Hoewel we geloven dat de Telraam S2 sensor meer nauwkeurigheid en precisie biedt
 
 <p>De ervaring van het team leidde hen ertoe zich te focussen op het bouwen van iets kleins, eenvoudigs en betaalbaars, maar nog steeds geschikt voor het beoogde doel. Het uiteindelijke toestel zou bij de burgers op de ramen moeten kunnen leven, om daar dan het werkelijke \'uitzicht\' op de straat weer te kunnen geven, en dit zonder als indringer over te komen. Op deze manier zou het in grote aantallen kunnen worden ingezet om een voleldig beeld te krijgen in een breed scala aan straten, inclusief kleine straten en woonwijken, die vaak niet door traditionele telopstellingen gedekt worden.</p>
 
-<p>Het prototype werd gebouwd met kant-en-klare componenten zoals een Raspberry Pi microcomputer en een camera die aan de bovenvermelde criteria voldeed, het detectiealgoritme werd daarentegen wel intern ontwikkeld. De ontwikkeling van de sensor was klaar voor het einde van de zomer (2018), waarna een basis back-end en front-end vanaf nul werden opgebouwd en de eerste batch van 50 sensoren begin 2019 in Leuven werd uitgerold. Tegen de tijd dat de Telraam S2 in maart 2023 werd gelanceerd, waren er wereldwijd al meer dan 5000 Telraam V1-apparaten verkocht.</p>',
+<p>Het prototype werd gebouwd met kant-en-klare componenten zoals een Raspberry Pi microcomputer en een camera die aan de bovenvermelde criteria voldeed, het detectiealgoritme werd daarentegen wel intern ontwikkeld. De ontwikkeling van de sensor was klaar voor het einde van de zomer (2018), waarna een basis back-end en front-end vanaf nul werden opgebouwd en de eerste batch van 50 sensoren begin 2019 in Leuven werd uitgerold. Tegen de tijd dat de Telraam S2 in maart 2023 werd gelanceerd, waren er wereldwijd al meer dan 5000 Telraam V1-toestellen verkocht.</p>',
 
-    'section1-text-extra'        => 'Omdat de meeste van de Telraam gebruikers enkel verkeer willen tellen en niet noodzakelijkerwijs technisch onderlegd zijn om met Raspberry Pi\'s te werken, verkopen we sinds de release in het voorjaar van 2023 alleen nog de Telraam S2. We weten echter dat er ook nog genoeg techneuten zijn die graag aan de slag willen, en voor hen blijft de V1-sensor met Raspberry Pi een geweldig hulpmiddel om mee te spelen. Daarom ondersteunen blijven we niet alleen de bestaande V1-sensoren op het terrein ondersteunen, maar ook de nieuwe installaties met zelfgebouwde Telraam V1-apparaten. Als je verkeer wilt tellen en niet bang bent voor een Raspberry Pi-project, lees dan verder!',
+    'section1-text-extra'        => 'Omdat de meeste van de Telraam gebruikers enkel verkeer willen tellen en niet noodzakelijkerwijs technisch onderlegd zijn om met Raspberry Pi\'s te werken, verkopen we sinds de release in het voorjaar van 2023 alleen nog de Telraam S2. We weten echter dat er ook nog genoeg techneuten zijn die graag aan de slag willen, en voor hen blijft de V1-sensor met Raspberry Pi een geweldig hulpmiddel om mee te spelen. Daarom ondersteunen blijven we niet alleen de bestaande V1-sensoren op het terrein ondersteunen, maar ook de nieuwe installaties met zelfgebouwde Telraam V1-toestellen. Als je verkeer wilt tellen en niet bang bent voor een Raspberry Pi-project, lees dan verder!',
 
     'section2-title'        => 'Doe-het-zelf',
     'section2-subtitle'     => 'Wat heb ik nodig voor een Telraam V1 project?',
@@ -51,7 +51,7 @@ Hoewel we geloven dat de Telraam S2 sensor meer nauwkeurigheid en precisie biedt
     'section3-text'        => 'Telraam V1 gebruikt computer vision (OpenCV) om objecten te detecteren met een constante (periodiek herberekende mediaan) achtergrond. Objecten worden in realtime gedetecteerd op elk frame met een lage resolutie dat vanuit de camera worden doorgestuurd. Enkele basisparameters (zoals positie in het frame, breedte, hoogte, oppervlakte, enz.) van de contouren van de objecten worden om de paar minuten opgeslagen in het geheugen totdat een algoritme ze verwerkt (en later verwijdert) om zo objecten die over het beeldframe bewegen (dus langs de straat) te identificeren en te volgen. Aan het einde van elke cyclus worden de gemiddelde parameters van de objecten die met succes zijn getraceerd naar de Telraam-servers gestuurd, waar ze later worden ingedeeld in weggebruikers op basis van hun waargenomen parameters, voordat ze worden samengevoegd tot kwartier- en uurtotalen per vervoerswijze en rijrichting.<br>
 <br>
 
-De Telraam server classificeert objecten die afkomstig zijn van Telraam V1 apparaten in vier soorten modi:
+De Telraam server classificeert objecten die afkomstig zijn van Telraam V1 toestellen in vier soorten modi:
     <ul class="jump-in">
         <li>voetgangers</li>
         <li>tweewielers (fietsers en bromfietsen)</li>

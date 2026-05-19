@@ -26,7 +26,7 @@ return [
     'individual-installations-separator' => '----------- individuele installaties ---------',
 
     // includes/instance.blade.php
-    'my-device' => '-- Mijn apparaat',
+    'my-device' => '-- Mijn toestel',
 
     // includes/subheader-segments.blade.php
     'segment-private' => 'Dit straatstuk is privé. Gegevens zijn alleen zichtbaar op installatieniveau.',

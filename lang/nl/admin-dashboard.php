@@ -34,7 +34,7 @@ return [
 
      'is-not-counting'          => 'Telraam heeft nog niet geteld.',
      'is-not-counting-link-v1'      => '<a href="https://faq-nl.telraam.net/article/138/mijn-telraam-heeft-nog-niet-geteld" target="_blank">Troubleshooting</a>',
-     'is-not-counting-link-s2'        => '<a href="https://faq-nl.telraam.net/article/207/probleemoplossing-met-de-s2" target="_blank">Troubleshooting</a>',
+     'is-not-counting-link-S2'        => '<a href="https://faq-nl.telraam.net/article/207/probleemoplossing-met-de-s2" target="_blank">Troubleshooting</a>',
 
 
     'software-up-to-date'           => 'Je telraam software is up to date. Je telraam beschikt over versie 10.' ,

@@ -103,6 +103,6 @@ Bekijk de  <a href="https://faq-nl.telraam.net/article/75/vereisten-voor-de-plaa
     'month' => 'maand',
     'free' => 'Gratis',
     'make-private' => 'Maak de installatie privé',
-    'make-private-info' => 'Sommige gebruikers of organisaties willen hun gegevens privé houden <a href="https://faq-nl.telraam.net/article/331/kan-ik-mijn-gegevens-prive-maken">Lees meer</a>'
-
+    'make-private-info' => 'Sommige gebruikers of organisaties willen hun gegevens privé houden <a href="https://faq-nl.telraam.net/article/331/kan-ik-mijn-gegevens-prive-maken">Lees meer</a>',
+    'warning-professional' => 'De tweede productiebatch is volledig uitverkocht.<br> Geschatte verzenddatum voor huidige bestellingen: medio juli 2023.',
 ];

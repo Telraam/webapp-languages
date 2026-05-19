@@ -27,7 +27,7 @@ Als bestaande gebruiker kun je ook een supportticket openen door een e-mail te s
 
     'purpose-enquiry'           => 'Doel van aanvraag',
     'purpose-enquiry-business'   => 'Algemene zakelijke aanvraag',
-    'purpose-enquiry-purchase'   => 'Aankoop van een of meer apparaten',
+    'purpose-enquiry-purchase'   => 'Aankoop van een of meer toestellen',
     'purpose-enquiry-support'   => 'Technische ondersteuning',
     'purpose-enquiry-return'    => 'Retourneer een defect toestel',
 

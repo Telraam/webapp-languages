@@ -14,8 +14,8 @@ return [
     'status-selected-count' => 'Geselecteerd (:count)',
     'status-not-selected-count' => 'Niet geselecteerd (:count)',
     'status-waitinglist-count' => 'Wachtrij (:count)',
-    'selected-no-device' => 'Geselecteerd maar geen apparaat (:count)',
-    'selected-device-no-user' => 'Geselecteerd, heeft apparaat maar is nog geen gebruiker (:count)',
+    'selected-no-device' => 'Geselecteerd maar geen toestel (:count)',
+    'selected-device-no-user' => 'Geselecteerd, heeft toestel maar is nog geen gebruiker (:count)',
     'all-postal-codes' => 'Alle postcodes',
     'all-tracks' => 'Alle tracks',
     'no-tracks-enabled' => 'Geen tracks ingeschakeld',
@@ -28,7 +28,7 @@ return [
     'col-address' => 'Adres',
 
     // Candidate list items
-    'did-receive-device' => 'Apparaat ontvangen',
+    'did-receive-device' => 'Toestel ontvangen',
     'status-selected' => 'Geselecteerd',
     'status-not-selected' => 'Niet geselecteerd',
     'status-waitinglist' => 'Wachtrij',
@@ -36,13 +36,13 @@ return [
     'edit' => 'Bewerken',
     'showing-results' => ':from tot :to van :total kandidaten worden getoond',
     'nothing-found' => 'Niets gevonden',
-    'empty-info' => 'Een kandidaat is een burger die geïnteresseerd is om een Telraam-apparaat te installeren.',
+    'empty-info' => 'Een kandidaat is een burger die geïnteresseerd is om een Telraam-toestel te installeren.',
     'candidate-form' => 'het kandidatenformulier',
     'no-track-initialized' => '! Geen track geïnitialiseerd',
 
     // Edit tabs
     'tab-general' => 'Algemeen',
-    'tab-device' => 'Apparaat',
+    'tab-device' => 'Toestel',
     'tab-email' => 'E-mail',
     'tab-email-history' => 'E-mailgeschiedenis',
 
@@ -67,8 +67,8 @@ return [
     'delete' => 'Verwijderen',
 
     // Touchpoint
-    'received-device' => 'Apparaat ontvangen',
-    'device-remark' => 'Optionele opmerking over het apparaat',
+    'received-device' => 'Toestel ontvangen',
+    'device-remark' => 'Optionele opmerking over het toestel',
 
     // Batch mail overview
     'batch-mail-all' => 'Batchmail voor alle kandidaten',

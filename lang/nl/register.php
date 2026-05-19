@@ -46,5 +46,10 @@ return [
     // register page used as invite link
     'invite-token-success' => 'Welkom, u bent uitgenodigd om lid te worden als een Telraam beheerder',
 
+    'mobile' => 'Telefoonnummer',
+    'avatar' => 'Avatar',
+    'bio' => 'Bio',
+    'typeofdevice' => 'Type toestel',
+    'selecttypeofdevice' => 'Selecteer het type toestel dat u wilt installeren',
 
 ];

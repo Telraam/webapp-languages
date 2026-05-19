@@ -3,6 +3,8 @@
 
 return [
 
+    'header-stats' => 'Données',
+
     // onglets
     'header-general' => 'Informations Générales',
     'header-apply' => 'Postuler en tant que candidat',

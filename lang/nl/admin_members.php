@@ -36,4 +36,7 @@ return [
     'level' => 'Niveau',
     'cancel' => 'Annuleren',
     'add' => 'Toevoegen',
+    'is-spoc' => 'Enkel aanspreekpunt (SPOC)',
+    'is-spoc-hint' => 'De SPOC is de primaire contactpersoon voor dit netwerk en ontvangt meldingen wanneer de abonnementscredits van het netwerk hun limiet naderen.',
+    'spoc' => 'SPOC',
 ];

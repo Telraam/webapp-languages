@@ -65,7 +65,7 @@ Verkeerstellingen per rijrichting voor 10 verschillende weggebruikerscategorieë
     'features-3-text' => 'Ontdek de hogere tijdsresolutie. Dit is perfect om kortstondige gebeurtenissen op te sporen, zoals de ochtenddrukte in de buurt van scholen of een tijdelijke wegblokkade door een ongeluk. Bovendien wordt de data elke vijftien minuten bijgewerkt, waardoor het ideaal is voor real-time monitoring.',
 
     'features-4-title' => 'Installaties',
-    'features-4-text' => 'Een wegsegment kan meer dan één Telraam-installatie hebben. In dat geval toont de segmentpagina de (slim gewogen) gemiddelde statistieken van de bijbehorende installaties. Met de uitgebreide data kun je de originele data van jouw individuele Telraam-installatie bekijken, wat nuttig kan zijn in verschillende situaties, waaronder datavalidatie, het scheiden van data afkomstig van verschillende sensortypes (bijv. Telraam V1 en S2 op hetzelfde segment), of simpelweg om de data van je eigen apparaat te raadplegen.',
+    'features-4-text' => 'Een wegsegment kan meer dan één Telraam-installatie hebben. In dat geval toont de segmentpagina de (slim gewogen) gemiddelde statistieken van de bijbehorende installaties. Met de uitgebreide data kun je de originele data van jouw individuele Telraam-installatie bekijken, wat nuttig kan zijn in verschillende situaties, waaronder datavalidatie, het scheiden van data afkomstig van verschillende sensortypes (bijv. Telraam V1 en S2 op hetzelfde segment), of simpelweg om de data van je eigen toestel te raadplegen.',
 
 
     // 3 extra functies

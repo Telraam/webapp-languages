@@ -2,6 +2,8 @@
 
 return [
 
+    'header-stats' => 'Data',
+
     // tabs
     'header-general' => 'Algemeen',
     'header-apply' => 'Stel je kandidaat',
@@ -32,7 +34,7 @@ return [
     'section1-block1-title' => 'Netwerk van mogelijkheden',
     'section1-block1-text' => 'Verkeerskundige studies en stedelijke planning op lokaal en regionaal niveau vereisen het verzamelen van verkeerstellingen op meerdere locaties, en traditioneel is dit een duur en tijdrovend proces. <br>
     <br>Dankzij AI-gestuurde technologie en het unieke model van <a href="https://www.telraam.net/nl/S2">Telraam-sensoren</a>, bieden we een alternatieve, kostenefficiënte, multimodale telmethode die zowel <a href="https://github.com/Telraam/Telraam-S2/blob/main/count-performance-validation.md">nauwkeurig</a> als stabiel is gebleken onder uiteenlopende omstandigheden.<br>
-    <br>Telraam biedt een netwerkabonnement voor organisaties die meerdere apparaten gebruiken, zoals bovenlokale overheden, lokale besturen en burgergroeperingen. Door het inzetten van een fijnmazig netwerk van Telraam-sensoren, dankzij citizen science, kan het proces van verkeerstellingen sterk worden verbeterd, waarbij multimodale gegevens op een continue basis worden verzameld, terwijl de kost wordt gereduceerd.',
+    <br>Telraam biedt een netwerkabonnement voor organisaties die meerdere toestellen gebruiken, zoals bovenlokale overheden, lokale besturen en burgergroeperingen. Door het inzetten van een fijnmazig netwerk van Telraam-sensoren, dankzij citizen science, kan het proces van verkeerstellingen sterk worden verbeterd, waarbij multimodale gegevens op een continue basis worden verzameld, terwijl de kost wordt gereduceerd.',
 
     'section2-block1-title' => 'Een complete projectoplossing',
     'section2-block1-text' => 'Een netwerkabonnement levert de nodige tools voor het beheer en de gegevensanalyse noodzakelijk tijdens de looptijd van een project.
@@ -42,7 +44,7 @@ Er zijn daarnaast ook tools voor gegevensanalyse om het verkeer op zowel straats
      Het Telraam-team biedt ondersteuning tijdens het hele proces, van begin tot eind.',
 
    'section2-block2-title' => 'Burgerbetrokkenheid en transparente operaties',
-    'section2-block2-text' => 'Omdat Telraam-apparaten worden gehost door individuele burgers, biedt een Telraam-netwerk een unieke kans om contact te leggen met de lokale bewoners, vertrouwen op te bouwen en kennis uit te wisselen met de personen die elke dag de effecten van het verkeer in hun straat ervaren. Op deze manier hebben gemotiveerde bewoners een directere, persoonlijke betrokkenheid bij het lokale mobiliteitsbeleid.<br>
+    'section2-block2-text' => 'Omdat Telraam-toestellen worden gehost door individuele burgers, biedt een Telraam-netwerk een unieke kans om contact te leggen met de lokale bewoners, vertrouwen op te bouwen en kennis uit te wisselen met de personen die elke dag de effecten van het verkeer in hun straat ervaren. Op deze manier hebben gemotiveerde bewoners een directere, persoonlijke betrokkenheid bij het lokale mobiliteitsbeleid.<br>
     <br>De tools van een Netwerkabonnement stroomlijnen het wervings-, aanmeldings- en selectieproces van de burgers. Ze leren hoe ze hun eigen volledig geautomatiseerde verkeersteller kunnen opzetten en hoe ze de gegevens beter kunnen begrijpen. Deelnemers worden burgerwetenschappers die constructieve, objectieve, data-gestuurde bijdragen kunnen leveren aan het lokale beleidsvormingsproces.<br>
     <br>De gegevens van Telraam kunnen ook worden gebruikt door onderzoekers, bewoners en geïnteresseerden om bijvoorbeeld hun verzoeken voor wijzigingen in de lokale mobiliteitsplannen te valideren, waardoor objectieve, data-gestuurde bijdragen aan de discussies worden geleverd.',
 
@@ -78,7 +80,7 @@ Dit maakt de API ook toegankelijk voor breder gebruik. Meer informatie vindt u o
     'features-title' => 'Features',
     'features-1-title' => 'Netwerk dashboard',
     'features-1-text' => '<p>Krijg toegang tot de gegevens en gebruikersinformatie via het Netwerkdashboard, exclusief voor beheerders van een Telraam-netwerk<br>
-    <br>Het Dashboard is een centraal punt dat een snel, algemeen overzicht geeft van de status van het netwerk en toegang biedt tot een uitgebreide set communicatie- en rapportagetools. Het geeft je in één oogopslag een overzicht van actieve apparaten op een kaart, inclusief belangrijke prestatie-indicatoren, en een notificatiestroom van elke activiteit of waarschuwingen voor de sensoren.</p>',
+    <br>Het Dashboard is een centraal punt dat een snel, algemeen overzicht geeft van de status van het netwerk en toegang biedt tot een uitgebreide set communicatie- en rapportagetools. Het geeft je in één oogopslag een overzicht van actieve toestellen op een kaart, inclusief belangrijke prestatie-indicatoren, en een notificatiestroom van elke activiteit of waarschuwingen voor de sensoren.</p>',
 
     'features-2-title' => 'Netwerk administratie',
     'features-2-text' => '<p>Je netwerk personaliseren en onderhouden dankzij de netwerkinstellingsopties, de tools voor contentbeheer en de brandingmogelijkheden<br>

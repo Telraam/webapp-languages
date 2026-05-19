@@ -27,6 +27,7 @@ return [
     'quote1' => 'En analysant la norme V85, nous pouvons identifier les meilleurs moments pour effectuer des contrôles de vitesse. Ces contrôles permettent de modifier le comportement des usagers de la route.',
     'quote1-function' => 'experte en mobilité pour la ville de Kortijk',
 
+    'quote2-function' => 'Teamcoach wijkwerking Politiezone Lubbeek',
     'quote2' => 'Telraam ne fournit pas seulement des informations grâce aux données, mais permet aussi une meilleure compréhension grâce à l\'interaction avec les habitants et les autorités locales et provinciales.',
 
     'section3-block0-title' => 'Participez au décompte !', // title on top of the video

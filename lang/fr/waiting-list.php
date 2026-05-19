@@ -18,12 +18,12 @@ Si vous, en tant que citoyen, souhaitez voir un réseau Telraam dans votre ville
      Nous accompagnons entièrement ce processus, afin que les données des capteurs soient centralisées et que les participants bénéficient d\'un soutien maximal pour réaliser des comptages performants.",
 
     'first-name' => 'Prénom',
-    'last-name' => 'Last name',
-    'email' => 'Email',
-    'code postal' => 'Code postal',
-    'ville' => 'Ville',
+    'last-name' => 'Nom',
+    'email' => 'E-mail',
+    'postcode' => 'Code postal',
+    'city' => 'Ville',
     'remark' => 'Comment un réseau Telraam pourrait-il contribuer à votre quartier ?',
-    'envoyer' => 'Envoyer',
+    'send' => 'Envoyer',
 
     'thanks-title' => 'Merci de votre intérêt !',
     'thanks-info' => "Nous vous contacterons par e-mail dès que nous aurons

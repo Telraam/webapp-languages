@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'correct-position-intro' => 'Deze pagina is gemaakt om een verkeerde Telraam-positie te corrigeren — het straatstuk en/of de kant van de straat — met terugwerkende kracht. Als je je Telraam-apparaat fysiek hebt verplaatst, start dan een nieuwe installatie.',
+    'correct-position-intro' => 'Deze pagina is gemaakt om een verkeerde Telraam-positie te corrigeren — het straatstuk en/of de kant van de straat — met terugwerkende kracht. Als je je Telraam-toestel fysiek hebt verplaatst, start dan een nieuwe installatie.',
     'correct-position-note' => 'Je kunt je Telraam aan de andere kant van het momenteel geselecteerde straatstuk plaatsen, of zelfs naar een nieuw straatstuk overstappen. Alle gegevens op het niveau van de camera-instantie worden onmiddellijk bijgewerkt en gecorrigeerd, maar de historische gegevens voor het betrokken straatstuk (of de betrokken straatstukken) worden op een wachtrij geplaatst en automatisch verwerkt zodra de nieuwe herberekeningsservice is ingeschakeld.',
     'image-street' => 'Straatafbeelding',
     'set-position'                    => 'Bevestig je positie door het groene camera icoontje te selecteren die overeenkomt met de kant van de rijbaan van je Telraam.',
@@ -19,7 +19,7 @@ return [
     'backend-failed'                  => 'Backend mislukt',
     'problematic'                     => 'Problematisch',
     'not-installed'                   => 'Niet geïnstalleerd',
-    'no-active-found'                 => 'Nog geen actieve apparaten gedetecteerd',
+    'no-active-found'                 => 'Nog geen actieve toestellen gedetecteerd',
     'telraam-installations-location'  => 'Telraam installaties op deze locatie',
     'date'                            => 'Datum',
     'status'                          => 'Status',
@@ -28,7 +28,7 @@ return [
     'modal-split'                     => 'Modal split',
     'direction'                       => 'Richting',
     'quality_level_low_accuracy'      => 'De classificatienauwkeurigheid voor dit segment ligt onder de norm. Hoewel de totaaltellingen nog steeds redelijk betrouwbaar zouden moeten zijn, werken we actief aan verbeteringen.',
-    'quality_level_test_device'       => 'Dit is een testapparaat, dus de nauwkeurigheid kan lager zijn dan normaal.',
-    'quality_level_low_connectivity'  => 'We hebben connectiviteitsproblemen gedetecteerd. Dit kan van invloed zijn op het uploaden van gegevens en de prestaties van het apparaat',
-    'quality_level_hardware'          => 'We hebben een mogelijk hardware- of firmwareprobleem gedetecteerd. We zijn het aan het onderzoeken. Dit kan van invloed zijn op het uploaden van gegevens en de prestaties van het apparaat.',
+    'quality_level_test_device'       => 'Dit is een testtoestel, dus de nauwkeurigheid kan lager zijn dan normaal.',
+    'quality_level_low_connectivity'  => 'We hebben connectiviteitsproblemen gedetecteerd. Dit kan van invloed zijn op het uploaden van gegevens en de prestaties van het toestel',
+    'quality_level_hardware'          => 'We hebben een mogelijk hardware- of firmwareprobleem gedetecteerd. We zijn het aan het onderzoeken. Dit kan van invloed zijn op het uploaden van gegevens en de prestaties van het toestel.',
 ];

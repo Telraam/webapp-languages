@@ -7,7 +7,7 @@ return [
 
     'near-side' => 'Afstand paal tot straat',
     'width-street' => 'Breedte straat',
-    'mount-height' => 'Hoogte van het apparaat',
+    'mount-height' => 'Hoogte van het toestel',
 
 
     // 1. near side

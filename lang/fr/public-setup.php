@@ -56,6 +56,8 @@ Pour réinstaller cet appareil, veuillez',
     'device-installed-by-you' => 'L\'appareil est installé par vous',
     'device-installed-by-you-as-admin' => 'L\'appareil est installé en tant que configuration auto-administrée dans votre réseau',
 
+    'stopped' => 'Capteur arrêté',
+
     // faq
     'faq-user-link' => 'https://faq-fr.telraam.net/article/281/comment-puis-je-arreter-de-compter',
     'faq-user-text' => 'FAQ - Comment un utilisateur peut-il arrêter de compter ?',

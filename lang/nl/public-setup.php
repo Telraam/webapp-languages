@@ -17,7 +17,7 @@ return [
     'start-installation-title' => 'Start de installatie', //  install with device never used
 
     'ready-to-install' => 'Ben je klaar om het Telraam te installeren?',
-    'ready-to-install-two-options' => 'Hoe wilt u dit apparaat installeren?',
+    'ready-to-install-two-options' => 'Hoe wilt u dit toestel installeren?',
 
     'log-in' => 'Log in',
     'or' => 'of',
@@ -50,12 +50,14 @@ return [
     'want-to-install-as-network-admin-multiple-networks' => 'Gebruik deze optie om toestellen te registreren voor uw organisatie, openbare locaties of namens anderen.
 <br> U kunt op deze manier meerdere toestellen registreren.<br> Start installatie als netwerkbeheerd toestel.',
     'device-is-in-your-network' => 'Dit toestel bevindt zich in uw netwerk, maar is nog steeds actief geïnstalleerd door de gebruiker. <br>
-Om dit apparaat opnieuw te installeren, gelieve',
-    'device-is-in-your-network-remote-install' => 'Dit toestel bevindt zich in uw netwerk als een remote installatie. <br>Om dit apparaat opnieuw te installeren, gelieve',
+Om dit toestel opnieuw te installeren, gelieve',
+    'device-is-in-your-network-remote-install' => 'Dit toestel bevindt zich in uw netwerk als een remote installatie. <br>Om dit toestel opnieuw te installeren, gelieve',
     'stop-the-current-installation' => 'de huidige installatie te stoppen',
 
     'device-installed-by-you' => 'Het toestel was door u geïnstalleerd',
     'device-installed-by-you-as-admin' => 'Het toestel is geïnstalleerd als een zelfbeheerde installatie in uw netwerk',
+
+    'stopped' => 'Toestel gestopt',
 
     // faq
     'faq-user-link' => 'https://faq-nl.telraam.net/article/280/hoe-kan-ik-stoppen-met-tellen',

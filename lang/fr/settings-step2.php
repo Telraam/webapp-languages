@@ -76,4 +76,10 @@ Fermez maintenant tout à fait le porte-caméra, avec la pièce intermédiaire a
     'big-steps-3' => 'Connectez votre Telraam à votre wifi',
     'big-steps-4' => 'Entrez votre numéro de série Telraam',
 
+    'order-at-gotron-self-assemblage' => 'Vous avez du mal à trouver les pièces ? Commandez vos pièces chez <a href="https://www.gotron.be/je-wil-graag-weten-hoeveel-en-welk-verkeer-er-door-je-straat-komt.html" target="_blank">Gotron</a>. Gotron est un spécialiste belge de l\'électronique avec des services techniques.',
+    'gotron-title' => 'Commander chez Gotron',
+    'order-at-gotron-package' => 'Commandez votre Telraam ici chez <a href="https://www.gotron.be/telraampakket-pre-installed-version-voorafgemonteerd-en-flashed-sd-kaart.html" target="_blank">Gotron</a>.',
+    'link-gotron' => 'https://www.gotron.be/telraampakket-pre-installed-version-voorafgemonteerd-en-flashed-sd-kaart.html',
+    'btn-save-received-and-ready' => 'Ok, appareil Telraam reçu et prêt !',
+
 ];

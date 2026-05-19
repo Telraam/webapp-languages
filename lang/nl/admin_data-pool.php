@@ -34,7 +34,7 @@ return [
     'modal-cancel' => 'O nee, annuleren.',
 
     // Map
-    'counting-filter-label' => 'Toon alleen apparaten die nu aan het tellen zijn:',
+    'counting-filter-label' => 'Toon alleen toestellen die nu aan het tellen zijn:',
     'legend-unconfirmed' => 'Onbevestigd',
     'legend-confirmed' => 'Bevestigd',
     'legend-not-counting' => 'Telt niet',

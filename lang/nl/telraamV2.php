@@ -52,6 +52,7 @@ Met Telraam S2 gebeurt de classificatie van elk gedetecteerd object ter plaatse 
  naar de Telraam database.</p>',
 
     'section-features-block-title' => 'S2 firmware evolutie!',
+    'section-features-block7-title' => 'S2 firmware evolutie!',
     'section-features-block7-subtitle'     => 'Over the air updates',
     'section-features-block7-body' => '<p>De firmware van Telraam S2 evolueert nog steeds.
 Updates worden autonoom  \'over the air \' (OTA) uitgevoerd om ervoor te zorgen dat op het toestel altijd de laatste versie draait.

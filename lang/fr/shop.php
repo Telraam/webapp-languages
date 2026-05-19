@@ -93,7 +93,6 @@ return [
     'month' => 'mois',
     'free' => 'Gratuit',
     'make-private' => 'Rendre l\'installation privée',
-    'make-private-info' => 'Certains utilisateurs ou organisations peuvent souhaiter garder leurs données privées. <a href="https://faq-fr.telraam.net/article/332/puis-je-rendre-mes-donnees-privees">En savoir plus</a>'
-
-
+    'make-private-info' => 'Certains utilisateurs ou organisations peuvent souhaiter garder leurs données privées. <a href="https://faq-fr.telraam.net/article/332/puis-je-rendre-mes-donnees-privees">En savoir plus</a>',
+    'warning-professional' => 'Le deuxième lot de production est complètement épuisé.<br> Date d\'expédition estimée pour les commandes actuelles : mi-juillet 2023.',
 ];

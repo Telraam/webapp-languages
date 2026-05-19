@@ -69,9 +69,9 @@ return [
     'project-period' => 'Projectperiode',
     'project-period-info' => 'De start- en einddatum van het project worden bepaald door je Telraam-accountmanager en netwerkbeheerder. Je tracks (kandidaten werven, selectie, meetperiode en eventuele workshops) moeten binnen deze periode vallen. Alleen de accountmanager kan de projectperiode aanpassen.',
     'returning' => 'Retourneren',
-    'accepts-returning' => 'Netwerk accepteert de terugname van Telraam-apparaten',
+    'accepts-returning' => 'Netwerk accepteert de terugname van Telraam-toestellen',
     'return-address-placeholder' => 'Adres waar gebruikers hun Telraam kunnen terugbrengen',
-    'no-returning-procedure' => 'Geen retourprocedure voor de Telraam-apparaten',
+    'no-returning-procedure' => 'Geen retourprocedure voor de Telraam-toestellen',
     'support-arrangement' => 'Ondersteuningsregeling',
     'support-arrangement-placeholder' => 'Beschrijf of er een lokale held is, aanvullende ondersteuningskanalen,...',
     'support-arrangement-info' => 'Noteer hier hoe je te werk gaat voor technische ondersteuning. Is er iemand (een vrijwilliger?) die interventies doet bij deelnemers? Doe je dat zelf? Een specifieke afspraak met Telraam?',
@@ -94,7 +94,7 @@ return [
     'logo-network-info' => 'Logo netwerk / partner (bijv. gebruikt in e-mails, formaat .jpg of .png)',
 
     // Edit billing
-    'credits-info' => 'We werken met een eenvoudig creditsysteem om flexibiliteit te bieden voor nieuwe of inactieve apparaten in je netwerk. Credits worden maandelijks "in rekening gebracht" per actief apparaat.',
+    'credits-info' => 'We werken met een eenvoudig creditsysteem om flexibiliteit te bieden voor nieuwe of inactieve toestellen in je netwerk. Credits worden maandelijks "in rekening gebracht" per actief toestel.',
     'talk-to-add-credits' => 'Contacteer ons om meer credits toe te voegen',
     'lifelong-credits' => 'Levenslange credits',
     'used' => 'gebruikt',
@@ -105,11 +105,11 @@ return [
     'charged' => 'In rekening gebracht',
     'use' => 'Gebruik',
     'segments-count' => ':count straatstuk(ken)',
-    'active-devices-count' => ':count actief(ve) apparaat/apparaten',
+    'active-devices-count' => ':count actief(ve) toestel/toestellen',
     'not-enough-credits' => '! Niet genoeg credits',
-    'price-pro' => 'Pro: 5 credits/apparaat/maand',
-    'price-private' => 'Privé / 1min: 3 extra credits/apparaat/maand',
-    'price-lite' => 'Lite: 3 credits/apparaat/maand',
+    'price-pro' => 'Pro: 5 credits/toestel/maand',
+    'price-private' => 'Privé / 1min: 3 extra credits/toestel/maand',
+    'price-lite' => 'Lite: 3 credits/toestel/maand',
 
     // Batch mail
     'send-me-draft' => 'Stuur mij een concept',

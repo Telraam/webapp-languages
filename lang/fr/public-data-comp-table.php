@@ -24,6 +24,7 @@ return [
     'dashboard-feat-5' => 'Tendances',
     'dashboard-feat-6' => 'Données par intervalle de 15 minutes',
     'dashboard-feat-7' => 'Données par installation',
+    'dashboard-feat-7-info' => 'Lorsque plusieurs capteurs Telraam sont installés sur un même segment, la page publique affiche une moyenne. L\'accès avancé aux données permet de consulter exclusivement les données de votre propre capteur dans vos rapports.',
     'dashboard-feat-8' => 'Export de la "feuille de rue"',
     'dashboard-feat-9' => 'Accès API de base',
     'dashboard-feat-10' => 'Accès API avancé',

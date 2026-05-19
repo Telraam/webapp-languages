@@ -16,7 +16,7 @@ return [
     // S2 ROI
     'roi-loading-title' => 'Laden...',
     'roi-loading-text' => '
-Je S2-apparaat wordt gereset naar de volledige groothoekweergave. We downloaden hierbij een afbeelding om je te helpen bij het selecteren van je ROI.
+Je S2-toestel wordt gereset naar de volledige groothoekweergave. We downloaden hierbij een afbeelding om je te helpen bij het selecteren van je ROI.
 <br>Aangezien het S2 toestel een trage IoT verbinding heeft, kan dit 30 tot 90 seconden duren. Zorg ervoor dat u doorgaat en een van de voorgedefinieerde ROI-instellingen selecteert.',
 
     'roi-loaded-title' => 'Zoom selecteren',
@@ -30,7 +30,7 @@ Elk vierkant vertegenwoordigt een mogelijke zoom voor de S2.<br>
     'roi-focus-on-center' => 'Focus op centrum',
     'roi-focus-on-bottom' => 'Focus op onderkant',
 
-    'what-are-the-camera-images-S2' => 'Telraam S2-apparaten zijn robuust gebouwd, met een vaste camera, wat betekent dat er geen reden is om het gezichtsveld dagelijks te controleren
+    'what-are-the-camera-images-S2' => 'Telraam S2-toestellen zijn robuust gebouwd, met een vaste camera, wat betekent dat er geen reden is om het gezichtsveld dagelijks te controleren
 nadat het initiële interessegebied (ROI) automatisch door de camera of handmatig door de gebruiker of netwerkbeheerder is ingesteld. Alleen het laatste ROI-beeld wordt opgeslagen en maximaal 1 jaar bewaard.<br>
     <a href="https://faq.telraam.net/article/30/background-image-">Lees meer info op onze faq</a>',
 

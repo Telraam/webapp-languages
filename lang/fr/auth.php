@@ -14,6 +14,7 @@ return [
     */
 
     'failed' => 'Ces données ne correspondent pas avec notre base de données.',
+    'password' => 'Le mot de passe fourni est incorrect.',
     'throttle' => 'Trop de tentatives. Réessayez dans :seconds secondes.',
 
     'reset_password_subject' => 'Réinitialisation de mot de passe',

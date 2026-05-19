@@ -60,4 +60,7 @@ return [
     'login' => 'Se connecter',
     'dashboard' => 'Tableau de bord',
     'export' => 'Exporter vos données',
+    'nav-jobs' => 'Emplois',
+    'nav-about-us' => 'À propos',
+    'nav-contact-us' => 'Contact',
 ];

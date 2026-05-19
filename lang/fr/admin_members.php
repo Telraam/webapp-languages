@@ -36,4 +36,7 @@ return [
     'level' => 'Niveau',
     'cancel' => 'Annuler',
     'add' => 'Ajouter',
+    'is-spoc' => 'Point de contact unique (SPOC)',
+    'is-spoc-hint' => 'Le SPOC est la personne de contact principale pour ce réseau et recevra des notifications lorsque les crédits d\'abonnement du réseau approchent de leur limite.',
+    'spoc' => 'SPOC',
 ];

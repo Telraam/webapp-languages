@@ -47,4 +47,12 @@ installer votre appareil Telraam, rejoindre un réseau ou utiliser l\'API.',
 
     // register page used as invite link
     'invite-token-success' => 'Bienvenu, vous êtes invité à rejoindre un réseau d\'administrateurs.',
+
+    'mobile' => 'Numéro de téléphone',
+    'confirm' => 'Confirmer',
+    'avatar' => 'Avatar',
+    'bio' => 'Biographie',
+    'typeofdevice' => 'Type d\'appareil',
+    'selecttypeofdevice' => 'Veuillez sélectionner le type d\'appareil que vous souhaitez installer',
+
 ];

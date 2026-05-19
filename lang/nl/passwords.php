@@ -13,6 +13,7 @@ return [
     'password' => 'Wachtwoord moet minimaal 8 tekens lang zijn en de wachtwoorden moeten overeenkomen.',
     'reset'    => 'Het wachtwoord van je account is gewijzigd.',
     'sent'     => 'We hebben een e-mail verstuurd met instructies om een nieuw wachtwoord in te stellen.',
+    'throttled' => 'Wacht even voor je het opnieuw probeert.',
     'token'    => 'Dit wachtwoordhersteltoken is niet geldig.',
     'user'     => 'Geen gebruiker bekend met het e-mailadres.',
 ];

@@ -28,6 +28,16 @@ return [
     'talks-avatar-info' => 'Avatar utilisé sur le <a href="http://talks.telraam.net/" target="_blank">Telraam Talks forum</a>',
     'talks-bio-info' => 'Bio utilisée sur le <a href="http://talks.telraam.net/" target="_blank">Telraam Talks forum</a>',
 
+    'cancel' => 'Annuler',
 
+    // webhook / mail checks
+    'automatic-mails' => 'E-mails automatiques',
+    'automatic-mails-note' => 'Définissez quand vous souhaitez recevoir une notification sur l\'activité (ou l\'inactivité) de votre propre capteur',
+    'mail_non_active_1day' => 'E-mail envoyé après un jour d\'inactivité',
+    'mail_non_active_1week' => 'E-mail envoyé après une semaine d\'inactivité',
+    'mail_non_active_2weeks' => 'E-mail envoyé après deux semaines d\'inactivité',
+    'mail_non_active_3weeks' => 'E-mail envoyé après trois semaines d\'inactivité',
+    'mail_non_active_4weeks' => 'E-mail envoyé après quatre semaines d\'inactivité',
+    'mail_active_after_being_non_active' => 'E-mail envoyé lorsque le capteur a recommencé à compter',
 
 ];
