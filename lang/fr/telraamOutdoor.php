@@ -74,12 +74,13 @@ L\'enregistrement d\'une Telraam S2 Outdoor sur telraam.net n\'est pas différen
   Nous avons créé un <a href="https://faq-fr.telraam.net/article/373/directives-dinstallation-pour-telraam-s2-outdoor" target="_blank">article FAQ</a> dédié
  à la version extérieure, avec des exemples. Nous avons également développé <a href="/fr/outdoor-placement-tool" target="_blank">un outil convivial</a> pour évaluer votre emplacement par rapport aux exigences.',
 
-    'question-2'        => 'Quel est le coût ?',
- 	'answer-2'          => 'Le prix du capteur est nettement plus élevé par rapport au modèle Telraam S2 pour l\'intérieur. Le panneau solaire n\'est pas inclus dans notre offre et peut être acheté à un prix supplémentaire, uniquement en Belgique. Nous ne livrons pas le kit solaire + batterie à l\'international.',
 
- 	'question-3'        => 'L\'appareil est-il complètement autonome en énergie ?',
- 	'answer-3'          => 'Presque. Vous pouvez obtenir 100% d\'autonomie avec un grand panneau solaire et une batterie, mais il y a un compromis
+ 	'question-2'        => 'L\'appareil est-il complètement autonome en énergie ?',
+ 	'answer-2'          => 'Presque. Vous pouvez obtenir 100% d\'autonomie avec un grand panneau solaire et une batterie, mais il y a un compromis
  	 raisonnable entre la taille de la batterie, du panneau solaire et le coût. Nous pensons avoir trouvé le bon équilibre pendant la phase de prototype.',
+
+    'question-3'        => 'Quel est le coût ?',
+    'answer-3'          => 'L\'appareil Telraam S2 Outdoor coûte 750 €. De plus, il nécessite un abonnement réseau, qui coûte 25 € par mois. Pour plus d\'informations sur les abonnements, consultez <a href="../fr/pricing">notre page Tarifs</a>.',
 
     'question-4' => 'Comment commander un Telraam S2 Outdoor ?',
     'answer-4' => 'Vous pouvez commander un Telraam S2 Outdoor en remplissant notre <a href="../fr/contact-us">formulaire de contact</a> ou en nous contactant à l\'adresse <a href="mailto:info@telraam.net">info@telraam.net</a>.',
