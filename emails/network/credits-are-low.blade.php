@@ -16,28 +16,21 @@
             <tr>
                 <td align="left" valign="top">
 
-                    @if($user)
-                        {!! __('email-roi.addressing') !!} {{ $user->firstname }},
-                    @else
-                        {!! __('email-roi.addressing') !!}
+                    @if($user->firstname)
+                        {!! __('email-network-credits-low.addressing') !!} {{ $user->firstname }},
                     @endif
                     <br><br>
-                    {!! __('email-roi.body') !!}
-                    <br><br>
-                    <div class="text-center">
-                        @if($user)
-                            <a href="https://telraam.net/{{ $locale }}/admin/{!! $network->slug!!}/camera-images/roi" class="button big">
-                                {!! __('email-roi.button') !!}
-                            </a>
-                        @else
-                            <a href="https://telraam.net/en/admin/{{ $network->slug }}/users" class="button big">{!! __('email-roi.button') !!}</a>
-                        @endif
-                    </div>
-
-                    <br><br>
-                    {!! __('email-roi.body-2') !!}
+                    {!! __('email-network-credits-low.body') !!}
                     <br>
 
+                    {!! __('email-network-credits-low.body-network-manager-is') !!}
+                    <a href="mailto:{{ $network->telraamManager->email }}">
+                        {{ $network->telraamManager->firstname }}
+                        {{ $network->telraamManager->lastname }}
+                    </a>.
+                    {!! __('email-network-credits-low.body-credits-are-at') !!}
+                        <a href="{{ url('/') }}/en/admin/{{ $network->slug }}/network-config/edit">{{ $network->credits_left }}</a>
+                    <br>
                 </td>
             </tr>
 

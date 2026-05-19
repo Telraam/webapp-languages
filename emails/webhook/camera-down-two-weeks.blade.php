@@ -14,12 +14,12 @@
                 @endif
 
                 <tr>
-                    <td align="left" valign="top">
+                    <td align="left" valign="top" style="text-align: left">
 
                         @if ($language == 'NL')
                             Beste {{ $toFirstname }},<br>
                             <br><br>
-                            <strong>Je Telraam is gestopt met het tellen van verkeer op <a href="https://telraam.net/nl/location/{{ $segmentId }}/{{ $dateFrom }}/{{ $dateTo }}"> {{ $street }}</a></strong>.<br>
+                            <strong>Je Telraam is gestopt met het tellen van verkeer op <a href="https://telraam.net/nl/location/{{ $segmentId }}"> {{ $street }}</a></strong>.<br>
                             <br>
                             We willen je graag helpen om je toestel weer actief te maken.<br>
 
@@ -27,12 +27,10 @@
                             <h4>Meer hulp nodig met uw toestel?</h4>
                             We delen hier de artikels die je kan gebruiken om je toestel weer actief te krijgen:
                             <li>Met een Telraam v1, klik op deze link om het te lezen:
-                            <a href="https://faq-nl.helpspace-docs.io/article/111/mijn-telraam-telt-niet-meer">“Mijn Telraam telt niet meer”</a>
+                            <a href="https://faq-nl.telraam.net/article/111/mijn-telraam-telt-niet-meer">“Mijn Telraam telt niet meer”</a>
                             </li>
                             <li>Beschik je over een Telraam S2, lees meer hier:
-                                <a href="https://faq-nl.helpspace-docs.io/article/207/probleemoplossing-met-de-s2">“Probleemoplossing met S2”</a>
-                            </li>
-                             <li>Beschik je over een Telraam S2 Outdoor, neem contact op met <a href="mailto:support@telraam.net">support@telraam.net</a>:
+                                <a href="https://faq-nl.telraam.net/article/207/probleemoplossing-met-de-s2">“Probleemoplossing met S2”</a>
                             </li>
                             </ul>
                             Telt je Telraam niet meer omdat het (herhaaldelijk) van het raam valt. Dan raden we je aan om de meegeleverde tape door dubbelzijdige foamtape te vervangen.<br>
@@ -68,7 +66,7 @@
                         @elseif ($language == 'FR')
                             Cher(e) {{ $toFirstname }},<br>
                             <br><br>
-                            <strong>Votre Telraam a cessé de compter le trafic à <a href="https://telraam.net/fr/location/{{ $segmentId }}/{{ $dateFrom }}/{{ $dateTo }}">{{ $street }}</a>.</strong><br>
+                            <strong>Votre Telraam a cessé de compter le trafic à <a href="https://telraam.net/fr/location/{{ $segmentId }}">{{ $street }}</a>.</strong><br>
                             <br>
                             Nous aimerions vraiment vous aider à résoudre aucun problème en réactivant votre appareil ou en mettant à jour le profil
                             de votre compte.<br>
@@ -79,12 +77,10 @@
                             Nous vous avons déjà envoyé des liens vers des conseils pour remettre votre appareil en service.
                             Pour votre information, voici le liens:
                             <ul>
-                            <li>Si vous avez un Telraam v1, vous suivez les instructions ici: <a href="https://faq-fr.helpspace-docs.io/article/191/ma-telraam-ne-compte-plus">"Ma
+                            <li>Si vous avez un Telraam v1, vous suivez les instructions ici: <a href="https://faq-fr.telraam.net/article/191/ma-telraam-ne-compte-plus">"Ma
                                     Telraam ne compte plus".</a>
                             </li>
-                            <li>Avec un Telraam S2, vous trouvez plus d'infos ici: <a href="https://faq-fr.helpspace-docs.io/article/208/resolution-des-problemes-avec-le-s2">"Résolution des problèmes avec le S2".</a><
-                            </li>
-                            <li>Si vous avez un Telraam S2 Outdoor, contactez <a href="mailto:support@telraam.net">support@telraam.net</a>:
+                            <li>Avec un Telraam S2, vous trouvez plus d'infos ici: <a href="https://faq-fr.telraam.net/article/208/resolution-des-problemes-avec-le-s2">"Résolution des problèmes avec le S2".</a><
                             </li>
                             </ul>
                             Est-ce que votre Telraam compte plus parce qu'il tombe de la fenêtre (à plusieurs reprises). Dans ce cas, nous vous conseillons de remplacer le scotch fourni par du ruban mousse double face.<br>
@@ -123,7 +119,7 @@
                         @else
                             Dear {{ $toFirstname }},<br>
                             <br><br>
-                            <strong>Your Telraam has stopped counting traffic for <a href="https://telraam.net/en/location/{{ $segmentId }}/{{ $dateFrom }}/{{ $dateTo }}">{{ $street }}</a>.</strong><br>
+                            <strong>Your Telraam has stopped counting traffic for <a href="https://telraam.net/en/location/{{ $segmentId }}">{{ $street }}</a>.</strong><br>
                             <br>
                             We’d really like to help you resolve this issue by getting your device active again.<br>
                             <br>
@@ -133,12 +129,10 @@
                             We’ve previously sent you links to instructions for getting your device counting again. In case you need themn, you can find them here:
                              <ul>
                             <li>If you have a Telraam v1 device, follow the step by step instructions here:
-                                <a href="https://telraam.helpspace-docs.io/article/51/my-telraam-isnt-counting-anymore">“My Telraam isn't counting anymore“</a>
+                                <a href="https://faq.telraam.net/article/51/my-telraam-isnt-counting-anymore">“My Telraam isn't counting anymore“</a>
                             </li>
                             <li>If you have a Telraam S2 device, you can read more here:
-                                <a href="https://telraam.helpspace-docs.io/article/206/troubleshooting-with-the-s2">“Troubleshooting with the S2“</a>
-                            </li>
-                            <li>If you have a Telraam S2 Outdoor, contact <a href="mailto:support@telraam.net">support@telraam.net</a>:
+                                <a href="https://faq.telraam.net/article/206/troubleshooting-with-the-s2">“Troubleshooting with the S2“</a>
                             </li>
                        	    </ul>
                        	    Does your Telraam no longer count because it falls off the window (repeatedly). If so, we recommend replacing the supplied tape with double-sided foam tape.<br>

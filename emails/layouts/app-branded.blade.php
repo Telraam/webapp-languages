@@ -146,10 +146,19 @@
               background-size: 36px 36px;
               margin-right: 10px;
           }
+          .icon.icon-night {
+              background: url(https://telraam.net/images/icons/mobility/night.svg);
+              width: 36px;
+              padding-top: 36px;
+              background-size: 36px 36px;
+              margin-right: 10px;
+          }
+
           .icon.icon-pedestrian,
           .icon.icon-bike,
           .icon.icon-car,
-          .icon.icon-lorry {
+          .icon.icon-lorry,
+          .icon.icon-night {
               float:left;
               position: relative;
               top: -3px;
@@ -157,7 +166,8 @@
           .icon.icon-pedestrian.small,
           .icon.icon-bike.small,
           .icon.icon-car.small,
-          .icon.icon-lorry.small {
+          .icon.icon-lorry.small,
+          .icon.icon-night.small {
               width: 16px;
               padding-top: 16px;
               background-size: 16px 16px;
@@ -178,6 +188,59 @@
           }
           table.top-numbers th {
               background-color: #fafafa;
+          }
+          <!-- for network digest -->
+          .col-desk-1 {
+              display: block;
+              float: left;
+              width: 8.3333333333%;
+              padding-right: 3.2258064516%;
+          }
+          .col-desk-3 {
+              display: block;
+              float: left;
+              width: 25%;
+          }
+          .col-desk-8 {
+              display: block;
+              float: left;
+              width: 66.6666666667%;
+              padding-right: 3.2258064516%;
+          }
+          h4 {
+              margin-top: 10px;
+              font-size: 14px;
+              line-height: 20px;
+              color: #A0D5D8;
+              letter-spacing: 2px;
+              text-transform: uppercase;
+          }
+          .existing-user-candidate {
+              margin-top: 15px;
+          }
+          .big-number {
+              font-size: 45px;
+              font-weight: 800;
+              float: left;
+              text-align: center;
+              color: #6c6c6c;
+              padding: 10px;
+              width: 35%;
+          }
+          .action {
+              color: #6c6c6c;
+              font-size: 14px;
+          }
+          .timeline-date {
+              font-size: 14px;
+              color: #868686;
+          }
+          .label-info {
+              font-size: 9px;
+              color: #6c6c6c;
+              padding: 4px 10px;
+              background: #f5f5f5;
+              border-radius: 3px;
           }
         </style>
     </head>
@@ -203,6 +266,15 @@
                       <tr>
                           <td align="center" valign="top">
                               <table border="0" cellpadding="20" cellspacing="0" width="100%" id="emailFooter">
+                                  @if(isset($user))
+                                      @if($user)
+                                      <tr>
+                                          <td  valign="top" style="font-size:10px; line-height: 13px; text-align:center;">
+                                              <a href="{{ url('/') }}/{{ $user->lang }}/mailing-manage-subscription/{{ $user->token }}" style="color:#1B8C63; font-size: 10px;"> {{ __('mailing-manage-subscription.footer-mail-link') }}</a>
+                                          </td>
+                                      </tr>
+                                      @endif
+                                  @endif
                                   <tr>
                                       <td  valign="top" style="font-size:15px; line-height: 13px; text-align:center;">
                                           <a style="color:#1B8C63;" href="https://telraam.net">https://telraam.net</a>

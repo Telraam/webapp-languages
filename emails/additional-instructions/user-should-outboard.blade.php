@@ -16,26 +16,23 @@
             <tr>
                 <td align="left" valign="top">
 
-                    @if($user)
-                        {!! __('email-roi.addressing') !!} {{ $user->firstname }},
-                    @else
-                        {!! __('email-roi.addressing') !!}
-                    @endif
-                    <br><br>
-                    {!! __('email-roi.body') !!}
-                    <br><br>
+                    {!! __('email-outboard.addressing') !!},<br>
+                    <br>
+                    {!! __('email-outboard.body-1') !!}
+                    {!! __('email-outboard.body-2a') !!} {{ $mac }}
+                    {!! __('email-outboard.body-2b') !!} {{ $user->firstname }}  {{ $user->lastname }}. <br>
+                    <br>
+                    {!! __('email-outboard.body-3') !!}<br>
                     <div class="text-center">
-                        @if($user)
-                            <a href="https://telraam.net/{{ $locale }}/admin/{!! $network->slug!!}/camera-images/roi" class="button big">
-                                {!! __('email-roi.button') !!}
-                            </a>
-                        @else
-                            <a href="https://telraam.net/en/admin/{{ $network->slug }}/users" class="button big">{!! __('email-roi.button') !!}</a>
-                        @endif
+                        <a href="{{ url('/') }}/{{ $locale }}/camera-outage-backing/{{ $user->token }}" class="button big" style="background: #1B8C63" >
+                            {!! __('email-outboard.button') !!}
+                        </a>
                     </div>
 
                     <br><br>
-                    {!! __('email-roi.body-2') !!}
+                    {!! __('email-outboard.body-4') !!} <a href="{{ $network->default_email_address }}">{{ $network->default_email_address }}</a><br>
+                    <br>
+                    {!! __('email-outboard.body-5') !!}<br>
                     <br>
 
                 </td>

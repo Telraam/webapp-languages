@@ -14,13 +14,13 @@
             @endif
 
             <tr>
-                <td align="left" valign="top">
+                <td align="left" valign="top" style="text-align: left">
 
                     @if ($language == 'NL')
                         Beste {{ $toFirstname }},<br>
                         <br><br>
                         <strong>Je Telraam stuurt weer teldata door en deze zullen dadelijk weer te zien zijn in
-                        <a href="https://telraam.net/nl/location/{{ $segmentId }}/{{ $dateFrom }}/{{ $dateTo }}"> je dashboard</a></strong>.<br>
+                        <a href="https://telraam.net/nl/location/{{ $segmentId }}"> je dashboard</a></strong>.<br>
                         <br>
                         Je kreeg recent een bericht van ons met de melding dat er een probleem was met (de verbinding van) je toestel.
                         We zijn blij om mee te delen dat dit probleem opgelost lijkt.<br>
@@ -39,7 +39,7 @@
                         Cher(e) {{ $toFirstname }},<br>
                         <br><br>
                         <strong>Votre Telraam nous envoie des données de comptage et celles-ci seront bientôt disponibles
-                        <a href="https://telraam.net/fr/location/{{ $segmentId }}/{{ $dateFrom }}/{{ $dateTo }}"> sur votre tableau de bord</a></strong>.<br>
+                        <a href="https://telraam.net/fr/location/{{ $segmentId }}"> sur votre tableau de bord</a></strong>.<br>
                         <br>
                         Nous vous avons récemment contacté pour vous informer qu'il y avait un problème avec la connexion de votre appareil.
                         Nous sommes très heureux de vous informer que ce problème semble être résolu.<br>
@@ -58,7 +58,7 @@
                         Dear {{ $toFirstname }},<br>
                         <br><br>
                         <strong>Your Telraam device is sending traffic count data again and this will shortly be available on your
-                        <a href="https://telraam.net/en/location/{{ $segmentId }}/{{ $dateFrom }}/{{ $dateTo }}">dashboard</a> </strong>. <br>
+                        <a href="https://telraam.net/en/location/{{ $segmentId }}">dashboard</a> </strong>. <br>
                         <br>
                         We recently contacted to let you know that there appeared to be an issue with your device’s connection,
                         and we’re very happy to let you know that this appears to be resolved.<br>
