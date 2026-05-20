@@ -1,6 +1,19 @@
 @extends('emails.layouts.app-branded')
 @section('content')
 
+@php
+    $faqV1 = match(strtoupper($language)) {
+        'NL' => 'https://faq-nl.telraam.net/article/111/mijn-telraam-telt-niet-meer',
+        'FR' => 'https://faq-fr.telraam.net/article/191/ma-telraam-ne-compte-plus',
+        default => 'https://faq.telraam.net/article/51/my-telraam-isnt-counting-anymore',
+    };
+    $faqS2 = match(strtoupper($language)) {
+        'NL' => 'https://faq-nl.telraam.net/article/207/probleemoplossing-met-de-s2',
+        'FR' => 'https://faq-fr.telraam.net/article/208/resolution-des-problemes-avec-le-s2',
+        default => 'https://faq.telraam.net/article/206/troubleshooting-with-the-s2',
+    };
+@endphp
+
     <tr>
         <td align="left" valign="top">
             <table border="0" cellpadding="20" cellspacing="0" width="100%" id="emailBody">
@@ -30,10 +43,10 @@
                             <h4>Meer hulp nodig met uw toestel?</h4>
                            We delen hier de artikels die je kan gebruiken om je toestel weer actief te krijgen:
                             <li>Met een Telraam v1, klik op deze link om het te lezen:
-                            <a href="https://faq-nl.telraam.net/article/111/mijn-telraam-telt-niet-meer">“Mijn Telraam telt niet meer”</a>
+                            <a href=”{{ $faqV1 }}”>”Mijn Telraam telt niet meer”</a>
                             </li>
                             <li>Beschik je over een Telraam S2, lees meer hier:
-                                <a href="https://faq-nl.telraam.net/article/207/probleemoplossing-met-de-s2">“Probleemoplossing met S2”</a>
+                                <a href=”{{ $faqS2 }}”>”Probleemoplossing met S2”</a>
                             </li>
                             </ul>
                             Telt je Telraam niet meer omdat het (herhaaldelijk) van het raam valt. Dan raden we je aan om de meegeleverde tape door dubbelzijdige foamtape te vervangen.<br>
@@ -69,7 +82,7 @@
                         @elseif ($language == 'FR')
                             Cher(e) {{ $toFirstname }},<br>
                             <br><br>
-                            <strong>Votre Telraam a cessé de compter le trafic à <a href="https://telraam.net/fr/location/{{ $segmentId }}/{{ $dateFrom }}/{{ $dateTo }}">{{ $street }}</a>.</strong><br>
+                            <strong>Votre Telraam a cessé de compter le trafic à <a href="https://telraam.net/fr/location/{{ $segmentId }}">{{ $street }}</a>.</strong><br>
                             <br>
                             Nous ne voulons pas vous importuner avec des nombreuses alertes.
                             Ceci est <strong>la dernière alerte automatique</strong> concernant votre dispositif étant hors ligne.<br>
@@ -83,10 +96,10 @@
                             Nous vous avons déjà envoyé des liens vers des conseils pour remettre votre appareil en service.
                             Pour votre information, voici le liens:
                             <ul>
-                            <li>Si vous avez un Telraam v1, vous suivez les instructions ici: <a href="https://faq-fr.telraam.net/article/191/ma-telraam-ne-compte-plus">"Ma
+                            <li>Si vous avez un Telraam v1, vous suivez les instructions ici: <a href="{{ $faqV1 }}">"Ma
                                     Telraam ne compte plus".</a>
                             </li>
-                            <li>Avec un Telraam S2, vous trouvez plus d'infos ici: <a href="https://faq-fr.telraam.net/article/208/resolution-des-problemes-avec-le-s2">"Résolution des problèmes avec le S2".</a><
+                            <li>Avec un Telraam S2, vous trouvez plus d'infos ici: <a href="{{ $faqS2 }}">"Résolution des problèmes avec le S2".</a><
                             </li>
                             </ul>
                             Est-ce que votre Telraam compte plus parce qu'il tombe de la fenêtre (à plusieurs reprises). Dans ce cas, nous vous conseillons de remplacer le scotch fourni par du ruban mousse double face.<br>
@@ -122,10 +135,100 @@
                             L'équipe Telraam<br>
 
 
+                        @elseif ($language == 'DE')
+                            Liebe(r) {{ $toFirstname }},<br>
+                            <br><br>
+                            <strong>Ihr Telraam hat aufgehört, den Verkehr auf <a href="https://telraam.net/en/location/{{ $segmentId }}">{{ $street }}</a> zu zählen.</strong><br>
+                            <br>
+                            Wir möchten Sie nicht mit Benachrichtigungen überhäufen. Dies ist die <strong>letzte automatische Benachrichtigung</strong> bezüglich Ihres
+                            Geräts, das offline ist.<br>
+                            <br>
+                            Wir würden Ihnen wirklich gerne helfen, dieses Problem zu lösen, indem wir Ihr Gerät wieder aktiv machen.<br>
+                            <br>
+
+                            <h4>Benötigen Sie mehr Hilfe mit Ihrem Gerät?</h4>
+
+                           Wir haben Ihnen bereits Links mit Anweisungen geschickt, um Ihr Gerät wieder zum Zählen zu bringen. Falls Sie diese benötigen, finden Sie sie hier:
+                             <ul>
+                                <li>Wenn Sie ein Telraam v1-Gerät haben, folgen Sie den Schritt-für-Schritt-Anweisungen hier:
+                                    <a href="{{ $faqV1 }}">"Mein Telraam zählt nicht mehr"</a>
+                                </li>
+                                <li>Wenn Sie ein Telraam S2-Gerät haben, können Sie hier mehr erfahren:
+                                    <a href="{{ $faqS2 }}">"Fehlerbehebung mit dem S2"</a>
+                                </li>
+                       	        </ul>
+                       	        Zählt Ihr Telraam nicht mehr, weil es (wiederholt) vom Fenster fällt? In diesem Fall empfehlen wir, das mitgelieferte Klebeband durch doppelseitiges Schaumstoffklebeband zu ersetzen.<br>
+                                <br>
+                                Wenn dies Ihr Problem nicht gelöst hat, würden wir wirklich gerne von Ihnen hören. Schreiben Sie uns bitte an <a href="mailto:support@telraam.net">support@telraam.net</a> und wir werden so viel Rat wie möglich geben.<br>
+                                <br>
+                                <h4>Entschieden, mit dem Zählen aufzuhören?</h4>
+
+                                Die Gemeinschaft der Telraam-Gerätebesitzer wächst ständig, aber wir verstehen, dass sich die Umstände
+                                ändern und nicht jeder, der sich anmeldet, den Verkehr in seiner Gegend weiterhin zählen kann.<br>
+                                <br>
+                                Wenn Sie Ihren Standort als inaktiv setzen und unsere E-Mails nicht mehr erhalten möchten,
+                                teilen Sie uns dies bitte mit, indem Sie <a href="{{ url('/') }}/en/camera-outage-backing/{{ $userToken }}">dieses kurze Formular</a> ausfüllen.<br>
+                                <br>
+                                Wenn wir nichts von Ihnen hören, versucht das Telraam-Team möglicherweise, direkt Kontakt aufzunehmen, um sicherzustellen, dass wir die richtigen Kontaktdaten für Sie und Ihr Gerät haben.
+                                Uns liegt Ihre Privatsphäre am Herzen sowie die Integrität der Verkehrsprojekte, an denen wir gemeinsam arbeiten, daher möchten wir sicherstellen,
+                                dass wir die beste Maßnahme für alle Beteiligten ergreifen.<br>
+                                <br>
+                                <h4>Vielen Dank!</h4>
+                                Wir hoffen, dass wir weiterhin auf Ihre Unterstützung bei der Verkehrszählung zählen können, aber wenn Sie entschieden haben zu gehen, möchten wir Ihnen für Ihre Beteiligung danken
+                                und Ihnen und Ihrer Gemeinschaft alles Gute für die Zukunft wünschen.<br>
+                                <br>
+                                Mit freundlichen Grüßen,<br>
+                                Team Telraam<br>
+
+                        @elseif ($language == 'ES')
+                            Estimado/a {{ $toFirstname }},<br>
+                            <br><br>
+                            <strong>Su Telraam ha dejado de contar el tráfico en <a href="https://telraam.net/en/location/{{ $segmentId }}">{{ $street }}</a>.</strong><br>
+                            <br>
+                            No queremos molestarle con alertas, por lo que esta es la <strong>última alerta automática</strong> sobre su
+                            dispositivo que está offline.<br>
+                            <br>
+                            Nos gustaría mucho ayudarle a resolver este problema reactivando su dispositivo.<br>
+                            <br>
+
+                            <h4>¿Necesita más ayuda con su dispositivo?</h4>
+
+                           Anteriormente le enviamos enlaces con instrucciones para que su dispositivo vuelva a contar. En caso de que los necesite, puede encontrarlos aquí:
+                             <ul>
+                                <li>Si tiene un dispositivo Telraam v1, siga las instrucciones paso a paso aquí:
+                                    <a href="{{ $faqV1 }}">"Mi Telraam ya no cuenta"</a>
+                                </li>
+                                <li>Si tiene un dispositivo Telraam S2, puede leer más aquí:
+                                    <a href="{{ $faqS2 }}">"Solución de problemas con el S2"</a>
+                                </li>
+                       	        </ul>
+                       	        ¿Su Telraam ha dejado de contar porque se cae de la ventana (repetidamente)? En ese caso, le recomendamos reemplazar la cinta adhesiva suministrada por cinta de espuma de doble cara.<br>
+                                <br>
+                                Si esto no ha resuelto su problema, escríbanos a <a href="mailto:support@telraam.net">support@telraam.net</a> y le daremos el mayor asesoramiento posible.<br>
+                                <br>
+                                <h4>¿Ha decidido dejar de contar?</h4>
+
+                                La comunidad de usuarios de dispositivos Telraam crece constantemente, pero entendemos que las circunstancias
+                                cambian y no todos los que se registran pueden seguir contando el tráfico en su zona.<br>
+                                <br>
+                                Si desea establecer su ubicación como inactiva y dejar de recibir nuestros correos electrónicos,
+                                háganos saber rellenando <a href="{{ url('/') }}/en/camera-outage-backing/{{ $userToken }}">este breve formulario</a>.<br>
+                                <br>
+                                Si no sabemos nada de usted, el equipo de Telraam puede intentar ponerse en contacto directamente para asegurarse de que tenemos los datos de contacto correctos para usted y su dispositivo.
+                                Nos preocupamos por su privacidad y también por la integridad de los proyectos de tráfico en los que trabajamos juntos, por lo que queremos asegurarnos de
+                                tomar la mejor medida para todos los involucrados.<br>
+                                <br>
+                                <h4>¡Gracias!</h4>
+                                Esperamos poder seguir contando con su apoyo para recopilar conteos de tráfico, pero si ha decidido irse, queremos agradecerle su participación
+                                y desearle a usted y a su comunidad todo lo mejor para el futuro.<br>
+                                <br>
+                                Atentamente,<br>
+                                Team Telraam<br>
+
                         @else
                             Dear {{ $toFirstname }},<br>
                             <br><br>
-                            <strong>Your Telraam has stopped counting traffic for <a href="https://telraam.net/en/location/{{ $segmentId }}/{{ $dateFrom }}/{{ $dateTo }}">{{ $street }}</a>.</strong><br>
+                            <strong>Your Telraam has stopped counting traffic for <a href="https://telraam.net/en/location/{{ $segmentId }}">{{ $street }}</a>.</strong><br>
                             <br>
                             We don’t want to pester you with alerts, so this is the <strong>final automated alert</strong> regarding your
                             device being offline.<br>
@@ -138,10 +241,10 @@
                            We’ve previously sent you links to instructions for getting your device counting again. In case you need themn, you can find them here:
                              <ul>
                             <li>If you have a Telraam v1 device, follow the step by step instructions here:
-                                <a href="https://faq.telraam.net/article/51/my-telraam-isnt-counting-anymore">“My Telraam isn't counting anymore“</a>
+                                <a href=”{{ $faqV1 }}”>”My Telraam isn't counting anymore”</a>
                             </li>
                             <li>If you have a Telraam S2 device, you can read more here:
-                                <a href="https://faq.telraam.net/article/206/troubleshooting-with-the-s2">“Troubleshooting with the S2“</a>
+                                <a href=”{{ $faqS2 }}”>”Troubleshooting with the S2”</a>
                             </li>
                        	    </ul>
                        	    Does your Telraam no longer count because it falls off the window (repeatedly). If so, we recommend replacing the supplied tape with double-sided foam tape.<br>

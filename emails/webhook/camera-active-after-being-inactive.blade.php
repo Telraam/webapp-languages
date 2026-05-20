@@ -20,7 +20,7 @@
                         Beste {{ $toFirstname }},<br>
                         <br><br>
                         <strong>Je Telraam stuurt weer teldata door en deze zullen dadelijk weer te zien zijn in
-                        <a href="https://telraam.net/nl/location/{{ $segmentId }}"> je dashboard</a></strong>.<br>
+                        <a href="https://telraam.net/nl/location/{{ $segmentId }}">je dashboard</a></strong>.<br>
                         <br>
                         Je kreeg recent een bericht van ons met de melding dat er een probleem was met (de verbinding van) je toestel.
                         We zijn blij om mee te delen dat dit probleem opgelost lijkt.<br>
@@ -39,7 +39,7 @@
                         Cher(e) {{ $toFirstname }},<br>
                         <br><br>
                         <strong>Votre Telraam nous envoie des données de comptage et celles-ci seront bientôt disponibles
-                        <a href="https://telraam.net/fr/location/{{ $segmentId }}"> sur votre tableau de bord</a></strong>.<br>
+                        <a href="https://telraam.net/fr/location/{{ $segmentId }}">sur votre tableau de bord</a></strong>.<br>
                         <br>
                         Nous vous avons récemment contacté pour vous informer qu'il y avait un problème avec la connexion de votre appareil.
                         Nous sommes très heureux de vous informer que ce problème semble être résolu.<br>
