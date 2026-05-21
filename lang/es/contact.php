@@ -53,6 +53,8 @@ Como usuario existente, también puedes abrir un ticket de soporte enviando un c
     'dutch'                     => 'Neerlandés',
     'english'                   => 'Inglés',
     'french'                    => 'Francés',
+    'german'                    => 'Alemán',
+    'spanish'                   => 'Español',
 
     'title-message'             => 'Tu mensaje o comentario',
 

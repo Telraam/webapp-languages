@@ -74,7 +74,7 @@ return [
     // Status instance label
     'status-to-start' => 'Noch nicht gestartet',
     'status-installing' => 'Wird installiert',
-    'status-no-counts' => 'Installiert, aber keine Zählungen',
+    'status-no-counts' => 'Installiert, wartend',
     'status-counting' => 'Zählt',
     'status-counted-before' => 'Hat bereits gezählt',
     'status-stopped' => 'Gestoppt',

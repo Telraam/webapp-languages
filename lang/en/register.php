@@ -34,6 +34,8 @@ return [
     'english' => 'English',
     'dutch' => 'Dutch',
     'french' => 'French',
+    'german' => 'German',
+    'spanish' => 'Spanish',
 
     'mobile' => 'Phone Number',
 

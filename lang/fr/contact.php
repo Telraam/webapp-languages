@@ -53,6 +53,8 @@ En tant qu\'utilisateur existant, vous pouvez également ouvrir un ticket d\'ass
     'dutch'                     => 'Néerlandais',
     'english'                   => 'Anglais',
     'french'                    => 'Français',
+    'german'                    => 'Allemand',
+    'spanish'                   => 'Espagnol',
 
     'title-message'             => 'Votre message ou commentaire',
 

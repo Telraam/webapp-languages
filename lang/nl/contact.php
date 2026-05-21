@@ -53,6 +53,8 @@ Als bestaande gebruiker kun je ook een supportticket openen door een e-mail te s
     'dutch'                     => 'Nederlands',
     'english'                   => 'Engels',
     'french'                    => 'Frans',
+    'german'                    => 'Duits',
+    'spanish'                   => 'Spaans',
 
     'title-message'             => 'Je bericht of opmerking',
 

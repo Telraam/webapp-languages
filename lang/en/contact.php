@@ -53,6 +53,8 @@ As an existing user you can also open a support ticket by sending an email to <a
     'dutch'                     => 'Dutch',
     'english'                   => 'English',
     'french'                    => 'French',
+    'german'                    => 'German',
+    'spanish'                   => 'Spanish',
 
     'title-message'             => 'Your message or comment',
 

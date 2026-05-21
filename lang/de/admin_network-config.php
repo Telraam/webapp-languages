@@ -64,6 +64,7 @@ return [
     'lang-french' => 'Französisch',
     'lang-slovenian' => 'Slowenisch',
     'lang-spanish' => 'Spanisch',
+    'lang-german' => 'Deutsch',
 
     // Edit support agreement
     'project-period' => 'Projektzeitraum',

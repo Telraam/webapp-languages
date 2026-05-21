@@ -37,6 +37,8 @@ return [
     'english' => 'Engels',
     'dutch' => 'Nederlands',
     'french' => 'Frans',
+    'german' => 'Duits',
+    'spanish' => 'Spaans',
 
 
     'how-are-you-involved' => 'Aansluiten bij een bestaand verkeersnetwerk?',

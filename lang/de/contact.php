@@ -53,6 +53,8 @@ Als bestehender Nutzer können Sie auch ein Support-Ticket eröffnen, indem Sie 
     'dutch'                     => 'Niederländisch',
     'english'                   => 'Englisch',
     'french'                    => 'Französisch',
+    'german'                    => 'Deutsch',
+    'spanish'                   => 'Spanisch',
 
     'title-message'             => 'Ihre Nachricht oder Ihr Kommentar',
 

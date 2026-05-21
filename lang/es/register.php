@@ -34,6 +34,8 @@ return [
     'english' => 'Inglés',
     'dutch' => 'Neerlandés',
     'french' => 'Francés',
+    'german' => 'Alemán',
+    'spanish' => 'Español',
 
     'mobile' => 'Número de teléfono',
 

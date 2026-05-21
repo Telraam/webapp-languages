@@ -39,6 +39,8 @@ installer votre appareil Telraam, rejoindre un réseau ou utiliser l\'API.',
     'english' => 'Anglais',
     'dutch' => 'Néerlandais',
     'french' => 'Français',
+    'german' => 'Allemand',
+    'spanish' => 'Espagnol',
 
 
     'how-are-you-involved' => 'Rejoindre un réseau Telraam existant ?',
