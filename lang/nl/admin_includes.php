@@ -14,7 +14,7 @@ return [
     'no-serial-number' => 'Geen serienummer',
     'no-street-selected' => 'Geen straat geselecteerd',
     'proceed-with-installation' => 'Ga verder met de installatie',
-    'segment-data' => 'Straatstukdata',
+    'segment-data' => 'straatsegmentdata',
     'street-profile' => 'Straatprofiel',
     'stop-installation' => 'Installatie stoppen',
     'make-public' => 'Openbaar maken',
@@ -27,7 +27,7 @@ return [
     // Modal: edit address typo
     'modal-address-typo-title' => 'Er is een typefout in het adres of andere informatie klopt niet?',
     'modal-address-typo-registered-address' => 'Geregistreerd adres:',
-    'modal-address-typo-body' => 'Je kunt ook een openbare kopiefoto voor dit straatstuk uploaden of aanvullende informatie geven over de zichtbaarheid van vervoersmodi.',
+    'modal-address-typo-body' => 'Je kunt ook een openbare kopiefoto voor dit straatsegment uploaden of aanvullende informatie geven over de zichtbaarheid van vervoersmodi.',
     'modal-address-typo-confirm' => 'Ja, ik wil wijzigen',
 
     // Modal: edit location
@@ -82,10 +82,10 @@ return [
     'detail-started-counting' => 'Begonnen met tellen',
     'detail-became-active' => 'Actief geworden',
     'detail-active-after-non-active' => 'Actief na inactief te zijn geweest',
-    'detail-same-user-segment' => 'Zelfde gebruiker & straatstuk',
-    'detail-diff-user-segment' => 'Andere gebruiker & straatstuk',
-    'detail-same-user-diff-segment' => 'Zelfde gebruiker & ander straatstuk',
-    'detail-diff-user-same-segment' => 'Andere gebruiker & zelfde straatstuk',
+    'detail-same-user-segment' => 'Zelfde gebruiker & straatsegment',
+    'detail-diff-user-segment' => 'Andere gebruiker & straatsegment',
+    'detail-same-user-diff-segment' => 'Zelfde gebruiker & ander straatsegment',
+    'detail-diff-user-same-segment' => 'Andere gebruiker & zelfde straatsegment',
     'detail-problematic' => 'Problematisch',
     'detail-non-active-1day' => 'Inactief 1+ dag',
     'detail-non-active-1week' => 'Inactief 1+ week',

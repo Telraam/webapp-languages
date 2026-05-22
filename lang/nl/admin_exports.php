@@ -6,11 +6,11 @@ return [
     'generate-overview' => 'Genereer overzichtsbestanden op netwerkniveau',
     'tab-export' => 'Exporteer',
     'tab-files' => 'Geëxporteerde bestanden',
-    'monthly-raw-data-info' => 'Ruwe data voor elk straatstuk in je netwerk, geëxporteerd per maand.',
-    'full-raw-data-info' => 'Exporteer ruwe data voor elk straatstuk in je netwerk. Dit wordt geëxporteerd als een apart Excel-bestand per straatstuk.',
+    'monthly-raw-data-info' => 'Ruwe data voor elk straatsegment in je netwerk, geëxporteerd per maand.',
+    'full-raw-data-info' => 'Exporteer ruwe data voor elk straatsegment in je netwerk. Dit wordt geëxporteerd als een apart Excel-bestand per straatsegment.',
 
     // Common column labels
-    'segment-id' => 'Straatstuk-ID',
+    'segment-id' => 'straatsegment-ID',
     'installation-id' => 'Installatie-ID',
     'street' => 'Straat',
     'city' => 'Stad',
@@ -30,10 +30,10 @@ return [
 
     // data-typical headers
     'instance' => 'instantie',
-    'segment' => 'straatstuk',
+    'segment' => 'straatsegment',
 
     // Monthly columns
-    'segment-instance-id' => 'Straatstuk-ID / Instantie-ID',
+    'segment-instance-id' => 'straatsegment-ID / Instantie-ID',
     'uptime-this-month' => 'Uptime (deze maand) pct',
     'uptime-past-month' => 'Uptime (vorige maand) pct',
     'uptime-change-abs' => 'Uptime (wijziging abs)',

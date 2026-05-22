@@ -7,7 +7,7 @@ return [
     'only-with-data-subscription' => 'alleen met data-abonnement',
     'per-hour' => 'Per uur',
     'per-quarter-data-subscription' => 'Per kwartier (alleen met data-abonnement)',
-    'generate-street-sheet-file' => 'Straatstukbestand genereren (Excel)',
+    'generate-street-sheet-file' => 'straatsegmentbestand genereren (Excel)',
     'period-1' => 'Periode 1',
     'period-2' => 'Periode 2',
     'telraam-network' => 'Telraam Netwerk',

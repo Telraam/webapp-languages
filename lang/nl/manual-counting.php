@@ -11,7 +11,7 @@ return [
     // locations
     'btn-start-count' => 'Nog een telling starten',
     'step-1' => 'Adres',
-    'step-2' => 'Straatstuk selecteren',
+    'step-2' => 'straatsegment selecteren',
     'step-3' => 'Klaar om te tellen',
     'step1submit' => 'Volgende',
 

@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'correct-position-intro' => 'Deze pagina is gemaakt om een verkeerde Telraam-positie te corrigeren — het straatstuk en/of de kant van de straat — met terugwerkende kracht. Als je je Telraam-toestel fysiek hebt verplaatst, start dan een nieuwe installatie.',
-    'correct-position-note' => 'Je kunt je Telraam aan de andere kant van het momenteel geselecteerde straatstuk plaatsen, of zelfs naar een nieuw straatstuk overstappen. Alle gegevens op het niveau van de camera-instantie worden onmiddellijk bijgewerkt en gecorrigeerd, maar de historische gegevens voor het betrokken straatstuk (of de betrokken straatstukken) worden op een wachtrij geplaatst en automatisch verwerkt zodra de nieuwe herberekeningsservice is ingeschakeld.',
+    'correct-position-intro' => 'Deze pagina is gemaakt om een verkeerde Telraam-positie te corrigeren — het straatsegment en/of de kant van de straat — met terugwerkende kracht. Als je je Telraam-toestel fysiek hebt verplaatst, start dan een nieuwe installatie.',
+    'correct-position-note' => 'Je kunt je Telraam aan de andere kant van het momenteel geselecteerde straatsegment plaatsen, of zelfs naar een nieuw straatsegment overstappen. Alle gegevens op het niveau van de camera-instantie worden onmiddellijk bijgewerkt en gecorrigeerd, maar de historische gegevens voor het betrokken straatsegment (of de betrokken straatsegmenten) worden op een wachtrij geplaatst en automatisch verwerkt zodra de nieuwe herberekeningsservice is ingeschakeld.',
     'image-street' => 'Straatafbeelding',
     'set-position'                    => 'Bevestig je positie door het groene camera icoontje te selecteren die overeenkomt met de kant van de rijbaan van je Telraam.',
     'save-position'                   => 'Bewaar positie.',

@@ -56,7 +56,7 @@ return [
     'section-3-text' => '<p>Aangezien de doelstellingen van een schoolstraat veiliger en aangenamere en gezondere straten zijn, is het belangrijk zowel de veranderingen in het aantal voertuigen dat de straat gebruikt als hun gemiddelde snelheid te meten.</p>
 
 <h4>Omliggende straten</h4>
-<p>Aangezien de schoolstraatinterventie gewoonlijk slechts voor één straat of straatstuk geldt, is het ook belangrijk om verkeerseffecten en veiligheidsresultaten te meten op de omliggende straten.</p>
+<p>Aangezien de schoolstraatinterventie gewoonlijk slechts voor één straat of straatsegment geldt, is het ook belangrijk om verkeerseffecten en veiligheidsresultaten te meten op de omliggende straten.</p>
 
 <h4>Vóór, tijdens en na</h4>
 <p>Zoals bij alle mobiliteitsplannen is het belangrijk om verkeersteldata te hebben vóór, tijdens en na de interventies. Doorlopende meting maakt nauwkeurigere oplossingen mogelijk.</p>',

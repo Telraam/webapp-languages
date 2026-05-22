@@ -2,7 +2,7 @@
 
 return [
 
-    'overview-info-box' => 'Onze API stelt ontwikkelaars in staat om gegevens en rapporten op te vragen voor beschikbare Telraam-straatstukken. Een API-token, dat dient als unieke identificatie, is vereist om verzoeken aan de Telraam API-service te authenticeren.
+    'overview-info-box' => 'Onze API stelt ontwikkelaars in staat om gegevens en rapporten op te vragen voor beschikbare Telraam-straatsegmenten. Een API-token, dat dient als unieke identificatie, is vereist om verzoeken aan de Telraam API-service te authenticeren.
 Volledige documentatie is beschikbaar op <a href="https://telraam-api.net/">de speciale API-website</a>.',
 
     'please-make-your-selection' => '-- Maak uw keuze --',

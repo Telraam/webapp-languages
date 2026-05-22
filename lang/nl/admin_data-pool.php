@@ -5,9 +5,9 @@ return [
     'data-pool' => 'Data Pool',
 
     // Tabs
-    'tab-add-segments' => 'Straatstukken toevoegen',
-    'tab-my-segments' => 'Mijn straatstukken',
-    'tab-subscribed-segments' => 'Geabonneerde straatstukken',
+    'tab-add-segments' => 'straatsegmenten toevoegen',
+    'tab-my-segments' => 'Mijn straatsegmenten',
+    'tab-subscribed-segments' => 'Geabonneerde straatsegmenten',
 
     // Table headers
     'col-street' => 'Straat',
@@ -26,7 +26,7 @@ return [
     'restart-subscription' => 'Abonnement hervatten',
     'change-to-unlimited' => 'Wijzigen naar onbeperkt',
     'delete' => 'Verwijderen',
-    'delete-disabled-tooltip' => 'Geabonneerde straatstukken kunnen pas na drie maanden worden verwijderd',
+    'delete-disabled-tooltip' => 'Geabonneerde straatsegmenten kunnen pas na drie maanden worden verwijderd',
 
     // Delete modal
     'modal-delete-title-prefix' => 'Weet je zeker dat je het abonnement opzegt voor',
@@ -41,6 +41,6 @@ return [
     'legend-counting' => 'Aan het tellen',
     'open-location-page' => 'Locatiepagina openen',
     'remove-from-basket' => 'Verwijderen uit winkelmandje',
-    'add-segment' => 'Straatstuk toevoegen',
-    'popup-segment-in-basket' => 'Straatstuk in winkelmandje',
+    'add-segment' => 'straatsegment toevoegen',
+    'popup-segment-in-basket' => 'straatsegment in winkelmandje',
 ];

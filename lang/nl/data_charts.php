@@ -42,7 +42,7 @@ return [
     'typical-info'                        => 'Typisch verkeer berekend over een jaar eindigend op',
 
     'segment-is-private'                  => 'Dit segment is privé',
-    'segment-some-private'                => 'Dit straatstuk bevat ook privémetingen die niet zijn opgenomen.',
+    'segment-some-private'                => 'Dit straatsegment bevat ook privémetingen die niet zijn opgenomen.',
 
     'pick-start-date'                     => 'Kies een startdatum',
     'max-14-days'                         => 'Max 14 dagen interval',

@@ -29,6 +29,6 @@ return [
     'my-device' => '-- Mijn toestel',
 
     // includes/subheader-segments.blade.php
-    'segment-private' => 'Dit straatstuk is privé. Gegevens zijn alleen zichtbaar op installatieniveau.',
-    'segment-mixed-private' => 'Dit straatstuk bevat privé- en openbare (standaard) installaties. Privégegevens worden nooit gebruikt voor tellingsdata op straatstuk-niveau.',
+    'segment-private' => 'Dit straatsegment is privé. Gegevens zijn alleen zichtbaar op installatieniveau.',
+    'segment-mixed-private' => 'Dit straatsegment bevat privé- en openbare (standaard) installaties. Privégegevens worden nooit gebruikt voor tellingsdata op straatsegment-niveau.',
 ];
