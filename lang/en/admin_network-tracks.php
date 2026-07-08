@@ -51,7 +51,7 @@ return [
     'candidate-form-settings' => 'Candidate form settings',
     'tab-form-content' => 'Form content',
     'tab-manage-fields' => 'Manage form fields',
-    'tab-zip-codes' => 'Allowed Zip Codes',
+    'tab-zip-codes' => 'Allowed Zip / Postal Codes',
     'tab-auto-reply' => 'Auto reply confirmation',
 
     // Auto email form block
@@ -89,8 +89,8 @@ return [
     'remark' => 'Extra textarea for remark?',
 
     // Manage zip codes
-    'zip-code-note' => 'Leave the list empty if you don\'t want to restrict based on zip code.',
+    'zip-code-note' => 'Leave the list empty if you don\'t want to restrict based on zip / postal code.',
     'open-default' => 'Open (default)',
     'closed-enough-candidates' => 'Closed / Has enough candidates',
-    'add-zip-code' => 'Add a zip code',
+    'add-zip-code' => 'Add a zip / postal code',
 ];

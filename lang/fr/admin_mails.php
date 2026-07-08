@@ -29,6 +29,8 @@ return [
     'users-label' => 'Utilisateurs',
     'candidates-label' => 'Candidats',
     'sent-count' => 'Envoyé : :count',
+    'log-draft' => 'Brouillon',
+    'log-mailing' => 'Mailing',
 
     // include-form
     'who-receives-email' => 'Qui doit recevoir l\'e-mail ?',
@@ -51,4 +53,11 @@ return [
     // include-modal-templates
     'generic-template' => 'N\'hésitez pas à utiliser un modèle générique',
     'use' => 'Utiliser',
+
+    // mail body tokens
+    'tokens_title'      => 'Tokens de personnalisation disponibles :',
+    'token_link_text'   => 'votre texte de lien',
+    'token_firstname'   => 'Remplacé par le prénom du destinataire.',
+    'token_registerurl' => 'Lien d\'inscription personnel pour garantir le bon réseau (candidats uniquement).',
+    'token_segmentid'   => 'Lien vers la page segment du destinataire (utilisateurs uniquement).',
 ];

@@ -29,6 +29,8 @@ return [
     'users-label' => 'Gebruikers',
     'candidates-label' => 'Kandidaten',
     'sent-count' => 'Verzonden: :count',
+    'log-draft' => 'Concept',
+    'log-mailing' => 'Mailing',
 
     // include-form
     'who-receives-email' => 'Wie moet de e-mail ontvangen?',
@@ -51,4 +53,11 @@ return [
     // include-modal-templates
     'generic-template' => 'Gebruik gerust een algemeen sjabloon',
     'use' => 'Gebruiken',
+
+    // mail body tokens
+    'tokens_title'      => 'Beschikbare personalisatietokens:',
+    'token_link_text'   => 'jouw linktekst',
+    'token_firstname'   => 'Vervangen door de voornaam van de ontvanger.',
+    'token_registerurl' => 'Persoonlijke registratielink om correct netwerk te garanderen (enkel kandidaten).',
+    'token_segmentid'   => 'Link naar de straat-/segmentpagina van de ontvanger (enkel gebruikers).',
 ];

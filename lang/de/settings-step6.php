@@ -19,6 +19,6 @@ return [
     // valid mac
     "valid-mac-info"    => "Die von Ihnen eingegebene Seriennummer scheint korrekt zu sein",
     "invalid-mac-info"  => 'Die von Ihnen eingegebene Seriennummer scheint einen Tippfehler zu enthalten.',
-    "incomplete-mac-info"  => 'Wir erwarten 15 Ziffern und 2 Prüfzeichen (1234-5678-9012-123AB)',
+    "incomplete-mac-info"  => 'Wir erwarten 15 Ziffern und 2 Prüfzeichen, mit einem optionalen 2-stelligen Präfix (1234-5678-9012-123AB oder CA-1234-5678-9012-123AB)',
 
 ];

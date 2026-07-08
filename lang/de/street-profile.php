@@ -65,6 +65,11 @@ return [
     'parking_lane_no' => 'Kein Parkstreifen oder keine Möglichkeit vorhanden',
     'parking_lane_one_side' => 'Parkstreifen auf einer Seite vorhanden oder wechselseitig (versetzt)',
     'parking_lane_both_sides' => 'Parkstreifen auf beiden Seiten vorhanden',
+
+    'bike_parking_order_question'       => 'Wie ist der <strong>Parkstreifen</strong> im Verhältnis zum Radweg positioniert?',
+    'bike_parking_order_parking_inside' => 'Parkstreifen innen, neben der Fahrbahn (Radweg außen)',
+    'bike_parking_order_bike_inside'    => 'Radweg innen, neben der Fahrbahn (Parkstreifen außen)',
+
     'bus_service_question' => 'Gibt es eine <strong>Buslinie</strong> in dieser Straße?',
     'bus_service_no_idea' => 'Keine Ahnung',
     'bus_service_yes' => 'Busverbindung vorhanden',

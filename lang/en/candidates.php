@@ -11,7 +11,7 @@ return [
     'street'            => 'Street',
     'nr'                => 'Number',
     'send'              => 'Send',
-    'zip'               => 'Zip code',
+    'zip'               => 'Zip / Postal code ',
     'city'              => 'City',
 
     'apply'     => 'Apply',

@@ -7,6 +7,12 @@ return [
     'subtitle' => 'Detaillierte Verkehrsinformationen auf jeder Straße erfassen',
     'description' => 'Telraam ermöglicht es Ihnen, multimodale Verkehrsdaten zu erheben. In den nächsten Schritten erklären wir, wie das Gerät installiert wird.',
 
+    'device-code' => 'Gerätecode',
+
+    'invalid-serial-title' => 'Diese Seriennummer scheint nicht zu stimmen',
+    'invalid-serial-description' => 'Wir konnten diesen Code nicht überprüfen. Bitte überprüfen Sie die Buchstaben und Zahlen auf Ihrem Gerät, oder scannen Sie den QR-Code erneut.',
+    'invalid-serial-retry-button' => 'Code erneut eingeben',
+
      'current-installation-title' => 'Aktuelle Installation dieses Geräts',
     'is-counting' => 'Zählt aktiv',
     'counted-before' => 'Bereits gezählt',

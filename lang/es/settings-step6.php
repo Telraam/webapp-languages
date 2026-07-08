@@ -19,6 +19,6 @@ return [
     // valid mac
     "valid-mac-info"    => "El número de serie introducido parece ser correcto",
     "invalid-mac-info"  => 'El número de serie que has introducido parece contener un error de tecleo.',
-    "incomplete-mac-info"  => 'Esperamos 15 números y 2 caracteres de validación (1234-5678-9012-123AB)',
+    "incomplete-mac-info"  => 'Esperamos 15 números y 2 caracteres de validación, con un prefijo opcional de 2 caracteres (1234-5678-9012-123AB o CA-1234-5678-9012-123AB)',
 
 ];

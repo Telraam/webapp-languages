@@ -7,6 +7,12 @@ return [
     'subtitle' => 'Verzamel gedetailleerde informatie over verkeer op elke straat',
     'description' => 'Telraam is een manier om (samen met burgers) multimodale verkeersgegevens te verzamelen. In de volgende stappen leggen we uit hoe je het toestel installeert',
 
+    'device-code' => 'Toestelcode',
+
+    'invalid-serial-title' => 'Dit serienummer klopt niet',
+    'invalid-serial-description' => 'We konden deze code niet verifiëren. Controleer de letters en cijfers op je toestel, of scan de QR-code opnieuw.',
+    'invalid-serial-retry-button' => 'Voer de code opnieuw in',
+
    'current-installation-title' => 'Huidige installatie van dit toestel',
     'is-counting' => 'Is aan het tellen',
     'counted-before' => 'Heeft geteld',

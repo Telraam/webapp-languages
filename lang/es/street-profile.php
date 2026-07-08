@@ -65,6 +65,11 @@ return [
     'parking_lane_no' => 'No hay carril de aparcamiento ni posibilidad disponible',
     'parking_lane_one_side' => 'Carril de aparcamiento presente en un lado o en lados alternos',
     'parking_lane_both_sides' => 'Carril de aparcamiento presente en ambos lados',
+
+    'bike_parking_order_question'       => '¿Cómo está posicionado el <strong>carril de aparcamiento</strong> respecto al carril bici?',
+    'bike_parking_order_parking_inside' => 'Carril de aparcamiento en el interior, junto a la calzada (carril bici en el exterior)',
+    'bike_parking_order_bike_inside'    => 'Carril bici en el interior, junto a la calzada (carril de aparcamiento en el exterior)',
+
     'bus_service_question' => '¿Hay una <strong>línea de autobús</strong> en esta calle?',
     'bus_service_no_idea' => 'No lo sé',
     'bus_service_yes' => 'Servicio de autobús disponible',

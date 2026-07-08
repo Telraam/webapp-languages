@@ -18,6 +18,6 @@ return [
     // valid mac
     'valid-mac-info'    => 'Prima, het serienummer dat je hebt opgegeven is correct!',
     'invalid-mac-info'  => 'Het serienummer dat je hebt opgegeven lijkt een typfout te bevatten.',
-    'incomplete-mac-info'  => 'We verwachten 15 nummers en 2 validatietekens (bv 1234-5678-9012-123AB)',
+    'incomplete-mac-info'  => 'We verwachten 15 nummers en 2 validatietekens, met een optioneel voorvoegsel van 2 tekens (bv 1234-5678-9012-123AB of CA-1234-5678-9012-123AB)',
 
 ];

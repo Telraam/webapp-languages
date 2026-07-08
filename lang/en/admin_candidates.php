@@ -106,7 +106,7 @@ return [
     'export-gender' => 'Gender',
     'export-street' => 'Street',
     'export-nr' => 'Nr',
-    'export-zip' => 'Zip',
+    'export-zip' => 'Zip / Postal code',
     'export-city' => 'City',
     'export-country' => 'Country',
     'export-mobile' => 'Mobile',

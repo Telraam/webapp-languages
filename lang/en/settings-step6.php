@@ -19,6 +19,6 @@ return [
     // valid mac
     "valid-mac-info"    => "The serial number you entered seems to be correct",
     "invalid-mac-info"  => 'The serial number you have entered appears to contain a typo.',
-    "incomplete-mac-info"  => 'We expect 15 numbers and 2 validation characters (1234-5678-9012-123AB)',
+    "incomplete-mac-info"  => 'We expect 15 numbers and 2 validation characters, with an optional 2-character prefix (1234-5678-9012-123AB or CA-1234-5678-9012-123AB)',
 
 ];

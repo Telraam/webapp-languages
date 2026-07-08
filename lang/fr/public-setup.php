@@ -7,6 +7,12 @@ return [
     'subtitle' => 'Collectez des informations détaillées sur la circulation sur n\'importe quelle rue',
     'description' => 'Telraam est votre solution citoyenne pour la collecte de données de trafic multimodal. Dans les prochaines étapes, nous expliquons comment installer l\'appareil',
 
+    'device-code' => 'Code de l\'appareil',
+
+    'invalid-serial-title' => 'Ce numéro de série ne semble pas correct',
+    'invalid-serial-description' => 'Nous n\'avons pas pu vérifier ce code. Veuillez vérifier les lettres et les chiffres sur votre appareil, ou scannez à nouveau le code QR.',
+    'invalid-serial-retry-button' => 'Ressaisir le code',
+
    'current-installation-title' => 'Installation actuelle de cet appareil',
     'is-counting' => 'En train de compter',
     'counted-before' => 'A déjà compté',

@@ -7,6 +7,12 @@ return [
     'subtitle' => 'Recopile información detallada sobre el tráfico en cualquier calle',
     'description' => 'Telraam le permite recopilar datos de tráfico multimodal. En los pasos siguientes explicamos cómo instalar el dispositivo.',
 
+    'device-code' => 'Código del dispositivo',
+
+    'invalid-serial-title' => 'Este número de serie no parece correcto',
+    'invalid-serial-description' => 'No pudimos verificar este código. Comprueba las letras y los números de tu dispositivo, o escanea de nuevo el código QR.',
+    'invalid-serial-retry-button' => 'Volver a introducir el código',
+
      'current-installation-title' => 'Instalación actual de este dispositivo',
     'is-counting' => 'Está contando',
     'counted-before' => 'Ha contado anteriormente',

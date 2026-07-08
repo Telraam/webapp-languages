@@ -7,6 +7,12 @@ return [
     'subtitle' => 'Gather detailed information on traffic on any street',
     'description' => 'Telraam allows you to collect multi-modal traffic data. In the next steps we explain how to instal the device.',
 
+    'device-code' => 'Device code',
+
+    'invalid-serial-title' => 'This serial number doesn\'t look right',
+    'invalid-serial-description' => 'We couldn\'t verify this code. Please double-check the letters and numbers on your device, or scan the QR code again.',
+    'invalid-serial-retry-button' => 'Re-enter the code',
+
      'current-installation-title' => 'Current installation of this device',
     'is-counting' => 'Is counting',
     'counted-before' => 'Counted before',

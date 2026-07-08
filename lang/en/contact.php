@@ -85,7 +85,7 @@ As an existing user you can also open a support ticket by sending an email to <a
 
     'street'            => 'Street',
     'nr'                => 'Nr',
-    'zip_code'          => 'Zip code',
+    'zip_code'          => 'Zip / Postal code',
     'city'              => 'City',
 
     // content return form

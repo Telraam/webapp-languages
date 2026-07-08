@@ -66,6 +66,11 @@ return [
     'parking_lane_no'           => 'Geen parkeerstrook of -mogelijkheid aanwezig',
     'parking_lane_one_side'      => 'Parkeerstrook aanwezig aan één kant of wisselend van kant (geschrankt)',
     'parking_lane_both_sides'   => 'Parkeerstrook aanwezig aan beide kanten',
+
+    'bike_parking_order_question'       => 'Hoe ligt de <strong>parkeerstrook</strong> ten opzichte van het fietspad?',
+    'bike_parking_order_parking_inside' => 'Parkeerstrook aan de binnenzijde, langs de rijweg (fietspad aan de buitenzijde)',
+    'bike_parking_order_bike_inside'    => 'Fietspad aan de binnenzijde, langs de rijweg (parkeerstrook aan de buitenzijde)',
+
     'bus_service_question'      => 'Rijdt er een <strong>buslijn</strong> in deze straat?',
     'bus_service_no_idea'       => 'Geen idee',
     'bus_service_yes'           => 'Buslijn aanwezig',

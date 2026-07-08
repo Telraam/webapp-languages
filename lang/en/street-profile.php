@@ -65,6 +65,11 @@ return [
     'parking_lane_no' => 'No parking lane or possibility available',
     'parking_lane_one_side' => 'Parking lane present on one side or changing side (platted)',
     'parking_lane_both_sides' => 'Parking lane present on both sides',
+
+    'bike_parking_order_question'       => 'Where is the <strong>parking lane</strong> positioned relative to the bike lane?',
+    'bike_parking_order_parking_inside' => 'Parking lane on the inside, next to the road (bike lane on the outside)',
+    'bike_parking_order_bike_inside'    => 'Bike lane on the inside, next to the road (parking lane on the outside)',
+
     'bus_service_question' => 'Is there a <strong>bus line</strong> in this street?',
     'bus_service_no_idea' => 'No idea',
     'bus_service_yes' => 'Bus service available',

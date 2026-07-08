@@ -29,6 +29,8 @@ return [
     'users-label' => 'Users',
     'candidates-label' => 'Candidates',
     'sent-count' => 'Sent: :count',
+    'log-draft' => 'Draft',
+    'log-mailing' => 'Mailing',
 
     // include-form
     'who-receives-email' => 'Who needs to receive the email?',
@@ -51,4 +53,11 @@ return [
     // include-modal-templates
     'generic-template' => 'Feel free to use a generic template',
     'use' => 'Use',
+
+    // mail body tokens
+    'tokens_title'      => 'Available personalisation tokens:',
+    'token_link_text'   => 'your link text',
+    'token_firstname'   => 'Replaced with the recipient\'s first name.',
+    'token_registerurl' => 'Personal registration link to ensure correct network (candidates only).',
+    'token_segmentid'   => 'Link to the recipient\'s street/segment page (users only).',
 ];
