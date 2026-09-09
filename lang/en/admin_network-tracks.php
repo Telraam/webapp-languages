@@ -45,7 +45,7 @@ return [
     'phase-counting' => 'Counting',
     'phase-upcoming' => 'Upcoming',
     'phase-closed' => 'Closed',
-    'not-public-visible' => 'Not public visible',
+    'not-public-visible' => 'Not publicly visible',
 
     // Candidate form settings
     'candidate-form-settings' => 'Candidate form settings',

@@ -14,6 +14,8 @@ return [
     'installation-id' => 'Installation ID',
     'street' => 'Street',
     'city' => 'City',
+    'internal-name' => 'Internal name',
+    'sensor-version' => 'Sensor version',
     'zip' => 'Zip',
     'country' => 'Country',
     'uptime' => 'Uptime',

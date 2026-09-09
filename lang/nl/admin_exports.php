@@ -14,6 +14,8 @@ return [
     'installation-id' => 'Installatie-ID',
     'street' => 'Straat',
     'city' => 'Stad',
+    'internal-name' => 'Interne naam',
+    'sensor-version' => 'Sensorversie',
     'zip' => 'Postcode',
     'country' => 'Land',
     'uptime' => 'Uptime',

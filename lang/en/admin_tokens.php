@@ -18,7 +18,7 @@ return [
     'missing-token-info' => 'Missing token info',
     'complete-info' => 'Complete info',
     'disable' => 'Disable',
-    'no-token-yet' => 'No token yet',
+    'no-token-yet' => 'No tokens yet',
 
     // Advanced API info box
     'advanced-token-info' => 'An advanced API token offers extra access to certain segments, instances and devices',

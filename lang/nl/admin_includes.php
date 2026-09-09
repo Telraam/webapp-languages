@@ -78,6 +78,7 @@ return [
     'status-counting' => 'Aan het tellen',
     'status-counted-before' => 'Eerder geteld',
     'status-stopped' => 'Gestopt',
+    'status-backend-failed' => 'Registratie mislukt',
     'detail-active' => 'instantie is actief',
     'detail-started-counting' => 'Begonnen met tellen',
     'detail-became-active' => 'Actief geworden',

@@ -78,6 +78,7 @@ return [
     'status-counting' => 'Está contando',
     'status-counted-before' => 'Contó anteriormente',
     'status-stopped' => 'Detenido',
+    'status-backend-failed' => 'Registro fallido',
     'detail-active' => 'la instancia está activa',
     'detail-started-counting' => 'Empezó a contar',
     'detail-became-active' => 'Se activó',

@@ -283,8 +283,8 @@
                                   <tr>
                                       <td style="font-size:12px; line-height: 13px; text-align:center;">
                                           Telraam / Rear Window BV<br>
-                                          Diestsesteenweg 71<br>
-                                          3100 Leuven, Belgium
+                                          Vital Decosterstraat 67A bus 1010<br>
+                                          3000, Belgium
                                       </td>
                                   </tr>
                               </table>

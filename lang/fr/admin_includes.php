@@ -78,6 +78,7 @@ return [
     'status-counting' => 'En train de compter',
     'status-counted-before' => 'A compté auparavant',
     'status-stopped' => 'Arrêté',
+    'status-backend-failed' => 'Échec de l\'enregistrement',
     'detail-active' => 'l\'instance est active',
     'detail-started-counting' => 'A commencé à compter',
     'detail-became-active' => 'Est devenu actif',

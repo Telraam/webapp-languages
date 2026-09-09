@@ -12,6 +12,18 @@
         'FR' => 'https://faq-fr.telraam.net/article/208/resolution-des-problemes-avec-le-s2',
         default => 'https://faq.telraam.net/article/206/troubleshooting-with-the-s2',
     };
+    $faqS2Outdoor = match(strtoupper($language)) {
+        'NL' => 'https://faq.telraam.net/en/article/411/troubleshooting-with-the-telraam-s2-outdoor',
+        'FR' => 'https://faq.telraam.net/en/article/411/troubleshooting-with-the-telraam-s2-outdoor',
+        default => 'https://faq.telraam.net/en/article/411/troubleshooting-with-the-telraam-s2-outdoor',
+    };
+
+    // Show only the link matching the device's actual hardware. If the hardware isn't
+    // known, or has no dedicated FAQ yet (e.g. S3), fall back to showing all of them.
+    $showFaqV1        = ($hardwareVersion ?? null) === 'V1';
+    $showFaqS2        = ($hardwareVersion ?? null) === 'S2' && empty($isOutdoor);
+    $showFaqS2Outdoor = ($hardwareVersion ?? null) === 'S2' && !empty($isOutdoor);
+    $showAllFaqLinks  = !$showFaqV1 && !$showFaqS2 && !$showFaqS2Outdoor;
 @endphp
 
 <tr>
@@ -41,12 +53,21 @@
                         Als je toch hulp nodig hebt om je toestel weer aan het tellen te krijgen, dan kan dat:
 
                         <ul>
-                            <li>Heb je een Telraam v1 toestel, volg de stapsgewijze instructies hier:
-                                <a href=”{{ $faqV1 }}”>”Mijn Telraam telt niet meer”</a>
-                            </li>
-                            <li>Beschik je over een Telraam S2, lees meer hier:
-                                <a href=”{{ $faqS2 }}”>”Probleemoplossing met S2”</a>
-                            </li>
+                            @if ($showFaqV1 || $showAllFaqLinks)
+                                <li>Heb je een Telraam v1 toestel, volg de stapsgewijze instructies hier:
+                                    <a href=”{{ $faqV1 }}”>”Mijn Telraam telt niet meer”</a>
+                                </li>
+                            @endif
+                            @if ($showFaqS2 || $showAllFaqLinks)
+                                <li>Beschik je over een Telraam S2, lees meer hier:
+                                    <a href=”{{ $faqS2 }}”>”Probleemoplossing met S2”</a>
+                                </li>
+                            @endif
+                            @if ($showFaqS2Outdoor || $showAllFaqLinks)
+                                <li>Beschik je over een Telraam S2 Outdoor, lees meer hier:
+                                    <a href=”{{ $faqS2Outdoor }}”>”Probleemoplossing met S2 Outdoor”</a>
+                                </li>
+                            @endif
                             <li>
                                 Als je verdere hulp nodig hebt, mail ons dan op <a href="mailto:support@telraam.net">support@telraam.net</a>.
                                 Laat ons in dit geval weten welke bovenstaande stappen je reeds hebt geprobeerd.
@@ -72,9 +93,16 @@
                         Si vous êtes déjà au courant du problème, vous n'avez pas besoin de répondre à ce courrier. Si vous avez besoin d'aide pour que votre appareil compte à nouveau, vous pouvez:
 
                         <ul>
-                            <li>Si vous avez un Telraam v1, vous suivez les instructions ici: <a href="{{ $faqV1 }}">"Ma
-                                    Telraam ne compte plus".</a></li>
-                            <li>Avec un Telraam S2, vous trouvez plus d'infos ici: <a href="{{ $faqS2 }}">"Résolution des problèmes avec le S2".</a></li>
+                            @if ($showFaqV1 || $showAllFaqLinks)
+                                <li>Si vous avez un Telraam v1, vous suivez les instructions ici: <a href="{{ $faqV1 }}">"Ma
+                                        Telraam ne compte plus".</a></li>
+                            @endif
+                            @if ($showFaqS2 || $showAllFaqLinks)
+                                <li>Avec un Telraam S2, vous trouvez plus d'infos ici: <a href="{{ $faqS2 }}">"Résolution des problèmes avec le S2".</a></li>
+                            @endif
+                            @if ($showFaqS2Outdoor || $showAllFaqLinks)
+                                <li>Avec un Telraam S2 Outdoor, vous trouvez plus d'infos ici: <a href="{{ $faqS2Outdoor }}">"Résolution des problèmes avec le S2 Outdoor".</a></li>
+                            @endif
                             <li>Envoyer un courriel à <a href="mailto:support@telraam.net">support@telraam.net</a> si vous avez besoin d'assistance supplémentaire.
                                 Dans ce cas, veuillez nous indiquer lesquelles des étapes vous avez déjà essayées.</li>
                         </ul>
@@ -97,12 +125,21 @@
                         Möglicherweise sind Sie bereits über das Problem informiert, daher müssen Sie diese Nachricht nicht beantworten, wenn Sie es unter Kontrolle haben (z.B. wenn Sie gerade verreist sind),
                         aber wenn Sie Unterstützung benötigen, um Ihr Gerät wieder zum Zählen zu bringen, können Sie:
                         <ul>
-                            <li>Wenn Sie ein Telraam v1-Gerät haben, folgen Sie den Schritt-für-Schritt-Anweisungen hier:
-                                <a href="{{ $faqV1 }}">"Mein Telraam zählt nicht mehr"</a>
-                            </li>
-                            <li>Wenn Sie ein Telraam S2-Gerät haben, können Sie hier mehr erfahren:
-                                <a href="{{ $faqS2 }}">"Fehlerbehebung mit dem S2"</a>
-                            </li>
+                            @if ($showFaqV1 || $showAllFaqLinks)
+                                <li>Wenn Sie ein Telraam v1-Gerät haben, folgen Sie den Schritt-für-Schritt-Anweisungen hier:
+                                    <a href="{{ $faqV1 }}">"Mein Telraam zählt nicht mehr"</a>
+                                </li>
+                            @endif
+                            @if ($showFaqS2 || $showAllFaqLinks)
+                                <li>Wenn Sie ein Telraam S2-Gerät haben, können Sie hier mehr erfahren:
+                                    <a href="{{ $faqS2 }}">"Fehlerbehebung mit dem S2"</a>
+                                </li>
+                            @endif
+                            @if ($showFaqS2Outdoor || $showAllFaqLinks)
+                                <li>Wenn Sie ein Telraam S2 Outdoor-Gerät haben, können Sie hier mehr erfahren:
+                                    <a href="{{ $faqS2Outdoor }}">"Fehlerbehebung mit dem S2 Outdoor"</a>
+                                </li>
+                            @endif
                             <li>Wenn Sie weitere Unterstützung benötigen, senden Sie uns eine E-Mail an
                                 <a href="mailto:support@telraam.net">support@telraam.net</a> und teilen Sie uns mit,
                                 welche der oben genannten Schritte Sie bereits versucht haben.</li>
@@ -126,12 +163,21 @@
                         Es posible que ya sepa del problema, por lo que no es necesario que responda a este mensaje si lo tiene bajo control (por ejemplo, si está de viaje),
                         pero si necesita ayuda para que su dispositivo vuelva a contar, puede:
                         <ul>
-                            <li>Si tiene un dispositivo Telraam v1, siga las instrucciones paso a paso aquí:
-                                <a href="{{ $faqV1 }}">"Mi Telraam ya no cuenta"</a>
-                            </li>
-                            <li>Si tiene un dispositivo Telraam S2, puede leer más aquí:
-                                <a href="{{ $faqS2 }}">"Solución de problemas con el S2"</a>
-                            </li>
+                            @if ($showFaqV1 || $showAllFaqLinks)
+                                <li>Si tiene un dispositivo Telraam v1, siga las instrucciones paso a paso aquí:
+                                    <a href="{{ $faqV1 }}">"Mi Telraam ya no cuenta"</a>
+                                </li>
+                            @endif
+                            @if ($showFaqS2 || $showAllFaqLinks)
+                                <li>Si tiene un dispositivo Telraam S2, puede leer más aquí:
+                                    <a href="{{ $faqS2 }}">"Solución de problemas con el S2"</a>
+                                </li>
+                            @endif
+                            @if ($showFaqS2Outdoor || $showAllFaqLinks)
+                                <li>Si tiene un dispositivo Telraam S2 Outdoor, puede leer más aquí:
+                                    <a href="{{ $faqS2Outdoor }}">"Solución de problemas con el S2 Outdoor"</a>
+                                </li>
+                            @endif
                             <li>Si necesita más ayuda, escríbanos a
                                 <a href="mailto:support@telraam.net">support@telraam.net</a> indicando qué
                                 pasos de los anteriores ya ha intentado.</li>
@@ -155,12 +201,21 @@
                         You may already know about the issue, so there’s no need to reply to this message if you have it in hand (if you are currently travelling for example),
                         but if you do need any support to get your device counting again, you can:
                         <ul>
-                            <li>If you have a Telraam v1 device, follow the step by step instructions here:
-                                <a href=”{{ $faqV1 }}”>”My Telraam isn't counting anymore”</a>
-                            </li>
-                            <li>If you have a Telraam S2 device, you can read more here:
-                                <a href=”{{ $faqS2 }}”>”Troubleshooting with the S2”</a>
-                            </li>
+                            @if ($showFaqV1 || $showAllFaqLinks)
+                                <li>If you have a Telraam v1 device, follow the step by step instructions here:
+                                    <a href=”{{ $faqV1 }}”>”My Telraam isn't counting anymore”</a>
+                                </li>
+                            @endif
+                            @if ($showFaqS2 || $showAllFaqLinks)
+                                <li>If you have a Telraam S2 device, you can read more here:
+                                    <a href=”{{ $faqS2 }}”>”Troubleshooting with the S2”</a>
+                                </li>
+                            @endif
+                            @if ($showFaqS2Outdoor || $showAllFaqLinks)
+                                <li>If you have a Telraam S2 Outdoor device, you can read more here:
+                                    <a href=”{{ $faqS2Outdoor }}”>”Troubleshooting with the S2 Outdoor”</a>
+                                </li>
+                            @endif
                             <li>If you need further support, email us at
                                 <a href="mailto:support@telraam.net">support@telraam.net</a> letting us know what
                                 steps above you have already tried.</li>

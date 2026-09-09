@@ -78,6 +78,7 @@ return [
     'status-counting' => 'Is counting',
     'status-counted-before' => 'Counted before',
     'status-stopped' => 'Stopped',
+    'status-backend-failed' => 'Registration failed',
     'detail-active' => 'instance is active',
     'detail-started-counting' => 'Started counting',
     'detail-became-active' => 'Became active',

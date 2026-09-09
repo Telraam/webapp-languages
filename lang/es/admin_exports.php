@@ -14,6 +14,8 @@ return [
     'installation-id' => 'ID de instalación',
     'street' => 'Calle',
     'city' => 'Ciudad',
+    'internal-name' => 'Nombre interno',
+    'sensor-version' => 'Versión del sensor',
     'zip' => 'Código postal',
     'country' => 'País',
     'uptime' => 'Tiempo activo',

@@ -78,6 +78,7 @@ return [
     'status-counting' => 'Zählt',
     'status-counted-before' => 'Hat bereits gezählt',
     'status-stopped' => 'Gestoppt',
+    'status-backend-failed' => 'Registrierung fehlgeschlagen',
     'detail-active' => 'Instanz ist aktiv',
     'detail-started-counting' => 'Zählung gestartet',
     'detail-became-active' => 'Wurde aktiv',
