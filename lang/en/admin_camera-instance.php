@@ -31,4 +31,7 @@ return [
     'quality_level_test_device'       => 'This is a test device, so the accuracy may be lower than usual.',
     'quality_level_low_connectivity'  => 'We\'ve detected connectivity issues. This can affect data uploads and device performance.',
     'quality_level_hardware'          => 'We\'ve detected a potential hardware or firmware issue. We\'re looking into it. This can affect data uploads and device performance.',
+    'quality_level_poor_positioning'    => 'The camera position and/or visibility of the road is poor, which may affect data accuracy.',
+    'quality_level_average_positioning' => 'The camera position and/or visibility of the road is average.',
+    'quality_level_good_positioning'    => 'The camera position and/or visibility of the road is good.',
 ];

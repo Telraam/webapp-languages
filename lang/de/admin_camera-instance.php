@@ -31,4 +31,7 @@ return [
     'quality_level_test_device'       => 'Dies ist ein Testgerät, daher kann die Genauigkeit niedriger als üblich sein.',
     'quality_level_low_connectivity'  => 'Wir haben Verbindungsprobleme festgestellt. Dies kann sich auf Datenuploads und Geräteleistung auswirken.',
     'quality_level_hardware'          => 'Wir haben ein potenzielles Hardware- oder Firmwareproblem festgestellt. Wir prüfen es. Dies kann sich auf Datenuploads und Geräteleistung auswirken.',
+    'quality_level_poor_positioning'    => 'Die Positionierung und/oder Sichtbarkeit der Kamera ist schlecht, was die Datengenauigkeit beeinträchtigen kann.',
+    'quality_level_average_positioning' => 'Die Positionierung und/oder Sichtbarkeit der Kamera ist durchschnittlich.',
+    'quality_level_good_positioning'    => 'Die Positionierung und/oder Sichtbarkeit der Kamera ist gut.',
 ];

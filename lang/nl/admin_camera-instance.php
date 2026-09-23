@@ -31,4 +31,7 @@ return [
     'quality_level_test_device'       => 'Dit is een testtoestel, dus de nauwkeurigheid kan lager zijn dan normaal.',
     'quality_level_low_connectivity'  => 'We hebben connectiviteitsproblemen gedetecteerd. Dit kan van invloed zijn op het uploaden van gegevens en de prestaties van het toestel',
     'quality_level_hardware'          => 'We hebben een mogelijk hardware- of firmwareprobleem gedetecteerd. We zijn het aan het onderzoeken. Dit kan van invloed zijn op het uploaden van gegevens en de prestaties van het toestel.',
+    'quality_level_poor_positioning'    => 'De positionering en/of zichtbaarheid van de camera is slecht, wat de nauwkeurigheid van de gegevens kan beïnvloeden.',
+    'quality_level_average_positioning' => 'De positionering en/of zichtbaarheid van de camera is gemiddeld.',
+    'quality_level_good_positioning'    => 'De positionering en/of zichtbaarheid van de camera is goed.',
 ];
