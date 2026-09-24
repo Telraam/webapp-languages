@@ -7,11 +7,10 @@ return [
     'title'     => 'Traffic data your community collects. Evidence your authority owns',
     'sub-title' => 'Telraam gives local authorities, campaign groups and mobility professionals continuous, street-level traffic data: collected by residents, governed by you, and ready to inform the decisions that matter.',
 
-    'intro'     => 'The challenge hasn\'t changed. The tools have. Local authorities face the same core tension they always have: residents want safer streets, but evidence for interventions is expensive to gather, politically contested, and rarely available at the street level where decisions are actually made.
-
-Telraam was designed to change that. A network of window-mounted sensors, deployed by local residents in their own homes, generates continuous, validated traffic data across an entire area for a fraction of the cost of traditional monitoring. The data is open, the methodology is defensible, and the authority sets the research question.
-
-Whether you are evaluating a school street scheme, monitoring the impact of a low-traffic neighbourhood, evidencing a 20mph zone, or building a baseline for an active travel corridor, Telraam gives you the numbers to make the case: before, during, and after the intervention.',
+    'intro'     => '<p>The challenge hasn\'t changed. The tools have.</p> 
+    <p>Local authorities face the same core tension they always have: residents want safer streets, but evidence for interventions is expensive to gather, politically contested, and rarely available at the street level where decisions are actually made.</p>
+    <p>Telraam was designed to change that. A network of window-mounted sensors, deployed by local residents in their own homes, generates continuous, validated traffic data across an entire area for a fraction of the cost of traditional monitoring. The data is open, the methodology is defensible, and the authority sets the research question.</p>
+    <p>Whether you are evaluating a school street scheme, monitoring the impact of a low-traffic neighbourhood, evidencing a 20mph zone, or building a baseline for an active travel corridor, Telraam gives you the numbers to make the case: before, during, and after the intervention.</p>',
 
     'cases-title' => 'See it in action',
 
