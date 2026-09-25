@@ -2,15 +2,22 @@
 
 return [
 
-    'seo-title' => 'Telraam in the UK - Traffic monitoring solutions',
+    'seo-title' => 'Evidence for every street. Every mode. Every day.',
 
-    'title'     => 'Street-level traffic evidence, at a cost any council can manage',
-    'sub-title' => 'Telraam gives UK local authorities, campaign groups and mobility professionals continuous traffic data: collected by residents, governed by you, and ready to inform the decisions that matter.',
+    'title'     => 'Evidence for every street.<br> Every mode. Every day.',
+    'sub-title' => 'Telraam gives UK councils continuous counts of cars, cyclists and pedestrians: on the streets
+    you choose, hosted by residents or your own sites,
+    and ready to support decisions on speed, safety and active travel.',
 
-    'intro'     => '<p>Every local authority, large or small, is asked to provide the same evidence, whether for an Active Travel England bid, a Modeshift STARS accredited Travel Plan or a councillor\'s question about a new scheme. The UK government\'s latest Cycling and Walking Investment Strategy (CWIS3) raises the stakes further. Councils will need local data to show how they are contributing, and that is hard to gather on smaller budgets.</p>
-    <p>Councils and residents want action for safer streets, but the data that supports interventions is expensive to collect, often contested, and rarely available at the street level where decisions are made.</p>
-    <p>Telraam was designed to change that by working with local residents to build a network that produces continuous, validated traffic data across an area for a fraction of the cost of traditional monitoring. The data is open, the method is defensible, and your authority sets the research question.</p>
-    <p>Whether you are evaluating a School Street, monitoring a low-traffic neighbourhood, gathering evidence for a 20mph zone or building a baseline for an active travel corridor, Telraam gives you the numbers to make the case before, during and after the change.</p>',
+    'intro'     => '<p>Smaller councils are asked for the same evidence as big cities, whether it\'s an Active Travel
+England bid, a councillor\'s question about a new scheme, or residents asking why nothing is done about speeding on their road.
+But a traditional survey covers one street for one week, and the budget rarely stretches further.</p>
+
+    <p>Telraam gives you continuous counts of cars, vans, cyclists and pedestrians across as many streets as you need, for a
+    fraction of the cost. You choose the locations, hosted by residents or on your own sites, and you set the questions.</p>
+
+    <p>Evaluating a School Street, monitoring a low-traffic neighbourhood, building the case for a 20mph zone? Telraam gives
+     you the numbers before, during and after the change.</p>',
 
     'cases-title' => 'See it in action',
 
@@ -20,6 +27,32 @@ return [
 Our Telraam sensor continuously monitors a street from a citizen’s window, providing crucial data on various modes of transport, including motorised vehicles, cyclists, pedestrians, and more. Telraam networks also create the opportunity for dialogue between traffic planners, local authorities and their most affected communities: the citizens who live on - and use - these streets, by turning traffic counting into an open and accessible citizen science project..</p>',
     'about-cta'  => 'More about Telraam',
 
+    // about
+    'section-about-title' => 'What is Telraam?',
+    'section-about-text' =>  '<p>Telraam is an affordable, easy-to-use traffic counter built for councils that need reliable data
+without a big budget or a big team.</p>
+<p>Mounted in a window overlooking the street, each device counts cars, vans, HGVs, cyclists and pedestrians around the clock,
+with speeds and trends available online within minutes. No road works, no survey contractors, no waiting for a report.</p>
+<p>Because devices are often hosted by residents, Telraam also changes the conversation. Instead of debating whose figures are
+right, officers, councillors and residents look at the same open data, and decisions about their streets become easier to
+ explain and easier to support.</p>',
+
+    // about: the balloons
+    'section-about-balloon-question' => 'Rat-running. Speeding. School runs. 20mph zones. Active travel.
+Residents raise them, councillors ask about them, and funding bids demand evidence. Telraam gives you the numbers to respond.',
+    'section-about-balloon-answer' => 'You don\'t need a data team to run a Telraam network. We give you an easy online dashboard,
+practical guidance on recruiting resident hosts or shop owners, and an award-winning API for those who want to go further.',
+
+    // about: after the "balloons"
+  'section-about-inform-traffic-title' => 'Better data for better streets',
+  'section-about-inform-traffic-text' => '<p>Complex traffic issues need good data. But counting traffic across a whole network
+of streets is often impossible or too expensive with traditional tools like pneumatic tubes or manual counts.</p>
+
+<p>Telraam offers a simple alternative. Local residents host sensors that use AI to deliver consistent, reliable traffic data.
+This helps cities plan better infrastructure and manage traffic more effectively.</p>
+
+<p>Because the data is open and citizens take part, researchers, policy makers and residents can connect, talk and work on
+solutions together.</p>',
 
     // quotes
     'quote1' => 'We already run a large network of high-specification sensors, but they aren\'t cost-effective on quieter residential roads, and that is exactly where Telraam comes in. A high-grade sensor on a junction can mean a three to four-month lead time, whereas with Telraam, if you have a good window, we can have data coming in the next day — and it becomes a serious tool for a highway authority.',
@@ -38,8 +71,7 @@ Our Telraam sensor continuously monitors a street from a citizen’s window, pro
     'final-cta-text' => 'Want to know what Telraam could do for your streets?',
     'final-cta-btn'  => 'Get in touch',
 
-    'calculator-title'             => 'Get a quick estimate',
-    'calculator-intro'             => 'Tell us a bit about your project and we\'ll calculate an estimated price on the spot.',
+    'calculator-title'             => 'Wondering if it fits your budget? Answer a few quick questions and see an estimated price straight away.',
     'calculator-name'              => 'Name',
     'calculator-email'             => 'Email',
     'calculator-city'              => 'City',
