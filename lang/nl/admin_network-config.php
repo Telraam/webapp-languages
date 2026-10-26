@@ -54,7 +54,7 @@ return [
 
     // Edit email block
     'email-network' => 'E-mail netwerk',
-    'email-network-info' => 'Onze interne doorstuurservice kan het @dashboard.telraam.net-subdomein gebruiken om e-mails automatisch door te sturen naar de onderstaande adressen. Neem contact op met support@telraam.net om dit e-mailadres bij te werken. Het standaardadres support@telraam.net stuurt de e-mails niet door maar blijft alleen in de support-inbox.',
+    'email-network-info' => 'Je netwerkmails aan kandidaten en bewoners worden vanaf dit adres verstuurd. Een @dashboard.telraam.net-adres stuurt alles wat het ontvangt (bv. antwoorden) door naar de beheerders met \'Dashboardmails\' aan. De toestelupdates van toestellen beheerd door het netwerk gaan rechtstreeks naar deze beheerders. Het standaardadres support@telraam.net stuurt niets door: de mails blijven in de support-inbox van Telraam. Neem contact op met support@telraam.net om dit adres te wijzigen.',
     'forward-email-to' => 'E-mail doorsturen naar',
     'forward-warning' => '— Combineer een doorstuur-e-mailadres alleen met @dashboard.telraam.net',
     'forward-email-info' => 'Je kunt meerdere e-mailadressen invoeren, gescheiden door komma\'s',

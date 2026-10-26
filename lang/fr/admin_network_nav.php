@@ -3,7 +3,8 @@
 return [
     'dashboard'        => 'Tableau de bord',
     'section-data'     => 'Données',
-    'users-devices'    => 'Utilisateurs et appareils',
+    'installations'          => 'Installations',
+    'users'            => 'Utilisateurs',
     'data-pool'        => 'Pool de données',
     'eco-counter'      => 'Eco-Counter',
     'candidates'       => 'Candidats',

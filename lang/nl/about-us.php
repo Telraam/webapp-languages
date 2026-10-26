@@ -7,9 +7,7 @@ return [
     'subtitle'          => 'Een verhaal over verkeerskunde en burgerwetenschap die met elkaar trouwen',
 
     'section-1-title'            => 'Ontstaan',
-    'section1-block1-text'        => '<p>Telraam is het geesteskind van twee organisaties uit Leuven (BE):
-<a href="https://www.tmleuven.be/nl/" target="_blank">Transport & Mobility</a>
-Leuven (TML), een verkeerskundig ingenieursbureau, en <a href="https://www.mobiel21.be/" target="_blank">Mobiel21</a>, een NGO die zich richt op burgerparticipatie op het gebied van mobiliteit.<p>
+    'section1-block1-text'        => '<p>Telraam is de handelsnaam van Rear Window BV en maakt sinds september 2026 deel uit van de Quanteo Group (waartoe onder meer Eco-Counter behoort).</p>
 
 <p>Geïnspireerd door hoe succesvol burgerwetenschapsprojecten in andere domeinen, zoals luchtkwaliteit, waren in het verzamelen van waardevolle gegevens in samenwerking met burgers, dachten we: we zouden hetzelfde moeten kunnen doen met verkeerstellingen! En zo begonnen we in 2019 aan ons traject om eerst <a href="https://telraam.net/nl/v1">een eenvoudige sensor</a> and later in
 2023 <a href="https://telraam.net/en/S2">een speciaal ontworpen sensor</a> te ontwikkelen voor het verzamelen van verkeersdata, in samenwerking met burgers.</p>',

@@ -54,7 +54,7 @@ return [
 
     // Edit email block
     'email-network' => 'E-mail du réseau',
-    'email-network-info' => 'Notre service de transfert interne peut utiliser le sous-domaine @dashboard.telraam.net pour transférer automatiquement les e-mails vers les adresses ci-dessous. Pour mettre à jour cette adresse e-mail, contactez support@telraam.net. L\'adresse par défaut support@telraam.net ne transfèrera pas les e-mails mais restera uniquement dans la boîte de réception du support.',
+    'email-network-info' => 'Les e-mails de votre réseau aux candidats et aux habitants sont envoyés depuis cette adresse. Une adresse @dashboard.telraam.net transfère tout ce qu\'elle reçoit (p. ex. les réponses) aux administrateurs ayant activé \'E-mails du tableau de bord\'. Les mises à jour des appareils gérés par le réseau sont envoyées directement à ces administrateurs. L\'adresse par défaut support@telraam.net ne transfère rien : les e-mails restent dans la boîte de réception du support Telraam. Pour modifier cette adresse, contactez support@telraam.net.',
     'forward-email-to' => 'Transférer l\'e-mail vers',
     'forward-warning' => '— Veuillez combiner une adresse e-mail de transfert uniquement avec @dashboard.telraam.net',
     'forward-email-info' => 'Vous pouvez entrer plusieurs adresses e-mail séparées par des virgules',

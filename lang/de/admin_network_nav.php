@@ -3,7 +3,8 @@
 return [
     'dashboard'        => 'Dashboard',
     'section-data'     => 'Daten',
-    'users-devices'    => 'Benutzer & Geräte',
+    'installations'          => 'Installationen',
+    'users'            => 'Benutzer',
     'data-pool'        => 'Datenpool',
     'eco-counter'      => 'Eco-Counter',
     'candidates'       => 'Kandidaten',

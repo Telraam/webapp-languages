@@ -7,9 +7,7 @@ return [
     'subtitle'          => 'Eine Geschichte über die Hochzeit von Verkehrsplanung und Bürgerwissenschaft',
 
     'section-1-title'            => 'Geschichte',
-    'section1-block1-text'        => '<p>Telraam ist die Idee zweier Organisationen mit Sitz in Leuven (BE):
-<a href="https://www.tmleuven.be/en/" target="_blank">Transport & Mobility</a>
-Leuven (TML), eine Beratungsgesellschaft für Verkehrsplanung, und <a href="https://www.mobiel21.be/" target="_blank">Mobiel21</a>, eine NGO mit Schwerpunkt auf Bürgerbeteiligung im Bereich der Mobilität.<p>
+    'section1-block1-text'        => '<p>Telraam ist der Handelsname der Rear Window BV und gehört seit September 2026 zur Quanteo Group (zu der unter anderem Eco-Counter gehört).</p>
 
 <p>Da wir gesehen haben, wie erfolgreich Bürgerwissenschaftsprojekte in Zusammenarbeit mit Bürgern in anderen Bereichen wie der Luftqualität wertvolle Daten gesammelt haben, dachten wir: Das müssten wir auch mit Verkehrszähldaten schaffen können! Und so begannen wir 2019 unsere Reise, zunächst mit der Entwicklung
 <a href="https://telraam.net/en/v1">eines einfachen Sensors</a> und später im Jahr

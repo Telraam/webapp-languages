@@ -16,11 +16,9 @@ return [
     'status-waitinglist-count' => 'Lista de espera (:count)',
     'selected-no-device' => 'Seleccionados pero sin dispositivo (:count)',
     'selected-device-no-user' => 'Seleccionados, con dispositivo pero aún sin usuario (:count)',
-    'all-postal-codes' => 'Todos los códigos postales',
     'all-tracks' => 'Todas las rutas',
     'no-tracks-enabled' => 'No hay rutas habilitadas',
     'search' => 'Buscar...',
-    'filter' => 'Filtrar',
 
     // Table headers
     'col-name' => 'Nombre',

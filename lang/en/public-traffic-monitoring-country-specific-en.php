@@ -59,9 +59,9 @@ solutions together.</p>',
     'quote1-author' => 'Graham Stanley',
     'quote1-function' => 'Innovate Oxfordshire, Oxfordshire County Council',
 
-    'quote2' => 'By analysing the V85 standard, we get an indication of the best time to use the device for speed checks. Speed checks are best used to achieve maximum effect with a view to changing the behaviour of road users.',
-    'quote2-author' => 'David Tailleur',
-    'quote2-function' => 'Neighbourhood police team-coach, Lubbeek',
+    'quote2' => 'Over the past few years we\'ve built a Telraam network across Shrewsbury, and it has become a genuinely valuable part of how we understand the town. We track pedestrians, cycling and vehicle traffic, and the speed data gives us evidence we simply didn\'t have before. The interface is clear, so the data is accessible beyond specialists. We now want to expand, potentially by inviting residents to host devices. The Telraam team have been excellent: responsive, knowledgeable and supportive.',
+    'quote2-author' => 'Seb Slater',
+    'quote2-function' => 'Executive Director, Shrewsbury BID',
 
 
     'counter-title' => 'Our traffic counter',

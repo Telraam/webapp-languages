@@ -23,6 +23,8 @@ return [
     'title-trends'         => 'Trends for your Telraam',
     'daily-trends'      => 'The measured daily volumes per mode of transport',
     'hourly-trends'      => 'Hourly average volumes per hour measured by mode of transport',
+    'download-label-daily'  => 'Daily volumes',
+    'download-label-hourly' => 'Hourly average volumes',
 
     // mail
      'view-more-stats-btn'      => 'View more statistics',

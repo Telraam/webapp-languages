@@ -2,10 +2,6 @@
 
 return [
     // Camera instances overview
-    'camera-instances-header' => 'Instances de caméra',
-    'current-installation' => 'Installation en cours',
-    'network-device-installation' => 'Installation d\'appareil réseau',
-    'old-installations' => 'Anciennes installations',
     'view-setup-page' => 'Voir la page d\'installation :name',
 
     // Camera instances overview row
@@ -14,15 +10,8 @@ return [
     'no-serial-number' => 'Pas de numéro de série',
     'no-street-selected' => 'Aucune rue sélectionnée',
     'proceed-with-installation' => 'Poursuivre l\'installation',
-    'segment-data' => 'Données du segment',
-    'street-profile' => 'Profil de rue',
-    'stop-installation' => 'Arrêter l\'installation',
-    'make-public' => 'Rendre public',
-    'make-private' => 'Rendre privé',
-    'edit-details' => 'Modifier les détails',
-    'edit-current-position' => 'Modifier la position actuelle',
-    'new-remote-installation' => 'Nouvelle installation à distance avec cet appareil',
-    'more' => 'Plus',
+    'loading-status' => 'Chargement du statut...',
+    'ended' => 'terminé',
 
     // Modal: edit address typo
     'modal-address-typo-title' => 'Il y a une faute de frappe dans l\'adresse ou une autre information est incorrecte ?',
@@ -47,6 +36,7 @@ return [
 
     // Modal: stop instance
     'modal-stop-title' => 'Êtes-vous sûr de vouloir arrêter l\'installation ?',
+    'modal-stop-reinstall-info' => 'Avant qu\'un appareil puisse être réinstallé, l\'installation précédente de cet appareil doit être arrêtée.',
     'modal-stop-warning' => 'Veuillez agir avec précaution car cette action est irréversible.',
     'modal-stop-btn' => 'Arrêter l\'instance',
 

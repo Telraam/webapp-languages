@@ -54,7 +54,7 @@ return [
 
     // Edit email block
     'email-network' => 'Correo electrónico de red',
-    'email-network-info' => 'Nuestro servicio de reenvío interno puede usar el subdominio @dashboard.telraam.net para reenviar automáticamente los correos a las direcciones que se indican a continuación. Para actualizar esta dirección de correo electrónico, póngase en contacto con support@telraam.net. La dirección predeterminada support@telraam.net no reenviará los correos, sino que permanecerá únicamente en la bandeja de soporte.',
+    'email-network-info' => 'Los correos de su red a candidatos y residentes se envían desde esta dirección. Una dirección @dashboard.telraam.net reenvía todo lo que recibe (p. ej. respuestas) a los administradores con \'Correos del panel\' activado. Las actualizaciones de los dispositivos gestionados por la red llegan directamente a estos administradores. La dirección predeterminada support@telraam.net no reenvía nada: los correos se quedan en la bandeja de soporte de Telraam. Para cambiar esta dirección, contacte con support@telraam.net.',
     'forward-email-to' => 'Reenviar correo a',
     'forward-warning' => '— Por favor, combine una dirección de reenvío solo con @dashboard.telraam.net',
     'forward-email-info' => 'Puede introducir varias direcciones de correo electrónico separadas por comas',

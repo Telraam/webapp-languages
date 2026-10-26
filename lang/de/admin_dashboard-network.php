@@ -51,6 +51,7 @@ return [
     'action-new-user' => 'ist ein neuer Benutzer',
     'action-outboarded' => 'hat das Abmeldeformular ausgefüllt',
     'action-received-email-roi' => 'erhielt eine E-Mail zur ROI-Einstellung',
+    'action-evaluated' => 'Bewertung durch Telraam:',
     'action-new-candidate' => 'ist ein neuer Kandidat',
     'network-device' => 'Netzwerkgerät',
     'no-logged-activity' => 'Noch keine protokollierte Aktivität',

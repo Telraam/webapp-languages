@@ -34,4 +34,5 @@ return [
     'quality_level_poor_positioning'    => 'El posicionamiento y/o la visibilidad de la cámara es deficiente, lo que puede afectar la precisión de los datos.',
     'quality_level_average_positioning' => 'El posicionamiento y/o la visibilidad de la cámara es promedio.',
     'quality_level_good_positioning'    => 'El posicionamiento y/o la visibilidad de la cámara es bueno.',
+    'segment-not-selected' => 'No se seleccionó ningún tramo de calle. Haz clic en tu calle en el mapa y vuelve a elegir un lado.',
 ];

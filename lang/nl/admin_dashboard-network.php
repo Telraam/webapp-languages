@@ -51,6 +51,7 @@ return [
     'action-new-user' => 'is een nieuwe gebruiker',
     'action-outboarded' => 'het uitstapformulier ingevuld',
     'action-received-email-roi' => 'e-mail ontvangen om ROI in te stellen',
+    'action-evaluated' => 'evaluatie door Telraam:',
     'action-new-candidate' => 'is een nieuwe kandidaat',
     'network-device' => 'Netwerktoestel',
     'no-logged-activity' => 'Nog geen activiteit geregistreerd',

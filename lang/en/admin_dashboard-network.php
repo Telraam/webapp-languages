@@ -51,6 +51,7 @@ return [
     'action-new-user' => 'is a new user',
     'action-outboarded' => 'filled in the outboarding form',
     'action-received-email-roi' => 'received e-mail to set ROI',
+    'action-evaluated' => 'evaluation by Telraam:',
     'action-new-candidate' => 'is a new candidate',
     'network-device' => 'Network device',
     'no-logged-activity' => 'No logged activity yet',

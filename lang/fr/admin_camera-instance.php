@@ -34,4 +34,5 @@ return [
     'quality_level_poor_positioning'    => 'Le positionnement et/ou la visibilité de la caméra sont médiocres, ce qui peut affecter la précision des données.',
     'quality_level_average_positioning' => 'Le positionnement et/ou la visibilité de la caméra sont moyens.',
     'quality_level_good_positioning'    => 'Le positionnement et/ou la visibilité de la caméra sont bons.',
+    'segment-not-selected' => 'Aucun segment de rue n\'a été sélectionné. Cliquez sur votre rue sur la carte et choisissez à nouveau un côté.',
 ];

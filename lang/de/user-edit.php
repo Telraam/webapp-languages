@@ -34,6 +34,8 @@ return [
     // webhook / mail checks
     'automatic-mails' => 'Automatische E-Mails',
     'automatic-mails-note' => 'Legen Sie fest, wann Sie eine Benachrichtigung über die (In-)Aktivität Ihres eigenen Sensors erhalten möchten',
+    'network-mails' => 'E-Mails als Netzwerk-Administrator',
+    'network-mails-note' => 'Wählen Sie pro Netzwerk, welche E-Mails Sie als Administrator erhalten möchten.',
     'mail_non_active_1day' => 'E-Mail nach einem Tag Inaktivität',
     'mail_non_active_1week' => 'E-Mail nach einer Woche Inaktivität',
     'mail_non_active_2weeks' => 'E-Mail nach zwei Wochen Inaktivität',

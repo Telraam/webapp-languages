@@ -16,11 +16,9 @@ return [
     'status-waitinglist-count' => 'Waitinglist (:count)',
     'selected-no-device' => 'Selected but no device (:count)',
     'selected-device-no-user' => 'Selected, has device but is no user yet (:count)',
-    'all-postal-codes' => 'All postal codes',
     'all-tracks' => 'All tracks',
     'no-tracks-enabled' => 'No tracks enabled',
     'search' => 'Search...',
-    'filter' => 'Filter',
 
     // Table headers
     'col-name' => 'Name',

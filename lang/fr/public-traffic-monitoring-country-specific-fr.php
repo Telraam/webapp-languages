@@ -42,4 +42,13 @@ return [
     'calculator-submit'            => 'Simuler un devis pour moi et me recontacter',
     'calculator-success'           => 'Merci ! Votre demande a bien été reçue, nous revenons vers vous rapidement.',
 
+    // quotes
+    'quote1' => 'Nous exploitons déjà un vaste réseau de capteurs haut de gamme, mais ils ne sont pas rentables sur les routes résidentielles plus calmes, et c\'est exactement là que Telraam intervient. Un capteur haut de gamme sur un carrefour peut demander trois à quatre mois de délai, alors qu\'avec Telraam, si vous avez une bonne fenêtre, les données arrivent dès le lendemain. Cela en fait un véritable outil pour un gestionnaire routier.',
+    'quote1-author' => 'Graham Stanley',
+    'quote1-function' => 'Innovate Oxfordshire, Oxfordshire County Council',
+
+    'quote2' => 'Ces dernières années, nous avons construit un réseau Telraam à Shrewsbury, devenu précieux pour comprendre notre ville. Nous suivons piétons, vélos et trafic motorisé, et les données de vitesse nous apportent des preuves que nous n\'avions pas avant. L\'interface est claire : les données sont accessibles au-delà des spécialistes. Nous voulons étendre le réseau, peut-être en invitant des habitants à accueillir des capteurs. L\'équipe Telraam a été excellente : réactive, compétente et disponible.',
+    'quote2-author' => 'Seb Slater',
+    'quote2-function' => 'Directeur exécutif, Shrewsbury BID',
+
 ];

@@ -34,4 +34,5 @@ return [
     'quality_level_poor_positioning'    => 'The camera position and/or visibility of the road is poor, which may affect data accuracy.',
     'quality_level_average_positioning' => 'The camera position and/or visibility of the road is average.',
     'quality_level_good_positioning'    => 'The camera position and/or visibility of the road is good.',
+    'segment-not-selected' => 'No street segment was selected. Please click your street on the map and choose a side again.',
 ];

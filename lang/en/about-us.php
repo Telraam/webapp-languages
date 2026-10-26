@@ -7,9 +7,7 @@ return [
     'subtitle'          => 'A story of traffic engineering and citizen science getting married',
 
     'section-1-title'            => 'History',
-    'section1-block1-text'        => '<p>Telraam is the brainchild of two organisations based in Leuven (BE):
-<a href="https://www.tmleuven.be/en/" target="_blank">Transport & Mobility</a>
-Leuven (TML), a traffic engineering consultancy, and <a href="https://www.mobiel21.be/" target="_blank">Mobiel21</a>, an NGO focussing on citizen participation in the field of mobility.<p>
+    'section1-block1-text'        => '<p>Telraam is the trading name of Rear Window BV and as of September 2026, is part of the Quanteo Group (which includes Eco-Counter, among others).</p>
 
 <p>Seeing how citizens science projects have been successful to collect valuable data in collaboration with citizens in other fields like
 air quality data, we thought: we should be able to do the same with traffic counting data! And so, in 2019 we embarked on our journey to

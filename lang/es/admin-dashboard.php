@@ -20,7 +20,7 @@ return [
     'support-mail'             => 'Puedes escribirnos a <a href="mailto:support@telraam.net">support@telraam.net</a>',
     'photo-street'              => 'Foto de la calle',
     'upload-note'              => 'Sube aquí una foto de tu calle. Preferiblemente una imagen horizontal.',
-    'street-photo-hint'         => 'Añade una foto de tu calle para personalizar tu <a href=":url" target="_blank">página del segmento</a>. Las imágenes horizontales (apaisadas) funcionan mejor. Evita mostrar matrículas legibles o personas identificables.',
+    'street-photo-hint'         => 'Añade una foto de tu calle para personalizar tu <a href=":url" target="_blank">página pública del segmento</a>. Las imágenes horizontales (apaisadas) funcionan mejor. Evita mostrar matrículas legibles o personas identificables.',
 
     'address'                   => 'Dirección',
     'my-setup'                  => 'Mi configuración',

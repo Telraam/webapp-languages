@@ -16,11 +16,9 @@ return [
     'status-waitinglist-count' => 'Wachtrij (:count)',
     'selected-no-device' => 'Geselecteerd maar geen toestel (:count)',
     'selected-device-no-user' => 'Geselecteerd, heeft toestel maar is nog geen gebruiker (:count)',
-    'all-postal-codes' => 'Alle postcodes',
     'all-tracks' => 'Alle tracks',
     'no-tracks-enabled' => 'Geen tracks ingeschakeld',
     'search' => 'Zoeken...',
-    'filter' => 'Filter',
 
     // Table headers
     'col-name' => 'Naam',

@@ -7,9 +7,7 @@ return [
     'subtitle'          => 'Una historia sobre la unión entre la ingeniería del tráfico y la ciencia ciudadana',
 
     'section-1-title'            => 'Historia',
-    'section1-block1-text'        => '<p>Telraam es la creación de dos organizaciones con sede en Lovaina (BE):
-<a href="https://www.tmleuven.be/en/" target="_blank">Transport & Mobility</a>
-Leuven (TML), una consultoría de ingeniería del tráfico, y <a href="https://www.mobiel21.be/" target="_blank">Mobiel21</a>, una ONG centrada en la participación ciudadana en el ámbito de la movilidad.<p>
+    'section1-block1-text'        => '<p>Telraam es el nombre comercial de Rear Window BV y, desde septiembre de 2026, forma parte del Grupo Quanteo (que incluye, entre otros, a Eco-Counter).</p>
 
 <p>Al ver el éxito de los proyectos de ciencia ciudadana en la recopilación de datos valiosos en colaboración con la ciudadanía en otros campos como
 los datos de calidad del aire, pensamos: ¡deberíamos poder hacer lo mismo con los datos de conteo de tráfico! Y así, en 2019 emprendimos nuestro viaje para

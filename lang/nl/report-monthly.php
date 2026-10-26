@@ -21,8 +21,10 @@ return [
     'title-speed'       => 'Snelheid',
 
     'title-trends'       => 'Tendensen van jouw Telraam deze maand',
-    'hourly-trends'      => 'De gemeten dagelijkse volumes per vervoerswijze',
-    'daily-trends'       => 'Gemiddelde volumes per uur en per vervoerswijze',
+    'daily-trends'       => 'De gemeten dagelijkse volumes per vervoerswijze',
+    'hourly-trends'      => 'Gemiddelde volumes per uur en per vervoerswijze',
+    'download-label-daily'  => 'Dagelijkse volumes',
+    'download-label-hourly' => 'Gemiddelde volumes per uur',
 
     // mail
      'view-more-stats-btn'      => 'Bekijk meer statistieken',

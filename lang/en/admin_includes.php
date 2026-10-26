@@ -2,10 +2,6 @@
 
 return [
     // Camera instances overview
-    'camera-instances-header' => 'Camera Instances',
-    'current-installation' => 'Current installation',
-    'network-device-installation' => 'Network device installation',
-    'old-installations' => 'Old installations',
     'view-setup-page' => 'View setup page :name',
 
     // Camera instances overview row
@@ -13,16 +9,9 @@ return [
     'no-address-yet' => 'No address yet',
     'no-serial-number' => 'No serial number',
     'no-street-selected' => 'No street selected',
-    'proceed-with-installation' => 'Proceed with the installation',
-    'segment-data' => 'Segment data',
-    'street-profile' => 'Street Profile',
-    'stop-installation' => 'Stop installation',
-    'make-public' => 'Make public',
-    'make-private' => 'Make private',
-    'edit-details' => 'Edit details',
-    'edit-current-position' => 'Edit current position',
-    'new-remote-installation' => 'New remote installation with this device',
-    'more' => 'More',
+    'proceed-with-installation' => 'Continue installation',
+    'loading-status' => 'Loading status...',
+    'ended' => 'ended',
 
     // Modal: edit address typo
     'modal-address-typo-title' => 'There is a typo in the address or some other information is incorrect?',
@@ -47,6 +36,7 @@ return [
 
     // Modal: stop instance
     'modal-stop-title' => 'Are you sure you want to stop the installation?',
+    'modal-stop-reinstall-info' => 'Before a device can be re-installed the previous installation of this device should be stopped.',
     'modal-stop-warning' => 'Please handle with care as this can not be undone.',
     'modal-stop-btn' => 'Stop the instance',
 

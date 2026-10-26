@@ -2,10 +2,6 @@
 
 return [
     // Camera instances overview
-    'camera-instances-header' => 'Camera-instanties',
-    'current-installation' => 'Huidige installatie',
-    'network-device-installation' => 'Netwerktoestel-installatie',
-    'old-installations' => 'Oude installaties',
     'view-setup-page' => 'Installatiepagina bekijken :name',
 
     // Camera instances overview row
@@ -13,16 +9,9 @@ return [
     'no-address-yet' => 'Nog geen adres',
     'no-serial-number' => 'Geen serienummer',
     'no-street-selected' => 'Geen straat geselecteerd',
-    'proceed-with-installation' => 'Ga verder met de installatie',
-    'segment-data' => 'straatsegmentdata',
-    'street-profile' => 'Straatprofiel',
-    'stop-installation' => 'Installatie stoppen',
-    'make-public' => 'Openbaar maken',
-    'make-private' => 'Privé maken',
-    'edit-details' => 'Details bewerken',
-    'edit-current-position' => 'Huidige positie bewerken',
-    'new-remote-installation' => 'Nieuwe installatie op afstand met dit toestel',
-    'more' => 'Meer',
+    'proceed-with-installation' => 'Installatie verderzetten',
+    'loading-status' => 'Status laden...',
+    'ended' => 'beëindigd',
 
     // Modal: edit address typo
     'modal-address-typo-title' => 'Er is een typefout in het adres of andere informatie klopt niet?',
@@ -47,6 +36,7 @@ return [
 
     // Modal: stop instance
     'modal-stop-title' => 'Weet je zeker dat je de installatie wil stoppen?',
+    'modal-stop-reinstall-info' => 'Voordat een toestel opnieuw geïnstalleerd kan worden, moet de vorige installatie van dit toestel gestopt worden.',
     'modal-stop-warning' => 'Ga voorzichtig te werk, want dit kan niet ongedaan worden gemaakt.',
     'modal-stop-btn' => 'Instantie stoppen',
 

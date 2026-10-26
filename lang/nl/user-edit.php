@@ -32,6 +32,8 @@ return [
     // webhook / mail checks
     'automatic-mails' => 'Automatische mails',
     'automatic-mails-note' => 'Stel in wanneer je een melding wilt ontvangen over de (in)activiteit van je eigen sensor',
+    'network-mails' => 'Mails als netwerkbeheerder',
+    'network-mails-note' => 'Kies per netwerk welke mails je als beheerder wilt ontvangen.',
     'mail_non_active_1day' => 'Mail verstuurd na één dag inactiviteit',
     'mail_non_active_1week' => 'Mail verstuurd na één week inactiviteit',
     'mail_non_active_2weeks' => 'Mail verstuurd na twee weken inactiviteit',

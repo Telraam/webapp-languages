@@ -2,10 +2,6 @@
 
 return [
     // Camera instances overview
-    'camera-instances-header' => 'Kamera-Instanzen',
-    'current-installation' => 'Aktuelle Installation',
-    'network-device-installation' => 'Netzwerkgeräte-Installation',
-    'old-installations' => 'Alte Installationen',
     'view-setup-page' => 'Einrichtungsseite anzeigen :name',
 
     // Camera instances overview row
@@ -13,16 +9,9 @@ return [
     'no-address-yet' => 'Noch keine Adresse',
     'no-serial-number' => 'Keine Seriennummer',
     'no-street-selected' => 'Keine Straße ausgewählt',
-    'proceed-with-installation' => 'Mit der Installation fortfahren',
-    'segment-data' => 'Segmentdaten',
-    'street-profile' => 'Straßenprofil',
-    'stop-installation' => 'Installation stoppen',
-    'make-public' => 'Öffentlich machen',
-    'make-private' => 'Privat machen',
-    'edit-details' => 'Details bearbeiten',
-    'edit-current-position' => 'Aktuelle Position bearbeiten',
-    'new-remote-installation' => 'Neue Remote-Installation mit diesem Gerät',
-    'more' => 'Mehr',
+    'proceed-with-installation' => 'Installation fortsetzen',
+    'loading-status' => 'Status wird geladen...',
+    'ended' => 'beendet',
 
     // Modal: edit address typo
     'modal-address-typo-title' => 'Gibt es einen Tippfehler in der Adresse oder sind andere Informationen falsch?',
@@ -47,6 +36,7 @@ return [
 
     // Modal: stop instance
     'modal-stop-title' => 'Sind Sie sicher, dass Sie die Installation stoppen möchten?',
+    'modal-stop-reinstall-info' => 'Bevor ein Gerät neu installiert werden kann, muss die vorherige Installation dieses Geräts gestoppt werden.',
     'modal-stop-warning' => 'Bitte gehen Sie vorsichtig vor, da dieser Vorgang nicht rückgängig gemacht werden kann.',
     'modal-stop-btn' => 'Instanz stoppen',
 

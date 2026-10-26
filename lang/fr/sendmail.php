@@ -16,6 +16,9 @@ return [
     'from'                => 'De',
     'subject'             => 'Sujet',
     'body'                => 'Message',
+    'replies-to'          => 'Envoyé depuis :email, les réponses y arrivent aussi',
+    'replies-to-dashboard-mails' => 'Envoyé depuis :email, les réponses vont aux administrateurs du réseau abonnés à :link',
+    'sent-earlier'        => 'Envoyés précédemment',
 
 
 ];

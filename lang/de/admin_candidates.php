@@ -16,11 +16,9 @@ return [
     'status-waitinglist-count' => 'Warteliste (:count)',
     'selected-no-device' => 'Ausgewählt, aber kein Gerät (:count)',
     'selected-device-no-user' => 'Ausgewählt, hat Gerät, aber noch kein Benutzer (:count)',
-    'all-postal-codes' => 'Alle Postleitzahlen',
     'all-tracks' => 'Alle Tracks',
     'no-tracks-enabled' => 'Keine Tracks aktiviert',
     'search' => 'Suchen...',
-    'filter' => 'Filtern',
 
     // Table headers
     'col-name' => 'Name',

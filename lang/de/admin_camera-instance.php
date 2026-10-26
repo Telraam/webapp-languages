@@ -34,4 +34,5 @@ return [
     'quality_level_poor_positioning'    => 'Die Positionierung und/oder Sichtbarkeit der Kamera ist schlecht, was die Datengenauigkeit beeinträchtigen kann.',
     'quality_level_average_positioning' => 'Die Positionierung und/oder Sichtbarkeit der Kamera ist durchschnittlich.',
     'quality_level_good_positioning'    => 'Die Positionierung und/oder Sichtbarkeit der Kamera ist gut.',
+    'segment-not-selected' => 'Es wurde kein Straßenabschnitt ausgewählt. Klicken Sie Ihre Straße auf der Karte an und wählen Sie erneut eine Seite.',
 ];

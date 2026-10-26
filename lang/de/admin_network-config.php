@@ -54,7 +54,7 @@ return [
 
     // Edit email block
     'email-network' => 'Netzwerk-E-Mail',
-    'email-network-info' => 'Unser interner Weiterleitungsdienst kann die @dashboard.telraam.net-Subdomain verwenden, um E-Mails automatisch an die untenstehenden Adressen weiterzuleiten. Um diese E-Mail-Adresse zu aktualisieren, wenden Sie sich an support@telraam.net. Die Standardadresse support@telraam.net leitet die E-Mails nicht weiter, sondern verbleibt im Support-Posteingang.',
+    'email-network-info' => 'Die E-Mails Ihres Netzwerks an Kandidaten und Anwohner werden von dieser Adresse gesendet. Eine @dashboard.telraam.net-Adresse leitet alles, was sie empfängt (z. B. Antworten), an die Administratoren mit aktivierten \'Dashboard-E-Mails\' weiter. Die Geräte-Updates der vom Netzwerk verwalteten Geräte gehen direkt an diese Administratoren. Die Standardadresse support@telraam.net leitet nichts weiter: Die E-Mails bleiben im Support-Posteingang von Telraam. Um diese Adresse zu ändern, wenden Sie sich an support@telraam.net.',
     'forward-email-to' => 'E-Mail weiterleiten an',
     'forward-warning' => '— Bitte kombinieren Sie eine Weiterleitungs-E-Mail-Adresse nur mit @dashboard.telraam.net',
     'forward-email-info' => 'Sie können mehrere E-Mail-Adressen durch Kommas getrennt eingeben',

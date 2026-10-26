@@ -23,6 +23,8 @@ return [
     'title-trends'         => 'Trends für Ihr Telraam',
     'daily-trends'      => 'Die gemessenen täglichen Volumina nach Verkehrsmittel',
     'hourly-trends'      => 'Stündliche Durchschnittswerte pro Stunde nach Verkehrsmittel',
+    'download-label-daily'  => 'Tägliche Volumina',
+    'download-label-hourly' => 'Durchschnittliche Stundenvolumina',
 
     // mail
     'view-more-stats-btn'      => 'Weitere Statistiken anzeigen',

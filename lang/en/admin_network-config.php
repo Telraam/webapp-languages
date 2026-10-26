@@ -54,7 +54,7 @@ return [
 
     // Edit email block
     'email-network' => 'Email network',
-    'email-network-info' => 'Our internal forwarding service can use the @dashboard.telraam.net subdomain to automatically forward emails to the addresses below. To update this email address, contact support@telraam.net. The default address support@telraam.net will not forward the emails but will only stay in the support inbox.',
+    'email-network-info' => 'Your network mails to candidates and residents are sent from this address. An @dashboard.telraam.net address forwards everything it receives (e.g. replies) to the admin members with \'Dashboard mails\' on. The device updates of network managed devices go directly to these admin members. The default address support@telraam.net does not forward: mails stay in the Telraam support inbox. To change this address, contact support@telraam.net.',
     'forward-email-to' => 'Forward email to',
     'forward-warning' => '— Please combine a forwarding email address only with @dashboard.telraam.net',
     'forward-email-info' => 'You can enter multiple email addresses separated by commas',
